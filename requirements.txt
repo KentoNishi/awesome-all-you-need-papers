@@ -1,2 +1,3 @@
 arxiv==1.2.0
 latexcodec==2.0.1
+tomark==0.1.4
