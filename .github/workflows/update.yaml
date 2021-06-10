@@ -1,0 +1,27 @@
+name: Update Paper List
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * *
+  push:
+    branches:
+      - master
+  
+jobs:
+  update_list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+      - name: Run
+        run: |
+          python main.py
+      - name: Commit
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: 'Updated paper list'
+          add: "readme.md"
