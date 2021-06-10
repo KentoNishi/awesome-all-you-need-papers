@@ -1,8 +1,10 @@
 # %%
 
+from datetime import datetime
 import arxiv
 import latexcodec
 from tomark import Tomark
+import urllib
 
 # %%
 
@@ -35,6 +37,10 @@ for result in search.get():
 # %%
 
 with open("template.md", "r", encoding="utf8") as file:
-    data = file.read().replace("[PAPER LIST]", Tomark.table(table))
+    data = (
+        file.read()
+        .replace("[PAPER LIST]", Tomark.table(table))
+        .replace("DATEHERE", str(datetime.today()).split(" ")[0].replace("-", "--"))
+    )
 with open("readme.md", "w", encoding="utf8") as file:
     file.writelines(data)
