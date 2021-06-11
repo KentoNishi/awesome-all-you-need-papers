@@ -1,4 +1,4 @@
-# Awesome <u>***"is all you need"***</u> papers
+# Awesome <u><strong><i>"is all you need"</i></strong></u> papers
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-DATEHERE-informational)
 ## About
