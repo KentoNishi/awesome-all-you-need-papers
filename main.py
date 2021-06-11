@@ -26,13 +26,14 @@ table = []
 
 for result in search.get():
     etal = " et al." if len(result.authors) > 1 else ""
-    table.append(
-        {
-            "Title": f"[{d(result.title)}]({result.entry_id})",
-            "Authors": f"{result.authors[0].name}{etal}",
-            "Date": str(result.published).split(" ")[0],
-        }
-    )
+    if any([s.startswith("cs") for s in result.categories]):
+        table.append(
+            {
+                "Title": f"[{d(result.title)}]({result.entry_id})",
+                "Authors": f"{result.authors[0].name}{etal}",
+                "Date": str(result.published).split(" ")[0],
+            }
+        )
 
 # %%
 
