@@ -37,12 +37,12 @@ for result in search.get():
 # %%
 
 with open("template.md", "r", encoding="utf8") as file:
-    data = (
-        file.read()
-        .replace("[PAPER LIST]", Tomark.table(table))
-        .replace("DATEHERE", str(datetime.today()).split(" ")[0].replace("-", "--"))
-    )
+    data = file.read().replace("[PAPER LIST]", Tomark.table(table))
 with open("readme.md", "r", encoding="utf8") as file:
     if file.read() != data:
         with open("readme.md", "w", encoding="utf8") as f:
-            f.writelines(data)
+            f.writelines(
+                data.replace(
+                    "DATEHERE", str(datetime.today()).split(" ")[0].replace("-", "--")
+                )
+            )
