@@ -42,5 +42,7 @@ with open("template.md", "r", encoding="utf8") as file:
         .replace("[PAPER LIST]", Tomark.table(table))
         .replace("DATEHERE", str(datetime.today()).split(" ")[0].replace("-", "--"))
     )
-with open("readme.md", "w", encoding="utf8") as file:
-    file.writelines(data)
+with open("readme.md", "r", encoding="utf8") as file:
+    if file.read() != data:
+        with open("readme.md", "w", encoding="utf8") as f:
+            f.writelines(data)
