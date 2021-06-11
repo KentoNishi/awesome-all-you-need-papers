@@ -1,6 +1,6 @@
 # Awesome <u><strong><i>"is all you need"</i></strong></u> papers
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-DATEHERE-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-DATEHERE-informational)
 ## About
 
 This repository is a list of all "is all you need" papers. The list is updated daily using the arXiv API.
