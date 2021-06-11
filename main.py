@@ -16,7 +16,7 @@ def d(s):
 # %%
 
 search = arxiv.Search(
-    query='ti:"is all you need"',
+    query='ti:"all you need"',
     max_results=float("inf"),
     sort_by=arxiv.SortCriterion.SubmittedDate,
     sort_order=arxiv.SortOrder.Ascending,
