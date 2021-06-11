@@ -9,7 +9,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 
 | Title | Authors | Date |
 |-----|-----|-----|
-| [All you need is N: Baryon spectroscopy in two large N limits](http://arxiv.org/abs/0906.2400v3) | Aleksey Cherman et al. | 2009-06-12 |
 | [All you need is a good init](http://arxiv.org/abs/1511.06422v7) | Dmytro Mishkin et al. | 2015-11-19 |
 | [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://arxiv.org/abs/1703.01827v3) | Di Xie et al. | 2017-03-06 |
 | [Attention Is All You Need](http://arxiv.org/abs/1706.03762v5) | Ashish Vaswani et al. | 2017-06-12 |
@@ -38,7 +37,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ASR is all you need: cross-modal distillation for lip reading](http://arxiv.org/abs/1911.12747v2) | Triantafyllos Afouras et al. | 2019-11-28 |
 | [Prioritized Unit Propagation with Periodic Resetting is (Almost) All You Need for Random SAT Solving](http://arxiv.org/abs/1912.05906v1) | Xujie Si et al. | 2019-12-04 |
 | [15 Keypoints Is All You Need](http://arxiv.org/abs/1912.02323v2) | Michael Snower et al. | 2019-12-05 |
-| [Scalability and robustness of spectral embedding: landmark diffusion is all you need](http://arxiv.org/abs/2001.00801v2) | Chao Shen et al. | 2020-01-03 |
 | [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](http://arxiv.org/abs/2002.00585v1) | Eran Malach et al. | 2020-02-03 |
 | [ReZero is All You Need: Fast Convergence at Large Depth](http://arxiv.org/abs/2003.04887v2) | Thomas Bachlechner et al. | 2020-03-10 |
 | [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](http://arxiv.org/abs/2003.11539v2) | Yonglong Tian et al. | 2020-03-25 |
