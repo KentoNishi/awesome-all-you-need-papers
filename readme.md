@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--17-informational)
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
@@ -67,7 +67,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is DAG](http://arxiv.org/abs/2102.08325v2) | Idit Keidar et al. | 2021-02-16 |
 | [Weak NAS Predictors Are All You Need](http://arxiv.org/abs/2102.10490v1) | Junru Wu et al. | 2021-02-21 |
 | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](http://arxiv.org/abs/2102.10543v1) | Xuanchi Ren et al. | 2021-02-21 |
-| [MobILE: Model-Based Imitation Learning From Observation Alone](http://arxiv.org/abs/2102.10769v2) | Rahul Kidambi et al. | 2021-02-22 |
 | [Node Proximity Is All You Need: Unified Structural and Positional Node and Graph Embedding](http://arxiv.org/abs/2102.13582v1) | Jing Zhu et al. | 2021-02-26 |
 | [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](http://arxiv.org/abs/2103.03404v1) | Yihe Dong et al. | 2021-03-05 |
 | [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](http://arxiv.org/abs/2103.05236v1) | Jaeseong You et al. | 2021-03-09 |
