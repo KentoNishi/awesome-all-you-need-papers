@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--18-informational)
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
@@ -57,6 +57,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Solution is Not All You Need: Few-Shot Extrapolation via Structured MaxEnt RL](http://arxiv.org/abs/2010.14484v2) | Saurabh Kumar et al. | 2020-10-27 |
 | [Language Model is All You Need: Natural Language Understanding as Question Answering](http://arxiv.org/abs/2011.03023v1) | Mahdi Namazifar et al. | 2020-11-05 |
 | [Is Independent Learning All You Need in the StarCraft Multi-Agent Challenge?](http://arxiv.org/abs/2011.09533v1) | Christian Schroeder de Witt et al. | 2020-11-18 |
+| [MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing](http://arxiv.org/abs/2011.09899v2) | Yuhang Li et al. | 2020-11-19 |
 | [All You Need is a Good Functional Prior for Bayesian Deep Learning](http://arxiv.org/abs/2011.12829v1) | Ba-Hien Tran et al. | 2020-11-25 |
 | [RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation](http://arxiv.org/abs/2012.02469v2) | Nan Tang et al. | 2020-12-04 |
 | [Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need?](http://arxiv.org/abs/2012.06166v2) | Malik Boudiaf et al. | 2020-12-11 |
