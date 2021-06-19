@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--19-informational)
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
@@ -85,6 +85,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction](http://arxiv.org/abs/2106.01793v1) | Quzhe Huang et al. | 2021-06-03 |
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v1) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
+| [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
 
 
 ## FAQ
