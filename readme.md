@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--22-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--23-informational)
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
@@ -86,6 +86,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v1) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
+| [Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data](http://arxiv.org/abs/2106.11189v1) | Arlind Kadra et al. | 2021-06-21 |
 
 
 ## FAQ
