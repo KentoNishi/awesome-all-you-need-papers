@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--23-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--24-informational)
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
@@ -66,7 +66,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Simple Fine-tuning Is All You Need: Towards Robust Deep Learning Via Adversarial Fine-tuning](http://arxiv.org/abs/2012.13628v1) | Ahmadreza Jeddi et al. | 2020-12-25 |
 | [Is Space-Time Attention All You Need for Video Understanding?](http://arxiv.org/abs/2102.05095v4) | Gedas Bertasius et al. | 2021-02-09 |
 | [All You Need is DAG](http://arxiv.org/abs/2102.08325v2) | Idit Keidar et al. | 2021-02-16 |
-| [Weak NAS Predictors Are All You Need](http://arxiv.org/abs/2102.10490v1) | Junru Wu et al. | 2021-02-21 |
+| [Stronger NAS with Weaker Predictors](http://arxiv.org/abs/2102.10490v2) | Junru Wu et al. | 2021-02-21 |
 | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](http://arxiv.org/abs/2102.10543v1) | Xuanchi Ren et al. | 2021-02-21 |
 | [Node Proximity Is All You Need: Unified Structural and Positional Node and Graph Embedding](http://arxiv.org/abs/2102.13582v1) | Jing Zhu et al. | 2021-02-26 |
 | [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](http://arxiv.org/abs/2103.03404v1) | Yihe Dong et al. | 2021-03-05 |
@@ -87,6 +87,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
 | [Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data](http://arxiv.org/abs/2106.11189v1) | Arlind Kadra et al. | 2021-06-21 |
+| [Hardness of Samples Is All You Need: Protecting Deep Learning Models Using Hardness of Samples](http://arxiv.org/abs/2106.11424v1) | Amir Mahdi Sadeghzadeh et al. | 2021-06-21 |
 
 
 ## FAQ
