@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--24-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--25-informational)
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
@@ -66,7 +66,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Simple Fine-tuning Is All You Need: Towards Robust Deep Learning Via Adversarial Fine-tuning](http://arxiv.org/abs/2012.13628v1) | Ahmadreza Jeddi et al. | 2020-12-25 |
 | [Is Space-Time Attention All You Need for Video Understanding?](http://arxiv.org/abs/2102.05095v4) | Gedas Bertasius et al. | 2021-02-09 |
 | [All You Need is DAG](http://arxiv.org/abs/2102.08325v2) | Idit Keidar et al. | 2021-02-16 |
-| [Stronger NAS with Weaker Predictors](http://arxiv.org/abs/2102.10490v2) | Junru Wu et al. | 2021-02-21 |
 | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](http://arxiv.org/abs/2102.10543v1) | Xuanchi Ren et al. | 2021-02-21 |
 | [Node Proximity Is All You Need: Unified Structural and Positional Node and Graph Embedding](http://arxiv.org/abs/2102.13582v1) | Jing Zhu et al. | 2021-02-26 |
 | [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](http://arxiv.org/abs/2103.03404v1) | Yihe Dong et al. | 2021-03-05 |
