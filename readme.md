@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--30-informational)
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
@@ -50,7 +50,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Data Movement Is All You Need: A Case Study on Optimizing Transformers](http://arxiv.org/abs/2007.00072v2) | Andrei Ivanov et al. | 2020-06-30 |
 | [Hopfield Networks is All You Need](http://arxiv.org/abs/2008.02217v3) | Hubert Ramsauer et al. | 2020-07-16 |
 | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010v1) | K R Prajwal et al. | 2020-08-23 |
-| [Against Membership Inference Attack: Pruning is All You Need](http://arxiv.org/abs/2008.13578v2) | Yijue Wang et al. | 2020-08-28 |
+| [Against Membership Inference Attack: Pruning is All You Need](http://arxiv.org/abs/2008.13578v3) | Yijue Wang et al. | 2020-08-28 |
 | [All You Need Is CONSTRUCT](http://arxiv.org/abs/2010.00843v1) | Dominique Duval et al. | 2020-10-02 |
 | [Transcription Is All You Need: Learning to Separate Musical Mixtures with Score as Supervision](http://arxiv.org/abs/2010.11904v1) | Yun-Ning Hung et al. | 2020-10-22 |
 | [Attention is All You Need in Speech Separation](http://arxiv.org/abs/2010.13154v2) | Cem Subakan et al. | 2020-10-25 |
