@@ -1,6 +1,8 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--06--24-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021-06-24-informational)
+[![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
+
 ## About
 
 This repository is a list of all "all you need" papers. The list is updated daily using the arXiv API.
