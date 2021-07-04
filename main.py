@@ -53,7 +53,7 @@ with open("readme.md", "r", encoding="utf8") as file:
             f.writelines(
                 data.replace(
                     "DATEHERE", 
-                    table[-1]["Date"]
+                    table[-1]["Date"].replace("-", "--")
                     # str(datetime.today()).split(" ")[0].replace("-", "--")
                 )
             )
