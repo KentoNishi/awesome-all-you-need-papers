@@ -36,24 +36,15 @@ for result in search.get():
         )
 
 # %%
-def remove_date(s):
-    val = ""
-    for line in s.splitlines():
-        if not line.startswith('![Last Added]'):
-            val += line + "\n"
-    return val
-
-# %%
 
 with open("template.md", "r", encoding="utf8") as file:
     data = file.read().replace("[PAPER LIST]", Tomark.table(table))
 with open("readme.md", "r", encoding="utf8") as file:
-    if remove_date(file.read()) != remove_date(data):
-        with open("readme.md", "w", encoding="utf8") as f:
-            f.writelines(
-                data.replace(
-                    "DATEHERE", 
-                    table[-1]["Date"].replace("-", "--")
-                    # str(datetime.today()).split(" ")[0].replace("-", "--")
-                )
+    with open("readme.md", "w", encoding="utf8") as f:
+        f.writelines(
+            data.replace(
+                "DATEHERE", 
+                table[-1]["Date"].replace("-", "--")
+                # str(datetime.today()).split(" ")[0].replace("-", "--")
             )
+        )
