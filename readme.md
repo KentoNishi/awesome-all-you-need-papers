@@ -48,11 +48,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation](http://arxiv.org/abs/2005.10283v2) | Bryan Eikema et al. | 2020-05-20 |
 | [DeeperGCN: All You Need to Train Deeper GCNs](http://arxiv.org/abs/2006.07739v1) | Guohao Li et al. | 2020-06-13 |
 | [Logarithmic Pruning is All You Need](http://arxiv.org/abs/2006.12156v2) | Laurent Orseau et al. | 2020-06-22 |
-| [Lipschitzness Is All You Need To Tame Off-policy Generative Adversarial Imitation Learning](http://arxiv.org/abs/2006.16785v1) | Lionel Blondé et al. | 2020-06-28 |
+| [Lipschitzness Is All You Need To Tame Off-policy Generative Adversarial Imitation Learning](http://arxiv.org/abs/2006.16785v2) | Lionel Blondé et al. | 2020-06-28 |
 | [Data Movement Is All You Need: A Case Study on Optimizing Transformers](http://arxiv.org/abs/2007.00072v2) | Andrei Ivanov et al. | 2020-06-30 |
 | [Hopfield Networks is All You Need](http://arxiv.org/abs/2008.02217v3) | Hubert Ramsauer et al. | 2020-07-16 |
 | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010v1) | K R Prajwal et al. | 2020-08-23 |
-| [Against Membership Inference Attack: Pruning is All You Need](http://arxiv.org/abs/2008.13578v3) | Yijue Wang et al. | 2020-08-28 |
+| [Against Membership Inference Attack: Pruning is All You Need](http://arxiv.org/abs/2008.13578v4) | Yijue Wang et al. | 2020-08-28 |
 | [All You Need Is CONSTRUCT](http://arxiv.org/abs/2010.00843v1) | Dominique Duval et al. | 2020-10-02 |
 | [Transcription Is All You Need: Learning to Separate Musical Mixtures with Score as Supervision](http://arxiv.org/abs/2010.11904v1) | Yun-Ning Hung et al. | 2020-10-22 |
 | [Attention is All You Need in Speech Separation](http://arxiv.org/abs/2010.13154v2) | Cem Subakan et al. | 2020-10-25 |
