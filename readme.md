@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--07--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--07--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -91,6 +91,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hardness of Samples Is All You Need: Protecting Deep Learning Models Using Hardness of Samples](http://arxiv.org/abs/2106.11424v1) | Amir Mahdi Sadeghzadeh et al. | 2021-06-21 |
 | [All You Need is a Second Look: Towards Arbitrary-Shaped Text Detection](http://arxiv.org/abs/2106.12720v1) | Meng Cao et al. | 2021-06-24 |
 | [Hoechst Is All You Need: LymphocyteClassification with Deep Learning](http://arxiv.org/abs/2107.04388v1) | Jessica Cooper et al. | 2021-07-09 |
+| [A Configurable Multilingual Model is All You Need to Recognize All Languages](http://arxiv.org/abs/2107.05876v1) | Long Zhou et al. | 2021-07-13 |
+| [Per-Pixel Classification is Not All You Need for Semantic Segmentation](http://arxiv.org/abs/2107.06278v1) | Bowen Cheng et al. | 2021-07-13 |
 
 
 ## FAQ
