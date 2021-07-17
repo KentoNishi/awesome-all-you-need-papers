@@ -90,6 +90,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data](http://arxiv.org/abs/2106.11189v1) | Arlind Kadra et al. | 2021-06-21 |
 | [Hardness of Samples Is All You Need: Protecting Deep Learning Models Using Hardness of Samples](http://arxiv.org/abs/2106.11424v1) | Amir Mahdi Sadeghzadeh et al. | 2021-06-21 |
 | [All You Need is a Second Look: Towards Arbitrary-Shaped Text Detection](http://arxiv.org/abs/2106.12720v1) | Meng Cao et al. | 2021-06-24 |
+| [Mutation is all you need](http://arxiv.org/abs/2107.07343v1) | Lennart Schneider et al. | 2021-07-04 |
 | [Hoechst Is All You Need: LymphocyteClassification with Deep Learning](http://arxiv.org/abs/2107.04388v1) | Jessica Cooper et al. | 2021-07-09 |
 | [A Configurable Multilingual Model is All You Need to Recognize All Languages](http://arxiv.org/abs/2107.05876v1) | Long Zhou et al. | 2021-07-13 |
 | [Per-Pixel Classification is Not All You Need for Semantic Segmentation](http://arxiv.org/abs/2107.06278v1) | Bowen Cheng et al. | 2021-07-13 |
