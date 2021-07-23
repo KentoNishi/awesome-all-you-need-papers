@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--07--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--07--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -96,6 +96,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Per-Pixel Classification is Not All You Need for Semantic Segmentation](http://arxiv.org/abs/2107.06278v1) | Bowen Cheng et al. | 2021-07-13 |
 | [DNN is not all you need: Parallelizing Non-Neural ML Algorithms on Ultra-Low-Power IoT Processors](http://arxiv.org/abs/2107.09448v1) | Enrico Tabanelli et al. | 2021-07-16 |
 | [Is attention to bounding boxes all you need for pedestrian action prediction?](http://arxiv.org/abs/2107.08031v1) | Lina Achaji et al. | 2021-07-16 |
+| [Few Shots Is All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwriting Recognition](http://arxiv.org/abs/2107.10064v1) | Mohamed Ali Souibgui et al. | 2021-07-21 |
 
 
 ## FAQ
