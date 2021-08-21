@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -101,6 +101,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning](http://arxiv.org/abs/2107.10419v1) | Wenbin Li et al. | 2021-07-22 |
 | [SphereFace2: Binary Classification is All You Need for Deep Face Recognition](http://arxiv.org/abs/2108.01513v1) | Yandong Wen et al. | 2021-08-03 |
 | [Pose is all you need: The pose only group activity recognition system (POGARS)](http://arxiv.org/abs/2108.04186v1) | Haritha Thilakarathne et al. | 2021-08-09 |
+| [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v1) | Joshua Powers et al. | 2021-08-18 |
+| [Prior Is All You Need to Improve the Robustness and Safety for the First Time Deployment of Meta RL](http://arxiv.org/abs/2108.08448v1) | Lu Wen et al. | 2021-08-19 |
 
 
 ## FAQ
