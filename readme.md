@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -72,7 +72,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Do Generative Models Know Disentanglement? Contrastive Learning is All You Need](http://arxiv.org/abs/2102.10543v1) | Xuanchi Ren et al. | 2021-02-21 |
 | [Node Proximity Is All You Need: Unified Structural and Positional Node and Graph Embedding](http://arxiv.org/abs/2102.13582v1) | Jing Zhu et al. | 2021-02-26 |
 | [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](http://arxiv.org/abs/2103.03404v1) | Yihe Dong et al. | 2021-03-05 |
-| [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](http://arxiv.org/abs/2103.05236v1) | Jaeseong You et al. | 2021-03-09 |
+| [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](http://arxiv.org/abs/2103.05236v2) | Jaeseong You et al. | 2021-03-09 |
 | [Partial Differential Equations is All You Need for Generating Neural Architectures – A Theory for Physical Artificial Intelligence Systems](http://arxiv.org/abs/2103.08313v1) | Ping Guo et al. | 2021-03-10 |
 | [More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](http://arxiv.org/abs/2103.13990v1) | Ayan Kumar Bhunia et al. | 2021-03-25 |
 | [Categorical Representation Learning: Morphism is All You Need](http://arxiv.org/abs/2103.14770v2) | Artan Sheshmani et al. | 2021-03-26 |
@@ -101,8 +101,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning](http://arxiv.org/abs/2107.10419v1) | Wenbin Li et al. | 2021-07-22 |
 | [SphereFace2: Binary Classification is All You Need for Deep Face Recognition](http://arxiv.org/abs/2108.01513v1) | Yandong Wen et al. | 2021-08-03 |
 | [Pose is all you need: The pose only group activity recognition system (POGARS)](http://arxiv.org/abs/2108.04186v1) | Haritha Thilakarathne et al. | 2021-08-09 |
-| [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v1) | Joshua Powers et al. | 2021-08-18 |
+| [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v2) | Joshua Powers et al. | 2021-08-18 |
 | [Prior Is All You Need to Improve the Robustness and Safety for the First Time Deployment of Meta RL](http://arxiv.org/abs/2108.08448v1) | Lu Wen et al. | 2021-08-19 |
+| [Fastformer: Additive Attention Can Be All You Need](http://arxiv.org/abs/2108.09084v2) | Chuhan Wu et al. | 2021-08-20 |
 
 
 ## FAQ
