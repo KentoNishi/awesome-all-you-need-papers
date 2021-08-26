@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -104,6 +104,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v2) | Joshua Powers et al. | 2021-08-18 |
 | [Prior Is All You Need to Improve the Robustness and Safety for the First Time Deployment of Meta RL](http://arxiv.org/abs/2108.08448v1) | Lu Wen et al. | 2021-08-19 |
 | [Fastformer: Additive Attention Can Be All You Need](http://arxiv.org/abs/2108.09084v2) | Chuhan Wu et al. | 2021-08-20 |
+| [All You Need is Color: Image based Spatial Gene Expression Prediction using Neural Stain Learning](http://arxiv.org/abs/2108.10446v1) | Muhammad Dawood et al. | 2021-08-23 |
 
 
 ## FAQ
