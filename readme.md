@@ -104,7 +104,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v2) | Joshua Powers et al. | 2021-08-18 |
 | [Prior Is All You Need to Improve the Robustness and Safety for the First Time Deployment of Meta RL](http://arxiv.org/abs/2108.08448v1) | Lu Wen et al. | 2021-08-19 |
 | [Fastformer: Additive Attention Can Be All You Need](http://arxiv.org/abs/2108.09084v2) | Chuhan Wu et al. | 2021-08-20 |
-| [All You Need is Color: Image based Spatial Gene Expression Prediction using Neural Stain Learning](http://arxiv.org/abs/2108.10446v1) | Muhammad Dawood et al. | 2021-08-23 |
+| [All You Need is Color: Image based Spatial Gene Expression Prediction using Neural Stain Learning](http://arxiv.org/abs/2108.10446v2) | Muhammad Dawood et al. | 2021-08-23 |
 
 
 ## FAQ
