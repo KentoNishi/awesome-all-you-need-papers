@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--26-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -98,7 +98,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [DNN is not all you need: Parallelizing Non-Neural ML Algorithms on Ultra-Low-Power IoT Processors](http://arxiv.org/abs/2107.09448v1) | Enrico Tabanelli et al. | 2021-07-16 |
 | [Is attention to bounding boxes all you need for pedestrian action prediction?](http://arxiv.org/abs/2107.08031v1) | Lina Achaji et al. | 2021-07-16 |
 | [Few Shots Is All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwriting Recognition](http://arxiv.org/abs/2107.10064v1) | Mohamed Ali Souibgui et al. | 2021-07-21 |
-| [Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning](http://arxiv.org/abs/2107.10419v1) | Wenbin Li et al. | 2021-07-22 |
+| [Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning](http://arxiv.org/abs/2107.10419v2) | Wenbin Li et al. | 2021-07-22 |
 | [SphereFace2: Binary Classification is All You Need for Deep Face Recognition](http://arxiv.org/abs/2108.01513v1) | Yandong Wen et al. | 2021-08-03 |
 | [Pose is all you need: The pose only group activity recognition system (POGARS)](http://arxiv.org/abs/2108.04186v1) | Haritha Thilakarathne et al. | 2021-08-09 |
 | [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v2) | Joshua Powers et al. | 2021-08-18 |
@@ -106,6 +106,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Fastformer: Additive Attention Can Be All You Need](http://arxiv.org/abs/2108.09084v3) | Chuhan Wu et al. | 2021-08-20 |
 | [All You Need is Color: Image based Spatial Gene Expression Prediction using Neural Stain Learning](http://arxiv.org/abs/2108.10446v2) | Muhammad Dawood et al. | 2021-08-23 |
 | [Photos Are All You Need for Reciprocal Recommendation in Online Dating](http://arxiv.org/abs/2108.11714v1) | James Neve et al. | 2021-08-26 |
+| [Neural HMMs are all you need (for high-quality attention-free TTS)](http://arxiv.org/abs/2108.13320v1) | Shivam Mehta et al. | 2021-08-30 |
 
 
 ## FAQ
