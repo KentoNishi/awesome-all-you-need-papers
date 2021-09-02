@@ -103,7 +103,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pose is all you need: The pose only group activity recognition system (POGARS)](http://arxiv.org/abs/2108.04186v1) | Haritha Thilakarathne et al. | 2021-08-09 |
 | [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v2) | Joshua Powers et al. | 2021-08-18 |
 | [Prior Is All You Need to Improve the Robustness and Safety for the First Time Deployment of Meta RL](http://arxiv.org/abs/2108.08448v1) | Lu Wen et al. | 2021-08-19 |
-| [Fastformer: Additive Attention Can Be All You Need](http://arxiv.org/abs/2108.09084v3) | Chuhan Wu et al. | 2021-08-20 |
+| [Fastformer: Additive Attention Can Be All You Need](http://arxiv.org/abs/2108.09084v4) | Chuhan Wu et al. | 2021-08-20 |
 | [All You Need is Color: Image based Spatial Gene Expression Prediction using Neural Stain Learning](http://arxiv.org/abs/2108.10446v2) | Muhammad Dawood et al. | 2021-08-23 |
 | [Photos Are All You Need for Reciprocal Recommendation in Online Dating](http://arxiv.org/abs/2108.11714v1) | James Neve et al. | 2021-08-26 |
 | [Neural HMMs are all you need (for high-quality attention-free TTS)](http://arxiv.org/abs/2108.13320v1) | Shivam Mehta et al. | 2021-08-30 |
