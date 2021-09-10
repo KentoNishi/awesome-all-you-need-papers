@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--08--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--09--08-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -107,6 +107,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is Color: Image based Spatial Gene Expression Prediction using Neural Stain Learning](http://arxiv.org/abs/2108.10446v2) | Muhammad Dawood et al. | 2021-08-23 |
 | [Photos Are All You Need for Reciprocal Recommendation in Online Dating](http://arxiv.org/abs/2108.11714v1) | James Neve et al. | 2021-08-26 |
 | [Neural HMMs are all you need (for high-quality attention-free TTS)](http://arxiv.org/abs/2108.13320v2) | Shivam Mehta et al. | 2021-08-30 |
+| [Mask is All You Need: Rethinking Mask R-CNN for Dense and Arbitrary-Shaped Scene Text Detection](http://arxiv.org/abs/2109.03426v1) | Xugong Qin et al. | 2021-09-08 |
 
 
 ## FAQ
