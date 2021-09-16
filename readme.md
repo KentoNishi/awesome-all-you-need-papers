@@ -80,6 +80,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Spatiotemporal Entropy Model is All You Need for Learned Video Compression](http://arxiv.org/abs/2104.06083v1) | Zhenhong Sun et al. | 2021-04-13 |
 | [All you need are a few pixels: semantic segmentation with PixelPick](http://arxiv.org/abs/2104.06394v2) | Gyungin Shin et al. | 2021-04-13 |
 | [Is Disentanglement all you need? Comparing Concept-based & Disentanglement Approaches](http://arxiv.org/abs/2104.06917v1) | Dmitry Kazhdan et al. | 2021-04-14 |
+| [Cross-Attention is All You Need: Adapting Pretrained Transformers for Machine Translation](http://arxiv.org/abs/2104.08771v2) | Mozhdeh Gheini et al. | 2021-04-18 |
 | [Looking at CTR Prediction Again: Is Attention All You Need?](http://arxiv.org/abs/2105.05563v1) | Yuan Cheng et al. | 2021-05-12 |
 | [It$\hat {\text {o}}$TTS and It$\hat {\text {o}}$Wave: Linear Stochastic Differential Equation Is All You Need For Audio Generation](http://arxiv.org/abs/2105.07583v4) | Shoule Wu et al. | 2021-05-17 |
 | [Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms](http://arxiv.org/abs/2105.08791v3) | Xiaocheng Tang et al. | 2021-05-18 |
