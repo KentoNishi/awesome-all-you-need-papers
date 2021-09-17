@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--09--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--09--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -110,6 +110,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Neural HMMs are all you need (for high-quality attention-free TTS)](http://arxiv.org/abs/2108.13320v2) | Shivam Mehta et al. | 2021-08-30 |
 | [Mask is All You Need: Rethinking Mask R-CNN for Dense and Arbitrary-Shaped Scene Text Detection](http://arxiv.org/abs/2109.03426v1) | Xugong Qin et al. | 2021-09-08 |
 | [WeakSTIL: Weak whole-slide image level stromal tumor infiltrating lymphocyte scores are all you need](http://arxiv.org/abs/2109.05892v1) | Yoni Schirris et al. | 2021-09-13 |
+| [Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text NLG](http://arxiv.org/abs/2109.07043v1) | Juraj Juraska et al. | 2021-09-15 |
 
 
 ## FAQ
