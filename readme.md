@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--09--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--10--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -86,6 +86,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms](http://arxiv.org/abs/2105.08791v3) | Xiaocheng Tang et al. | 2021-05-18 |
 | [Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions](http://arxiv.org/abs/2105.13913v3) | Alejandro Carderera et al. | 2021-05-28 |
 | [Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction](http://arxiv.org/abs/2106.01793v1) | Quzhe Huang et al. | 2021-06-03 |
+| [Self-Supervision is All You Need for Solving Rubik's Cube](http://arxiv.org/abs/2106.03157v2) | Kyo Takano | 2021-06-06 |
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v1) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
@@ -113,6 +114,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text NLG](http://arxiv.org/abs/2109.07043v1) | Juraj Juraska et al. | 2021-09-15 |
 | [Torch.manual_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision](http://arxiv.org/abs/2109.08203v1) | David Picard | 2021-09-16 |
 | [Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration](http://arxiv.org/abs/2109.08603v1) | Oliver Groth et al. | 2021-09-17 |
+| [Attention is All You Need? Good Embeddings with Statistics are enough: Audio Understanding WITHOUT Convolutions/Transformers/BERTs/Mixers/Attention/RNNs or ....](http://arxiv.org/abs/2110.03183v1) | Prateek Verma | 2021-10-07 |
 
 
 ## FAQ
