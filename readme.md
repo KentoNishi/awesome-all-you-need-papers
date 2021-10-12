@@ -98,7 +98,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Configurable Multilingual Model is All You Need to Recognize All Languages](http://arxiv.org/abs/2107.05876v1) | Long Zhou et al. | 2021-07-13 |
 | [Per-Pixel Classification is Not All You Need for Semantic Segmentation](http://arxiv.org/abs/2107.06278v1) | Bowen Cheng et al. | 2021-07-13 |
 | [DNN is not all you need: Parallelizing Non-Neural ML Algorithms on Ultra-Low-Power IoT Processors](http://arxiv.org/abs/2107.09448v1) | Enrico Tabanelli et al. | 2021-07-16 |
-| [Is attention to bounding boxes all you need for pedestrian action prediction?](http://arxiv.org/abs/2107.08031v1) | Lina Achaji et al. | 2021-07-16 |
+| [Is attention to bounding boxes all you need for pedestrian action prediction?](http://arxiv.org/abs/2107.08031v2) | Lina Achaji et al. | 2021-07-16 |
 | [Few Shots Is All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwriting Recognition](http://arxiv.org/abs/2107.10064v1) | Mohamed Ali Souibgui et al. | 2021-07-21 |
 | [Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning](http://arxiv.org/abs/2107.10419v2) | Wenbin Li et al. | 2021-07-22 |
 | [SphereFace2: Binary Classification is All You Need for Deep Face Recognition](http://arxiv.org/abs/2108.01513v1) | Yandong Wen et al. | 2021-08-03 |
@@ -108,13 +108,13 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Fastformer: Additive Attention Can Be All You Need](http://arxiv.org/abs/2108.09084v6) | Chuhan Wu et al. | 2021-08-20 |
 | [All You Need is Color: Image based Spatial Gene Expression Prediction using Neural Stain Learning](http://arxiv.org/abs/2108.10446v2) | Muhammad Dawood et al. | 2021-08-23 |
 | [Photos Are All You Need for Reciprocal Recommendation in Online Dating](http://arxiv.org/abs/2108.11714v1) | James Neve et al. | 2021-08-26 |
-| [Neural HMMs are all you need (for high-quality attention-free TTS)](http://arxiv.org/abs/2108.13320v2) | Shivam Mehta et al. | 2021-08-30 |
+| [Neural HMMs are all you need (for high-quality attention-free TTS)](http://arxiv.org/abs/2108.13320v3) | Shivam Mehta et al. | 2021-08-30 |
 | [Mask is All You Need: Rethinking Mask R-CNN for Dense and Arbitrary-Shaped Scene Text Detection](http://arxiv.org/abs/2109.03426v1) | Xugong Qin et al. | 2021-09-08 |
 | [WeakSTIL: Weak whole-slide image level stromal tumor infiltrating lymphocyte scores are all you need](http://arxiv.org/abs/2109.05892v1) | Yoni Schirris et al. | 2021-09-13 |
 | [Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text NLG](http://arxiv.org/abs/2109.07043v1) | Juraj Juraska et al. | 2021-09-15 |
 | [Torch.manual_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision](http://arxiv.org/abs/2109.08203v1) | David Picard | 2021-09-16 |
 | [Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration](http://arxiv.org/abs/2109.08603v1) | Oliver Groth et al. | 2021-09-17 |
-| [Attention is All You Need? Good Embeddings with Statistics are enough: Audio Understanding WITHOUT Convolutions/Transformers/BERTs/Mixers/Attention/RNNs or ....](http://arxiv.org/abs/2110.03183v1) | Prateek Verma | 2021-10-07 |
+| [Large Scale Audio Understanding without Transformers/ Convolutions/ BERTs/ Mixers/ Attention/ RNNs or ....](http://arxiv.org/abs/2110.03183v2) | Prateek Verma | 2021-10-07 |
 
 
 ## FAQ
