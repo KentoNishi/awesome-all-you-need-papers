@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--10--07-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--09--17-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -114,7 +114,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text NLG](http://arxiv.org/abs/2109.07043v1) | Juraj Juraska et al. | 2021-09-15 |
 | [Torch.manual_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision](http://arxiv.org/abs/2109.08203v1) | David Picard | 2021-09-16 |
 | [Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration](http://arxiv.org/abs/2109.08603v1) | Oliver Groth et al. | 2021-09-17 |
-| [Large Scale Audio Understanding without Transformers/ Convolutions/ BERTs/ Mixers/ Attention/ RNNs or ....](http://arxiv.org/abs/2110.03183v2) | Prateek Verma | 2021-10-07 |
 
 
 ## FAQ
