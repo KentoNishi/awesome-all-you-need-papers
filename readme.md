@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--10--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--10--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -116,6 +116,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration](http://arxiv.org/abs/2109.08603v1) | Oliver Groth et al. | 2021-09-17 |
 | [One Timestep is All You Need: Training Spiking Neural Networks with Ultra Low Latency](http://arxiv.org/abs/2110.05929v1) | Sayeed Shafayet Chowdhury et al. | 2021-10-01 |
 | [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](http://arxiv.org/abs/2110.06207v1) | Sagar Vaze et al. | 2021-10-12 |
+| [Jurassic is (almost) All You Need: Few-Shot Meaning-to-Text Generation for Open-Domain Dialogue](http://arxiv.org/abs/2110.08094v1) | Lena Reed et al. | 2021-10-15 |
 
 
 ## FAQ
