@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--10--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--10--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -96,7 +96,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Mutation is all you need](http://arxiv.org/abs/2107.07343v1) | Lennart Schneider et al. | 2021-07-04 |
 | [Hoechst Is All You Need: Lymphocyte Classification with Deep Learning](http://arxiv.org/abs/2107.04388v2) | Jessica Cooper et al. | 2021-07-09 |
 | [A Configurable Multilingual Model is All You Need to Recognize All Languages](http://arxiv.org/abs/2107.05876v1) | Long Zhou et al. | 2021-07-13 |
-| [Per-Pixel Classification is Not All You Need for Semantic Segmentation](http://arxiv.org/abs/2107.06278v1) | Bowen Cheng et al. | 2021-07-13 |
+| [Per-Pixel Classification is Not All You Need for Semantic Segmentation](http://arxiv.org/abs/2107.06278v2) | Bowen Cheng et al. | 2021-07-13 |
 | [DNN is not all you need: Parallelizing Non-Neural ML Algorithms on Ultra-Low-Power IoT Processors](http://arxiv.org/abs/2107.09448v1) | Enrico Tabanelli et al. | 2021-07-16 |
 | [Is attention to bounding boxes all you need for pedestrian action prediction?](http://arxiv.org/abs/2107.08031v2) | Lina Achaji et al. | 2021-07-16 |
 | [Few Shots Is All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwriting Recognition](http://arxiv.org/abs/2107.10064v1) | Mohamed Ali Souibgui et al. | 2021-07-21 |
@@ -117,6 +117,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Timestep is All You Need: Training Spiking Neural Networks with Ultra Low Latency](http://arxiv.org/abs/2110.05929v1) | Sayeed Shafayet Chowdhury et al. | 2021-10-01 |
 | [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](http://arxiv.org/abs/2110.06207v1) | Sagar Vaze et al. | 2021-10-12 |
 | [Jurassic is (almost) All You Need: Few-Shot Meaning-to-Text Generation for Open-Domain Dialogue](http://arxiv.org/abs/2110.08094v1) | Lena Reed et al. | 2021-10-15 |
+| [Hyperparameter Tuning is All You Need for LISTA](http://arxiv.org/abs/2110.15900v1) | Xiaohan Chen et al. | 2021-10-29 |
 
 
 ## FAQ
