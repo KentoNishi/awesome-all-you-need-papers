@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--10--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--11--03-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -118,6 +118,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](http://arxiv.org/abs/2110.06207v1) | Sagar Vaze et al. | 2021-10-12 |
 | [Jurassic is (almost) All You Need: Few-Shot Meaning-to-Text Generation for Open-Domain Dialogue](http://arxiv.org/abs/2110.08094v1) | Lena Reed et al. | 2021-10-15 |
 | [Hyperparameter Tuning is All You Need for LISTA](http://arxiv.org/abs/2110.15900v1) | Xiaohan Chen et al. | 2021-10-29 |
+| [Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies](http://arxiv.org/abs/2111.02552v1) | Tim Seyde et al. | 2021-11-03 |
 
 
 ## FAQ
