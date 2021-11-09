@@ -90,7 +90,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v1) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
-| [Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data](http://arxiv.org/abs/2106.11189v1) | Arlind Kadra et al. | 2021-06-21 |
 | [Hardness of Samples Is All You Need: Protecting Deep Learning Models Using Hardness of Samples](http://arxiv.org/abs/2106.11424v1) | Amir Mahdi Sadeghzadeh et al. | 2021-06-21 |
 | [All You Need is a Second Look: Towards Arbitrary-Shaped Text Detection](http://arxiv.org/abs/2106.12720v1) | Meng Cao et al. | 2021-06-24 |
 | [Mutation is all you need](http://arxiv.org/abs/2107.07343v1) | Lennart Schneider et al. | 2021-07-04 |
