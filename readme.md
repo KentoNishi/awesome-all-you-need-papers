@@ -49,7 +49,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [DeeperGCN: All You Need to Train Deeper GCNs](http://arxiv.org/abs/2006.07739v1) | Guohao Li et al. | 2020-06-13 |
 | [Logarithmic Pruning is All You Need](http://arxiv.org/abs/2006.12156v2) | Laurent Orseau et al. | 2020-06-22 |
 | [Lipschitzness Is All You Need To Tame Off-policy Generative Adversarial Imitation Learning](http://arxiv.org/abs/2006.16785v2) | Lionel Blondé et al. | 2020-06-28 |
-| [Data Movement Is All You Need: A Case Study on Optimizing Transformers](http://arxiv.org/abs/2007.00072v2) | Andrei Ivanov et al. | 2020-06-30 |
+| [Data Movement Is All You Need: A Case Study on Optimizing Transformers](http://arxiv.org/abs/2007.00072v3) | Andrei Ivanov et al. | 2020-06-30 |
 | [Hopfield Networks is All You Need](http://arxiv.org/abs/2008.02217v3) | Hubert Ramsauer et al. | 2020-07-16 |
 | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010v1) | K R Prajwal et al. | 2020-08-23 |
 | [Against Membership Inference Attack: Pruning is All You Need](http://arxiv.org/abs/2008.13578v4) | Yijue Wang et al. | 2020-08-28 |
