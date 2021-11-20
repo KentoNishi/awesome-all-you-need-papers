@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--11--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--11--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -120,6 +120,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies](http://arxiv.org/abs/2111.02552v1) | Tim Seyde et al. | 2021-11-03 |
 | [Realizable Learning is All You Need](http://arxiv.org/abs/2111.04746v1) | Max Hopkins et al. | 2021-11-08 |
 | [Gradients are Not All You Need](http://arxiv.org/abs/2111.05803v1) | Luke Metz et al. | 2021-11-10 |
+| [Perceiving and Modeling Density is All You Need for Image Dehazing](http://arxiv.org/abs/2111.09733v1) | Tian Ye et al. | 2021-11-18 |
 
 
 ## FAQ
