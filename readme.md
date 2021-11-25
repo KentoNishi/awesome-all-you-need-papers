@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--11--22-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--11--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -87,7 +87,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions](http://arxiv.org/abs/2105.13913v4) | Alejandro Carderera et al. | 2021-05-28 |
 | [Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction](http://arxiv.org/abs/2106.01793v1) | Quzhe Huang et al. | 2021-06-03 |
 | [Self-Supervision is All You Need for Solving Rubik's Cube](http://arxiv.org/abs/2106.03157v2) | Kyo Takano | 2021-06-06 |
-| [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v1) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
+| [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v2) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
 | [Hardness of Samples Is All You Need: Protecting Deep Learning Models Using Hardness of Samples](http://arxiv.org/abs/2106.11424v1) | Amir Mahdi Sadeghzadeh et al. | 2021-06-21 |
@@ -122,6 +122,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gradients are Not All You Need](http://arxiv.org/abs/2111.05803v1) | Luke Metz et al. | 2021-11-10 |
 | [Perceiving and Modeling Density is All You Need for Image Dehazing](http://arxiv.org/abs/2111.09733v1) | Tian Ye et al. | 2021-11-18 |
 | [Hierarchy Decoder is All You Need To Text Classification](http://arxiv.org/abs/2111.11104v1) | SangHun Im et al. | 2021-11-22 |
+| [Variance Reduction in Deep Learning: More Momentum is All You Need](http://arxiv.org/abs/2111.11828v1) | Lionel Tondji et al. | 2021-11-23 |
 
 
 ## FAQ
