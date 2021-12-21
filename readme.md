@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--11--25-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--12--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -124,6 +124,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hierarchy Decoder is All You Need To Text Classification](http://arxiv.org/abs/2111.11104v1) | SangHun Im et al. | 2021-11-22 |
 | [Variance Reduction in Deep Learning: More Momentum is All You Need](http://arxiv.org/abs/2111.11828v1) | Lionel Tondji et al. | 2021-11-23 |
 | [CDNet is all you need: Cascade DCN based underwater object detection RCNN](http://arxiv.org/abs/2111.12982v1) | Di Chang | 2021-11-25 |
+| [All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines](http://arxiv.org/abs/2112.09219v1) | Yuxuan Zhang et al. | 2021-12-16 |
 
 
 ## FAQ
