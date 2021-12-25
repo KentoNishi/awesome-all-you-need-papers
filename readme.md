@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2021--12--22-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2021--12--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -127,6 +127,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines](http://arxiv.org/abs/2112.09219v1) | Yuxuan Zhang et al. | 2021-12-16 |
 | [Generalized Few-Shot Semantic Segmentation: All You Need is Fine-Tuning](http://arxiv.org/abs/2112.10982v1) | Josh Myers-Dean et al. | 2021-12-21 |
 | [Cost Aggregation Is All You Need for Few-Shot Segmentation](http://arxiv.org/abs/2112.11685v1) | Sunghwan Hong et al. | 2021-12-22 |
+| [ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly, on Appropriate Data](http://arxiv.org/abs/2112.12251v1) | Amin Banitalebi-Dehkordi et al. | 2021-12-22 |
+| [Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need?](http://arxiv.org/abs/2112.12345v1) | Ziwei Zhang et al. | 2021-12-23 |
 
 
 ## FAQ
