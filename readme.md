@@ -129,7 +129,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cost Aggregation Is All You Need for Few-Shot Segmentation](http://arxiv.org/abs/2112.11685v1) | Sunghwan Hong et al. | 2021-12-22 |
 | [ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly, on Appropriate Data](http://arxiv.org/abs/2112.12251v1) | Amin Banitalebi-Dehkordi et al. | 2021-12-22 |
 | [Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need?](http://arxiv.org/abs/2112.12345v1) | Ziwei Zhang et al. | 2021-12-23 |
-| [All You Need In Sign Language Production](http://arxiv.org/abs/2201.01609v1) | Razieh Rastgoo et al. | 2022-01-05 |
+| [All You Need In Sign Language Production](http://arxiv.org/abs/2201.01609v2) | Razieh Rastgoo et al. | 2022-01-05 |
 
 
 ## FAQ
