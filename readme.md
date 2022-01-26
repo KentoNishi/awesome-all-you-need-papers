@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--01--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--01--24-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -114,7 +114,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Torch.manual_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision](http://arxiv.org/abs/2109.08203v1) | David Picard | 2021-09-16 |
 | [Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration](http://arxiv.org/abs/2109.08603v1) | Oliver Groth et al. | 2021-09-17 |
 | [One Timestep is All You Need: Training Spiking Neural Networks with Ultra Low Latency](http://arxiv.org/abs/2110.05929v1) | Sayeed Shafayet Chowdhury et al. | 2021-10-01 |
-| [Attention is All You Need? Good Embeddings with Statistics are enough:Large Scale Audio Understanding without Transformers/ Convolutions/ BERTs/ Mixers/ Attention/ RNNs or ....](http://arxiv.org/abs/2110.03183v3) | Prateek Verma | 2021-10-07 |
+| [Attention is All You Need? Good Embeddings with Statistics are enough:Large Scale Audio Understanding without Transformers/ Convolutions/ BERTs/ Mixers/ Attention/ RNNs or ....](http://arxiv.org/abs/2110.03183v4) | Prateek Verma | 2021-10-07 |
 | [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](http://arxiv.org/abs/2110.06207v1) | Sagar Vaze et al. | 2021-10-12 |
 | [Jurassic is (almost) All You Need: Few-Shot Meaning-to-Text Generation for Open-Domain Dialogue](http://arxiv.org/abs/2110.08094v2) | Lena Reed et al. | 2021-10-15 |
 | [Hyperparameter Tuning is All You Need for LISTA](http://arxiv.org/abs/2110.15900v1) | Xiaohan Chen et al. | 2021-10-29 |
@@ -131,6 +131,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly, on Appropriate Data](http://arxiv.org/abs/2112.12251v1) | Amin Banitalebi-Dehkordi et al. | 2021-12-22 |
 | [Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need?](http://arxiv.org/abs/2112.12345v1) | Ziwei Zhang et al. | 2021-12-23 |
 | [All You Need In Sign Language Production](http://arxiv.org/abs/2201.01609v2) | Razieh Rastgoo et al. | 2022-01-05 |
+| [Universal Online Learning with Unbounded Losses: Memory Is All You Need](http://arxiv.org/abs/2201.08903v1) | Moise Blanchard et al. | 2022-01-21 |
+| [Patches Are All You Need?](http://arxiv.org/abs/2201.09792v1) | Asher Trockman et al. | 2022-01-24 |
 
 
 ## FAQ
