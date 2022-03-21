@@ -10,7 +10,7 @@ import urllib
 
 
 def d(s):
-    return s.encode("utf8").decode("latex")
+    return s.encode("latex").decode("utf8")
 
 
 # %%
