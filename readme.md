@@ -124,7 +124,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Variance Reduction in Deep Learning: More Momentum is All You Need](http://arxiv.org/abs/2111.11828v1) | Lionel Tondji et al. | 2021-11-23 |
 | [CDNet is all you need: Cascade DCN based underwater object detection RCNN](http://arxiv.org/abs/2111.12982v1) | Di Chang | 2021-11-25 |
 | [All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines](http://arxiv.org/abs/2112.09219v2) | Yuxuan Zhang et al. | 2021-12-16 |
-| [Generalized Few-Shot Semantic Segmentation: All You Need is Fine-Tuning](http://arxiv.org/abs/2112.10982v1) | Josh Myers-Dean et al. | 2021-12-21 |
+| [Generalized Few-Shot Semantic Segmentation: All You Need is Fine-Tuning](http://arxiv.org/abs/2112.10982v2) | Josh Myers-Dean et al. | 2021-12-21 |
 | [Cost Aggregation Is All You Need for Few-Shot Segmentation](http://arxiv.org/abs/2112.11685v1) | Sunghwan Hong et al. | 2021-12-22 |
 | [ML4CO: Is GCNN All You Need? Graph Convolutional Neural Networks Produce Strong Baselines For Combinatorial Optimization Problems, If Tuned and Trained Properly, on Appropriate Data](http://arxiv.org/abs/2112.12251v1) | Amin Banitalebi-Dehkordi et al. | 2021-12-22 |
 | [Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need?](http://arxiv.org/abs/2112.12345v1) | Ziwei Zhang et al. | 2021-12-23 |
