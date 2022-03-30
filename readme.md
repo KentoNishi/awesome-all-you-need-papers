@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--03--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--03--28-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -145,6 +145,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](http://arxiv.org/abs/2203.04566v2) | Brijen Thananjeyan et al. | 2022-03-09 |
 | [Respecting causality is all you need for training physics-informed neural networks](http://arxiv.org/abs/2203.07404v1) | Sifan Wang et al. | 2022-03-14 |
 | [Distraction is All You Need for Fairness](http://arxiv.org/abs/2203.07593v1) | Mehdi Yazdani-Jahromi et al. | 2022-03-15 |
+| [Neural Vocoder is All You Need for Speech Super-resolution](http://arxiv.org/abs/2203.14941v1) | Haohe Liu et al. | 2022-03-28 |
 
 
 ## FAQ
