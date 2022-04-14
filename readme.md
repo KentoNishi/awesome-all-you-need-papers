@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--03--31-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--04--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -113,7 +113,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration](http://arxiv.org/abs/2109.08603v1) | Oliver Groth et al. | 2021-09-17 |
 | [One Timestep is All You Need: Training Spiking Neural Networks with Ultra Low Latency](http://arxiv.org/abs/2110.05929v1) | Sayeed Shafayet Chowdhury et al. | 2021-10-01 |
 | [Attention is All You Need? Good Embeddings with Statistics are enough:Large Scale Audio Understanding without Transformers/ Convolutions/ BERTs/ Mixers/ Attention/ RNNs or ....](http://arxiv.org/abs/2110.03183v5) | Prateek Verma | 2021-10-07 |
-| [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](http://arxiv.org/abs/2110.06207v1) | Sagar Vaze et al. | 2021-10-12 |
+| [Open-Set Recognition: a Good Closed-Set Classifier is All You Need?](http://arxiv.org/abs/2110.06207v2) | Sagar Vaze et al. | 2021-10-12 |
 | [Jurassic is (almost) All You Need: Few-Shot Meaning-to-Text Generation for Open-Domain Dialogue](http://arxiv.org/abs/2110.08094v2) | Lena Reed et al. | 2021-10-15 |
 | [Hyperparameter Tuning is All You Need for LISTA](http://arxiv.org/abs/2110.15900v1) | Xiaohan Chen et al. | 2021-10-29 |
 | [Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies](http://arxiv.org/abs/2111.02552v1) | Tim Seyde et al. | 2021-11-03 |
@@ -149,6 +149,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A single speaker is almost all you need for automatic speech recognition](http://arxiv.org/abs/2204.00618v1) | Edresson Casanova et al. | 2022-03-29 |
 | [A 23 MW data centre is all you need](http://arxiv.org/abs/2203.17265v1) | Samuel Albanie et al. | 2022-03-31 |
 | [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](http://arxiv.org/abs/2204.00097v1) | Sijie Zhu et al. | 2022-03-31 |
+| [Overlapping Word Removal is All You Need: Revisiting Data Imbalance in Hope Speech Detection](http://arxiv.org/abs/2204.05488v1) | Hariharan RamakrishnaIyer LekshmiAmmal et al. | 2022-04-12 |
 
 
 ## FAQ
