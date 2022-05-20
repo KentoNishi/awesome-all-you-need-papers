@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--04--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--05--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -150,6 +150,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A 23 MW data centre is all you need](http://arxiv.org/abs/2203.17265v1) | Samuel Albanie et al. | 2022-03-31 |
 | [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](http://arxiv.org/abs/2204.00097v1) | Sijie Zhu et al. | 2022-03-31 |
 | [Overlapping Word Removal is All You Need: Revisiting Data Imbalance in Hope Speech Detection](http://arxiv.org/abs/2204.05488v1) | Hariharan RamakrishnaIyer LekshmiAmmal et al. | 2022-04-12 |
+| [Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift](http://arxiv.org/abs/2205.08645v1) | Kingson Man et al. | 2022-05-17 |
+| [Positional Information is All You Need: A Novel Pipeline for Self-Supervised SVDE from Videos](http://arxiv.org/abs/2205.08851v1) | Juan Luis Gonzalez Bello et al. | 2022-05-18 |
 
 
 ## FAQ
