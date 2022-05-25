@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--05--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--05--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -153,6 +153,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift](http://arxiv.org/abs/2205.08645v1) | Kingson Man et al. | 2022-05-17 |
 | [Positional Information is All You Need: A Novel Pipeline for Self-Supervised SVDE from Videos](http://arxiv.org/abs/2205.08851v1) | Juan Luis Gonzalez Bello et al. | 2022-05-18 |
 | [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](http://arxiv.org/abs/2205.10249v1) | Yue Cao et al. | 2022-05-20 |
+| [All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs](http://arxiv.org/abs/2205.10692v1) | Vitaliy Bibaev et al. | 2022-05-21 |
 
 
 ## FAQ
