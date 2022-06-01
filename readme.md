@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--05--25-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--05--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -141,7 +141,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Filter-enhanced MLP is All You Need for Sequential Recommendation](http://arxiv.org/abs/2202.13556v1) | Kun Zhou et al. | 2022-02-28 |
 | [One Model is All You Need: Multi-Task Learning Enables Simultaneous Histology Image Segmentation and Classification](http://arxiv.org/abs/2203.00077v1) | Simon Graham et al. | 2022-02-28 |
 | [Video is All You Need: Attacking PPG-based Biometric Authentication](http://arxiv.org/abs/2203.00928v1) | Lin Li et al. | 2022-03-02 |
-| [Structured Pruning is All You Need for Pruning CNNs at Initialization](http://arxiv.org/abs/2203.02549v1) | Yaohui Cai et al. | 2022-03-04 |
+| [Structured Pruning is All You Need for Pruning CNNs at Initialization](http://arxiv.org/abs/2203.02549v2) | Yaohui Cai et al. | 2022-03-04 |
 | [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](http://arxiv.org/abs/2203.04566v2) | Brijen Thananjeyan et al. | 2022-03-09 |
 | [Respecting causality is all you need for training physics-informed neural networks](http://arxiv.org/abs/2203.07404v1) | Sifan Wang et al. | 2022-03-14 |
 | [Distraction is All You Need for Fairness](http://arxiv.org/abs/2203.07593v1) | Mehdi Yazdani-Jahromi et al. | 2022-03-15 |
@@ -155,6 +155,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](http://arxiv.org/abs/2205.10249v1) | Yue Cao et al. | 2022-05-20 |
 | [All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs](http://arxiv.org/abs/2205.10692v1) | Vitaliy Bibaev et al. | 2022-05-21 |
 | [Pretraining is All You Need for Image-to-Image Translation](http://arxiv.org/abs/2205.12952v1) | Tengfei Wang et al. | 2022-05-25 |
+| [GMML is All you Need](http://arxiv.org/abs/2205.14986v1) | Sara Atito et al. | 2022-05-30 |
 
 
 ## FAQ
