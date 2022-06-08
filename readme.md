@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--05--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--06--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -156,6 +156,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs](http://arxiv.org/abs/2205.10692v1) | Vitaliy Bibaev et al. | 2022-05-21 |
 | [Pretraining is All You Need for Image-to-Image Translation](http://arxiv.org/abs/2205.12952v1) | Tengfei Wang et al. | 2022-05-25 |
 | [GMML is All you Need](http://arxiv.org/abs/2205.14986v1) | Sara Atito et al. | 2022-05-30 |
+| [Is More Data All You Need? A Causal Exploration](http://arxiv.org/abs/2206.02409v1) | Athanasios Vlontzos et al. | 2022-06-06 |
 
 
 ## FAQ
