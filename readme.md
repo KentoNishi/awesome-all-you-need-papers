@@ -157,7 +157,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pretraining is All You Need for Image-to-Image Translation](http://arxiv.org/abs/2205.12952v1) | Tengfei Wang et al. | 2022-05-25 |
 | [GMML is All you Need](http://arxiv.org/abs/2205.14986v1) | Sara Atito et al. | 2022-05-30 |
 | [Is More Data All You Need? A Causal Exploration](http://arxiv.org/abs/2206.02409v1) | Athanasios Vlontzos et al. | 2022-06-06 |
-| [Words are all you need? Capturing human sensory similarity with textual descriptors](http://arxiv.org/abs/2206.04105v1) | Raja Marjieh et al. | 2022-06-08 |
+| [Words are all you need? Capturing human sensory similarity with textual descriptors](http://arxiv.org/abs/2206.04105v2) | Raja Marjieh et al. | 2022-06-08 |
 
 
 ## FAQ
