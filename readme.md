@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--06--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--06--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -159,6 +159,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is More Data All You Need? A Causal Exploration](http://arxiv.org/abs/2206.02409v1) | Athanasios Vlontzos et al. | 2022-06-06 |
 | [Words are all you need? Capturing human sensory similarity with textual descriptors](http://arxiv.org/abs/2206.04105v2) | Raja Marjieh et al. | 2022-06-08 |
 | [A smile is all you need: Predicting limiting activity coefficients from SMILES with natural language processing](http://arxiv.org/abs/2206.07048v1) | Benedikt Winter et al. | 2022-06-15 |
+| [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v1) | Emre Ozfatura et al. | 2022-06-19 |
 
 
 ## FAQ
