@@ -161,7 +161,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A smile is all you need: Predicting limiting activity coefficients from SMILES with natural language processing](http://arxiv.org/abs/2206.07048v1) | Benedikt Winter et al. | 2022-06-15 |
 | [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v1) | Emre Ozfatura et al. | 2022-06-19 |
 | [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v1) | Devendra Singh Sachan et al. | 2022-06-21 |
-| [Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need](http://arxiv.org/abs/2206.11804v1) | An Wang et al. | 2022-06-23 |
+| [Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need](http://arxiv.org/abs/2206.11804v2) | An Wang et al. | 2022-06-23 |
 
 
 ## FAQ
