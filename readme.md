@@ -162,7 +162,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v1) | Emre Ozfatura et al. | 2022-06-19 |
 | [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v1) | Devendra Singh Sachan et al. | 2022-06-21 |
 | [Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need](http://arxiv.org/abs/2206.11804v3) | An Wang et al. | 2022-06-23 |
-| [CV 3315 Is All You Need : Semantic Segmentation Competition](http://arxiv.org/abs/2206.12571v1) | Akide Liu et al. | 2022-06-25 |
+| [CV 3315 Is All You Need : Semantic Segmentation Competition](http://arxiv.org/abs/2206.12571v2) | Akide Liu et al. | 2022-06-25 |
 
 
 ## FAQ
