@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--06--25-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -163,6 +163,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v1) | Devendra Singh Sachan et al. | 2022-06-21 |
 | [Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need](http://arxiv.org/abs/2206.11804v3) | An Wang et al. | 2022-06-23 |
 | [CV 3315 Is All You Need : Semantic Segmentation Competition](http://arxiv.org/abs/2206.12571v2) | Akide Liu et al. | 2022-06-25 |
+| [Computer-assisted Pronunciation Training -- Speech synthesis is almost all you need](http://arxiv.org/abs/2207.00774v1) | Daniel Korzekwa et al. | 2022-07-02 |
 
 
 ## FAQ
