@@ -89,6 +89,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v2) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
+| [Clinically relevant pretraining is all you need](https://academic.oup.com/jamia/article-abstract/28/9/1970/6307175)| Oliver J. Bear Don't Walk et al.|2021-06-21|
 | [All You Need is a Second Look: Towards Arbitrary-Shaped Text Detection](http://arxiv.org/abs/2106.12720v1) | Meng Cao et al. | 2021-06-24 |
 | [Mutation is all you need](http://arxiv.org/abs/2107.07343v1) | Lennart Schneider et al. | 2021-07-04 |
 | [Hoechst Is All You Need: Lymphocyte Classification with Deep Learning](http://arxiv.org/abs/2107.04388v2) | Jessica Cooper et al. | 2021-07-09 |
