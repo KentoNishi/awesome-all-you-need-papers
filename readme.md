@@ -39,6 +39,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ASR is all you need: cross-modal distillation for lip reading](http://arxiv.org/abs/1911.12747v2) | Triantafyllos Afouras et al. | 2019-11-28 |
 | [Prioritized Unit Propagation with Periodic Resetting is (Almost) All You Need for Random SAT Solving](http://arxiv.org/abs/1912.05906v1) | Xujie Si et al. | 2019-12-04 |
 | [15 Keypoints Is All You Need](http://arxiv.org/abs/1912.02323v2) | Michael Snower et al. | 2019-12-05 |
+| [All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs](https://dl.acm.org/doi/abs/10.1145/3336191.3371789) | Negin Entezari et al. | 2020-01-22 |
 | [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](http://arxiv.org/abs/2002.00585v1) | Eran Malach et al. | 2020-02-03 |
 | [ReZero is All You Need: Fast Convergence at Large Depth](http://arxiv.org/abs/2003.04887v2) | Thomas Bachlechner et al. | 2020-03-10 |
 | [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](http://arxiv.org/abs/2003.11539v2) | Yonglong Tian et al. | 2020-03-25 |
@@ -89,6 +90,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v2) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
+| [Clinically relevant pretraining is all you need](https://academic.oup.com/jamia/article-abstract/28/9/1970/6307175) | Oliver J. Bear Don't Walk IV et al. | 2021-06-21 |
 | [All You Need is a Second Look: Towards Arbitrary-Shaped Text Detection](http://arxiv.org/abs/2106.12720v1) | Meng Cao et al. | 2021-06-24 |
 | [Mutation is all you need](http://arxiv.org/abs/2107.07343v1) | Lennart Schneider et al. | 2021-07-04 |
 | [Hoechst Is All You Need: Lymphocyte Classification with Deep Learning](http://arxiv.org/abs/2107.04388v2) | Jessica Cooper et al. | 2021-07-09 |
