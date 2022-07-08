@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--06--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -39,7 +39,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ASR is all you need: cross-modal distillation for lip reading](http://arxiv.org/abs/1911.12747v2) | Triantafyllos Afouras et al. | 2019-11-28 |
 | [Prioritized Unit Propagation with Periodic Resetting is (Almost) All You Need for Random SAT Solving](http://arxiv.org/abs/1912.05906v1) | Xujie Si et al. | 2019-12-04 |
 | [15 Keypoints Is All You Need](http://arxiv.org/abs/1912.02323v2) | Michael Snower et al. | 2019-12-05 |
-| [All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs](https://dl.acm.org/doi/abs/10.1145/3336191.3371789)| Negin Entezari et al. | 2020-01-22 |
+| [All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs](https://dl.acm.org/doi/abs/10.1145/3336191.3371789) | Negin Entezari et al. | 2020-01-22 |
 | [Proving the Lottery Ticket Hypothesis: Pruning is All You Need](http://arxiv.org/abs/2002.00585v1) | Eran Malach et al. | 2020-02-03 |
 | [ReZero is All You Need: Fast Convergence at Large Depth](http://arxiv.org/abs/2003.04887v2) | Thomas Bachlechner et al. | 2020-03-10 |
 | [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](http://arxiv.org/abs/2003.11539v2) | Yonglong Tian et al. | 2020-03-25 |
@@ -90,7 +90,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v2) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
-| [Clinically relevant pretraining is all you need](https://academic.oup.com/jamia/article-abstract/28/9/1970/6307175)| Oliver J. Bear Don't Walk et al.|2021-06-21|
+| [Clinically relevant pretraining is all you need](https://academic.oup.com/jamia/article-abstract/28/9/1970/6307175) | Oliver J. Bear Don't Walk IV et al. | 2021-06-21 |
 | [All You Need is a Second Look: Towards Arbitrary-Shaped Text Detection](http://arxiv.org/abs/2106.12720v1) | Meng Cao et al. | 2021-06-24 |
 | [Mutation is all you need](http://arxiv.org/abs/2107.07343v1) | Lennart Schneider et al. | 2021-07-04 |
 | [Hoechst Is All You Need: Lymphocyte Classification with Deep Learning](http://arxiv.org/abs/2107.04388v2) | Jessica Cooper et al. | 2021-07-09 |
@@ -162,6 +162,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Words are all you need? Capturing human sensory similarity with textual descriptors](http://arxiv.org/abs/2206.04105v2) | Raja Marjieh et al. | 2022-06-08 |
 | [A smile is all you need: Predicting limiting activity coefficients from SMILES with natural language processing](http://arxiv.org/abs/2206.07048v1) | Benedikt Winter et al. | 2022-06-15 |
 | [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v1) | Emre Ozfatura et al. | 2022-06-19 |
+| [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v1) | Devendra Singh Sachan et al. | 2022-06-21 |
+| [Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need](http://arxiv.org/abs/2206.11804v4) | An Wang et al. | 2022-06-23 |
+| [CV 3315 Is All You Need : Semantic Segmentation Competition](http://arxiv.org/abs/2206.12571v2) | Akide Liu et al. | 2022-06-25 |
+| [Computer-assisted Pronunciation Training -- Speech synthesis is almost all you need](http://arxiv.org/abs/2207.00774v1) | Daniel Korzekwa et al. | 2022-07-02 |
+| [Is a PET all you need? A multi-modal study for Alzheimer's disease using 3D CNNs](http://arxiv.org/abs/2207.02094v1) | Marla Narazani et al. | 2022-07-05 |
 
 
 ## FAQ

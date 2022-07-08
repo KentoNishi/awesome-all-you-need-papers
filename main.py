@@ -5,6 +5,7 @@ import arxiv
 import latexcodec
 from tomark import Tomark
 import urllib
+from additional_papers import *
 
 # %%
 
@@ -35,6 +36,17 @@ for result in search.get():
             }
         )
 
+for paper in additional_papers:
+    table.append(
+        {
+            "Title": f"[{paper[0]}]({paper[1]})",
+            "Authors": paper[2],
+            "Date": paper[3],
+        }
+    )
+
+table = sorted(table, key=lambda x: x["Date"])
+
 # %%
 
 with open("template.md", "r", encoding="utf8") as file:
@@ -43,7 +55,7 @@ with open("readme.md", "r", encoding="utf8") as file:
     with open("readme.md", "w", encoding="utf8") as f:
         f.writelines(
             data.replace(
-                "DATEHERE", 
+                "DATEHERE",
                 table[-1]["Date"].replace("-", "--")
                 # str(datetime.today()).split(" ")[0].replace("-", "--")
             )
