@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -152,6 +152,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A 23 MW data centre is all you need](http://arxiv.org/abs/2203.17265v1) | Samuel Albanie et al. | 2022-03-31 |
 | [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](http://arxiv.org/abs/2204.00097v1) | Sijie Zhu et al. | 2022-03-31 |
 | [Overlapping Word Removal is All You Need: Revisiting Data Imbalance in Hope Speech Detection](http://arxiv.org/abs/2204.05488v1) | Hariharan RamakrishnaIyer LekshmiAmmal et al. | 2022-04-12 |
+| [A for-loop is all you need. For solving the inverse problem in the case of personalized tumor growth modeling](http://arxiv.org/abs/2205.04550v3) | Ivan Ezhov et al. | 2022-05-09 |
 | [Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift](http://arxiv.org/abs/2205.08645v1) | Kingson Man et al. | 2022-05-17 |
 | [Positional Information is All You Need: A Novel Pipeline for Self-Supervised SVDE from Videos](http://arxiv.org/abs/2205.08851v1) | Juan Luis Gonzalez Bello et al. | 2022-05-18 |
 | [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](http://arxiv.org/abs/2205.10249v1) | Yue Cao et al. | 2022-05-20 |
@@ -167,6 +168,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CV 3315 Is All You Need : Semantic Segmentation Competition](http://arxiv.org/abs/2206.12571v2) | Akide Liu et al. | 2022-06-25 |
 | [Computer-assisted Pronunciation Training -- Speech synthesis is almost all you need](http://arxiv.org/abs/2207.00774v1) | Daniel Korzekwa et al. | 2022-07-02 |
 | [Is a PET all you need? A multi-modal study for Alzheimer's disease using 3D CNNs](http://arxiv.org/abs/2207.02094v1) | Marla Narazani et al. | 2022-07-05 |
+| [Dual-path Attention is All You Need for Audio-Visual Speech Extraction](http://arxiv.org/abs/2207.04213v1) | Zhongweiyang Xu et al. | 2022-07-09 |
+| [Look-ups are not (yet) all you need for deep learning inference](http://arxiv.org/abs/2207.05808v1) | Calvin McCarter et al. | 2022-07-12 |
+| [PointNorm: Normalization is All You Need for Point Cloud Analysis](http://arxiv.org/abs/2207.06324v1) | Shen Zheng et al. | 2022-07-13 |
 
 
 ## FAQ
@@ -178,4 +182,4 @@ Because I'm lazy.
 The arXiv API only updates search queries once a day.
 
 ### How can I contribute?
-Please feel free to submit a PR!
+Please feel free to submit a PR! Additional papers not available on arXiv can be added in the `additional_papers.py` file.
