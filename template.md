@@ -19,5 +19,5 @@ Because I'm lazy.
 ### Why is it only updated daily?
 The arXiv API only updates search queries once a day.
 
-### How can I contribute?
+### How can I contribute additional papers?
 Please feel free to submit a PR! Additional papers not available on arXiv can be added in the `additional_papers.py` file.
