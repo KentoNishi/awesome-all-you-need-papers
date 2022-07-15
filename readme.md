@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -169,6 +169,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Computer-assisted Pronunciation Training -- Speech synthesis is almost all you need](http://arxiv.org/abs/2207.00774v1) | Daniel Korzekwa et al. | 2022-07-02 |
 | [Is a PET all you need? A multi-modal study for Alzheimer's disease using 3D CNNs](http://arxiv.org/abs/2207.02094v1) | Marla Narazani et al. | 2022-07-05 |
 | [Dual-path Attention is All You Need for Audio-Visual Speech Extraction](http://arxiv.org/abs/2207.04213v1) | Zhongweiyang Xu et al. | 2022-07-09 |
+| [Look-ups are not (yet) all you need for deep learning inference](http://arxiv.org/abs/2207.05808v1) | Calvin McCarter et al. | 2022-07-12 |
+| [PointNorm: Normalization is All You Need for Point Cloud Analysis](http://arxiv.org/abs/2207.06324v1) | Shen Zheng et al. | 2022-07-13 |
 
 
 ## FAQ
