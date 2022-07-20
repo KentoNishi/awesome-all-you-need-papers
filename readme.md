@@ -65,7 +65,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is a Good Functional Prior for Bayesian Deep Learning](http://arxiv.org/abs/2011.12829v2) | Ba-Hien Tran et al. | 2020-11-25 |
 | [RPT: Relational Pre-trained Transformer Is Almost All You Need towards Democratizing Data Preparation](http://arxiv.org/abs/2012.02469v2) | Nan Tang et al. | 2020-12-04 |
 | [Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need?](http://arxiv.org/abs/2012.06166v2) | Malik Boudiaf et al. | 2020-12-11 |
-| [One Point is All You Need: Directional Attention Point for Feature Learning](http://arxiv.org/abs/2012.06257v2) | Liqiang Lin et al. | 2020-12-11 |
+| [On Learning the Right Attention Point for Feature Enhancement](http://arxiv.org/abs/2012.06257v3) | Liqiang Lin et al. | 2020-12-11 |
 | [Evolution Is All You Need: Phylogenetic Augmentation for Contrastive Learning](http://arxiv.org/abs/2012.13475v1) | Amy X. Lu et al. | 2020-12-25 |
 | [A Simple Fine-tuning Is All You Need: Towards Robust Deep Learning Via Adversarial Fine-tuning](http://arxiv.org/abs/2012.13628v1) | Ahmadreza Jeddi et al. | 2020-12-25 |
 | [Is Space-Time Attention All You Need for Video Understanding?](http://arxiv.org/abs/2102.05095v4) | Gedas Bertasius et al. | 2021-02-09 |
