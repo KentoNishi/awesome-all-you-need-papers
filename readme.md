@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--07--25-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -170,6 +170,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Dual-path Attention is All You Need for Audio-Visual Speech Extraction](http://arxiv.org/abs/2207.04213v1) | Zhongweiyang Xu et al. | 2022-07-09 |
 | [Look-ups are not (yet) all you need for deep learning inference](http://arxiv.org/abs/2207.05808v1) | Calvin McCarter et al. | 2022-07-12 |
 | [PointNorm: Normalization is All You Need for Point Cloud Analysis](http://arxiv.org/abs/2207.06324v1) | Shen Zheng et al. | 2022-07-13 |
+| [All you need for horizontal slicing in 5G network](http://arxiv.org/abs/2207.11477v1) | Hamza Kheddar et al. | 2022-07-23 |
+| [Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?](http://arxiv.org/abs/2207.12101v1) | Pietro Bongini et al. | 2022-07-25 |
 
 
 ## FAQ
