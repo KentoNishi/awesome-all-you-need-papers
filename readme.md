@@ -134,7 +134,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Patches Are All You Need?](http://arxiv.org/abs/2201.09792v1) | Asher Trockman et al. | 2022-01-24 |
 | [It\^oWave: It\^o Stochastic Differential Equation Is All You Need For Wave Generation](http://arxiv.org/abs/2201.12519v2) | Shoule Wu et al. | 2022-01-29 |
 | [Optimizing Gradient-driven Criteria in Network Sparsity: Gradient is All You Need](http://arxiv.org/abs/2201.12826v1) | Yuxin Zhang et al. | 2022-01-30 |
-| [One-Nearest-Neighbor Search is All You Need for Minimax Optimal Regression and Classification](http://arxiv.org/abs/2202.02464v1) | J. Jon Ryu et al. | 2022-02-05 |
+| [One-Nearest-Neighbor Search is All You Need for Minimax Optimal Regression and Classification](http://arxiv.org/abs/2202.02464v2) | J. Jon Ryu et al. | 2022-02-05 |
 | [Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning](http://arxiv.org/abs/2202.04241v1) | Kexue Fu et al. | 2022-02-09 |
 | [Noise Augmentation Is All You Need For FGSM Fast Adversarial Training: Catastrophic Overfitting And Robust Overfitting Require Different Augmentation](http://arxiv.org/abs/2202.05488v1) | Chaoning Zhang et al. | 2022-02-11 |
 | [1-WL Expressiveness Is (Almost) All You Need](http://arxiv.org/abs/2202.10156v1) | Markus Zopf | 2022-02-21 |
