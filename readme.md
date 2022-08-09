@@ -154,7 +154,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A for-loop is all you need. For solving the inverse problem in the case of personalized tumor growth modeling](http://arxiv.org/abs/2205.04550v3) | Ivan Ezhov et al. | 2022-05-09 |
 | [Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift](http://arxiv.org/abs/2205.08645v1) | Kingson Man et al. | 2022-05-17 |
 | [Positional Information is All You Need: A Novel Pipeline for Self-Supervised SVDE from Videos](http://arxiv.org/abs/2205.08851v1) | Juan Luis Gonzalez Bello et al. | 2022-05-18 |
-| [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](http://arxiv.org/abs/2205.10249v1) | Yue Cao et al. | 2022-05-20 |
+| [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](http://arxiv.org/abs/2205.10249v2) | Yue Cao et al. | 2022-05-20 |
 | [All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs](http://arxiv.org/abs/2205.10692v1) | Vitaliy Bibaev et al. | 2022-05-21 |
 | [Pretraining is All You Need for Image-to-Image Translation](http://arxiv.org/abs/2205.12952v1) | Tengfei Wang et al. | 2022-05-25 |
 | [GMML is All you Need](http://arxiv.org/abs/2205.14986v1) | Sara Atito et al. | 2022-05-30 |
