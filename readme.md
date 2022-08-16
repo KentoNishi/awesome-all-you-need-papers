@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--08--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--08--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -175,6 +175,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Reduction Rules and ILP Are All You Need: Minimal Directed Feedback Vertex Set](http://arxiv.org/abs/2208.01119v1) | Alex Meiburg | 2022-08-01 |
 | [Connection Reduction Is All You Need](http://arxiv.org/abs/2208.01424v1) | Rui-Yang Ju et al. | 2022-08-02 |
 | [PSUMNet: Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition](http://arxiv.org/abs/2208.05775v1) | Neel Trivedi et al. | 2022-08-11 |
+| [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v1) | Daniel Scheliga et al. | 2022-08-12 |
 
 
 ## FAQ
