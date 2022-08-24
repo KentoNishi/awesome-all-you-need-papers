@@ -176,6 +176,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Connection Reduction Is All You Need](http://arxiv.org/abs/2208.01424v1) | Rui-Yang Ju et al. | 2022-08-02 |
 | [PSUMNet: Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition](http://arxiv.org/abs/2208.05775v1) | Neel Trivedi et al. | 2022-08-11 |
 | [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v1) | Daniel Scheliga et al. | 2022-08-12 |
+| [Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning](http://arxiv.org/abs/2208.10273v1) | Ashish Gupta et al. | 2022-08-14 |
 | [Pseudo-Labels Are All You Need](http://arxiv.org/abs/2208.09243v1) | Bogdan Kostić et al. | 2022-08-19 |
 
 
