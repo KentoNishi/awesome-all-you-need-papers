@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--08--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--08--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -178,6 +178,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v1) | Daniel Scheliga et al. | 2022-08-12 |
 | [Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning](http://arxiv.org/abs/2208.10273v1) | Ashish Gupta et al. | 2022-08-14 |
 | [Pseudo-Labels Are All You Need](http://arxiv.org/abs/2208.09243v1) | Bogdan Kostić et al. | 2022-08-19 |
+| [Are disentangled representations all you need to build speaker anonymization systems?](http://arxiv.org/abs/2208.10497v2) | Pierre Champion et al. | 2022-08-22 |
+| [Extending nnU-Net is all you need](http://arxiv.org/abs/2208.10791v1) | Fabian Isensee et al. | 2022-08-23 |
 
 
 ## FAQ
