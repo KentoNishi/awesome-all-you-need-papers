@@ -83,7 +83,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Looking at CTR Prediction Again: Is Attention All You Need?](http://arxiv.org/abs/2105.05563v1) | Yuan Cheng et al. | 2021-05-12 |
 | [It\^oTTS and It\^oWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation](http://arxiv.org/abs/2105.07583v5) | Shoule Wu et al. | 2021-05-17 |
 | [Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms](http://arxiv.org/abs/2105.08791v3) | Xiaocheng Tang et al. | 2021-05-18 |
-| [Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions](http://arxiv.org/abs/2105.13913v4) | Alejandro Carderera et al. | 2021-05-28 |
+| [Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions](http://arxiv.org/abs/2105.13913v5) | Alejandro Carderera et al. | 2021-05-28 |
 | [Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction](http://arxiv.org/abs/2106.01793v1) | Quzhe Huang et al. | 2021-06-03 |
 | [Self-Supervision is All You Need for Solving Rubik's Cube](http://arxiv.org/abs/2106.03157v3) | Kyo Takano | 2021-06-06 |
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v2) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
