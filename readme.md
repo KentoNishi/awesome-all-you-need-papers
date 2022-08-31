@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--08--23-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--08--27-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -180,6 +180,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pseudo-Labels Are All You Need](http://arxiv.org/abs/2208.09243v1) | Bogdan Kostić et al. | 2022-08-19 |
 | [Are disentangled representations all you need to build speaker anonymization systems?](http://arxiv.org/abs/2208.10497v2) | Pierre Champion et al. | 2022-08-22 |
 | [Extending nnU-Net is all you need](http://arxiv.org/abs/2208.10791v1) | Fabian Isensee et al. | 2022-08-23 |
+| [Multi-Outputs Is All You Need For Deblur](http://arxiv.org/abs/2208.13029v1) | Sidun Liu et al. | 2022-08-27 |
 
 
 ## FAQ
