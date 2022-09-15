@@ -173,7 +173,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All you need for horizontal slicing in 5G network](http://arxiv.org/abs/2207.11477v1) | Hamza Kheddar et al. | 2022-07-23 |
 | [Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?](http://arxiv.org/abs/2207.12101v1) | Pietro Bongini et al. | 2022-07-25 |
 | [Reduction Rules and ILP Are All You Need: Minimal Directed Feedback Vertex Set](http://arxiv.org/abs/2208.01119v1) | Alex Meiburg | 2022-08-01 |
-| [Connection Reduction of DenseNet for Image Recognition](http://arxiv.org/abs/2208.01424v2) | Rui-Yang Ju et al. | 2022-08-02 |
 | [PSUMNet: Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition](http://arxiv.org/abs/2208.05775v1) | Neel Trivedi et al. | 2022-08-11 |
 | [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v1) | Daniel Scheliga et al. | 2022-08-12 |
 | [Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning](http://arxiv.org/abs/2208.10273v1) | Ashish Gupta et al. | 2022-08-14 |
