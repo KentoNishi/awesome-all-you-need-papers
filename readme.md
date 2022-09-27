@@ -118,7 +118,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Jurassic is (almost) All You Need: Few-Shot Meaning-to-Text Generation for Open-Domain Dialogue](http://arxiv.org/abs/2110.08094v2) | Lena Reed et al. | 2021-10-15 |
 | [Hyperparameter Tuning is All You Need for LISTA](http://arxiv.org/abs/2110.15900v1) | Xiaohan Chen et al. | 2021-10-29 |
 | [Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies](http://arxiv.org/abs/2111.02552v1) | Tim Seyde et al. | 2021-11-03 |
-| [Realizable Learning is All You Need](http://arxiv.org/abs/2111.04746v1) | Max Hopkins et al. | 2021-11-08 |
+| [Realizable Learning is All You Need](http://arxiv.org/abs/2111.04746v2) | Max Hopkins et al. | 2021-11-08 |
 | [Gradients are Not All You Need](http://arxiv.org/abs/2111.05803v2) | Luke Metz et al. | 2021-11-10 |
 | [Perceiving and Modeling Density is All You Need for Image Dehazing](http://arxiv.org/abs/2111.09733v1) | Tian Ye et al. | 2021-11-18 |
 | [Hierarchy Decoder is All You Need To Text Classification](http://arxiv.org/abs/2111.11104v1) | SangHun Im et al. | 2021-11-22 |
