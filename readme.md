@@ -169,7 +169,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is a PET all you need? A multi-modal study for Alzheimer's disease using 3D CNNs](http://arxiv.org/abs/2207.02094v1) | Marla Narazani et al. | 2022-07-05 |
 | [Dual-path Attention is All You Need for Audio-Visual Speech Extraction](http://arxiv.org/abs/2207.04213v1) | Zhongweiyang Xu et al. | 2022-07-09 |
 | [Look-ups are not (yet) all you need for deep learning inference](http://arxiv.org/abs/2207.05808v1) | Calvin McCarter et al. | 2022-07-12 |
-| [PointNorm: Dual Normalization is All You Need for Point Cloud Analysis](http://arxiv.org/abs/2207.06324v2) | Shen Zheng et al. | 2022-07-13 |
+| [PointNorm: Dual Normalization is All You Need for Point Cloud Analysis](http://arxiv.org/abs/2207.06324v3) | Shen Zheng et al. | 2022-07-13 |
 | [All you need for horizontal slicing in 5G network](http://arxiv.org/abs/2207.11477v1) | Hamza Kheddar et al. | 2022-07-23 |
 | [Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?](http://arxiv.org/abs/2207.12101v1) | Pietro Bongini et al. | 2022-07-25 |
 | [Reduction Rules and ILP Are All You Need: Minimal Directed Feedback Vertex Set](http://arxiv.org/abs/2208.01119v1) | Alex Meiburg | 2022-08-01 |
