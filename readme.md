@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--09--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--09--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -184,6 +184,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Paraphrasing Is All You Need for Novel Object Captioning](http://arxiv.org/abs/2209.12343v1) | Cheng-Fu Yang et al. | 2022-09-25 |
 | [Sentiment is all you need to win US Presidential elections](http://arxiv.org/abs/2209.13487v1) | Sovesh Mohapatra et al. | 2022-09-27 |
 | [Non-contrastive approaches to similarity learning: positive examples are all you need](http://arxiv.org/abs/2209.14750v1) | Alexander Marusov et al. | 2022-09-28 |
+| [Combining Efficient and Precise Sign Language Recognition: Good pose estimation library is all you need](http://arxiv.org/abs/2210.00893v1) | Matyáš Boháček et al. | 2022-09-30 |
 
 
 ## FAQ
