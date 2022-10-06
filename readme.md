@@ -136,7 +136,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Optimizing Gradient-driven Criteria in Network Sparsity: Gradient is All You Need](http://arxiv.org/abs/2201.12826v2) | Yuxin Zhang et al. | 2022-01-30 |
 | [One-Nearest-Neighbor Search is All You Need for Minimax Optimal Regression and Classification](http://arxiv.org/abs/2202.02464v2) | J. Jon Ryu et al. | 2022-02-05 |
 | [Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning](http://arxiv.org/abs/2202.04241v1) | Kexue Fu et al. | 2022-02-09 |
-| [Noise Augmentation Is All You Need For FGSM Fast Adversarial Training: Catastrophic Overfitting And Robust Overfitting Require Different Augmentation](http://arxiv.org/abs/2202.05488v1) | Chaoning Zhang et al. | 2022-02-11 |
+| [Fast Adversarial Training with Noise Augmentation: A Unified Perspective on RandStart and GradAlign](http://arxiv.org/abs/2202.05488v2) | Axi Niu et al. | 2022-02-11 |
 | [1-WL Expressiveness Is (Almost) All You Need](http://arxiv.org/abs/2202.10156v1) | Markus Zopf | 2022-02-21 |
 | [All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL](http://arxiv.org/abs/2202.11960v1) | Kai Arulkumaran et al. | 2022-02-24 |
 | [Filter-enhanced MLP is All You Need for Sequential Recommendation](http://arxiv.org/abs/2202.13556v1) | Kun Zhou et al. | 2022-02-28 |
@@ -161,7 +161,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is More Data All You Need? A Causal Exploration](http://arxiv.org/abs/2206.02409v1) | Athanasios Vlontzos et al. | 2022-06-06 |
 | [Words are all you need? Capturing human sensory similarity with textual descriptors](http://arxiv.org/abs/2206.04105v2) | Raja Marjieh et al. | 2022-06-08 |
 | [A smile is all you need: Predicting limiting activity coefficients from SMILES with natural language processing](http://arxiv.org/abs/2206.07048v1) | Benedikt Winter et al. | 2022-06-15 |
-| [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v1) | Emre Ozfatura et al. | 2022-06-19 |
+| [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v2) | Emre Ozfatura et al. | 2022-06-19 |
 | [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v1) | Devendra Singh Sachan et al. | 2022-06-21 |
 | [Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need](http://arxiv.org/abs/2206.11804v4) | An Wang et al. | 2022-06-23 |
 | [CV 3315 Is All You Need : Semantic Segmentation Competition](http://arxiv.org/abs/2206.12571v2) | Akide Liu et al. | 2022-06-25 |
