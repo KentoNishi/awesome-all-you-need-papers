@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--09--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--10--04-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -136,7 +136,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Optimizing Gradient-driven Criteria in Network Sparsity: Gradient is All You Need](http://arxiv.org/abs/2201.12826v2) | Yuxin Zhang et al. | 2022-01-30 |
 | [One-Nearest-Neighbor Search is All You Need for Minimax Optimal Regression and Classification](http://arxiv.org/abs/2202.02464v2) | J. Jon Ryu et al. | 2022-02-05 |
 | [Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning](http://arxiv.org/abs/2202.04241v1) | Kexue Fu et al. | 2022-02-09 |
-| [Fast Adversarial Training with Noise Augmentation: A Unified Perspective on RandStart and GradAlign](http://arxiv.org/abs/2202.05488v2) | Axi Niu et al. | 2022-02-11 |
 | [1-WL Expressiveness Is (Almost) All You Need](http://arxiv.org/abs/2202.10156v1) | Markus Zopf | 2022-02-21 |
 | [All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL](http://arxiv.org/abs/2202.11960v1) | Kai Arulkumaran et al. | 2022-02-24 |
 | [Filter-enhanced MLP is All You Need for Sequential Recommendation](http://arxiv.org/abs/2202.13556v1) | Kun Zhou et al. | 2022-02-28 |
@@ -185,6 +184,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Sentiment is all you need to win US Presidential elections](http://arxiv.org/abs/2209.13487v1) | Sovesh Mohapatra et al. | 2022-09-27 |
 | [Non-contrastive approaches to similarity learning: positive examples are all you need](http://arxiv.org/abs/2209.14750v1) | Alexander Marusov et al. | 2022-09-28 |
 | [Combining Efficient and Precise Sign Language Recognition: Good pose estimation library is all you need](http://arxiv.org/abs/2210.00893v1) | Matyáš Boháček et al. | 2022-09-30 |
+| [Centerpoints Are All You Need in Overhead Imagery](http://arxiv.org/abs/2210.01857v1) | James Mason Inder et al. | 2022-10-04 |
 
 
 ## FAQ
