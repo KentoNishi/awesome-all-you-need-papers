@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--10--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--10--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -185,6 +185,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Non-contrastive approaches to similarity learning: positive examples are all you need](http://arxiv.org/abs/2209.14750v1) | Alexander Marusov et al. | 2022-09-28 |
 | [Combining Efficient and Precise Sign Language Recognition: Good pose estimation library is all you need](http://arxiv.org/abs/2210.00893v1) | Matyáš Boháček et al. | 2022-09-30 |
 | [Centerpoints Are All You Need in Overhead Imagery](http://arxiv.org/abs/2210.01857v1) | James Mason Inder et al. | 2022-10-04 |
+| [Depth Is All You Need for Monocular 3D Detection](http://arxiv.org/abs/2210.02493v1) | Dennis Park et al. | 2022-10-05 |
 
 
 ## FAQ
