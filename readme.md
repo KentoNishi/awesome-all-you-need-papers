@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--10--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--10--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -186,6 +186,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Combining Efficient and Precise Sign Language Recognition: Good pose estimation library is all you need](http://arxiv.org/abs/2210.00893v1) | Matyáš Boháček et al. | 2022-09-30 |
 | [Centerpoints Are All You Need in Overhead Imagery](http://arxiv.org/abs/2210.01857v1) | James Mason Inder et al. | 2022-10-04 |
 | [Depth Is All You Need for Monocular 3D Detection](http://arxiv.org/abs/2210.02493v1) | Dennis Park et al. | 2022-10-05 |
+| [A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images](http://arxiv.org/abs/2210.03180v1) | Tomás Castilla et al. | 2022-10-06 |
+| [GraspCaps: Capsule Networks Are All You Need for Grasping Familiar Objects](http://arxiv.org/abs/2210.03628v1) | Tomas van der Velde et al. | 2022-10-07 |
 
 
 ## FAQ
