@@ -144,7 +144,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Structured Pruning is All You Need for Pruning CNNs at Initialization](http://arxiv.org/abs/2203.02549v2) | Yaohui Cai et al. | 2022-03-04 |
 | [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](http://arxiv.org/abs/2203.04566v2) | Brijen Thananjeyan et al. | 2022-03-09 |
 | [Respecting causality is all you need for training physics-informed neural networks](http://arxiv.org/abs/2203.07404v1) | Sifan Wang et al. | 2022-03-14 |
-| [Distraction is All You Need for Fairness](http://arxiv.org/abs/2203.07593v1) | Mehdi Yazdani-Jahromi et al. | 2022-03-15 |
+| [Distraction is All You Need for Fairness](http://arxiv.org/abs/2203.07593v2) | Mehdi Yazdani-Jahromi et al. | 2022-03-15 |
 | [Neural Vocoder is All You Need for Speech Super-resolution](http://arxiv.org/abs/2203.14941v1) | Haohe Liu et al. | 2022-03-28 |
 | [A 23 MW data centre is all you need](http://arxiv.org/abs/2203.17265v1) | Samuel Albanie et al. | 2022-03-31 |
 | [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](http://arxiv.org/abs/2204.00097v1) | Sijie Zhu et al. | 2022-03-31 |
@@ -180,7 +180,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Multi-Outputs Is All You Need For Deblur](http://arxiv.org/abs/2208.13029v1) | Sidun Liu et al. | 2022-08-27 |
 | [Rethinking Conversational Recommendations: Is Decision Tree All You Need?](http://arxiv.org/abs/2208.14614v1) | A S M Ahsan-Ul Haque et al. | 2022-08-31 |
 | [Paraphrasing Is All You Need for Novel Object Captioning](http://arxiv.org/abs/2209.12343v1) | Cheng-Fu Yang et al. | 2022-09-25 |
-| [Sentiment is all you need to win US Presidential elections](http://arxiv.org/abs/2209.13487v1) | Sovesh Mohapatra et al. | 2022-09-27 |
+| [Sentiment is all you need to win US Presidential elections](http://arxiv.org/abs/2209.13487v2) | Sovesh Mohapatra et al. | 2022-09-27 |
 | [Non-contrastive approaches to similarity learning: positive examples are all you need](http://arxiv.org/abs/2209.14750v1) | Alexander Marusov et al. | 2022-09-28 |
 | [Combining Efficient and Precise Sign Language Recognition: Good pose estimation library is all you need](http://arxiv.org/abs/2210.00893v1) | Matyáš Boháček et al. | 2022-09-30 |
 | [Centerpoints Are All You Need in Overhead Imagery](http://arxiv.org/abs/2210.01857v1) | James Mason Inder et al. | 2022-10-04 |
