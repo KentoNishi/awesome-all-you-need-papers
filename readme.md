@@ -190,9 +190,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is margin all you need? An extensive empirical study of active learning on tabular data](http://arxiv.org/abs/2210.03822v1) | Dara Bahri et al. | 2022-10-07 |
 | [Certified Training: Small Boxes are All You Need](http://arxiv.org/abs/2210.04871v1) | Mark Niklas Müller et al. | 2022-10-10 |
 | [Microscopy is All You Need](http://arxiv.org/abs/2210.06526v1) | Sergei V. Kalinin et al. | 2022-10-12 |
-| [H2RBox: Horizonal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v1) | Xue Yang et al. | 2022-10-13 |
+| [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v2) | Xue Yang et al. | 2022-10-13 |
 | [Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects](http://arxiv.org/abs/2210.09997v1) | Arpit Bahety et al. | 2022-10-18 |
-| [Focus Is All You Need For Chinese Grammatical Error Correction](http://arxiv.org/abs/2210.12692v1) | Jingheng Ye et al. | 2022-10-23 |
+| [Focus Is What You Need For Chinese Grammatical Error Correction](http://arxiv.org/abs/2210.12692v2) | Jingheng Ye et al. | 2022-10-23 |
 | [10 hours data is all you need](http://arxiv.org/abs/2210.13067v1) | Zeping Min et al. | 2022-10-24 |
 
 
