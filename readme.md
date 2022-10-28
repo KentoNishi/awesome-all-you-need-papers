@@ -192,7 +192,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Microscopy is All You Need](http://arxiv.org/abs/2210.06526v1) | Sergei V. Kalinin et al. | 2022-10-12 |
 | [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v2) | Xue Yang et al. | 2022-10-13 |
 | [Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects](http://arxiv.org/abs/2210.09997v1) | Arpit Bahety et al. | 2022-10-18 |
-| [Focus Is What You Need For Chinese Grammatical Error Correction](http://arxiv.org/abs/2210.12692v2) | Jingheng Ye et al. | 2022-10-23 |
 | [10 hours data is all you need](http://arxiv.org/abs/2210.13067v1) | Zeping Min et al. | 2022-10-24 |
 
 
