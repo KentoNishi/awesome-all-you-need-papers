@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--10--24-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--10--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -59,6 +59,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention is All You Need in Speech Separation](http://arxiv.org/abs/2010.13154v2) | Cem Subakan et al. | 2020-10-25 |
 | [One Solution is Not All You Need: Few-Shot Extrapolation via Structured MaxEnt RL](http://arxiv.org/abs/2010.14484v2) | Saurabh Kumar et al. | 2020-10-27 |
 | [Language Model is All You Need: Natural Language Understanding as Question Answering](http://arxiv.org/abs/2011.03023v1) | Mahdi Namazifar et al. | 2020-11-05 |
+| [A Broad Dataset is All You Need for One-Shot Object Detection](http://arxiv.org/abs/2011.04267v2) | Claudio Michaelis et al. | 2020-11-09 |
 | [Is Independent Learning All You Need in the StarCraft Multi-Agent Challenge?](http://arxiv.org/abs/2011.09533v1) | Christian Schroeder de Witt et al. | 2020-11-18 |
 | [MixMix: All You Need for Data-Free Compression Are Feature and Data Mixing](http://arxiv.org/abs/2011.09899v3) | Yuhang Li et al. | 2020-11-19 |
 | [A Reputation Mechanism Is All You Need: Collaborative Fairness and Adversarial Robustness in Federated Learning](http://arxiv.org/abs/2011.10464v2) | Xinyi Xu et al. | 2020-11-20 |
@@ -193,6 +194,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v2) | Xue Yang et al. | 2022-10-13 |
 | [Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects](http://arxiv.org/abs/2210.09997v1) | Arpit Bahety et al. | 2022-10-18 |
 | [10 hours data is all you need](http://arxiv.org/abs/2210.13067v1) | Zeping Min et al. | 2022-10-24 |
+| [Saliency Can Be All You Need In Contrastive Self-Supervised Learning](http://arxiv.org/abs/2210.16776v1) | Veysel Kocaman et al. | 2022-10-30 |
 
 
 ## FAQ
