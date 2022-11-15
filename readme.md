@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -96,7 +96,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hoechst Is All You Need: Lymphocyte Classification with Deep Learning](http://arxiv.org/abs/2107.04388v2) | Jessica Cooper et al. | 2021-07-09 |
 | [A Configurable Multilingual Model is All You Need to Recognize All Languages](http://arxiv.org/abs/2107.05876v1) | Long Zhou et al. | 2021-07-13 |
 | [Per-Pixel Classification is Not All You Need for Semantic Segmentation](http://arxiv.org/abs/2107.06278v2) | Bowen Cheng et al. | 2021-07-13 |
-| [DNN is not all you need: Parallelizing Non-Neural ML Algorithms on Ultra-Low-Power IoT Processors](http://arxiv.org/abs/2107.09448v1) | Enrico Tabanelli et al. | 2021-07-16 |
+| [DNN is not all you need: Parallelizing Non-Neural ML Algorithms on Ultra-Low-Power IoT Processors](http://arxiv.org/abs/2107.09448v2) | Enrico Tabanelli et al. | 2021-07-16 |
 | [Is attention to bounding boxes all you need for pedestrian action prediction?](http://arxiv.org/abs/2107.08031v3) | Lina Achaji et al. | 2021-07-16 |
 | [Few Shots Are All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwritten Text Recognition](http://arxiv.org/abs/2107.10064v3) | Mohamed Ali Souibgui et al. | 2021-07-21 |
 | [Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning](http://arxiv.org/abs/2107.10419v2) | Wenbin Li et al. | 2021-07-22 |
@@ -197,6 +197,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Saliency Can Be All You Need In Contrastive Self-Supervised Learning](http://arxiv.org/abs/2210.16776v1) | Veysel Kocaman et al. | 2022-10-30 |
 | [Cross-Attention is all you need: Real-Time Streaming Transformers for Personalised Speech Enhancement](http://arxiv.org/abs/2211.04346v1) | Shucong Zhang et al. | 2022-11-08 |
 | [NoiSER: Noise is All You Need for Enhancing Low-Light Images Without Task-Related Data](http://arxiv.org/abs/2211.04700v1) | Zhao Zhang et al. | 2022-11-09 |
+| [Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning](http://arxiv.org/abs/2211.06324v1) | John Reuben Gilbert | 2022-11-10 |
 
 
 ## FAQ
