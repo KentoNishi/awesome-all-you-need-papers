@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--14-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -140,7 +140,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [1-WL Expressiveness Is (Almost) All You Need](http://arxiv.org/abs/2202.10156v1) | Markus Zopf | 2022-02-21 |
 | [All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL](http://arxiv.org/abs/2202.11960v1) | Kai Arulkumaran et al. | 2022-02-24 |
 | [Filter-enhanced MLP is All You Need for Sequential Recommendation](http://arxiv.org/abs/2202.13556v1) | Kun Zhou et al. | 2022-02-28 |
-| [One Model is All You Need: Multi-Task Learning Enables Simultaneous Histology Image Segmentation and Classification](http://arxiv.org/abs/2203.00077v1) | Simon Graham et al. | 2022-02-28 |
+| [One Model is All You Need: Multi-Task Learning Enables Simultaneous Histology Image Segmentation and Classification](http://arxiv.org/abs/2203.00077v2) | Simon Graham et al. | 2022-02-28 |
 | [Video is All You Need: Attacking PPG-based Biometric Authentication](http://arxiv.org/abs/2203.00928v1) | Lin Li et al. | 2022-03-02 |
 | [Structured Pruning is All You Need for Pruning CNNs at Initialization](http://arxiv.org/abs/2203.02549v2) | Yaohui Cai et al. | 2022-03-04 |
 | [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](http://arxiv.org/abs/2203.04566v2) | Brijen Thananjeyan et al. | 2022-03-09 |
@@ -198,6 +198,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cross-Attention is all you need: Real-Time Streaming Transformers for Personalised Speech Enhancement](http://arxiv.org/abs/2211.04346v1) | Shucong Zhang et al. | 2022-11-08 |
 | [NoiSER: Noise is All You Need for Enhancing Low-Light Images Without Task-Related Data](http://arxiv.org/abs/2211.04700v1) | Zhao Zhang et al. | 2022-11-09 |
 | [Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning](http://arxiv.org/abs/2211.06324v1) | John Reuben Gilbert | 2022-11-10 |
+| [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v1) | Justus-Jonas Erker et al. | 2022-11-14 |
 
 
 ## FAQ
