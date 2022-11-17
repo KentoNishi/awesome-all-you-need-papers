@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -199,6 +199,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [NoiSER: Noise is All You Need for Enhancing Low-Light Images Without Task-Related Data](http://arxiv.org/abs/2211.04700v1) | Zhao Zhang et al. | 2022-11-09 |
 | [Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning](http://arxiv.org/abs/2211.06324v1) | John Reuben Gilbert | 2022-11-10 |
 | [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v1) | Justus-Jonas Erker et al. | 2022-11-14 |
+| [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
 
 
 ## FAQ
