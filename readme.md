@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -134,7 +134,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Universal Online Learning with Unbounded Losses: Memory Is All You Need](http://arxiv.org/abs/2201.08903v1) | Moise Blanchard et al. | 2022-01-21 |
 | [Patches Are All You Need?](http://arxiv.org/abs/2201.09792v1) | Asher Trockman et al. | 2022-01-24 |
 | [It\^oWave: It\^o Stochastic Differential Equation Is All You Need For Wave Generation](http://arxiv.org/abs/2201.12519v2) | Shoule Wu et al. | 2022-01-29 |
-| [Optimizing Gradient-driven Criteria in Network Sparsity](http://arxiv.org/abs/2201.12826v3) | Yuxin Zhang et al. | 2022-01-30 |
 | [One-Nearest-Neighbor Search is All You Need for Minimax Optimal Regression and Classification](http://arxiv.org/abs/2202.02464v2) | J. Jon Ryu et al. | 2022-02-05 |
 | [Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning](http://arxiv.org/abs/2202.04241v1) | Kexue Fu et al. | 2022-02-09 |
 | [1-WL Expressiveness Is (Almost) All You Need](http://arxiv.org/abs/2202.10156v1) | Markus Zopf | 2022-02-21 |
@@ -200,6 +199,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning](http://arxiv.org/abs/2211.06324v1) | John Reuben Gilbert | 2022-11-10 |
 | [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v1) | Justus-Jonas Erker et al. | 2022-11-14 |
 | [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
+| [Tired of Over-smoothing? Stress Graph Drawing Is All You Need!](http://arxiv.org/abs/2211.10579v1) | Xue Li et al. | 2022-11-19 |
 
 
 ## FAQ
