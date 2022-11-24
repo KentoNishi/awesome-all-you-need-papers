@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--22-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -172,7 +172,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?](http://arxiv.org/abs/2207.12101v1) | Pietro Bongini et al. | 2022-07-25 |
 | [Reduction Rules and ILP Are All You Need: Minimal Directed Feedback Vertex Set](http://arxiv.org/abs/2208.01119v1) | Alex Meiburg | 2022-08-01 |
 | [PSUMNet: Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition](http://arxiv.org/abs/2208.05775v1) | Neel Trivedi et al. | 2022-08-11 |
-| [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v1) | Daniel Scheliga et al. | 2022-08-12 |
+| [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v2) | Daniel Scheliga et al. | 2022-08-12 |
 | [Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning](http://arxiv.org/abs/2208.10273v1) | Ashish Gupta et al. | 2022-08-14 |
 | [Pseudo-Labels Are All You Need](http://arxiv.org/abs/2208.09243v1) | Bogdan Kostić et al. | 2022-08-19 |
 | [Are disentangled representations all you need to build speaker anonymization systems?](http://arxiv.org/abs/2208.10497v2) | Pierre Champion et al. | 2022-08-22 |
@@ -200,6 +200,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v1) | Justus-Jonas Erker et al. | 2022-11-14 |
 | [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
 | [Tired of Over-smoothing? Stress Graph Drawing Is All You Need!](http://arxiv.org/abs/2211.10579v1) | Xue Li et al. | 2022-11-19 |
+| [One Eye is All You Need: Lightweight Ensembles for Gaze Estimation with Single Encoders](http://arxiv.org/abs/2211.11936v1) | Rishi Athavale et al. | 2022-11-22 |
 
 
 ## FAQ
