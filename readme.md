@@ -195,7 +195,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [10 hours data is all you need](http://arxiv.org/abs/2210.13067v1) | Zeping Min et al. | 2022-10-24 |
 | [Saliency Can Be All You Need In Contrastive Self-Supervised Learning](http://arxiv.org/abs/2210.16776v1) | Veysel Kocaman et al. | 2022-10-30 |
 | [Cross-Attention is all you need: Real-Time Streaming Transformers for Personalised Speech Enhancement](http://arxiv.org/abs/2211.04346v1) | Shucong Zhang et al. | 2022-11-08 |
-| [NoiSER: Noise is All You Need for Enhancing Low-Light Images Without Task-Related Data](http://arxiv.org/abs/2211.04700v1) | Zhao Zhang et al. | 2022-11-09 |
+| [NoiSER: Noise is All You Need for Low-Light Image Enhancement](http://arxiv.org/abs/2211.04700v2) | Zhao Zhang et al. | 2022-11-09 |
 | [Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning](http://arxiv.org/abs/2211.06324v1) | John Reuben Gilbert | 2022-11-10 |
 | [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v1) | Justus-Jonas Erker et al. | 2022-11-14 |
 | [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
