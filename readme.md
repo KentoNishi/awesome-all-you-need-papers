@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--22-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--28-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -143,6 +143,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Video is All You Need: Attacking PPG-based Biometric Authentication](http://arxiv.org/abs/2203.00928v1) | Lin Li et al. | 2022-03-02 |
 | [Structured Pruning is All You Need for Pruning CNNs at Initialization](http://arxiv.org/abs/2203.02549v2) | Yaohui Cai et al. | 2022-03-04 |
 | [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](http://arxiv.org/abs/2203.04566v2) | Brijen Thananjeyan et al. | 2022-03-09 |
+| [Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection](http://arxiv.org/abs/2203.05550v3) | Eliahu Horwitz et al. | 2022-03-10 |
 | [Respecting causality is all you need for training physics-informed neural networks](http://arxiv.org/abs/2203.07404v1) | Sifan Wang et al. | 2022-03-14 |
 | [Distraction is All You Need for Fairness](http://arxiv.org/abs/2203.07593v2) | Mehdi Yazdani-Jahromi et al. | 2022-03-15 |
 | [Neural Vocoder is All You Need for Speech Super-resolution](http://arxiv.org/abs/2203.14941v1) | Haohe Liu et al. | 2022-03-28 |
@@ -201,6 +202,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
 | [Tired of Over-smoothing? Stress Graph Drawing Is All You Need!](http://arxiv.org/abs/2211.10579v1) | Xue Li et al. | 2022-11-19 |
 | [One Eye is All You Need: Lightweight Ensembles for Gaze Estimation with Single Encoders](http://arxiv.org/abs/2211.11936v1) | Rishi Athavale et al. | 2022-11-22 |
+| [Is Conditional Generative Modeling all you need for Decision-Making?](http://arxiv.org/abs/2211.15657v1) | Anurag Ajay et al. | 2022-11-28 |
 
 
 ## FAQ
