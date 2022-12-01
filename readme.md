@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--11--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -203,6 +203,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tired of Over-smoothing? Stress Graph Drawing Is All You Need!](http://arxiv.org/abs/2211.10579v1) | Xue Li et al. | 2022-11-19 |
 | [One Eye is All You Need: Lightweight Ensembles for Gaze Estimation with Single Encoders](http://arxiv.org/abs/2211.11936v1) | Rishi Athavale et al. | 2022-11-22 |
 | [Is Conditional Generative Modeling all you need for Decision-Making?](http://arxiv.org/abs/2211.15657v1) | Anurag Ajay et al. | 2022-11-28 |
+| [Out-Of-Distribution Detection Is Not All You Need](http://arxiv.org/abs/2211.16158v1) | Joris Guérin et al. | 2022-11-29 |
 
 
 ## FAQ
