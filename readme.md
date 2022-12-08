@@ -202,7 +202,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
 | [Tired of Over-smoothing? Stress Graph Drawing Is All You Need!](http://arxiv.org/abs/2211.10579v1) | Xue Li et al. | 2022-11-19 |
 | [One Eye is All You Need: Lightweight Ensembles for Gaze Estimation with Single Encoders](http://arxiv.org/abs/2211.11936v1) | Rishi Athavale et al. | 2022-11-22 |
-| [Is Conditional Generative Modeling all you need for Decision-Making?](http://arxiv.org/abs/2211.15657v2) | Anurag Ajay et al. | 2022-11-28 |
+| [Is Conditional Generative Modeling all you need for Decision-Making?](http://arxiv.org/abs/2211.15657v3) | Anurag Ajay et al. | 2022-11-28 |
 | [Out-Of-Distribution Detection Is Not All You Need](http://arxiv.org/abs/2211.16158v1) | Joris Guérin et al. | 2022-11-29 |
 | [All You Need Is Hashing: Defending Against Data Reconstruction Attack in Vertical Federated Learning](http://arxiv.org/abs/2212.00325v1) | Pengyu Qiu et al. | 2022-12-01 |
 | [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](http://arxiv.org/abs/2212.01076v1) | Antoine Vanderschueren et al. | 2022-12-02 |
