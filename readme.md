@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2022--12--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2022--12--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -207,6 +207,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Hashing: Defending Against Data Reconstruction Attack in Vertical Federated Learning](http://arxiv.org/abs/2212.00325v1) | Pengyu Qiu et al. | 2022-12-01 |
 | [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](http://arxiv.org/abs/2212.01076v1) | Antoine Vanderschueren et al. | 2022-12-02 |
 | [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](http://arxiv.org/abs/2212.04655v1) | Shuliang Ning et al. | 2022-12-09 |
+| [Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection](http://arxiv.org/abs/2212.06493v1) | Zhenyu Wu et al. | 2022-12-13 |
 
 
 ## FAQ
