@@ -122,7 +122,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Realizable Learning is All You Need](http://arxiv.org/abs/2111.04746v2) | Max Hopkins et al. | 2021-11-08 |
 | [Gradients are Not All You Need](http://arxiv.org/abs/2111.05803v2) | Luke Metz et al. | 2021-11-10 |
 | [Perceiving and Modeling Density is All You Need for Image Dehazing](http://arxiv.org/abs/2111.09733v1) | Tian Ye et al. | 2021-11-18 |
-| [Hierarchy Decoder is All You Need To Text Classification](http://arxiv.org/abs/2111.11104v1) | SangHun Im et al. | 2021-11-22 |
+| [Hierarchical Text Classification As Sub-Hierarchy Sequence Generation](http://arxiv.org/abs/2111.11104v2) | SangHun Im et al. | 2021-11-22 |
 | [Variance Reduction in Deep Learning: More Momentum is All You Need](http://arxiv.org/abs/2111.11828v1) | Lionel Tondji et al. | 2021-11-23 |
 | [CDNet is all you need: Cascade DCN based underwater object detection RCNN](http://arxiv.org/abs/2111.12982v1) | Di Chang | 2021-11-25 |
 | [All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines](http://arxiv.org/abs/2112.09219v2) | Yuxuan Zhang et al. | 2021-12-16 |
