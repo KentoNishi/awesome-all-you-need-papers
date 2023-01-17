@@ -175,7 +175,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v2) | Daniel Scheliga et al. | 2022-08-12 |
 | [Long-Short History of Gradients is All You Need: Detecting Malicious and Unreliable Clients in Federated Learning](http://arxiv.org/abs/2208.10273v1) | Ashish Gupta et al. | 2022-08-14 |
 | [Pseudo-Labels Are All You Need](http://arxiv.org/abs/2208.09243v1) | Bogdan Kostić et al. | 2022-08-19 |
-| [Are disentangled representations all you need to build speaker anonymization systems?](http://arxiv.org/abs/2208.10497v2) | Pierre Champion et al. | 2022-08-22 |
+| [Are disentangled representations all you need to build speaker anonymization systems?](http://arxiv.org/abs/2208.10497v3) | Pierre Champion et al. | 2022-08-22 |
 | [Extending nnU-Net is all you need](http://arxiv.org/abs/2208.10791v1) | Fabian Isensee et al. | 2022-08-23 |
 | [Multi-Outputs Is All You Need For Deblur](http://arxiv.org/abs/2208.13029v1) | Sidun Liu et al. | 2022-08-27 |
 | [Rethinking Conversational Recommendations: Is Decision Tree All You Need?](http://arxiv.org/abs/2208.14614v1) | A S M Ahsan-Ul Haque et al. | 2022-08-31 |
@@ -202,7 +202,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tired of Over-smoothing? Stress Graph Drawing Is All You Need!](http://arxiv.org/abs/2211.10579v1) | Xue Li et al. | 2022-11-19 |
 | [One Eye is All You Need: Lightweight Ensembles for Gaze Estimation with Single Encoders](http://arxiv.org/abs/2211.11936v1) | Rishi Athavale et al. | 2022-11-22 |
 | [Is Conditional Generative Modeling all you need for Decision-Making?](http://arxiv.org/abs/2211.15657v3) | Anurag Ajay et al. | 2022-11-28 |
-| [Out-Of-Distribution Detection Is Not All You Need](http://arxiv.org/abs/2211.16158v1) | Joris Guérin et al. | 2022-11-29 |
+| [Out-Of-Distribution Detection Is Not All You Need](http://arxiv.org/abs/2211.16158v2) | Joris Guérin et al. | 2022-11-29 |
 | [All You Need Is Hashing: Defending Against Data Reconstruction Attack in Vertical Federated Learning](http://arxiv.org/abs/2212.00325v1) | Pengyu Qiu et al. | 2022-12-01 |
 | [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](http://arxiv.org/abs/2212.01076v1) | Antoine Vanderschueren et al. | 2022-12-02 |
 | [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](http://arxiv.org/abs/2212.04655v1) | Shuliang Ning et al. | 2022-12-09 |
