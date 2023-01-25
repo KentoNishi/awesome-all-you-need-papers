@@ -160,7 +160,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Words are all you need? Capturing human sensory similarity with textual descriptors](http://arxiv.org/abs/2206.04105v2) | Raja Marjieh et al. | 2022-06-08 |
 | [A smile is all you need: Predicting limiting activity coefficients from SMILES with natural language processing](http://arxiv.org/abs/2206.07048v1) | Benedikt Winter et al. | 2022-06-15 |
 | [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v2) | Emre Ozfatura et al. | 2022-06-19 |
-| [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v2) | Devendra Singh Sachan et al. | 2022-06-21 |
+| [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v3) | Devendra Singh Sachan et al. | 2022-06-21 |
 | [Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need](http://arxiv.org/abs/2206.11804v4) | An Wang et al. | 2022-06-23 |
 | [CV 3315 Is All You Need : Semantic Segmentation Competition](http://arxiv.org/abs/2206.12571v2) | Akide Liu et al. | 2022-06-25 |
 | [Computer-assisted Pronunciation Training -- Speech synthesis is almost all you need](http://arxiv.org/abs/2207.00774v1) | Daniel Korzekwa et al. | 2022-07-02 |
