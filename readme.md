@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--01--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--02--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -190,7 +190,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is margin all you need? An extensive empirical study of active learning on tabular data](http://arxiv.org/abs/2210.03822v1) | Dara Bahri et al. | 2022-10-07 |
 | [Certified Training: Small Boxes are All You Need](http://arxiv.org/abs/2210.04871v1) | Mark Niklas Müller et al. | 2022-10-10 |
 | [Microscopy is All You Need](http://arxiv.org/abs/2210.06526v1) | Sergei V. Kalinin et al. | 2022-10-12 |
-| [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v3) | Xue Yang et al. | 2022-10-13 |
+| [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v4) | Xue Yang et al. | 2022-10-13 |
 | [Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects](http://arxiv.org/abs/2210.09997v1) | Arpit Bahety et al. | 2022-10-18 |
 | [10 hours data is all you need](http://arxiv.org/abs/2210.13067v1) | Zeping Min et al. | 2022-10-24 |
 | [Saliency Can Be All You Need In Contrastive Self-Supervised Learning](http://arxiv.org/abs/2210.16776v1) | Veysel Kocaman et al. | 2022-10-30 |
@@ -211,6 +211,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hoyer regularizer is all you need for ultra low-latency spiking neural networks](http://arxiv.org/abs/2212.10170v1) | Gourav Datta et al. | 2022-12-20 |
 | [In-Sensor \& Neuromorphic Computing are all you need for Energy Efficient Computer Vision](http://arxiv.org/abs/2212.10881v1) | Gourav Datta et al. | 2022-12-21 |
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
+| [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v1) | Jingyao Li et al. | 2023-02-06 |
 
 
 ## FAQ
