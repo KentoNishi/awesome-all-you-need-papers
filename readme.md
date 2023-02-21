@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--02--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--02--17-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -212,6 +212,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
 | [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v1) | Jingyao Li et al. | 2023-02-06 |
 | [Hyperparameter Search Is All You Need For Training-Agnostic Backdoor Robustness](http://arxiv.org/abs/2302.04977v1) | Eugene Bagdasaryan et al. | 2023-02-09 |
+| [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
 
 
 ## FAQ
