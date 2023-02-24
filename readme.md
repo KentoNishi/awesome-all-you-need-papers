@@ -212,6 +212,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
 | [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v1) | Jingyao Li et al. | 2023-02-06 |
 | [Hyperparameter Search Is All You Need For Training-Agnostic Backdoor Robustness](http://arxiv.org/abs/2302.04977v1) | Eugene Bagdasaryan et al. | 2023-02-09 |
+| [Conformers are All You Need for Visual Speech Recogntion](http://arxiv.org/abs/2302.10915v1) | Oscar Chang et al. | 2023-02-17 |
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
 | [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v1) | Sungheon Park et al. | 2023-02-18 |
 | [EuroCrops: All you need to know about the Largest Harmonised Open Crop Dataset Across the European Union](http://arxiv.org/abs/2302.10202v1) | Maja Schneider et al. | 2023-02-20 |
