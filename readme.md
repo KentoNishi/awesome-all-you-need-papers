@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--02--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--02--22-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -156,7 +156,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pretraining is All You Need for Image-to-Image Translation](http://arxiv.org/abs/2205.12952v1) | Tengfei Wang et al. | 2022-05-25 |
 | [GMML is All you Need](http://arxiv.org/abs/2205.14986v1) | Sara Atito et al. | 2022-05-30 |
 | [Is More Data All You Need? A Causal Exploration](http://arxiv.org/abs/2206.02409v1) | Athanasios Vlontzos et al. | 2022-06-06 |
-| [Words are all you need? Capturing human sensory similarity with textual descriptors](http://arxiv.org/abs/2206.04105v2) | Raja Marjieh et al. | 2022-06-08 |
+| [Words are all you need? Language as an approximation for human similarity judgments](http://arxiv.org/abs/2206.04105v3) | Raja Marjieh et al. | 2022-06-08 |
 | [A smile is all you need: Predicting limiting activity coefficients from SMILES with natural language processing](http://arxiv.org/abs/2206.07048v1) | Benedikt Winter et al. | 2022-06-15 |
 | [All you need is feedback: Communication with block attention feedback codes](http://arxiv.org/abs/2206.09457v2) | Emre Ozfatura et al. | 2022-06-19 |
 | [Questions Are All You Need to Train a Dense Passage Retriever](http://arxiv.org/abs/2206.10658v3) | Devendra Singh Sachan et al. | 2022-06-21 |
@@ -216,6 +216,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
 | [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v1) | Sungheon Park et al. | 2023-02-18 |
 | [EuroCrops: All you need to know about the Largest Harmonised Open Crop Dataset Across the European Union](http://arxiv.org/abs/2302.10202v1) | Maja Schneider et al. | 2023-02-20 |
+| [Some Might Say All You Need Is Sum](http://arxiv.org/abs/2302.11603v1) | Eran Rosenbluth et al. | 2023-02-22 |
 
 
 ## FAQ
