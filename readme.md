@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--02--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--02--28-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -217,7 +217,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v1) | Sungheon Park et al. | 2023-02-18 |
 | [EuroCrops: All you need to know about the Largest Harmonised Open Crop Dataset Across the European Union](http://arxiv.org/abs/2302.10202v1) | Maja Schneider et al. | 2023-02-20 |
 | [Some Might Say All You Need Is Sum](http://arxiv.org/abs/2302.11603v1) | Eran Rosenbluth et al. | 2023-02-22 |
-| [Language Is Not All You Need: Aligning Perception with Language Models](http://arxiv.org/abs/2302.14045v1) | Shaohan Huang et al. | 2023-02-27 |
+| [Language Is Not All You Need: Aligning Perception with Language Models](http://arxiv.org/abs/2302.14045v2) | Shaohan Huang et al. | 2023-02-27 |
+| [A Little Bit Attention Is All You Need for Person Re-Identification](http://arxiv.org/abs/2302.14574v1) | Markus Eisenbach et al. | 2023-02-28 |
 
 
 ## FAQ
