@@ -186,7 +186,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images](http://arxiv.org/abs/2210.03180v1) | Tomás Castilla et al. | 2022-10-06 |
 | [GraspCaps: Capsule Networks Are All You Need for Grasping Familiar Objects](http://arxiv.org/abs/2210.03628v1) | Tomas van der Velde et al. | 2022-10-07 |
 | [Is margin all you need? An extensive empirical study of active learning on tabular data](http://arxiv.org/abs/2210.03822v1) | Dara Bahri et al. | 2022-10-07 |
-| [Certified Training: Small Boxes are All You Need](http://arxiv.org/abs/2210.04871v1) | Mark Niklas Müller et al. | 2022-10-10 |
+| [Certified Training: Small Boxes are All You Need](http://arxiv.org/abs/2210.04871v2) | Mark Niklas Müller et al. | 2022-10-10 |
 | [Microscopy is All You Need](http://arxiv.org/abs/2210.06526v1) | Sergei V. Kalinin et al. | 2022-10-12 |
 | [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v5) | Xue Yang et al. | 2022-10-13 |
 | [Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects](http://arxiv.org/abs/2210.09997v1) | Arpit Bahety et al. | 2022-10-18 |
