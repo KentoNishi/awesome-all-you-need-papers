@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--03--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--03--09-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -220,6 +220,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Little Bit Attention Is All You Need for Person Re-Identification](http://arxiv.org/abs/2302.14574v1) | Markus Eisenbach et al. | 2023-02-28 |
 | [Zyxin is all you need: machine learning adherent cell mechanics](http://arxiv.org/abs/2303.00176v1) | Matthew S. Schmitt et al. | 2023-03-01 |
 | [Image Labels Are All You Need for Coarse Seagrass Segmentation](http://arxiv.org/abs/2303.00973v1) | Scarlett Raine et al. | 2023-03-02 |
+| [From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need](http://arxiv.org/abs/2303.05266v1) | Ziqing Yang et al. | 2023-03-09 |
 
 
 ## FAQ
