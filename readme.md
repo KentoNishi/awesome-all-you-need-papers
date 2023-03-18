@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--03--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--03--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -225,6 +225,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One scalar is all you need -- absolute depth estimation using monocular self-supervision](http://arxiv.org/abs/2303.07662v2) | Alexandra Dana et al. | 2023-03-14 |
 | [Good Neighbors Are All You Need for Chinese Grapheme-to-Phoneme Conversion](http://arxiv.org/abs/2303.07726v1) | Jungjun Kim et al. | 2023-03-14 |
 | [Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis](http://arxiv.org/abs/2303.08134v1) | Renrui Zhang et al. | 2023-03-14 |
+| [HE is all you need: Compressing FHE Ciphertexts using Additive HE](http://arxiv.org/abs/2303.09043v1) | Rasoul Akhavan Mahdavi et al. | 2023-03-16 |
 
 
 ## FAQ
