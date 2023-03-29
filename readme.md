@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--03--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--03--27-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -228,6 +228,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [HE is all you need: Compressing FHE Ciphertexts using Additive HE](http://arxiv.org/abs/2303.09043v1) | Rasoul Akhavan Mahdavi et al. | 2023-03-16 |
 | [Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning](http://arxiv.org/abs/2303.10475v2) | Renze Lou et al. | 2023-03-18 |
 | [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](http://arxiv.org/abs/2303.11717v1) | Chaoning Zhang et al. | 2023-03-21 |
+| [Text is All You Need: Personalizing ASR Models using Controllable Speech Synthesis](http://arxiv.org/abs/2303.14885v1) | Karren Yang et al. | 2023-03-27 |
+| [Active Self-Supervised Learning: A Few Low-Cost Relationships Are All You Need](http://arxiv.org/abs/2303.15256v1) | Vivien Cabannes et al. | 2023-03-27 |
 
 
 ## FAQ
