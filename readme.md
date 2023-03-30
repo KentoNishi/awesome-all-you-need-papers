@@ -213,7 +213,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hyperparameter Search Is All You Need For Training-Agnostic Backdoor Robustness](http://arxiv.org/abs/2302.04977v1) | Eugene Bagdasaryan et al. | 2023-02-09 |
 | [Conformers are All You Need for Visual Speech Recogntion](http://arxiv.org/abs/2302.10915v1) | Oscar Chang et al. | 2023-02-17 |
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
-| [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v1) | Sungheon Park et al. | 2023-02-18 |
+| [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v2) | Sungheon Park et al. | 2023-02-18 |
 | [EuroCrops: All you need to know about the Largest Harmonised Open Crop Dataset Across the European Union](http://arxiv.org/abs/2302.10202v1) | Maja Schneider et al. | 2023-02-20 |
 | [Some Might Say All You Need Is Sum](http://arxiv.org/abs/2302.11603v1) | Eran Rosenbluth et al. | 2023-02-22 |
 | [Language Is Not All You Need: Aligning Perception with Language Models](http://arxiv.org/abs/2302.14045v2) | Shaohan Huang et al. | 2023-02-27 |
