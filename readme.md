@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--03--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--03-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -233,6 +233,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Polarity is all you need to learn and transfer faster](http://arxiv.org/abs/2303.17589v1) | Qingyang Wang et al. | 2023-03-29 |
 | [All You Need Is Sex for Diversity](http://arxiv.org/abs/2303.17441v1) | José Maria Simões et al. | 2023-03-30 |
 | [Optimal Input Gain: All You Need to Supercharge a Feed-Forward Neural Network](http://arxiv.org/abs/2303.17732v1) | Chinmay Rane et al. | 2023-03-30 |
+| [Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation](http://arxiv.org/abs/2304.00792v1) | Suho Lee et al. | 2023-04-03 |
 
 
 ## FAQ
