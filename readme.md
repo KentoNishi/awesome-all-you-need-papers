@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -179,7 +179,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Rethinking Conversational Recommendations: Is Decision Tree All You Need?](http://arxiv.org/abs/2208.14614v1) | A S M Ahsan-Ul Haque et al. | 2022-08-31 |
 | [Paraphrasing Is All You Need for Novel Object Captioning](http://arxiv.org/abs/2209.12343v1) | Cheng-Fu Yang et al. | 2022-09-25 |
 | [Sentiment is all you need to win US Presidential elections](http://arxiv.org/abs/2209.13487v2) | Sovesh Mohapatra et al. | 2022-09-27 |
-| [Non-contrastive representation learning for intervals from well logs](http://arxiv.org/abs/2209.14750v2) | Alexander Marusov et al. | 2022-09-28 |
 | [Combining Efficient and Precise Sign Language Recognition: Good pose estimation library is all you need](http://arxiv.org/abs/2210.00893v1) | Matyáš Boháček et al. | 2022-09-30 |
 | [Centerpoints Are All You Need in Overhead Imagery](http://arxiv.org/abs/2210.01857v1) | James Mason Inder et al. | 2022-10-04 |
 | [Depth Is All You Need for Monocular 3D Detection](http://arxiv.org/abs/2210.02493v1) | Dennis Park et al. | 2022-10-05 |
@@ -235,6 +234,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Optimal Input Gain: All You Need to Supercharge a Feed-Forward Neural Network](http://arxiv.org/abs/2303.17732v1) | Chinmay Rane et al. | 2023-03-30 |
 | [Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation](http://arxiv.org/abs/2304.00792v1) | Suho Lee et al. | 2023-04-03 |
 | [Effective control of two-dimensional Rayleigh--B\'enard convection: invariant multi-agent reinforcement learning is all you need](http://arxiv.org/abs/2304.02370v1) | Colin Vignon et al. | 2023-04-05 |
+| [Retention Is All You Need](http://arxiv.org/abs/2304.03103v1) | Karishma Mohiuddin et al. | 2023-04-06 |
 
 
 ## FAQ
