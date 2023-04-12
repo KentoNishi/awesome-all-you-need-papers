@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -208,7 +208,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hoyer regularizer is all you need for ultra low-latency spiking neural networks](http://arxiv.org/abs/2212.10170v1) | Gourav Datta et al. | 2022-12-20 |
 | [In-Sensor \& Neuromorphic Computing are all you need for Energy Efficient Computer Vision](http://arxiv.org/abs/2212.10881v1) | Gourav Datta et al. | 2022-12-21 |
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
-| [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v1) | Jingyao Li et al. | 2023-02-06 |
+| [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v2) | Jingyao Li et al. | 2023-02-06 |
 | [Hyperparameter Search Is All You Need For Training-Agnostic Backdoor Robustness](http://arxiv.org/abs/2302.04977v1) | Eugene Bagdasaryan et al. | 2023-02-09 |
 | [Conformers are All You Need for Visual Speech Recogntion](http://arxiv.org/abs/2302.10915v1) | Oscar Chang et al. | 2023-02-17 |
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
@@ -235,6 +235,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation](http://arxiv.org/abs/2304.00792v1) | Suho Lee et al. | 2023-04-03 |
 | [Effective control of two-dimensional Rayleigh--B\'enard convection: invariant multi-agent reinforcement learning is all you need](http://arxiv.org/abs/2304.02370v1) | Colin Vignon et al. | 2023-04-05 |
 | [Retention Is All You Need](http://arxiv.org/abs/2304.03103v1) | Karishma Mohiuddin et al. | 2023-04-06 |
+| [Attention: Marginal Probability is All You Need?](http://arxiv.org/abs/2304.04556v1) | Ryan Singh et al. | 2023-04-07 |
 
 
 ## FAQ
