@@ -233,6 +233,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Sex for Diversity](http://arxiv.org/abs/2303.17441v1) | José Maria Simões et al. | 2023-03-30 |
 | [Optimal Input Gain: All You Need to Supercharge a Feed-Forward Neural Network](http://arxiv.org/abs/2303.17732v1) | Chinmay Rane et al. | 2023-03-30 |
 | [Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation](http://arxiv.org/abs/2304.00792v1) | Suho Lee et al. | 2023-04-03 |
+| [Astroformer: More Data Might Not be All You Need for Classification](http://arxiv.org/abs/2304.05350v1) | Rishit Dagli | 2023-04-03 |
 | [Effective control of two-dimensional Rayleigh--B\'enard convection: invariant multi-agent reinforcement learning is all you need](http://arxiv.org/abs/2304.02370v1) | Colin Vignon et al. | 2023-04-05 |
 | [Retention Is All You Need](http://arxiv.org/abs/2304.03103v1) | Karishma Mohiuddin et al. | 2023-04-06 |
 | [Attention: Marginal Probability is All You Need?](http://arxiv.org/abs/2304.04556v1) | Ryan Singh et al. | 2023-04-07 |
