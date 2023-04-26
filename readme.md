@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -240,6 +240,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are Local Features All You Need for Cross-Domain Visual Place Recognition?](http://arxiv.org/abs/2304.05887v1) | Giovanni Barbarani et al. | 2023-04-12 |
 | [[CLS] Token is All You Need for Zero-Shot Semantic Segmentation](http://arxiv.org/abs/2304.06212v1) | Letian Wu et al. | 2023-04-13 |
 | [Are LLMs All You Need for Task-Oriented Dialogue?](http://arxiv.org/abs/2304.06556v1) | Vojtěch Hudeček et al. | 2023-04-13 |
+| [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations](http://arxiv.org/abs/2304.11267v1) | Yu-Hui Chen et al. | 2023-04-21 |
 
 
 ## FAQ
