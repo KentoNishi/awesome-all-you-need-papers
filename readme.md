@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--04--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -244,6 +244,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations](http://arxiv.org/abs/2304.11267v1) | Yu-Hui Chen et al. | 2023-04-21 |
 | [Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks](http://arxiv.org/abs/2304.13861v1) | Anders Giovanni Møller et al. | 2023-04-26 |
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
+| [Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis](http://arxiv.org/abs/2305.01710v1) | Wenchang Li et al. | 2023-05-02 |
 
 
 ## FAQ
