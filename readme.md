@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--09-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -223,7 +223,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need](http://arxiv.org/abs/2303.07338v1) | Da-Wei Zhou et al. | 2023-03-13 |
 | [One scalar is all you need -- absolute depth estimation using monocular self-supervision](http://arxiv.org/abs/2303.07662v2) | Alexandra Dana et al. | 2023-03-14 |
 | [Good Neighbors Are All You Need for Chinese Grapheme-to-Phoneme Conversion](http://arxiv.org/abs/2303.07726v1) | Jungjun Kim et al. | 2023-03-14 |
-| [Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis](http://arxiv.org/abs/2303.08134v1) | Renrui Zhang et al. | 2023-03-14 |
+| [Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis](http://arxiv.org/abs/2303.08134v2) | Renrui Zhang et al. | 2023-03-14 |
 | [HE is all you need: Compressing FHE Ciphertexts using Additive HE](http://arxiv.org/abs/2303.09043v1) | Rasoul Akhavan Mahdavi et al. | 2023-03-16 |
 | [Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning](http://arxiv.org/abs/2303.10475v5) | Renze Lou et al. | 2023-03-18 |
 | [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](http://arxiv.org/abs/2303.11717v1) | Chaoning Zhang et al. | 2023-03-21 |
@@ -245,6 +245,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks](http://arxiv.org/abs/2304.13861v1) | Anders Giovanni Møller et al. | 2023-04-26 |
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
 | [Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis](http://arxiv.org/abs/2305.01710v1) | Wenchang Li et al. | 2023-05-02 |
+| [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
 
 
 ## FAQ
