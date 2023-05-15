@@ -110,7 +110,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Mask is All You Need: Rethinking Mask R-CNN for Dense and Arbitrary-Shaped Scene Text Detection](http://arxiv.org/abs/2109.03426v1) | Xugong Qin et al. | 2021-09-08 |
 | [WeakSTIL: Weak whole-slide image level stromal tumor infiltrating lymphocyte scores are all you need](http://arxiv.org/abs/2109.05892v1) | Yoni Schirris et al. | 2021-09-13 |
 | [Attention Is Indeed All You Need: Semantically Attention-Guided Decoding for Data-to-Text NLG](http://arxiv.org/abs/2109.07043v1) | Juraj Juraska et al. | 2021-09-15 |
-| [Torch.manual\_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision](http://arxiv.org/abs/2109.08203v1) | David Picard | 2021-09-16 |
+| [Torch.manual\_seed(3407) is all you need: On the influence of random seeds in deep learning architectures for computer vision](http://arxiv.org/abs/2109.08203v2) | David Picard | 2021-09-16 |
 | [Is Curiosity All You Need? On the Utility of Emergent Behaviours from Curious Exploration](http://arxiv.org/abs/2109.08603v1) | Oliver Groth et al. | 2021-09-17 |
 | [One Timestep is All You Need: Training Spiking Neural Networks with Ultra Low Latency](http://arxiv.org/abs/2110.05929v1) | Sayeed Shafayet Chowdhury et al. | 2021-10-01 |
 | [Attention is All You Need? Good Embeddings with Statistics are enough:Large Scale Audio Understanding without Transformers/ Convolutions/ BERTs/ Mixers/ Attention/ RNNs or ....](http://arxiv.org/abs/2110.03183v5) | Prateek Verma | 2021-10-07 |
