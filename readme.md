@@ -167,7 +167,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Look-ups are not (yet) all you need for deep learning inference](http://arxiv.org/abs/2207.05808v1) | Calvin McCarter et al. | 2022-07-12 |
 | [PointNorm: Dual Normalization is All You Need for Point Cloud Analysis](http://arxiv.org/abs/2207.06324v4) | Shen Zheng et al. | 2022-07-13 |
 | [All you need for horizontal slicing in 5G network](http://arxiv.org/abs/2207.11477v1) | Hamza Kheddar et al. | 2022-07-23 |
-| [Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?](http://arxiv.org/abs/2207.12101v1) | Pietro Bongini et al. | 2022-07-25 |
+| [Is GPT-3 all you need for Visual Question Answering in Cultural Heritage?](http://arxiv.org/abs/2207.12101v2) | Pietro Bongini et al. | 2022-07-25 |
 | [Reduction Rules and ILP Are All You Need: Minimal Directed Feedback Vertex Set](http://arxiv.org/abs/2208.01119v1) | Alex Meiburg | 2022-08-01 |
 | [PSUMNet: Unified Modality Part Streams are All You Need for Efficient Pose-based Action Recognition](http://arxiv.org/abs/2208.05775v1) | Neel Trivedi et al. | 2022-08-11 |
 | [Dropout is NOT All You Need to Prevent Gradient Leakage](http://arxiv.org/abs/2208.06163v2) | Daniel Scheliga et al. | 2022-08-12 |
@@ -214,7 +214,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
 | [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v2) | Sungheon Park et al. | 2023-02-18 |
 | [EuroCrops: All you need to know about the Largest Harmonised Open Crop Dataset Across the European Union](http://arxiv.org/abs/2302.10202v1) | Maja Schneider et al. | 2023-02-20 |
-| [Some Might Say All You Need Is Sum](http://arxiv.org/abs/2302.11603v1) | Eran Rosenbluth et al. | 2023-02-22 |
+| [Some Might Say All You Need Is Sum](http://arxiv.org/abs/2302.11603v2) | Eran Rosenbluth et al. | 2023-02-22 |
 | [Language Is Not All You Need: Aligning Perception with Language Models](http://arxiv.org/abs/2302.14045v2) | Shaohan Huang et al. | 2023-02-27 |
 | [A Little Bit Attention Is All You Need for Person Re-Identification](http://arxiv.org/abs/2302.14574v1) | Markus Eisenbach et al. | 2023-02-28 |
 | [Zyxin is all you need: machine learning adherent cell mechanics](http://arxiv.org/abs/2303.00176v1) | Matthew S. Schmitt et al. | 2023-03-01 |
@@ -246,7 +246,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
 | [Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis](http://arxiv.org/abs/2305.01710v1) | Wenchang Li et al. | 2023-05-02 |
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
-| [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v2) | Mauricio Mendez-Ruiza et al. | 2023-05-15 |
+| [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
 
 
