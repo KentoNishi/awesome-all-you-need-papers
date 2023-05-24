@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -86,7 +86,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms](http://arxiv.org/abs/2105.08791v3) | Xiaocheng Tang et al. | 2021-05-18 |
 | [Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions](http://arxiv.org/abs/2105.13913v5) | Alejandro Carderera et al. | 2021-05-28 |
 | [Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction](http://arxiv.org/abs/2106.01793v1) | Quzhe Huang et al. | 2021-06-03 |
-| [Self-Supervision is All You Need for Solving Rubik's Cube](http://arxiv.org/abs/2106.03157v4) | Kyo Takano | 2021-06-06 |
+| [Self-Supervision is All You Need for Solving Rubik's Cube](http://arxiv.org/abs/2106.03157v5) | Kyo Takano | 2021-06-06 |
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v2) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
 | [Pretrained Encoders are All You Need](http://arxiv.org/abs/2106.05139v1) | Mina Khan et al. | 2021-06-09 |
 | [Transductive Few-Shot Learning: Clustering is All You Need?](http://arxiv.org/abs/2106.09516v1) | Imtiaz Masud Ziko et al. | 2021-06-16 |
@@ -249,6 +249,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
 | [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v1) | Minsik Cho et al. | 2023-05-18 |
+| [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](http://arxiv.org/abs/2305.12569v1) | Zheng Dong et al. | 2023-05-21 |
 
 
 ## FAQ
