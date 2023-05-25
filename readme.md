@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -209,7 +209,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [In-Sensor \& Neuromorphic Computing are all you need for Energy Efficient Computer Vision](http://arxiv.org/abs/2212.10881v1) | Gourav Datta et al. | 2022-12-21 |
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
 | [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v2) | Jingyao Li et al. | 2023-02-06 |
-| [Hyperparameter Search Is All You Need For Training-Agnostic Backdoor Robustness](http://arxiv.org/abs/2302.04977v1) | Eugene Bagdasaryan et al. | 2023-02-09 |
+| [Mithridates: Boosting Natural Resistance to Backdoor Learning](http://arxiv.org/abs/2302.04977v2) | Eugene Bagdasaryan et al. | 2023-02-09 |
 | [Conformers are All You Need for Visual Speech Recogntion](http://arxiv.org/abs/2302.10915v1) | Oscar Chang et al. | 2023-02-17 |
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
 | [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v2) | Sungheon Park et al. | 2023-02-18 |
@@ -250,6 +250,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
 | [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v1) | Minsik Cho et al. | 2023-05-18 |
 | [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](http://arxiv.org/abs/2305.12569v1) | Zheng Dong et al. | 2023-05-21 |
+| [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v1) | Jiacheng Li et al. | 2023-05-23 |
 
 
 ## FAQ
