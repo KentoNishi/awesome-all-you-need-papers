@@ -202,14 +202,13 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Out-Of-Distribution Detection Is Not All You Need](http://arxiv.org/abs/2211.16158v2) | Joris Guérin et al. | 2022-11-29 |
 | [All You Need Is Hashing: Defending Against Data Reconstruction Attack in Vertical Federated Learning](http://arxiv.org/abs/2212.00325v1) | Pengyu Qiu et al. | 2022-12-01 |
 | [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](http://arxiv.org/abs/2212.01076v1) | Antoine Vanderschueren et al. | 2022-12-02 |
-| [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](http://arxiv.org/abs/2212.04655v1) | Shuliang Ning et al. | 2022-12-09 |
+| [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](http://arxiv.org/abs/2212.04655v2) | Shuliang Ning et al. | 2022-12-09 |
 | [Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection](http://arxiv.org/abs/2212.06493v1) | Zhenyu Wu et al. | 2022-12-13 |
 | [Fine-Tuning Is All You Need to Mitigate Backdoor Attacks](http://arxiv.org/abs/2212.09067v1) | Zeyang Sha et al. | 2022-12-18 |
 | [Hoyer regularizer is all you need for ultra low-latency spiking neural networks](http://arxiv.org/abs/2212.10170v1) | Gourav Datta et al. | 2022-12-20 |
 | [In-Sensor \& Neuromorphic Computing are all you need for Energy Efficient Computer Vision](http://arxiv.org/abs/2212.10881v1) | Gourav Datta et al. | 2022-12-21 |
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
 | [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v2) | Jingyao Li et al. | 2023-02-06 |
-| [Mithridates: Boosting Natural Resistance to Backdoor Learning](http://arxiv.org/abs/2302.04977v2) | Eugene Bagdasaryan et al. | 2023-02-09 |
 | [Conformers are All You Need for Visual Speech Recogntion](http://arxiv.org/abs/2302.10915v1) | Oscar Chang et al. | 2023-02-17 |
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
 | [Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](http://arxiv.org/abs/2302.09311v2) | Sungheon Park et al. | 2023-02-18 |
