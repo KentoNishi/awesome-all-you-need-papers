@@ -249,7 +249,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
 | [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v1) | Minsik Cho et al. | 2023-05-18 |
 | [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](http://arxiv.org/abs/2305.12569v1) | Zheng Dong et al. | 2023-05-21 |
-| [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v1) | Jiacheng Li et al. | 2023-05-23 |
+| [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 
 
 ## FAQ
