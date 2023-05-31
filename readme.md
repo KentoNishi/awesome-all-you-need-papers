@@ -202,7 +202,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Out-Of-Distribution Detection Is Not All You Need](http://arxiv.org/abs/2211.16158v2) | Joris Guérin et al. | 2022-11-29 |
 | [All You Need Is Hashing: Defending Against Data Reconstruction Attack in Vertical Federated Learning](http://arxiv.org/abs/2212.00325v1) | Pengyu Qiu et al. | 2022-12-01 |
 | [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](http://arxiv.org/abs/2212.01076v1) | Antoine Vanderschueren et al. | 2022-12-02 |
-| [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](http://arxiv.org/abs/2212.04655v2) | Shuliang Ning et al. | 2022-12-09 |
+| [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](http://arxiv.org/abs/2212.04655v3) | Shuliang Ning et al. | 2022-12-09 |
 | [Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection](http://arxiv.org/abs/2212.06493v1) | Zhenyu Wu et al. | 2022-12-13 |
 | [Fine-Tuning Is All You Need to Mitigate Backdoor Attacks](http://arxiv.org/abs/2212.09067v1) | Zeyang Sha et al. | 2022-12-18 |
 | [Hoyer regularizer is all you need for ultra low-latency spiking neural networks](http://arxiv.org/abs/2212.10170v1) | Gourav Datta et al. | 2022-12-20 |
