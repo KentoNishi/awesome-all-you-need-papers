@@ -228,7 +228,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](http://arxiv.org/abs/2303.11717v1) | Chaoning Zhang et al. | 2023-03-21 |
 | [Text is All You Need: Personalizing ASR Models using Controllable Speech Synthesis](http://arxiv.org/abs/2303.14885v1) | Karren Yang et al. | 2023-03-27 |
 | [Active Self-Supervised Learning: A Few Low-Cost Relationships Are All You Need](http://arxiv.org/abs/2303.15256v1) | Vivien Cabannes et al. | 2023-03-27 |
-| [Polarity is all you need to learn and transfer faster](http://arxiv.org/abs/2303.17589v1) | Qingyang Wang et al. | 2023-03-29 |
+| [Polarity is all you need to learn and transfer faster](http://arxiv.org/abs/2303.17589v2) | Qingyang Wang et al. | 2023-03-29 |
 | [All You Need Is Sex for Diversity](http://arxiv.org/abs/2303.17441v1) | José Maria Simões et al. | 2023-03-30 |
 | [Optimal Input Gain: All You Need to Supercharge a Feed-Forward Neural Network](http://arxiv.org/abs/2303.17732v1) | Chinmay Rane et al. | 2023-03-30 |
 | [Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation](http://arxiv.org/abs/2304.00792v2) | Suho Lee et al. | 2023-04-03 |
