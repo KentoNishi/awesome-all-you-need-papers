@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--05--31-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -251,6 +251,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](http://arxiv.org/abs/2305.12569v1) | Zheng Dong et al. | 2023-05-21 |
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
+| [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
 
 
 ## FAQ
