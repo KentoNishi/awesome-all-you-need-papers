@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -252,6 +252,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
+| [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v1) | Federico Ceola et al. | 2023-06-06 |
 
 
 ## FAQ
