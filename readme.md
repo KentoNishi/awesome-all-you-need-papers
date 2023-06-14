@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -233,7 +233,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Optimal Input Gain: All You Need to Supercharge a Feed-Forward Neural Network](http://arxiv.org/abs/2303.17732v1) | Chinmay Rane et al. | 2023-03-30 |
 | [Few-shot Fine-tuning is All You Need for Source-free Domain Adaptation](http://arxiv.org/abs/2304.00792v2) | Suho Lee et al. | 2023-04-03 |
 | [Astroformer: More Data Might not be all you need for Classification](http://arxiv.org/abs/2304.05350v2) | Rishit Dagli | 2023-04-03 |
-| [Effective control of two-dimensional Rayleigh--B\'enard convection: invariant multi-agent reinforcement learning is all you need](http://arxiv.org/abs/2304.02370v1) | Colin Vignon et al. | 2023-04-05 |
+| [Effective control of two-dimensional Rayleigh--B\'enard convection: invariant multi-agent reinforcement learning is all you need](http://arxiv.org/abs/2304.02370v2) | Colin Vignon et al. | 2023-04-05 |
 | [Retention Is All You Need](http://arxiv.org/abs/2304.03103v1) | Karishma Mohiuddin et al. | 2023-04-06 |
 | [Attention: Marginal Probability is All You Need?](http://arxiv.org/abs/2304.04556v1) | Ryan Singh et al. | 2023-04-07 |
 | [ChatGPT is all you need to decolonize sub-Saharan Vocational Education](http://arxiv.org/abs/2304.13728v1) | Isidora Tourni et al. | 2023-04-11 |
@@ -253,6 +253,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
 | [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v1) | Federico Ceola et al. | 2023-06-06 |
+| [Attention, Compilation, and Solver-based Symbolic Analysis are All You Need](http://arxiv.org/abs/2306.06755v1) | Prithwish Jana et al. | 2023-06-11 |
+| [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
 
 
 ## FAQ
