@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -255,6 +255,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v1) | Federico Ceola et al. | 2023-06-06 |
 | [Attention, Compilation, and Solver-based Symbolic Analysis are All You Need](http://arxiv.org/abs/2306.06755v1) | Prithwish Jana et al. | 2023-06-11 |
 | [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
+| [Require Process Control? \textbf{LSTMc} is all you need!](http://arxiv.org/abs/2306.07510v1) | Niranjan Sitapure et al. | 2023-06-13 |
+| [Area is all you need: repeatable elements make stronger adversarial attacks](http://arxiv.org/abs/2306.07768v1) | Dillon Niederhut | 2023-06-13 |
 
 
 ## FAQ
