@@ -255,7 +255,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v1) | Federico Ceola et al. | 2023-06-06 |
 | [Attention, Compilation, and Solver-based Symbolic Analysis are All You Need](http://arxiv.org/abs/2306.06755v1) | Prithwish Jana et al. | 2023-06-11 |
 | [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
-| [Require Process Control? \textbf{LSTMc} is all you need!](http://arxiv.org/abs/2306.07510v1) | Niranjan Sitapure et al. | 2023-06-13 |
+| [Require Process Control? LSTMc is all you need!](http://arxiv.org/abs/2306.07510v2) | Niranjan Sitapure et al. | 2023-06-13 |
 | [Area is all you need: repeatable elements make stronger adversarial attacks](http://arxiv.org/abs/2306.07768v1) | Dillon Niederhut | 2023-06-13 |
 
 
