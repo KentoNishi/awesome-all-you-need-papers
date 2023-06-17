@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -257,6 +257,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
 | [Require Process Control? LSTMc is all you need!](http://arxiv.org/abs/2306.07510v2) | Niranjan Sitapure et al. | 2023-06-13 |
 | [Area is all you need: repeatable elements make stronger adversarial attacks](http://arxiv.org/abs/2306.07768v1) | Dillon Niederhut | 2023-06-13 |
+| [Contrastive Loss is All You Need to Recover Analogies as Parallel Lines](http://arxiv.org/abs/2306.08221v1) | Narutatsu Ri et al. | 2023-06-14 |
+| [A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception](http://arxiv.org/abs/2306.09266v1) | Walter Zimmer et al. | 2023-06-15 |
 
 
 ## FAQ
