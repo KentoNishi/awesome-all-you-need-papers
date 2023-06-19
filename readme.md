@@ -240,7 +240,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are Local Features All You Need for Cross-Domain Visual Place Recognition?](http://arxiv.org/abs/2304.05887v1) | Giovanni Barbarani et al. | 2023-04-12 |
 | [[CLS] Token is All You Need for Zero-Shot Semantic Segmentation](http://arxiv.org/abs/2304.06212v1) | Letian Wu et al. | 2023-04-13 |
 | [Are LLMs All You Need for Task-Oriented Dialogue?](http://arxiv.org/abs/2304.06556v1) | Vojtěch Hudeček et al. | 2023-04-13 |
-| [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations](http://arxiv.org/abs/2304.11267v1) | Yu-Hui Chen et al. | 2023-04-21 |
+| [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations](http://arxiv.org/abs/2304.11267v2) | Yu-Hui Chen et al. | 2023-04-21 |
 | [Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks](http://arxiv.org/abs/2304.13861v1) | Anders Giovanni Møller et al. | 2023-04-26 |
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
 | [Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis](http://arxiv.org/abs/2305.01710v1) | Wenchang Li et al. | 2023-05-02 |
