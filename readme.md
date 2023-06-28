@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--06--26-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -194,7 +194,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cross-Attention is all you need: Real-Time Streaming Transformers for Personalised Speech Enhancement](http://arxiv.org/abs/2211.04346v1) | Shucong Zhang et al. | 2022-11-08 |
 | [NoiSER: Noise is All You Need for Low-Light Image Enhancement](http://arxiv.org/abs/2211.04700v2) | Zhao Zhang et al. | 2022-11-09 |
 | [Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning](http://arxiv.org/abs/2211.06324v1) | John Reuben Gilbert | 2022-11-10 |
-| [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v1) | Justus-Jonas Erker et al. | 2022-11-14 |
+| [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v2) | Justus-Jonas Erker et al. | 2022-11-14 |
 | [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
 | [Tired of Over-smoothing? Stress Graph Drawing Is All You Need!](http://arxiv.org/abs/2211.10579v1) | Xue Li et al. | 2022-11-19 |
 | [One Eye is All You Need: Lightweight Ensembles for Gaze Estimation with Single Encoders](http://arxiv.org/abs/2211.11936v1) | Rishi Athavale et al. | 2022-11-22 |
@@ -262,6 +262,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gradient is All You Need?](http://arxiv.org/abs/2306.09778v1) | Konstantin Riedl et al. | 2023-06-16 |
 | [Textbooks Are All You Need](http://arxiv.org/abs/2306.11644v1) | Suriya Gunasekar et al. | 2023-06-20 |
 | [Randomized Quantization is All You Need for Differential Privacy in Federated Learning](http://arxiv.org/abs/2306.11913v1) | Yeojoon Youn et al. | 2023-06-20 |
+| [Cross-Validation Is All You Need: A Statistical Approach To Label Noise Estimation](http://arxiv.org/abs/2306.13990v1) | Jianan Chen et al. | 2023-06-24 |
+| [ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks](http://arxiv.org/abs/2306.14525v1) | Kai Han et al. | 2023-06-26 |
 
 
 ## FAQ
