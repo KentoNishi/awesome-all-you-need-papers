@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--01-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -266,6 +266,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks](http://arxiv.org/abs/2306.14525v1) | Kai Han et al. | 2023-06-26 |
 | [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v1) | Zhixiang Yuan et al. | 2023-06-28 |
 | [One Copy Is All You Need: Resource-Efficient Streaming of Medical Imaging Data at Scale](http://arxiv.org/abs/2307.00438v1) | Pranav Kulkarni et al. | 2023-07-01 |
+| [Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data](http://arxiv.org/abs/2307.01701v1) | Florent Guépin et al. | 2023-07-04 |
+| [Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification](http://arxiv.org/abs/2307.01759v1) | Lucas Mahler et al. | 2023-07-04 |
+| [Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need](http://arxiv.org/abs/2307.02249v1) | Linhao Qu et al. | 2023-07-05 |
 
 
 ## FAQ
