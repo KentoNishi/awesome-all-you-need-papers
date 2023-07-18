@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -270,6 +270,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification](http://arxiv.org/abs/2307.01759v1) | Lucas Mahler et al. | 2023-07-04 |
 | [Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need](http://arxiv.org/abs/2307.02249v1) | Linhao Qu et al. | 2023-07-05 |
 | [Contrast Is All You Need](http://arxiv.org/abs/2307.02882v1) | Burak Kilic et al. | 2023-07-06 |
+| [Copy Is All You Need](http://arxiv.org/abs/2307.06962v1) | Tian Lan et al. | 2023-07-13 |
 
 
 ## FAQ
