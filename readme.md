@@ -253,7 +253,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
 | [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](http://arxiv.org/abs/2306.01987v2) | Sidong Feng et al. | 2023-06-03 |
-| [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v1) | Federico Ceola et al. | 2023-06-06 |
+| [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v2) | Federico Ceola et al. | 2023-06-06 |
 | [Attention, Compilation, and Solver-based Symbolic Analysis are All You Need](http://arxiv.org/abs/2306.06755v1) | Prithwish Jana et al. | 2023-06-11 |
 | [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
 | [Require Process Control? LSTMc is all you need!](http://arxiv.org/abs/2306.07510v2) | Niranjan Sitapure et al. | 2023-06-13 |
