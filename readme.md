@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--24-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--28-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -275,6 +275,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training](http://arxiv.org/abs/2307.07909v2) | Yao Wei et al. | 2023-07-16 |
 | [Feedback is All You Need: Real-World Reinforcement Learning with Approximate Physics-Based Models](http://arxiv.org/abs/2307.08168v1) | Tyler Westenbroek et al. | 2023-07-16 |
 | [Is attention all you need in medical image analysis? A review](http://arxiv.org/abs/2307.12775v1) | Giorgos Papanastasiou et al. | 2023-07-24 |
+| [Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?](http://arxiv.org/abs/2307.15422v1) | Romain Egele et al. | 2023-07-28 |
 
 
 ## FAQ
