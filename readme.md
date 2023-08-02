@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--31-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -71,7 +71,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Space-Time Attention All You Need for Video Understanding?](http://arxiv.org/abs/2102.05095v4) | Gedas Bertasius et al. | 2021-02-09 |
 | [All You Need is DAG](http://arxiv.org/abs/2102.08325v2) | Idit Keidar et al. | 2021-02-16 |
 | [Node Proximity Is All You Need: Unified Structural and Positional Node and Graph Embedding](http://arxiv.org/abs/2102.13582v1) | Jing Zhu et al. | 2021-02-26 |
-| [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](http://arxiv.org/abs/2103.03404v1) | Yihe Dong et al. | 2021-03-05 |
+| [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](http://arxiv.org/abs/2103.03404v2) | Yihe Dong et al. | 2021-03-05 |
 | [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](http://arxiv.org/abs/2103.05236v2) | Jaeseong You et al. | 2021-03-09 |
 | [Partial Differential Equations is All You Need for Generating Neural Architectures -- A Theory for Physical Artificial Intelligence Systems](http://arxiv.org/abs/2103.08313v1) | Ping Guo et al. | 2021-03-10 |
 | [More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](http://arxiv.org/abs/2103.13990v1) | Ayan Kumar Bhunia et al. | 2021-03-25 |
@@ -276,6 +276,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Feedback is All You Need: Real-World Reinforcement Learning with Approximate Physics-Based Models](http://arxiv.org/abs/2307.08168v1) | Tyler Westenbroek et al. | 2023-07-16 |
 | [Is attention all you need in medical image analysis? A review](http://arxiv.org/abs/2307.12775v1) | Giorgos Papanastasiou et al. | 2023-07-24 |
 | [Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?](http://arxiv.org/abs/2307.15422v1) | Romain Egele et al. | 2023-07-28 |
+| [Separate Scene Text Detector for Unseen Scripts is Not All You Need](http://arxiv.org/abs/2307.15991v1) | Prateek Keserwani et al. | 2023-07-29 |
+| [Graph Structure from Point Clouds: Geometric Attention is All You Need](http://arxiv.org/abs/2307.16662v1) | Daniel Murnane | 2023-07-31 |
 
 
 ## FAQ
