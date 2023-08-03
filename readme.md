@@ -13,7 +13,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 |-----|-----|-----|
 | [All you need is a good init](http://arxiv.org/abs/1511.06422v7) | Dmytro Mishkin et al. | 2015-11-19 |
 | [All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://arxiv.org/abs/1703.01827v3) | Di Xie et al. | 2017-03-06 |
-| [Attention Is All You Need](http://arxiv.org/abs/1706.03762v6) | Ashish Vaswani et al. | 2017-06-12 |
+| [Attention Is All You Need](http://arxiv.org/abs/1706.03762v7) | Ashish Vaswani et al. | 2017-06-12 |
 | [CNN Is All You Need](http://arxiv.org/abs/1712.09662v1) | Qiming Chen et al. | 2017-12-27 |
 | [Diversity is All You Need: Learning Skills without a Reward Function](http://arxiv.org/abs/1802.06070v6) | Benjamin Eysenbach et al. | 2018-02-16 |
 | [MemGEN: Memory is All You Need](http://arxiv.org/abs/1803.11203v1) | Sylvain Gelly et al. | 2018-03-29 |
