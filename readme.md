@@ -268,7 +268,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v1) | Zhixiang Yuan et al. | 2023-06-28 |
 | [One Copy Is All You Need: Resource-Efficient Streaming of Medical Imaging Data at Scale](http://arxiv.org/abs/2307.00438v1) | Pranav Kulkarni et al. | 2023-07-01 |
 | [Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data](http://arxiv.org/abs/2307.01701v1) | Florent Guépin et al. | 2023-07-04 |
-| [Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification](http://arxiv.org/abs/2307.01759v1) | Lucas Mahler et al. | 2023-07-04 |
+| [Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification](http://arxiv.org/abs/2307.01759v2) | Lucas Mahler et al. | 2023-07-04 |
 | [Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need](http://arxiv.org/abs/2307.02249v1) | Linhao Qu et al. | 2023-07-05 |
 | [Contrast Is All You Need](http://arxiv.org/abs/2307.02882v1) | Burak Kilic et al. | 2023-07-06 |
 | [Copy Is All You Need](http://arxiv.org/abs/2307.06962v1) | Tian Lan et al. | 2023-07-13 |
