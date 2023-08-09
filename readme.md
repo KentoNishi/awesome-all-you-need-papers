@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--07--31-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -278,6 +278,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?](http://arxiv.org/abs/2307.15422v1) | Romain Egele et al. | 2023-07-28 |
 | [Separate Scene Text Detector for Unseen Scripts is Not All You Need](http://arxiv.org/abs/2307.15991v1) | Prateek Keserwani et al. | 2023-07-29 |
 | [Graph Structure from Point Clouds: Geometric Attention is All You Need](http://arxiv.org/abs/2307.16662v1) | Daniel Murnane | 2023-07-31 |
+| [Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience](http://arxiv.org/abs/2308.03712v1) | A. Emin Orhan | 2023-08-07 |
 
 
 ## FAQ
