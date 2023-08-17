@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -281,6 +281,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience](http://arxiv.org/abs/2308.03712v2) | A. Emin Orhan | 2023-08-07 |
 | [Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection](http://arxiv.org/abs/2308.06701v1) | Haichao Zhang et al. | 2023-08-13 |
 | [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v1) | Shihao Shao et al. | 2023-08-14 |
+| [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v1) | Zhe Chen | 2023-08-15 |
 
 
 ## FAQ
