@@ -279,6 +279,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Separate Scene Text Detector for Unseen Scripts is Not All You Need](http://arxiv.org/abs/2307.15991v1) | Prateek Keserwani et al. | 2023-07-29 |
 | [Graph Structure from Point Clouds: Geometric Attention is All You Need](http://arxiv.org/abs/2307.16662v1) | Daniel Murnane | 2023-07-31 |
 | [Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience](http://arxiv.org/abs/2308.03712v2) | A. Emin Orhan | 2023-08-07 |
+| [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](http://arxiv.org/abs/2308.07934v1) | Jianshuo Dong et al. | 2023-08-12 |
 | [Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection](http://arxiv.org/abs/2308.06701v1) | Haichao Zhang et al. | 2023-08-13 |
 | [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v1) | Shihao Shao et al. | 2023-08-14 |
 | [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v1) | Zhe Chen | 2023-08-15 |
