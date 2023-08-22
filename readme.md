@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -281,8 +281,12 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience](http://arxiv.org/abs/2308.03712v2) | A. Emin Orhan | 2023-08-07 |
 | [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](http://arxiv.org/abs/2308.07934v1) | Jianshuo Dong et al. | 2023-08-12 |
 | [Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection](http://arxiv.org/abs/2308.06701v1) | Haichao Zhang et al. | 2023-08-13 |
-| [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v1) | Shihao Shao et al. | 2023-08-14 |
+| [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v2) | Shihao Shao et al. | 2023-08-14 |
 | [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v1) | Zhe Chen | 2023-08-15 |
+| [Dynamic Neural Network is All You Need: Understanding the Robustness of Dynamic Mechanisms in Neural Networks](http://arxiv.org/abs/2308.08709v1) | Mirazul Haque et al. | 2023-08-17 |
+| [Scope is all you need: Transforming LLMs for HPC Code](http://arxiv.org/abs/2308.09440v1) | Tal Kadosh et al. | 2023-08-18 |
+| [Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift](http://arxiv.org/abs/2308.09565v1) | Guojun Zhang et al. | 2023-08-18 |
+| [Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse](http://arxiv.org/abs/2308.09622v1) | Ozge Mercanoglu Sincan et al. | 2023-08-18 |
 
 
 ## FAQ
