@@ -265,7 +265,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Randomized Quantization is All You Need for Differential Privacy in Federated Learning](http://arxiv.org/abs/2306.11913v1) | Yeojoon Youn et al. | 2023-06-20 |
 | [Cross-Validation Is All You Need: A Statistical Approach To Label Noise Estimation](http://arxiv.org/abs/2306.13990v1) | Jianan Chen et al. | 2023-06-24 |
 | [ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks](http://arxiv.org/abs/2306.14525v1) | Kai Han et al. | 2023-06-26 |
-| [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v1) | Zhixiang Yuan et al. | 2023-06-28 |
+| [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v2) | Zhixiang Yuan et al. | 2023-06-28 |
 | [One Copy Is All You Need: Resource-Efficient Streaming of Medical Imaging Data at Scale](http://arxiv.org/abs/2307.00438v1) | Pranav Kulkarni et al. | 2023-07-01 |
 | [Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data](http://arxiv.org/abs/2307.01701v1) | Florent Guépin et al. | 2023-07-04 |
 | [Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification](http://arxiv.org/abs/2307.01759v2) | Lucas Mahler et al. | 2023-07-04 |
@@ -288,7 +288,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift](http://arxiv.org/abs/2308.09565v1) | Guojun Zhang et al. | 2023-08-18 |
 | [Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse](http://arxiv.org/abs/2308.09622v1) | Ozge Mercanoglu Sincan et al. | 2023-08-18 |
 | [Learning from A Single Graph is All You Need for Near-Shortest Path Routing in Wireless Networks](http://arxiv.org/abs/2308.09829v1) | Yung-Fu Chen et al. | 2023-08-18 |
-| [Minimalist Traffic Prediction: Linear Layer Is All You Need](http://arxiv.org/abs/2308.10276v1) | Wenying Duan et al. | 2023-08-20 |
+| [Minimalist Traffic Prediction: Linear Layer Is All You Need](http://arxiv.org/abs/2308.10276v2) | Wenying Duan et al. | 2023-08-20 |
 | [GaitPT: Skeletons Are All You Need For Gait Recognition](http://arxiv.org/abs/2308.10623v1) | Andy Catruna et al. | 2023-08-21 |
 | [Patch Is Not All You Need](http://arxiv.org/abs/2308.10729v1) | Changzhen Li et al. | 2023-08-21 |
 
