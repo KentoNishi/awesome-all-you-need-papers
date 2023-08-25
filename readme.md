@@ -99,7 +99,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [DNN is not all you need: Parallelizing Non-Neural ML Algorithms on Ultra-Low-Power IoT Processors](http://arxiv.org/abs/2107.09448v2) | Enrico Tabanelli et al. | 2021-07-16 |
 | [Is attention to bounding boxes all you need for pedestrian action prediction?](http://arxiv.org/abs/2107.08031v3) | Lina Achaji et al. | 2021-07-16 |
 | [Few Shots Are All You Need: A Progressive Few Shot Learning Approach for Low Resource Handwritten Text Recognition](http://arxiv.org/abs/2107.10064v3) | Mohamed Ali Souibgui et al. | 2021-07-21 |
-| [Triplet is All You Need with Random Mappings for Unsupervised Visual Representation Learning](http://arxiv.org/abs/2107.10419v2) | Wenbin Li et al. | 2021-07-22 |
+| [Trip-ROMA: Self-Supervised Learning with Triplets and Random Mappings](http://arxiv.org/abs/2107.10419v3) | Wenbin Li et al. | 2021-07-22 |
 | [SphereFace2: Binary Classification is All You Need for Deep Face Recognition](http://arxiv.org/abs/2108.01513v3) | Yandong Wen et al. | 2021-08-03 |
 | [Pose is all you need: The pose only group activity recognition system (POGARS)](http://arxiv.org/abs/2108.04186v1) | Haritha Thilakarathne et al. | 2021-08-09 |
 | [A good body is all you need: avoiding catastrophic interference via agent architecture search](http://arxiv.org/abs/2108.08398v2) | Joshua Powers et al. | 2021-08-18 |
