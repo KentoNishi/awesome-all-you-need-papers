@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -290,6 +290,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Minimalist Traffic Prediction: Linear Layer Is All You Need](http://arxiv.org/abs/2308.10276v2) | Wenying Duan et al. | 2023-08-20 |
 | [GaitPT: Skeletons Are All You Need For Gait Recognition](http://arxiv.org/abs/2308.10623v1) | Andy Catruna et al. | 2023-08-21 |
 | [Patch Is Not All You Need](http://arxiv.org/abs/2308.10729v1) | Changzhen Li et al. | 2023-08-21 |
+| [Vector Search with OpenAI Embeddings: Lucene Is All You Need](http://arxiv.org/abs/2308.14963v1) | Jimmy Lin et al. | 2023-08-29 |
 
 
 ## FAQ
