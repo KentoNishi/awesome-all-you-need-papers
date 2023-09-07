@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--08--31-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--04-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -216,7 +216,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Language Is Not All You Need: Aligning Perception with Language Models](http://arxiv.org/abs/2302.14045v2) | Shaohan Huang et al. | 2023-02-27 |
 | [A Little Bit Attention Is All You Need for Person Re-Identification](http://arxiv.org/abs/2302.14574v1) | Markus Eisenbach et al. | 2023-02-28 |
 | [Zyxin is all you need: machine learning adherent cell mechanics](http://arxiv.org/abs/2303.00176v1) | Matthew S. Schmitt et al. | 2023-03-01 |
-| [Image Labels Are All You Need for Coarse Seagrass Segmentation](http://arxiv.org/abs/2303.00973v1) | Scarlett Raine et al. | 2023-03-02 |
+| [Image Labels Are All You Need for Coarse Seagrass Segmentation](http://arxiv.org/abs/2303.00973v2) | Scarlett Raine et al. | 2023-03-02 |
 | [From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need](http://arxiv.org/abs/2303.05266v1) | Ziqing Yang et al. | 2023-03-09 |
 | [Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need](http://arxiv.org/abs/2303.07338v1) | Da-Wei Zhou et al. | 2023-03-13 |
 | [One scalar is all you need -- absolute depth estimation using monocular self-supervision](http://arxiv.org/abs/2303.07662v2) | Alexandra Dana et al. | 2023-03-14 |
@@ -292,6 +292,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Patch Is Not All You Need](http://arxiv.org/abs/2308.10729v1) | Changzhen Li et al. | 2023-08-21 |
 | [Vector Search with OpenAI Embeddings: Lucene Is All You Need](http://arxiv.org/abs/2308.14963v1) | Jimmy Lin et al. | 2023-08-29 |
 | [Parsing is All You Need for Accurate Gait Recognition in the Wild](http://arxiv.org/abs/2308.16739v1) | Jinkai Zheng et al. | 2023-08-31 |
+| [Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v1) | Xiao Feng Zhang et al. | 2023-09-04 |
+| [A Blackbox Model Is All You Need to Breach Privacy: Smart Grid Forecasting Models as a Use Case](http://arxiv.org/abs/2309.01523v1) | Hussein Aly et al. | 2023-09-04 |
+| [Raw Data Is All You Need: Virtual Axle Detector with Enhanced Receptive Field](http://arxiv.org/abs/2309.01574v1) | Henik Riedel et al. | 2023-09-04 |
+| [Concepts is All You Need: A More Direct Path to AGI](http://arxiv.org/abs/2309.01622v1) | Peter Voss et al. | 2023-09-04 |
+| [One Wide Feedforward is All You Need](http://arxiv.org/abs/2309.01826v1) | Telmo Pessoa Pires et al. | 2023-09-04 |
 
 
 ## FAQ
