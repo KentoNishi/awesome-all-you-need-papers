@@ -207,6 +207,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hoyer regularizer is all you need for ultra low-latency spiking neural networks](http://arxiv.org/abs/2212.10170v1) | Gourav Datta et al. | 2022-12-20 |
 | [In-Sensor \& Neuromorphic Computing are all you need for Energy Efficient Computer Vision](http://arxiv.org/abs/2212.10881v1) | Gourav Datta et al. | 2022-12-21 |
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
+| [Neural Operator: Is data all you need to model the world? An insight into the impact of Physics Informed Machine Learning](http://arxiv.org/abs/2301.13331v2) | Hrishikesh Viswanath et al. | 2023-01-30 |
 | [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v2) | Jingyao Li et al. | 2023-02-06 |
 | [Conformers are All You Need for Visual Speech Recogntion](http://arxiv.org/abs/2302.10915v1) | Oscar Chang et al. | 2023-02-17 |
 | [Are Gaussian data all you need? Extents and limits of universality in high-dimensional generalized linear estimation](http://arxiv.org/abs/2302.08923v1) | Luca Pesce et al. | 2023-02-17 |
@@ -281,7 +282,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training](http://arxiv.org/abs/2308.07934v1) | Jianshuo Dong et al. | 2023-08-12 |
 | [Camouflaged Image Synthesis Is All You Need to Boost Camouflaged Detection](http://arxiv.org/abs/2308.06701v1) | Haichao Zhang et al. | 2023-08-13 |
 | [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v2) | Shihao Shao et al. | 2023-08-14 |
-| [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v1) | Zhe Chen | 2023-08-15 |
+| [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v2) | Zhe Chen | 2023-08-15 |
 | [Dynamic Neural Network is All You Need: Understanding the Robustness of Dynamic Mechanisms in Neural Networks](http://arxiv.org/abs/2308.08709v1) | Mirazul Haque et al. | 2023-08-17 |
 | [Scope is all you need: Transforming LLMs for HPC Code](http://arxiv.org/abs/2308.09440v1) | Tal Kadosh et al. | 2023-08-18 |
 | [Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift](http://arxiv.org/abs/2308.09565v1) | Guojun Zhang et al. | 2023-08-18 |
@@ -299,6 +300,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Wide Feedforward is All You Need](http://arxiv.org/abs/2309.01826v1) | Telmo Pessoa Pires et al. | 2023-09-04 |
 | [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463v1) | Yuanzhi Li et al. | 2023-09-11 |
 | [All you need is spin: SU(2) equivariant variational quantum circuits based on spin networks](http://arxiv.org/abs/2309.07250v1) | Richard D. P. East et al. | 2023-09-13 |
+| [Pretraining on the Test Set Is All You Need](http://arxiv.org/abs/2309.08632v1) | Rylan Schaeffer | 2023-09-13 |
 
 
 ## FAQ
