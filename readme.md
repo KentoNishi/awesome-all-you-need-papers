@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -267,7 +267,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks](http://arxiv.org/abs/2306.14525v1) | Kai Han et al. | 2023-06-26 |
 | [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v2) | Zhixiang Yuan et al. | 2023-06-28 |
 | [One Copy Is All You Need: Resource-Efficient Streaming of Medical Imaging Data at Scale](http://arxiv.org/abs/2307.00438v1) | Pranav Kulkarni et al. | 2023-07-01 |
-| [Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data](http://arxiv.org/abs/2307.01701v1) | Florent Guépin et al. | 2023-07-04 |
+| [Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data](http://arxiv.org/abs/2307.01701v2) | Florent Guépin et al. | 2023-07-04 |
 | [Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification](http://arxiv.org/abs/2307.01759v2) | Lucas Mahler et al. | 2023-07-04 |
 | [Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need](http://arxiv.org/abs/2307.02249v1) | Linhao Qu et al. | 2023-07-05 |
 | [Contrast Is All You Need](http://arxiv.org/abs/2307.02882v1) | Burak Kilic et al. | 2023-07-06 |
@@ -284,7 +284,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v2) | Shihao Shao et al. | 2023-08-14 |
 | [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v2) | Zhe Chen | 2023-08-15 |
 | [Dynamic Neural Network is All You Need: Understanding the Robustness of Dynamic Mechanisms in Neural Networks](http://arxiv.org/abs/2308.08709v1) | Mirazul Haque et al. | 2023-08-17 |
-| [Scope is all you need: Transforming LLMs for HPC Code](http://arxiv.org/abs/2308.09440v1) | Tal Kadosh et al. | 2023-08-18 |
+| [Scope is all you need: Transforming LLMs for HPC Code](http://arxiv.org/abs/2308.09440v2) | Tal Kadosh et al. | 2023-08-18 |
 | [Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift](http://arxiv.org/abs/2308.09565v1) | Guojun Zhang et al. | 2023-08-18 |
 | [Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse](http://arxiv.org/abs/2308.09622v1) | Ozge Mercanoglu Sincan et al. | 2023-08-18 |
 | [Learning from A Single Graph is All You Need for Near-Shortest Path Routing in Wireless Networks](http://arxiv.org/abs/2308.09829v1) | Yung-Fu Chen et al. | 2023-08-18 |
@@ -301,6 +301,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463v1) | Yuanzhi Li et al. | 2023-09-11 |
 | [All you need is spin: SU(2) equivariant variational quantum circuits based on spin networks](http://arxiv.org/abs/2309.07250v1) | Richard D. P. East et al. | 2023-09-13 |
 | [Pretraining on the Test Set Is All You Need](http://arxiv.org/abs/2309.08632v1) | Rylan Schaeffer | 2023-09-13 |
+| [More complex encoder is not all you need](http://arxiv.org/abs/2309.11139v2) | Weibin Yang et al. | 2023-09-20 |
 
 
 ## FAQ
