@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--25-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -275,7 +275,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training](http://arxiv.org/abs/2307.07909v2) | Yao Wei et al. | 2023-07-16 |
 | [Feedback is All You Need: Real-World Reinforcement Learning with Approximate Physics-Based Models](http://arxiv.org/abs/2307.08168v1) | Tyler Westenbroek et al. | 2023-07-16 |
 | [Is attention all you need in medical image analysis? A review](http://arxiv.org/abs/2307.12775v1) | Giorgos Papanastasiou et al. | 2023-07-24 |
-| [Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?](http://arxiv.org/abs/2307.15422v1) | Romain Egele et al. | 2023-07-28 |
+| [Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?](http://arxiv.org/abs/2307.15422v2) | Romain Egele et al. | 2023-07-28 |
 | [Separate Scene Text Detector for Unseen Scripts is Not All You Need](http://arxiv.org/abs/2307.15991v1) | Prateek Keserwani et al. | 2023-07-29 |
 | [Graph Structure from Point Clouds: Geometric Attention is All You Need](http://arxiv.org/abs/2307.16662v1) | Daniel Murnane | 2023-07-31 |
 | [Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience](http://arxiv.org/abs/2308.03712v2) | A. Emin Orhan | 2023-08-07 |
@@ -302,6 +302,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All you need is spin: SU(2) equivariant variational quantum circuits based on spin networks](http://arxiv.org/abs/2309.07250v1) | Richard D. P. East et al. | 2023-09-13 |
 | [Pretraining on the Test Set Is All You Need](http://arxiv.org/abs/2309.08632v1) | Rylan Schaeffer | 2023-09-13 |
 | [More complex encoder is not all you need](http://arxiv.org/abs/2309.11139v2) | Weibin Yang et al. | 2023-09-20 |
+| [MLPST: MLP is All You Need for Spatio-Temporal Prediction](http://arxiv.org/abs/2309.13363v1) | Zijian Zhang et al. | 2023-09-23 |
+| [Attention Is All You Need For Blind Room Volume Estimation](http://arxiv.org/abs/2309.13504v1) | Chunxi Wang et al. | 2023-09-23 |
+| [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
 
 
 ## FAQ
