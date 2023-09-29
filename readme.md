@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--25-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--27-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -305,6 +305,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [MLPST: MLP is All You Need for Spatio-Temporal Prediction](http://arxiv.org/abs/2309.13363v1) | Zijian Zhang et al. | 2023-09-23 |
 | [Attention Is All You Need For Blind Room Volume Estimation](http://arxiv.org/abs/2309.13504v1) | Chunxi Wang et al. | 2023-09-23 |
 | [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
+| [Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need](http://arxiv.org/abs/2309.15737v1) | Danil Provodin et al. | 2023-09-27 |
 
 
 ## FAQ
