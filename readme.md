@@ -227,7 +227,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning](http://arxiv.org/abs/2303.10475v5) | Renze Lou et al. | 2023-03-18 |
 | [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](http://arxiv.org/abs/2303.11717v1) | Chaoning Zhang et al. | 2023-03-21 |
 | [Text is All You Need: Personalizing ASR Models using Controllable Speech Synthesis](http://arxiv.org/abs/2303.14885v1) | Karren Yang et al. | 2023-03-27 |
-| [Active Self-Supervised Learning: A Few Low-Cost Relationships Are All You Need](http://arxiv.org/abs/2303.15256v1) | Vivien Cabannes et al. | 2023-03-27 |
+| [Active Self-Supervised Learning: A Few Low-Cost Relationships Are All You Need](http://arxiv.org/abs/2303.15256v2) | Vivien Cabannes et al. | 2023-03-27 |
 | [Polarity is all you need to learn and transfer faster](http://arxiv.org/abs/2303.17589v2) | Qingyang Wang et al. | 2023-03-29 |
 | [All You Need Is Sex for Diversity](http://arxiv.org/abs/2303.17441v1) | José Maria Simões et al. | 2023-03-30 |
 | [Optimal Input Gain: All You Need to Supercharge a Feed-Forward Neural Network](http://arxiv.org/abs/2303.17732v1) | Chinmay Rane et al. | 2023-03-30 |
@@ -284,7 +284,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Global Features are All You Need for Image Retrieval and Reranking](http://arxiv.org/abs/2308.06954v2) | Shihao Shao et al. | 2023-08-14 |
 | [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v2) | Zhe Chen | 2023-08-15 |
 | [Dynamic Neural Network is All You Need: Understanding the Robustness of Dynamic Mechanisms in Neural Networks](http://arxiv.org/abs/2308.08709v1) | Mirazul Haque et al. | 2023-08-17 |
-| [Scope is all you need: Transforming LLMs for HPC Code](http://arxiv.org/abs/2308.09440v2) | Tal Kadosh et al. | 2023-08-18 |
+| [Scope is all you need: Transforming LLMs for HPC Code](http://arxiv.org/abs/2308.09440v3) | Tal Kadosh et al. | 2023-08-18 |
 | [Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift](http://arxiv.org/abs/2308.09565v1) | Guojun Zhang et al. | 2023-08-18 |
 | [Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse](http://arxiv.org/abs/2308.09622v1) | Ozge Mercanoglu Sincan et al. | 2023-08-18 |
 | [Learning from A Single Graph is All You Need for Near-Shortest Path Routing in Wireless Networks](http://arxiv.org/abs/2308.09829v1) | Yung-Fu Chen et al. | 2023-08-18 |
