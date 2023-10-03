@@ -187,7 +187,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Certified Training: Small Boxes are All You Need](http://arxiv.org/abs/2210.04871v2) | Mark Niklas Müller et al. | 2022-10-10 |
 | [Microscopy is All You Need](http://arxiv.org/abs/2210.06526v1) | Sergei V. Kalinin et al. | 2022-10-12 |
 | [H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection](http://arxiv.org/abs/2210.06742v5) | Xue Yang et al. | 2022-10-13 |
-| [Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects](http://arxiv.org/abs/2210.09997v1) | Arpit Bahety et al. | 2022-10-18 |
+| [Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects](http://arxiv.org/abs/2210.09997v2) | Arpit Bahety et al. | 2022-10-18 |
 | [10 hours data is all you need](http://arxiv.org/abs/2210.13067v1) | Zeping Min et al. | 2022-10-24 |
 | [Saliency Can Be All You Need In Contrastive Self-Supervised Learning](http://arxiv.org/abs/2210.16776v1) | Veysel Kocaman et al. | 2022-10-30 |
 | [Cross-Attention is all you need: Real-Time Streaming Transformers for Personalised Speech Enhancement](http://arxiv.org/abs/2211.04346v1) | Shucong Zhang et al. | 2022-11-08 |
