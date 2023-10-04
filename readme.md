@@ -261,7 +261,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Contrastive Loss is All You Need to Recover Analogies as Parallel Lines](http://arxiv.org/abs/2306.08221v1) | Narutatsu Ri et al. | 2023-06-14 |
 | [A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception](http://arxiv.org/abs/2306.09266v1) | Walter Zimmer et al. | 2023-06-15 |
 | [Gradient is All You Need?](http://arxiv.org/abs/2306.09778v1) | Konstantin Riedl et al. | 2023-06-16 |
-| [Textbooks Are All You Need](http://arxiv.org/abs/2306.11644v1) | Suriya Gunasekar et al. | 2023-06-20 |
+| [Textbooks Are All You Need](http://arxiv.org/abs/2306.11644v2) | Suriya Gunasekar et al. | 2023-06-20 |
 | [Randomized Quantization is All You Need for Differential Privacy in Federated Learning](http://arxiv.org/abs/2306.11913v1) | Yeojoon Youn et al. | 2023-06-20 |
 | [Cross-Validation Is All You Need: A Statistical Approach To Label Noise Estimation](http://arxiv.org/abs/2306.13990v1) | Jianan Chen et al. | 2023-06-24 |
 | [ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks](http://arxiv.org/abs/2306.14525v1) | Kai Han et al. | 2023-06-26 |
