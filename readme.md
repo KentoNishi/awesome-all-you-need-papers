@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--09--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -247,8 +247,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
-| [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v1) | Minsik Cho et al. | 2023-05-18 |
-| [Conditional Generative Modeling is All You Need for Marked Temporal Point Processes](http://arxiv.org/abs/2305.12569v1) | Zheng Dong et al. | 2023-05-21 |
+| [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v2) | Minsik Cho et al. | 2023-05-18 |
+| [Conditional Generative Modeling for High-dimensional Marked Temporal Point Processes](http://arxiv.org/abs/2305.12569v2) | Zheng Dong et al. | 2023-05-21 |
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
@@ -306,6 +306,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is All You Need For Blind Room Volume Estimation](http://arxiv.org/abs/2309.13504v1) | Chunxi Wang et al. | 2023-09-23 |
 | [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
 | [Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need](http://arxiv.org/abs/2309.15737v1) | Danil Provodin et al. | 2023-09-27 |
+| [Multilingual Natural Language ProcessingModel for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v1) | Mariana Lindo et al. | 2023-09-29 |
+| [(Dynamic) Prompting might be all you need to repair Compressed LLMs](http://arxiv.org/abs/2310.00867v1) | Duc N. M Hoang et al. | 2023-10-02 |
+| [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v1) | Kwangjun Ahn et al. | 2023-10-02 |
 
 
 ## FAQ
