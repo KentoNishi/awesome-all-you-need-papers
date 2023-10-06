@@ -248,7 +248,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
 | [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v2) | Minsik Cho et al. | 2023-05-18 |
-| [Conditional Generative Modeling for High-dimensional Marked Temporal Point Processes](http://arxiv.org/abs/2305.12569v2) | Zheng Dong et al. | 2023-05-21 |
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
