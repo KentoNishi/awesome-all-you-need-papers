@@ -305,7 +305,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is All You Need For Blind Room Volume Estimation](http://arxiv.org/abs/2309.13504v1) | Chunxi Wang et al. | 2023-09-23 |
 | [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
 | [Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need](http://arxiv.org/abs/2309.15737v1) | Danil Provodin et al. | 2023-09-27 |
-| [Multilingual Natural Language ProcessingModel for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v1) | Mariana Lindo et al. | 2023-09-29 |
+| [Multilingual Natural Language Processing Model for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v2) | Mariana Lindo et al. | 2023-09-29 |
 | [(Dynamic) Prompting might be all you need to repair Compressed LLMs](http://arxiv.org/abs/2310.00867v1) | Duc N. M Hoang et al. | 2023-10-02 |
 | [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v1) | Kwangjun Ahn et al. | 2023-10-02 |
 
