@@ -271,7 +271,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need](http://arxiv.org/abs/2307.02249v1) | Linhao Qu et al. | 2023-07-05 |
 | [Contrast Is All You Need](http://arxiv.org/abs/2307.02882v1) | Burak Kilic et al. | 2023-07-06 |
 | [Copy Is All You Need](http://arxiv.org/abs/2307.06962v1) | Tian Lan et al. | 2023-07-13 |
-| [Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training](http://arxiv.org/abs/2307.07909v2) | Yao Wei et al. | 2023-07-16 |
+| [Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training](http://arxiv.org/abs/2307.07909v3) | Yao Wei et al. | 2023-07-16 |
 | [Feedback is All You Need: Real-World Reinforcement Learning with Approximate Physics-Based Models](http://arxiv.org/abs/2307.08168v1) | Tyler Westenbroek et al. | 2023-07-16 |
 | [Is attention all you need in medical image analysis? A review](http://arxiv.org/abs/2307.12775v1) | Giorgos Papanastasiou et al. | 2023-07-24 |
 | [Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?](http://arxiv.org/abs/2307.15422v2) | Romain Egele et al. | 2023-07-28 |
