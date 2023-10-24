@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -253,7 +253,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
 | [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](http://arxiv.org/abs/2306.01987v2) | Sidong Feng et al. | 2023-06-03 |
 | [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v2) | Federico Ceola et al. | 2023-06-06 |
-| [Attention, Compilation, and Solver-based Symbolic Analysis are All You Need](http://arxiv.org/abs/2306.06755v1) | Prithwish Jana et al. | 2023-06-11 |
+| [Attention, Compilation, and Solver-based Symbolic Analysis are All You Need](http://arxiv.org/abs/2306.06755v2) | Prithwish Jana et al. | 2023-06-11 |
 | [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
 | [Require Process Control? LSTMc is all you need!](http://arxiv.org/abs/2306.07510v2) | Niranjan Sitapure et al. | 2023-06-13 |
 | [Area is all you need: repeatable elements make stronger adversarial attacks](http://arxiv.org/abs/2306.07768v1) | Dillon Niederhut | 2023-06-13 |
@@ -296,7 +296,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Blackbox Model Is All You Need to Breach Privacy: Smart Grid Forecasting Models as a Use Case](http://arxiv.org/abs/2309.01523v1) | Hussein Aly et al. | 2023-09-04 |
 | [Raw Data Is All You Need: Virtual Axle Detector with Enhanced Receptive Field](http://arxiv.org/abs/2309.01574v1) | Henik Riedel et al. | 2023-09-04 |
 | [Concepts is All You Need: A More Direct Path to AGI](http://arxiv.org/abs/2309.01622v1) | Peter Voss et al. | 2023-09-04 |
-| [One Wide Feedforward is All You Need](http://arxiv.org/abs/2309.01826v1) | Telmo Pessoa Pires et al. | 2023-09-04 |
+| [One Wide Feedforward is All You Need](http://arxiv.org/abs/2309.01826v2) | Telmo Pessoa Pires et al. | 2023-09-04 |
 | [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463v1) | Yuanzhi Li et al. | 2023-09-11 |
 | [All you need is spin: SU(2) equivariant variational quantum circuits based on spin networks](http://arxiv.org/abs/2309.07250v1) | Richard D. P. East et al. | 2023-09-13 |
 | [Pretraining on the Test Set Is All You Need](http://arxiv.org/abs/2309.08632v1) | Rylan Schaeffer | 2023-09-13 |
@@ -309,6 +309,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [(Dynamic) Prompting might be all you need to repair Compressed LLMs](http://arxiv.org/abs/2310.00867v2) | Duc N. M Hoang et al. | 2023-10-02 |
 | [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v1) | Kwangjun Ahn et al. | 2023-10-02 |
 | [Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning](http://arxiv.org/abs/2310.10707v1) | Anirudh Som et al. | 2023-10-16 |
+| [Equivariant Transformer is all you need](http://arxiv.org/abs/2310.13222v1) | Akio Tomiya et al. | 2023-10-20 |
 
 
 ## FAQ
