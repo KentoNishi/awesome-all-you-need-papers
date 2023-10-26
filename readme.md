@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--24-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -49,7 +49,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation](http://arxiv.org/abs/2005.10283v2) | Bryan Eikema et al. | 2020-05-20 |
 | [DeeperGCN: All You Need to Train Deeper GCNs](http://arxiv.org/abs/2006.07739v1) | Guohao Li et al. | 2020-06-13 |
 | [Logarithmic Pruning is All You Need](http://arxiv.org/abs/2006.12156v2) | Laurent Orseau et al. | 2020-06-22 |
-| [Lipschitzness Is All You Need To Tame Off-policy Generative Adversarial Imitation Learning](http://arxiv.org/abs/2006.16785v3) | Lionel Blondé et al. | 2020-06-28 |
+| [Lipschitzness Is All You Need To Tame Off-policy Generative Adversarial Imitation Learning](http://arxiv.org/abs/2006.16785v4) | Lionel Blondé et al. | 2020-06-28 |
 | [Data Movement Is All You Need: A Case Study on Optimizing Transformers](http://arxiv.org/abs/2007.00072v3) | Andrei Ivanov et al. | 2020-06-30 |
 | [Hopfield Networks is All You Need](http://arxiv.org/abs/2008.02217v3) | Hubert Ramsauer et al. | 2020-07-16 |
 | [A Lip Sync Expert Is All You Need for Speech to Lip Generation In The Wild](http://arxiv.org/abs/2008.10010v1) | K R Prajwal et al. | 2020-08-23 |
@@ -313,6 +313,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Seq2seq is All You Need for Coreference Resolution](http://arxiv.org/abs/2310.13774v1) | Wenzheng Zhang et al. | 2023-10-20 |
 | [All you need is data: the added value of National Access Points as backbone European ITS data exchange infrastructures](http://arxiv.org/abs/2310.14054v1) | Chrysostomos Mylonas et al. | 2023-10-21 |
 | [Structural generalization in COGS: Supertagging is (almost) all you need](http://arxiv.org/abs/2310.14124v1) | Alban Petit et al. | 2023-10-21 |
+| [Is Probing All You Need? Indicator Tasks as an Alternative to Probing Embedding Spaces](http://arxiv.org/abs/2310.15905v1) | Tal Levy et al. | 2023-10-24 |
 
 
 ## FAQ
