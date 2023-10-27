@@ -305,7 +305,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is All You Need For Blind Room Volume Estimation](http://arxiv.org/abs/2309.13504v1) | Chunxi Wang et al. | 2023-09-23 |
 | [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
 | [Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need](http://arxiv.org/abs/2309.15737v1) | Danil Provodin et al. | 2023-09-27 |
-| [Multilingual Natural Language Processing Model for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v2) | Mariana Lindo et al. | 2023-09-29 |
+| [Multilingual Natural Language Processing Model for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v3) | Mariana Lindo et al. | 2023-09-29 |
 | [(Dynamic) Prompting might be all you need to repair Compressed LLMs](http://arxiv.org/abs/2310.00867v2) | Duc N. M Hoang et al. | 2023-10-02 |
 | [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v1) | Kwangjun Ahn et al. | 2023-10-02 |
 | [Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning](http://arxiv.org/abs/2310.10707v1) | Anirudh Som et al. | 2023-10-16 |
@@ -314,6 +314,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All you need is data: the added value of National Access Points as backbone European ITS data exchange infrastructures](http://arxiv.org/abs/2310.14054v1) | Chrysostomos Mylonas et al. | 2023-10-21 |
 | [Structural generalization in COGS: Supertagging is (almost) all you need](http://arxiv.org/abs/2310.14124v1) | Alban Petit et al. | 2023-10-21 |
 | [Is Probing All You Need? Indicator Tasks as an Alternative to Probing Embedding Spaces](http://arxiv.org/abs/2310.15905v1) | Tal Levy et al. | 2023-10-24 |
+| [19 Parameters Is All You Need: Tiny Neural Networks for Particle Physics](http://arxiv.org/abs/2310.16121v1) | Alexander Bogatskiy et al. | 2023-10-24 |
 
 
 ## FAQ
