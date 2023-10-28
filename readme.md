@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--24-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--26-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -315,6 +315,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Structural generalization in COGS: Supertagging is (almost) all you need](http://arxiv.org/abs/2310.14124v1) | Alban Petit et al. | 2023-10-21 |
 | [Is Probing All You Need? Indicator Tasks as an Alternative to Probing Embedding Spaces](http://arxiv.org/abs/2310.15905v1) | Tal Levy et al. | 2023-10-24 |
 | [19 Parameters Is All You Need: Tiny Neural Networks for Particle Physics](http://arxiv.org/abs/2310.16121v1) | Alexander Bogatskiy et al. | 2023-10-24 |
+| [Little Exploration is All You Need](http://arxiv.org/abs/2310.17538v1) | Henry H. H. Chen et al. | 2023-10-26 |
 
 
 ## FAQ
