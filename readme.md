@@ -300,7 +300,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463v1) | Yuanzhi Li et al. | 2023-09-11 |
 | [All you need is spin: SU(2) equivariant variational quantum circuits based on spin networks](http://arxiv.org/abs/2309.07250v1) | Richard D. P. East et al. | 2023-09-13 |
 | [Pretraining on the Test Set Is All You Need](http://arxiv.org/abs/2309.08632v1) | Rylan Schaeffer | 2023-09-13 |
-| [More complex encoder is not all you need](http://arxiv.org/abs/2309.11139v2) | Weibin Yang et al. | 2023-09-20 |
+| [More complex encoder is not all you need](http://arxiv.org/abs/2309.11139v3) | Weibin Yang et al. | 2023-09-20 |
 | [MLPST: MLP is All You Need for Spatio-Temporal Prediction](http://arxiv.org/abs/2309.13363v1) | Zijian Zhang et al. | 2023-09-23 |
 | [Attention Is All You Need For Blind Room Volume Estimation](http://arxiv.org/abs/2309.13504v1) | Chunxi Wang et al. | 2023-09-23 |
 | [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
