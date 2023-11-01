@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -317,6 +317,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [19 Parameters Is All You Need: Tiny Neural Networks for Particle Physics](http://arxiv.org/abs/2310.16121v1) | Alexander Bogatskiy et al. | 2023-10-24 |
 | [Little Exploration is All You Need](http://arxiv.org/abs/2310.17538v1) | Henry H. H. Chen et al. | 2023-10-26 |
 | [One Style is All you Need to Generate a Video](http://arxiv.org/abs/2310.17835v1) | Sandeep Manandhar et al. | 2023-10-27 |
+| [Label Poisoning is All You Need](http://arxiv.org/abs/2310.18933v1) | Rishi D. Jha et al. | 2023-10-29 |
 
 
 ## FAQ
