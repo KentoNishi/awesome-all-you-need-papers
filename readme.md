@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--10--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--11--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -142,7 +142,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](http://arxiv.org/abs/2203.04566v2) | Brijen Thananjeyan et al. | 2022-03-09 |
 | [Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection](http://arxiv.org/abs/2203.05550v3) | Eliahu Horwitz et al. | 2022-03-10 |
 | [Respecting causality is all you need for training physics-informed neural networks](http://arxiv.org/abs/2203.07404v1) | Sifan Wang et al. | 2022-03-14 |
-| [Distraction is All You Need for Fairness](http://arxiv.org/abs/2203.07593v2) | Mehdi Yazdani-Jahromi et al. | 2022-03-15 |
+| [Distraction is All You Need for Fairness](http://arxiv.org/abs/2203.07593v3) | Mehdi Yazdani-Jahromi et al. | 2022-03-15 |
 | [Neural Vocoder is All You Need for Speech Super-resolution](http://arxiv.org/abs/2203.14941v1) | Haohe Liu et al. | 2022-03-28 |
 | [A 23 MW data centre is all you need](http://arxiv.org/abs/2203.17265v1) | Samuel Albanie et al. | 2022-03-31 |
 | [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](http://arxiv.org/abs/2204.00097v1) | Sijie Zhu et al. | 2022-03-31 |
@@ -272,7 +272,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Contrast Is All You Need](http://arxiv.org/abs/2307.02882v1) | Burak Kilic et al. | 2023-07-06 |
 | [Copy Is All You Need](http://arxiv.org/abs/2307.06962v1) | Tian Lan et al. | 2023-07-13 |
 | [Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training](http://arxiv.org/abs/2307.07909v3) | Yao Wei et al. | 2023-07-16 |
-| [Feedback is All You Need: Real-World Reinforcement Learning with Approximate Physics-Based Models](http://arxiv.org/abs/2307.08168v1) | Tyler Westenbroek et al. | 2023-07-16 |
 | [Is attention all you need in medical image analysis? A review](http://arxiv.org/abs/2307.12775v1) | Giorgos Papanastasiou et al. | 2023-07-24 |
 | [Is One Epoch All You Need For Multi-Fidelity Hyperparameter Optimization?](http://arxiv.org/abs/2307.15422v2) | Romain Egele et al. | 2023-07-28 |
 | [Separate Scene Text Detector for Unseen Scripts is Not All You Need](http://arxiv.org/abs/2307.15991v1) | Prateek Keserwani et al. | 2023-07-29 |
@@ -319,6 +318,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Style is All you Need to Generate a Video](http://arxiv.org/abs/2310.17835v1) | Sandeep Manandhar et al. | 2023-10-27 |
 | [Label Poisoning is All You Need](http://arxiv.org/abs/2310.18933v1) | Rishi D. Jha et al. | 2023-10-29 |
 | [Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models](http://arxiv.org/abs/2310.19410v1) | Minxing Zhang et al. | 2023-10-30 |
+| [Objectives Are All You Need: Solving Deceptive Problems Without Explicit Diversity Maintenance](http://arxiv.org/abs/2311.02283v1) | Ryan Boldi et al. | 2023-11-04 |
+| [Ephemeral Rollups are All you Need](http://arxiv.org/abs/2311.02650v1) | Gabriele Picco et al. | 2023-11-05 |
+| [Equivariance Is Not All You Need: Characterizing the Utility of Equivariant Graph Neural Networks for Particle Physics Tasks](http://arxiv.org/abs/2311.03094v1) | Savannah Thais et al. | 2023-11-06 |
 
 
 ## FAQ
