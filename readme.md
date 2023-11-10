@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--11--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--11--08-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -321,6 +321,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Objectives Are All You Need: Solving Deceptive Problems Without Explicit Diversity Maintenance](http://arxiv.org/abs/2311.02283v1) | Ryan Boldi et al. | 2023-11-04 |
 | [Ephemeral Rollups are All you Need](http://arxiv.org/abs/2311.02650v1) | Gabriele Picco et al. | 2023-11-05 |
 | [Equivariance Is Not All You Need: Characterizing the Utility of Equivariant Graph Neural Networks for Particle Physics Tasks](http://arxiv.org/abs/2311.03094v1) | Savannah Thais et al. | 2023-11-06 |
+| [Lidar Annotation Is All You Need](http://arxiv.org/abs/2311.04777v1) | Dinar Sharafutdinov et al. | 2023-11-08 |
 
 
 ## FAQ
