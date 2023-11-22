@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--11--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--11--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -248,7 +248,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
-| [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v2) | Minsik Cho et al. | 2023-05-18 |
+| [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v3) | Minsik Cho et al. | 2023-05-18 |
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
@@ -325,6 +325,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Lidar Annotation Is All You Need](http://arxiv.org/abs/2311.04777v1) | Dinar Sharafutdinov et al. | 2023-11-08 |
 | [Interaction is all You Need? A Study of Robots Ability to Understand and Execute](http://arxiv.org/abs/2311.07150v1) | Kushal Koshti et al. | 2023-11-13 |
 | [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v1) | Yang Trista Cao et al. | 2023-11-14 |
+| [A Good Feature Extractor Is All You Need for Weakly Supervised Learning in Histopathology](http://arxiv.org/abs/2311.11772v1) | Georg Wölflein et al. | 2023-11-20 |
 
 
 ## FAQ
