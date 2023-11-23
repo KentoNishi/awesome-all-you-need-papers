@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--11--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--11--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -326,6 +326,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Interaction is all You Need? A Study of Robots Ability to Understand and Execute](http://arxiv.org/abs/2311.07150v1) | Kushal Koshti et al. | 2023-11-13 |
 | [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v1) | Yang Trista Cao et al. | 2023-11-14 |
 | [A Good Feature Extractor Is All You Need for Weakly Supervised Learning in Histopathology](http://arxiv.org/abs/2311.11772v1) | Georg Wölflein et al. | 2023-11-20 |
+| [Causality is all you need](http://arxiv.org/abs/2311.12307v1) | Ning Xu et al. | 2023-11-21 |
 
 
 ## FAQ
