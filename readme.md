@@ -331,6 +331,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v1) | Dongshuo Yin et al. | 2023-11-25 |
 | [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v1) | Abhishek Sinha et al. | 2023-11-26 |
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
+| [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
 
 
 ## FAQ
