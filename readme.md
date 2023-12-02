@@ -182,7 +182,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Centerpoints Are All You Need in Overhead Imagery](http://arxiv.org/abs/2210.01857v1) | James Mason Inder et al. | 2022-10-04 |
 | [Depth Is All You Need for Monocular 3D Detection](http://arxiv.org/abs/2210.02493v1) | Dennis Park et al. | 2022-10-05 |
 | [A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images](http://arxiv.org/abs/2210.03180v1) | Tomás Castilla et al. | 2022-10-06 |
-| [GraspCaps: A Capsule Network Approach for Familiar 6DoF Object Grasping](http://arxiv.org/abs/2210.03628v2) | Tomas van der Velde et al. | 2022-10-07 |
 | [Is margin all you need? An extensive empirical study of active learning on tabular data](http://arxiv.org/abs/2210.03822v1) | Dara Bahri et al. | 2022-10-07 |
 | [Certified Training: Small Boxes are All You Need](http://arxiv.org/abs/2210.04871v2) | Mark Niklas Müller et al. | 2022-10-10 |
 | [Microscopy is All You Need](http://arxiv.org/abs/2210.06526v1) | Sergei V. Kalinin et al. | 2022-10-12 |
@@ -314,7 +313,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All you need is data: the added value of National Access Points as backbone European ITS data exchange infrastructures](http://arxiv.org/abs/2310.14054v1) | Chrysostomos Mylonas et al. | 2023-10-21 |
 | [Structural generalization in COGS: Supertagging is (almost) all you need](http://arxiv.org/abs/2310.14124v1) | Alban Petit et al. | 2023-10-21 |
 | [Is Probing All You Need? Indicator Tasks as an Alternative to Probing Embedding Spaces](http://arxiv.org/abs/2310.15905v1) | Tal Levy et al. | 2023-10-24 |
-| [19 Parameters Is All You Need: Tiny Neural Networks for Particle Physics](http://arxiv.org/abs/2310.16121v1) | Alexander Bogatskiy et al. | 2023-10-24 |
+| [19 Parameters Is All You Need: Tiny Neural Networks for Particle Physics](http://arxiv.org/abs/2310.16121v2) | Alexander Bogatskiy et al. | 2023-10-24 |
 | [Little Exploration is All You Need](http://arxiv.org/abs/2310.17538v1) | Henry H. H. Chen et al. | 2023-10-26 |
 | [One Style is All you Need to Generate a Video](http://arxiv.org/abs/2310.17835v1) | Sandeep Manandhar et al. | 2023-10-27 |
 | [Label Poisoning is All You Need](http://arxiv.org/abs/2310.18933v1) | Rishi D. Jha et al. | 2023-10-29 |
@@ -328,7 +327,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Good Feature Extractor Is All You Need for Weakly Supervised Learning in Histopathology](http://arxiv.org/abs/2311.11772v3) | Georg Wölflein et al. | 2023-11-20 |
 | [Causality is all you need](http://arxiv.org/abs/2311.12307v1) | Ning Xu et al. | 2023-11-21 |
 | [P2RBox: A Single Point is All You Need for Oriented Object Detection](http://arxiv.org/abs/2311.13128v1) | Guangming Cao et al. | 2023-11-22 |
-| [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v1) | Dongshuo Yin et al. | 2023-11-25 |
+| [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v2) | Dongshuo Yin et al. | 2023-11-25 |
 | [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v1) | Abhishek Sinha et al. | 2023-11-26 |
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
