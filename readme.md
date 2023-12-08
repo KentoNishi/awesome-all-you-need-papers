@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--12--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--12--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -333,6 +333,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
 | [Magicoder: Source Code Is All You Need](http://arxiv.org/abs/2312.02120v1) | Yuxiang Wei et al. | 2023-12-04 |
 | [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v1) | Camillo Quattrocchi et al. | 2023-12-05 |
+| [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v1) | Zhiqi Li et al. | 2023-12-05 |
+| [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v1) | Tianchi Liu et al. | 2023-12-06 |
 
 
 ## FAQ
