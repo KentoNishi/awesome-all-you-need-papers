@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2023--12--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2023--12--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -338,6 +338,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2312.04736v1) | Sabrina McCallum et al. | 2023-12-07 |
 | [The Counterattack of CNNs in Self-Supervised Learning: Larger Kernel Size might be All You Need](http://arxiv.org/abs/2312.05695v2) | Tianjin Huang et al. | 2023-12-09 |
 | [CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models](http://arxiv.org/abs/2312.06059v1) | Tuna Han Salih Meral et al. | 2023-12-11 |
+| [Multi-Modality is All You Need for Transferable Recommender Systems](http://arxiv.org/abs/2312.09602v1) | Youhua Li et al. | 2023-12-15 |
 
 
 ## FAQ
