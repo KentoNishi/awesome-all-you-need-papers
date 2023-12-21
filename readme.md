@@ -293,7 +293,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Parsing is All You Need for Accurate Gait Recognition in the Wild](http://arxiv.org/abs/2308.16739v1) | Jinkai Zheng et al. | 2023-08-31 |
 | [Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v1) | Xiao Feng Zhang et al. | 2023-09-04 |
 | [A Blackbox Model Is All You Need to Breach Privacy: Smart Grid Forecasting Models as a Use Case](http://arxiv.org/abs/2309.01523v1) | Hussein Aly et al. | 2023-09-04 |
-| [Object Size-Driven Design of Convolutional Neural Networks: Virtual Axle Detection based on Raw Data](http://arxiv.org/abs/2309.01574v2) | Henik Riedel et al. | 2023-09-04 |
 | [Concepts is All You Need: A More Direct Path to AGI](http://arxiv.org/abs/2309.01622v1) | Peter Voss et al. | 2023-09-04 |
 | [One Wide Feedforward is All You Need](http://arxiv.org/abs/2309.01826v2) | Telmo Pessoa Pires et al. | 2023-09-04 |
 | [Textbooks Are All You Need II: phi-1.5 technical report](http://arxiv.org/abs/2309.05463v1) | Yuanzhi Li et al. | 2023-09-11 |
