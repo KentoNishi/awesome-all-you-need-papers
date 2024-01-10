@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--01-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -224,7 +224,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Good Neighbors Are All You Need for Chinese Grapheme-to-Phoneme Conversion](http://arxiv.org/abs/2303.07726v1) | Jungjun Kim et al. | 2023-03-14 |
 | [Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis](http://arxiv.org/abs/2303.08134v2) | Renrui Zhang et al. | 2023-03-14 |
 | [HE is all you need: Compressing FHE Ciphertexts using Additive HE](http://arxiv.org/abs/2303.09043v1) | Rasoul Akhavan Mahdavi et al. | 2023-03-16 |
-| [Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning](http://arxiv.org/abs/2303.10475v6) | Renze Lou et al. | 2023-03-18 |
 | [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](http://arxiv.org/abs/2303.11717v1) | Chaoning Zhang et al. | 2023-03-21 |
 | [Text is All You Need: Personalizing ASR Models using Controllable Speech Synthesis](http://arxiv.org/abs/2303.14885v1) | Karren Yang et al. | 2023-03-27 |
 | [Active Self-Supervised Learning: A Few Low-Cost Relationships Are All You Need](http://arxiv.org/abs/2303.15256v2) | Vivien Cabannes et al. | 2023-03-27 |
@@ -345,6 +344,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
 | [Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images](http://arxiv.org/abs/2401.00766v1) | Zhilu Zhang et al. | 2024-01-01 |
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
+| [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v1) | Xiaoding Lu et al. | 2024-01-04 |
+| [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v1) | Ding Chen et al. | 2024-01-07 |
 
 
 ## FAQ
