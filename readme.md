@@ -344,7 +344,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
 | [Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images](http://arxiv.org/abs/2401.00766v1) | Zhilu Zhang et al. | 2024-01-01 |
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
-| [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v1) | Xiaoding Lu et al. | 2024-01-04 |
+| [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v2) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v1) | Ding Chen et al. | 2024-01-07 |
 
 
