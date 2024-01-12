@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--07-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--09-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -345,7 +345,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images](http://arxiv.org/abs/2401.00766v1) | Zhilu Zhang et al. | 2024-01-01 |
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v2) | Xiaoding Lu et al. | 2024-01-04 |
-| [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v1) | Ding Chen et al. | 2024-01-07 |
+| [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
+| [Arabic Text Diacritization In The Age Of Transfer Learning: Token Classification Is All You Need](http://arxiv.org/abs/2401.04848v1) | Abderrahman Skiredj et al. | 2024-01-09 |
 
 
 ## FAQ
