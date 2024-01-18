@@ -262,7 +262,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Textbooks Are All You Need](http://arxiv.org/abs/2306.11644v2) | Suriya Gunasekar et al. | 2023-06-20 |
 | [Randomized Quantization is All You Need for Differential Privacy in Federated Learning](http://arxiv.org/abs/2306.11913v1) | Yeojoon Youn et al. | 2023-06-20 |
 | [Cross-Validation Is All You Need: A Statistical Approach To Label Noise Estimation](http://arxiv.org/abs/2306.13990v1) | Jianan Chen et al. | 2023-06-24 |
-| [ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks](http://arxiv.org/abs/2306.14525v1) | Kai Han et al. | 2023-06-26 |
+| [ParameterNet: Parameters Are All You Need](http://arxiv.org/abs/2306.14525v2) | Kai Han et al. | 2023-06-26 |
 | [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v2) | Zhixiang Yuan et al. | 2023-06-28 |
 | [One Copy Is All You Need: Resource-Efficient Streaming of Medical Imaging Data at Scale](http://arxiv.org/abs/2307.00438v1) | Pranav Kulkarni et al. | 2023-07-01 |
 | [Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data](http://arxiv.org/abs/2307.01701v2) | Florent Guépin et al. | 2023-07-04 |
@@ -302,7 +302,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is All You Need For Blind Room Volume Estimation](http://arxiv.org/abs/2309.13504v3) | Chunxi Wang et al. | 2023-09-23 |
 | [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
 | [Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need](http://arxiv.org/abs/2309.15737v1) | Danil Provodin et al. | 2023-09-27 |
-| [Multilingual Natural Language Processing Model for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v3) | Mariana Lindo et al. | 2023-09-29 |
+| [Multilingual Natural Language Processing Model for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v4) | Mariana Lindo et al. | 2023-09-29 |
 | [(Dynamic) Prompting might be all you need to repair Compressed LLMs](http://arxiv.org/abs/2310.00867v2) | Duc N. M Hoang et al. | 2023-10-02 |
 | [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v1) | Kwangjun Ahn et al. | 2023-10-02 |
 | [Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning](http://arxiv.org/abs/2310.10707v1) | Anirudh Som et al. | 2023-10-16 |
