@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--17-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -252,7 +252,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
 | [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](http://arxiv.org/abs/2306.01987v2) | Sidong Feng et al. | 2023-06-03 |
 | [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v2) | Federico Ceola et al. | 2023-06-06 |
-| [Attention, Compilation, and Solver-based Symbolic Analysis are All You Need](http://arxiv.org/abs/2306.06755v2) | Prithwish Jana et al. | 2023-06-11 |
 | [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
 | [Require Process Control? LSTMc is all you need!](http://arxiv.org/abs/2306.07510v2) | Niranjan Sitapure et al. | 2023-06-13 |
 | [Area is all you need: repeatable elements make stronger adversarial attacks](http://arxiv.org/abs/2306.07768v1) | Dillon Niederhut | 2023-06-13 |
@@ -347,6 +346,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v2) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
 | [Arabic Text Diacritization In The Age Of Transfer Learning: Token Classification Is All You Need](http://arxiv.org/abs/2401.04848v1) | Abderrahman Skiredj et al. | 2024-01-09 |
+| [COCO is "ALL'' You Need for Visual Instruction Fine-tuning](http://arxiv.org/abs/2401.08968v1) | Xiaotian Han et al. | 2024-01-17 |
 
 
 ## FAQ
