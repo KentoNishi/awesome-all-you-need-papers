@@ -339,7 +339,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Scaling Compute Is Not All You Need for Adversarial Robustness](http://arxiv.org/abs/2312.13131v1) | Edoardo Debenedetti et al. | 2023-12-20 |
 | [Scaling Is All You Need: Training Strong Policies for Autonomous Driving with JAX-Accelerated Reinforcement Learning](http://arxiv.org/abs/2312.15122v1) | Moritz Harmel et al. | 2023-12-23 |
 | [Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses](http://arxiv.org/abs/2312.16233v1) | Seokhoon Jeong et al. | 2023-12-25 |
-| [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](http://arxiv.org/abs/2312.16171v1) | Sondos Mahmoud Bsharat et al. | 2023-12-26 |
+| [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](http://arxiv.org/abs/2312.16171v2) | Sondos Mahmoud Bsharat et al. | 2023-12-26 |
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
 | [Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images](http://arxiv.org/abs/2401.00766v1) | Zhilu Zhang et al. | 2024-01-01 |
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
