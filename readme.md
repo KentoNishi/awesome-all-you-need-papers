@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -198,7 +198,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Eye is All You Need: Lightweight Ensembles for Gaze Estimation with Single Encoders](http://arxiv.org/abs/2211.11936v1) | Rishi Athavale et al. | 2022-11-22 |
 | [Is Conditional Generative Modeling all you need for Decision-Making?](http://arxiv.org/abs/2211.15657v4) | Anurag Ajay et al. | 2022-11-28 |
 | [Out-Of-Distribution Detection Is Not All You Need](http://arxiv.org/abs/2211.16158v2) | Joris Guérin et al. | 2022-11-29 |
-| [All You Need Is Hashing: Defending Against Data Reconstruction Attack in Vertical Federated Learning](http://arxiv.org/abs/2212.00325v1) | Pengyu Qiu et al. | 2022-12-01 |
 | [Are Straight-Through gradients and Soft-Thresholding all you need for Sparse Training?](http://arxiv.org/abs/2212.01076v1) | Antoine Vanderschueren et al. | 2022-12-02 |
 | [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](http://arxiv.org/abs/2212.04655v3) | Shuliang Ning et al. | 2022-12-09 |
 | [Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection](http://arxiv.org/abs/2212.06493v1) | Zhenyu Wu et al. | 2022-12-13 |
@@ -345,8 +344,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v2) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
+| [Metacognition is all you need? Using Introspection in Generative Agents to Improve Goal-directed Behavior](http://arxiv.org/abs/2401.10910v1) | Jason Toy et al. | 2024-01-09 |
 | [Arabic Text Diacritization In The Age Of Transfer Learning: Token Classification Is All You Need](http://arxiv.org/abs/2401.04848v1) | Abderrahman Skiredj et al. | 2024-01-09 |
 | [COCO is "ALL'' You Need for Visual Instruction Fine-tuning](http://arxiv.org/abs/2401.08968v1) | Xiaotian Han et al. | 2024-01-17 |
+| [Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities](http://arxiv.org/abs/2401.11143v1) | Georgios Ioannides et al. | 2024-01-20 |
 
 
 ## FAQ
