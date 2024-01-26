@@ -284,7 +284,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse](http://arxiv.org/abs/2308.09622v1) | Ozge Mercanoglu Sincan et al. | 2023-08-18 |
 | [Learning from A Single Graph is All You Need for Near-Shortest Path Routing in Wireless Networks](http://arxiv.org/abs/2308.09829v1) | Yung-Fu Chen et al. | 2023-08-18 |
 | [Minimalist Traffic Prediction: Linear Layer Is All You Need](http://arxiv.org/abs/2308.10276v2) | Wenying Duan et al. | 2023-08-20 |
-| [GaitPT: Skeletons Are All You Need For Gait Recognition](http://arxiv.org/abs/2308.10623v1) | Andy Catruna et al. | 2023-08-21 |
+| [GaitPT: Skeletons Are All You Need For Gait Recognition](http://arxiv.org/abs/2308.10623v2) | Andy Catruna et al. | 2023-08-21 |
 | [Patch Is Not All You Need](http://arxiv.org/abs/2308.10729v1) | Changzhen Li et al. | 2023-08-21 |
 | [Vector Search with OpenAI Embeddings: Lucene Is All You Need](http://arxiv.org/abs/2308.14963v1) | Jimmy Lin et al. | 2023-08-29 |
 | [Parsing is All You Need for Accurate Gait Recognition in the Wild](http://arxiv.org/abs/2308.16739v1) | Jinkai Zheng et al. | 2023-08-31 |
