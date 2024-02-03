@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--01--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--01-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -241,7 +241,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations](http://arxiv.org/abs/2304.11267v2) | Yu-Hui Chen et al. | 2023-04-21 |
 | [Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks](http://arxiv.org/abs/2304.13861v1) | Anders Giovanni Møller et al. | 2023-04-26 |
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
-| [Stars Are All You Need: A Distantly Supervised Pyramid Network for Document-Level End-to-End Sentiment Analysis](http://arxiv.org/abs/2305.01710v1) | Wenchang Li et al. | 2023-05-02 |
+| [Stars Are All You Need: A Distantly Supervised Pyramid Network for Unified Sentiment Analysis](http://arxiv.org/abs/2305.01710v2) | Wenchang Li et al. | 2023-05-02 |
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
@@ -350,6 +350,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities](http://arxiv.org/abs/2401.11143v3) | Georgios Ioannides et al. | 2024-01-20 |
 | [Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition](http://arxiv.org/abs/2401.15532v1) | Ahnaf Mozib Samin | 2024-01-28 |
 | [Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers](http://arxiv.org/abs/2401.17196v1) | Lei Xu et al. | 2024-01-30 |
+| [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v1) | Jacob Fein-Ashley et al. | 2024-02-01 |
 
 
 ## FAQ
