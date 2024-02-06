@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--01-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -351,6 +351,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition](http://arxiv.org/abs/2401.15532v1) | Ahnaf Mozib Samin | 2024-01-28 |
 | [Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers](http://arxiv.org/abs/2401.17196v1) | Lei Xu et al. | 2024-01-30 |
 | [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v1) | Jacob Fein-Ashley et al. | 2024-02-01 |
+| [Compositional Generative Modeling: A Single Model is Not All You Need](http://arxiv.org/abs/2402.01103v1) | Yilun Du et al. | 2024-02-02 |
+| [A Single Simple Patch is All You Need for AI-generated Image Detection](http://arxiv.org/abs/2402.01123v1) | Jiaxuan Chen et al. | 2024-02-02 |
 
 
 ## FAQ
