@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -117,7 +117,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Jurassic is (almost) All You Need: Few-Shot Meaning-to-Text Generation for Open-Domain Dialogue](http://arxiv.org/abs/2110.08094v2) | Lena Reed et al. | 2021-10-15 |
 | [Hyperparameter Tuning is All You Need for LISTA](http://arxiv.org/abs/2110.15900v1) | Xiaohan Chen et al. | 2021-10-29 |
 | [Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies](http://arxiv.org/abs/2111.02552v1) | Tim Seyde et al. | 2021-11-03 |
-| [Realizable Learning is All You Need](http://arxiv.org/abs/2111.04746v3) | Max Hopkins et al. | 2021-11-08 |
+| [Realizable Learning is All You Need](http://arxiv.org/abs/2111.04746v4) | Max Hopkins et al. | 2021-11-08 |
 | [Gradients are Not All You Need](http://arxiv.org/abs/2111.05803v2) | Luke Metz et al. | 2021-11-10 |
 | [Perceiving and Modeling Density is All You Need for Image Dehazing](http://arxiv.org/abs/2111.09733v1) | Tian Ye et al. | 2021-11-18 |
 | [Variance Reduction in Deep Learning: More Momentum is All You Need](http://arxiv.org/abs/2111.11828v1) | Lionel Tondji et al. | 2021-11-23 |
@@ -239,7 +239,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [[CLS] Token is All You Need for Zero-Shot Semantic Segmentation](http://arxiv.org/abs/2304.06212v1) | Letian Wu et al. | 2023-04-13 |
 | [Are LLMs All You Need for Task-Oriented Dialogue?](http://arxiv.org/abs/2304.06556v2) | Vojtěch Hudeček et al. | 2023-04-13 |
 | [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations](http://arxiv.org/abs/2304.11267v2) | Yu-Hui Chen et al. | 2023-04-21 |
-| [Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks](http://arxiv.org/abs/2304.13861v1) | Anders Giovanni Møller et al. | 2023-04-26 |
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
 | [Stars Are All You Need: A Distantly Supervised Pyramid Network for Unified Sentiment Analysis](http://arxiv.org/abs/2305.01710v2) | Wenchang Li et al. | 2023-05-02 |
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
@@ -353,6 +352,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v1) | Jacob Fein-Ashley et al. | 2024-02-01 |
 | [Compositional Generative Modeling: A Single Model is Not All You Need](http://arxiv.org/abs/2402.01103v1) | Yilun Du et al. | 2024-02-02 |
 | [A Single Simple Patch is All You Need for AI-generated Image Detection](http://arxiv.org/abs/2402.01123v1) | Jiaxuan Chen et al. | 2024-02-02 |
+| [Sets are all you need: Ultrafast jet classification on FPGAs for HL-LHC](http://arxiv.org/abs/2402.01876v1) | Patrick Odagiu et al. | 2024-02-02 |
+| [Accelerating Look-ahead in Bayesian Optimization: Multilevel Monte Carlo is All you Need](http://arxiv.org/abs/2402.02111v1) | Shangda Yang et al. | 2024-02-03 |
+| [SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking](http://arxiv.org/abs/2402.02285v1) | Atharva Kulkarni et al. | 2024-02-03 |
+| [Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association](http://arxiv.org/abs/2402.02337v1) | Thien-Minh Nguyen et al. | 2024-02-04 |
+| [Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization](http://arxiv.org/abs/2402.02746v1) | Zhitong Xu et al. | 2024-02-05 |
 
 
 ## FAQ
