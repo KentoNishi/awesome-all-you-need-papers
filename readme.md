@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -358,6 +358,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association](http://arxiv.org/abs/2402.02337v1) | Thien-Minh Nguyen et al. | 2024-02-04 |
 | [Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization](http://arxiv.org/abs/2402.02746v1) | Zhitong Xu et al. | 2024-02-05 |
 | [Tabular Data: Is Attention All You Need?](http://arxiv.org/abs/2402.03970v1) | Guri Zabërgja et al. | 2024-02-06 |
+| [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v1) | Jiajun Zeng et al. | 2024-02-07 |
 
 
 ## FAQ
