@@ -353,6 +353,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Compositional Generative Modeling: A Single Model is Not All You Need](http://arxiv.org/abs/2402.01103v1) | Yilun Du et al. | 2024-02-02 |
 | [A Single Simple Patch is All You Need for AI-generated Image Detection](http://arxiv.org/abs/2402.01123v1) | Jiaxuan Chen et al. | 2024-02-02 |
 | [Sets are all you need: Ultrafast jet classification on FPGAs for HL-LHC](http://arxiv.org/abs/2402.01876v1) | Patrick Odagiu et al. | 2024-02-02 |
+| [More Agents Is All You Need](http://arxiv.org/abs/2402.05120v1) | Junyou Li et al. | 2024-02-03 |
 | [Accelerating Look-ahead in Bayesian Optimization: Multilevel Monte Carlo is All you Need](http://arxiv.org/abs/2402.02111v1) | Shangda Yang et al. | 2024-02-03 |
 | [SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking](http://arxiv.org/abs/2402.02285v1) | Atharva Kulkarni et al. | 2024-02-03 |
 | [Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association](http://arxiv.org/abs/2402.02337v1) | Thien-Minh Nguyen et al. | 2024-02-04 |
