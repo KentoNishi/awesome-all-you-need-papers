@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--07-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--09-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -335,7 +335,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models](http://arxiv.org/abs/2312.06059v1) | Tuna Han Salih Meral et al. | 2023-12-11 |
 | [Multi-Modality is All You Need for Transferable Recommender Systems](http://arxiv.org/abs/2312.09602v2) | Youhua Li et al. | 2023-12-15 |
 | [Scaling Compute Is Not All You Need for Adversarial Robustness](http://arxiv.org/abs/2312.13131v1) | Edoardo Debenedetti et al. | 2023-12-20 |
-| [Scaling Is All You Need: Autonomous Driving with JAX-Accelerated Reinforcement Learning](http://arxiv.org/abs/2312.15122v2) | Moritz Harmel et al. | 2023-12-23 |
+| [Scaling Is All You Need: Autonomous Driving with JAX-Accelerated Reinforcement Learning](http://arxiv.org/abs/2312.15122v3) | Moritz Harmel et al. | 2023-12-23 |
 | [Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses](http://arxiv.org/abs/2312.16233v1) | Seokhoon Jeong et al. | 2023-12-25 |
 | [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](http://arxiv.org/abs/2312.16171v2) | Sondos Mahmoud Bsharat et al. | 2023-12-26 |
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
@@ -360,6 +360,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization](http://arxiv.org/abs/2402.02746v1) | Zhitong Xu et al. | 2024-02-05 |
 | [Tabular Data: Is Attention All You Need?](http://arxiv.org/abs/2402.03970v1) | Guri Zabërgja et al. | 2024-02-06 |
 | [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v1) | Jiajun Zeng et al. | 2024-02-07 |
+| [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](http://arxiv.org/abs/2402.06053v1) | Thomas Sandholm et al. | 2024-02-08 |
+| [SMC Is All You Need: Parallel Strong Scaling](http://arxiv.org/abs/2402.06173v1) | Xinzhu Liang et al. | 2024-02-09 |
 
 
 ## FAQ
