@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -279,7 +279,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is Not All You Need Anymore](http://arxiv.org/abs/2308.07661v2) | Zhe Chen | 2023-08-15 |
 | [Dynamic Neural Network is All You Need: Understanding the Robustness of Dynamic Mechanisms in Neural Networks](http://arxiv.org/abs/2308.08709v1) | Mirazul Haque et al. | 2023-08-17 |
 | [Scope is all you need: Transforming LLMs for HPC Code](http://arxiv.org/abs/2308.09440v3) | Tal Kadosh et al. | 2023-08-18 |
-| [Normalization Is All You Need: Understanding Layer-Normalized Federated Learning under Extreme Label Shift](http://arxiv.org/abs/2308.09565v1) | Guojun Zhang et al. | 2023-08-18 |
 | [Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse](http://arxiv.org/abs/2308.09622v1) | Ozge Mercanoglu Sincan et al. | 2023-08-18 |
 | [Learning from A Single Graph is All You Need for Near-Shortest Path Routing in Wireless Networks](http://arxiv.org/abs/2308.09829v1) | Yung-Fu Chen et al. | 2023-08-18 |
 | [Minimalist Traffic Prediction: Linear Layer Is All You Need](http://arxiv.org/abs/2308.10276v2) | Wenying Duan et al. | 2023-08-20 |
@@ -363,6 +362,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](http://arxiv.org/abs/2402.06053v1) | Thomas Sandholm et al. | 2024-02-08 |
 | [SMC Is All You Need: Parallel Strong Scaling](http://arxiv.org/abs/2402.06173v1) | Xinzhu Liang et al. | 2024-02-09 |
 | [Grace Period is All You Need: Individual Fairness without Revenue Loss in Revenue Management](http://arxiv.org/abs/2402.08533v1) | Patrick Jaillet et al. | 2024-02-13 |
+| [Answer is All You Need: Instruction-following Text Embedding via Answering the Question](http://arxiv.org/abs/2402.09642v1) | Letian Peng et al. | 2024-02-15 |
+| [Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks](http://arxiv.org/abs/2402.09874v1) | Álvaro Huertas-García et al. | 2024-02-15 |
 
 
 ## FAQ
