@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--26-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -364,6 +364,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Answer is All You Need: Instruction-following Text Embedding via Answering the Question](http://arxiv.org/abs/2402.09642v1) | Letian Peng et al. | 2024-02-15 |
 | [Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks](http://arxiv.org/abs/2402.09874v1) | Álvaro Huertas-García et al. | 2024-02-15 |
 | [Masked Attention is All You Need for Graphs](http://arxiv.org/abs/2402.10793v1) | David Buterez et al. | 2024-02-16 |
+| [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v1) | Naixu Guo et al. | 2024-02-26 |
 
 
 ## FAQ
