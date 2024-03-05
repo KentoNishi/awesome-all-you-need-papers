@@ -341,7 +341,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v3) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
-| [Metacognition is all you need? Using Introspection in Generative Agents to Improve Goal-directed Behavior](http://arxiv.org/abs/2401.10910v1) | Jason Toy et al. | 2024-01-09 |
+| [Metacognition is all you need? Using Introspection in Generative Agents to Improve Goal-directed Behavior](http://arxiv.org/abs/2401.10910v2) | Jason Toy et al. | 2024-01-09 |
 | [Arabic Text Diacritization In The Age Of Transfer Learning: Token Classification Is All You Need](http://arxiv.org/abs/2401.04848v1) | Abderrahman Skiredj et al. | 2024-01-09 |
 | [COCO is "ALL'' You Need for Visual Instruction Fine-tuning](http://arxiv.org/abs/2401.08968v1) | Xiaotian Han et al. | 2024-01-17 |
 | [Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities](http://arxiv.org/abs/2401.11143v3) | Georgios Ioannides et al. | 2024-01-20 |
