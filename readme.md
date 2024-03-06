@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--02--26-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -357,7 +357,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association](http://arxiv.org/abs/2402.02337v1) | Thien-Minh Nguyen et al. | 2024-02-04 |
 | [Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization](http://arxiv.org/abs/2402.02746v1) | Zhitong Xu et al. | 2024-02-05 |
 | [Tabular Data: Is Attention All You Need?](http://arxiv.org/abs/2402.03970v1) | Guri Zabërgja et al. | 2024-02-06 |
-| [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v1) | Jiajun Zeng et al. | 2024-02-07 |
+| [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v2) | Jiajun Zeng et al. | 2024-02-07 |
 | [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](http://arxiv.org/abs/2402.06053v1) | Thomas Sandholm et al. | 2024-02-08 |
 | [SMC Is All You Need: Parallel Strong Scaling](http://arxiv.org/abs/2402.06173v1) | Xinzhu Liang et al. | 2024-02-09 |
 | [Grace Period is All You Need: Individual Fairness without Revenue Loss in Revenue Management](http://arxiv.org/abs/2402.08533v1) | Patrick Jaillet et al. | 2024-02-13 |
@@ -365,6 +365,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks](http://arxiv.org/abs/2402.09874v1) | Álvaro Huertas-García et al. | 2024-02-15 |
 | [Masked Attention is All You Need for Graphs](http://arxiv.org/abs/2402.10793v1) | David Buterez et al. | 2024-02-16 |
 | [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v1) | Naixu Guo et al. | 2024-02-26 |
+| [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v1) | Omri Uzan et al. | 2024-03-02 |
 
 
 ## FAQ
