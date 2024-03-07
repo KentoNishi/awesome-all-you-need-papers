@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--04-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -317,7 +317,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Lidar Annotation Is All You Need](http://arxiv.org/abs/2311.04777v1) | Dinar Sharafutdinov et al. | 2023-11-08 |
 | [Interaction is all You Need? A Study of Robots Ability to Understand and Execute](http://arxiv.org/abs/2311.07150v1) | Kushal Koshti et al. | 2023-11-13 |
 | [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v2) | Yang Trista Cao et al. | 2023-11-14 |
-| [A Good Feature Extractor Is All You Need for Weakly Supervised Learning in Histopathology](http://arxiv.org/abs/2311.11772v3) | Georg Wölflein et al. | 2023-11-20 |
+| [A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification](http://arxiv.org/abs/2311.11772v4) | Georg Wölflein et al. | 2023-11-20 |
 | [Causality is all you need](http://arxiv.org/abs/2311.12307v1) | Ning Xu et al. | 2023-11-21 |
 | [P2RBox: A Single Point is All You Need for Oriented Object Detection](http://arxiv.org/abs/2311.13128v1) | Guangming Cao et al. | 2023-11-22 |
 | [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v2) | Dongshuo Yin et al. | 2023-11-25 |
@@ -366,6 +366,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Masked Attention is All You Need for Graphs](http://arxiv.org/abs/2402.10793v1) | David Buterez et al. | 2024-02-16 |
 | [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v1) | Naixu Guo et al. | 2024-02-26 |
 | [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v1) | Omri Uzan et al. | 2024-03-02 |
+| [Cognition is All You Need -- The Next Layer of AI Above Large Language Models](http://arxiv.org/abs/2403.02164v2) | Nova Spivack et al. | 2024-03-04 |
+| [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v1) | Lingjiao Chen et al. | 2024-03-04 |
 
 
 ## FAQ
