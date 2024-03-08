@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -368,6 +368,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v1) | Omri Uzan et al. | 2024-03-02 |
 | [Cognition is All You Need -- The Next Layer of AI Above Large Language Models](http://arxiv.org/abs/2403.02164v2) | Nova Spivack et al. | 2024-03-04 |
 | [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v1) | Lingjiao Chen et al. | 2024-03-04 |
+| [Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data](http://arxiv.org/abs/2403.03304v1) | Joseph Gatto et al. | 2024-03-05 |
 
 
 ## FAQ
