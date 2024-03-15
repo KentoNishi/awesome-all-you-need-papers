@@ -299,7 +299,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Only 5\\% Attention Is All You Need: Efficient Long-range Document-level Neural Machine Translation](http://arxiv.org/abs/2309.14174v1) | Zihan Liu et al. | 2023-09-25 |
 | [Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need](http://arxiv.org/abs/2309.15737v1) | Danil Provodin et al. | 2023-09-27 |
 | [Multilingual Natural Language Processing Model for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v4) | Mariana Lindo et al. | 2023-09-29 |
-| [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v1) | Kwangjun Ahn et al. | 2023-10-02 |
+| [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v2) | Kwangjun Ahn et al. | 2023-10-02 |
 | [Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning](http://arxiv.org/abs/2310.10707v1) | Anirudh Som et al. | 2023-10-16 |
 | [Equivariant Transformer is all you need](http://arxiv.org/abs/2310.13222v1) | Akio Tomiya et al. | 2023-10-20 |
 | [Seq2seq is All You Need for Coreference Resolution](http://arxiv.org/abs/2310.13774v1) | Wenzheng Zhang et al. | 2023-10-20 |
@@ -325,7 +325,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
 | [Magicoder: Source Code Is All You Need](http://arxiv.org/abs/2312.02120v1) | Yuxiang Wei et al. | 2023-12-04 |
-| [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v1) | Camillo Quattrocchi et al. | 2023-12-05 |
+| [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v2) | Camillo Quattrocchi et al. | 2023-12-05 |
 | [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v1) | Zhiqi Li et al. | 2023-12-05 |
 | [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v1) | Tianchi Liu et al. | 2023-12-06 |
 | [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2312.04736v1) | Sabrina McCallum et al. | 2023-12-07 |
