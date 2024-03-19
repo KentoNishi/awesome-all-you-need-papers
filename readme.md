@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -370,8 +370,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v1) | Lingjiao Chen et al. | 2024-03-04 |
 | [Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data](http://arxiv.org/abs/2403.03304v1) | Joseph Gatto et al. | 2024-03-05 |
 | [DualBEV: CNN is All You Need in View Transformation](http://arxiv.org/abs/2403.05402v1) | Peidong Li et al. | 2024-03-08 |
-| [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v1) | Huy N. Phan et al. | 2024-03-10 |
+| [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v1) | Doanh C. Bui et al. | 2024-03-10 |
+| [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v1) | Chaoqun Liu et al. | 2024-03-15 |
 
 
 ## FAQ
