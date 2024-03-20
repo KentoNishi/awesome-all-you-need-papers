@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -337,7 +337,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses](http://arxiv.org/abs/2312.16233v1) | Seokhoon Jeong et al. | 2023-12-25 |
 | [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](http://arxiv.org/abs/2312.16171v2) | Sondos Mahmoud Bsharat et al. | 2023-12-26 |
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
-| [Bracketing is All You Need: Unifying Image Restoration and Enhancement Tasks with Multi-Exposure Images](http://arxiv.org/abs/2401.00766v1) | Zhilu Zhang et al. | 2024-01-01 |
+| [Exposure Bracketing is All You Need for Unifying Image Restoration and Enhancement Tasks](http://arxiv.org/abs/2401.00766v2) | Zhilu Zhang et al. | 2024-01-01 |
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v3) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
@@ -373,6 +373,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v1) | Doanh C. Bui et al. | 2024-03-10 |
 | [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v1) | Chaoqun Liu et al. | 2024-03-15 |
+| [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v1) | Kaiyan Chang et al. | 2024-03-17 |
+| [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
 
 
 ## FAQ
