@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -376,6 +376,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v1) | Kaiyan Chang et al. | 2024-03-17 |
 | [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
 | [Multistep Inverse Is Not All You Need](http://arxiv.org/abs/2403.11940v1) | Alexander Levine et al. | 2024-03-18 |
+| [Reflectivity Is All You Need!: Advancing LiDAR Semantic Segmentation](http://arxiv.org/abs/2403.13188v1) | Kasi Viswanath et al. | 2024-03-19 |
 
 
 ## FAQ
