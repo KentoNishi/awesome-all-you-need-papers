@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--24-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -372,11 +372,13 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [DualBEV: CNN is All You Need in View Transformation](http://arxiv.org/abs/2403.05402v1) | Peidong Li et al. | 2024-03-08 |
 | [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v1) | Doanh C. Bui et al. | 2024-03-10 |
+| [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
 | [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v1) | Chaoqun Liu et al. | 2024-03-15 |
 | [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v1) | Kaiyan Chang et al. | 2024-03-17 |
 | [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
 | [Multistep Inverse Is Not All You Need](http://arxiv.org/abs/2403.11940v1) | Alexander Levine et al. | 2024-03-18 |
 | [Reflectivity Is All You Need!: Advancing LiDAR Semantic Segmentation](http://arxiv.org/abs/2403.13188v1) | Kasi Viswanath et al. | 2024-03-19 |
+| [One Masked Model is All You Need for Sensor Fault Detection, Isolation and Accommodation](http://arxiv.org/abs/2403.16153v1) | Yiwei Fu et al. | 2024-03-24 |
 
 
 ## FAQ
