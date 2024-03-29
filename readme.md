@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--25-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--26-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -327,7 +327,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Magicoder: Source Code Is All You Need](http://arxiv.org/abs/2312.02120v1) | Yuxiang Wei et al. | 2023-12-04 |
 | [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v2) | Camillo Quattrocchi et al. | 2023-12-05 |
 | [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v1) | Zhiqi Li et al. | 2023-12-05 |
-| [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v1) | Tianchi Liu et al. | 2023-12-06 |
+| [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v2) | Tianchi Liu et al. | 2023-12-06 |
 | [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2312.04736v1) | Sabrina McCallum et al. | 2023-12-07 |
 | [The Counterattack of CNNs in Self-Supervised Learning: Larger Kernel Size might be All You Need](http://arxiv.org/abs/2312.05695v2) | Tianjin Huang et al. | 2023-12-09 |
 | [CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models](http://arxiv.org/abs/2312.06059v1) | Tuna Han Salih Meral et al. | 2023-12-11 |
@@ -381,6 +381,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Masked Model is All You Need for Sensor Fault Detection, Isolation and Accommodation](http://arxiv.org/abs/2403.16153v1) | Yiwei Fu et al. | 2024-03-24 |
 | [Proprioception Is All You Need: Terrain Classification for Boreal Forests](http://arxiv.org/abs/2403.16877v1) | Damien LaRocque et al. | 2024-03-25 |
 | [Belief Samples Are All You Need For Social Learning](http://arxiv.org/abs/2403.17174v1) | Mahyar JafariNodeh et al. | 2024-03-25 |
+| [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v1) | Yuelin Bai et al. | 2024-03-26 |
 
 
 ## FAQ
