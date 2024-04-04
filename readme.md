@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--03--26-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--04--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -382,6 +382,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Proprioception Is All You Need: Terrain Classification for Boreal Forests](http://arxiv.org/abs/2403.16877v1) | Damien LaRocque et al. | 2024-03-25 |
 | [Belief Samples Are All You Need For Social Learning](http://arxiv.org/abs/2403.17174v1) | Mahyar JafariNodeh et al. | 2024-03-25 |
 | [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v1) | Yuelin Bai et al. | 2024-03-26 |
+| [SPMamba: State-space model is all you need in speech separation](http://arxiv.org/abs/2404.02063v1) | Kai Li et al. | 2024-04-02 |
 
 
 ## FAQ
