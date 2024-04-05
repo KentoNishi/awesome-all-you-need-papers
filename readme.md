@@ -383,6 +383,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Belief Samples Are All You Need For Social Learning](http://arxiv.org/abs/2403.17174v1) | Mahyar JafariNodeh et al. | 2024-03-25 |
 | [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v1) | Yuelin Bai et al. | 2024-03-26 |
 | [SPMamba: State-space model is all you need in speech separation](http://arxiv.org/abs/2404.02063v1) | Kai Li et al. | 2024-04-02 |
+| [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
 
 
 ## FAQ
