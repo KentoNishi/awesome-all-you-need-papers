@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--04--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--04--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -84,7 +84,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Looking at CTR Prediction Again: Is Attention All You Need?](http://arxiv.org/abs/2105.05563v1) | Yuan Cheng et al. | 2021-05-12 |
 | [It\^oTTS and It\^oWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation](http://arxiv.org/abs/2105.07583v5) | Shoule Wu et al. | 2021-05-17 |
 | [Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms](http://arxiv.org/abs/2105.08791v3) | Xiaocheng Tang et al. | 2021-05-18 |
-| [Simple steps are all you need: Frank-Wolfe and generalized self-concordant functions](http://arxiv.org/abs/2105.13913v7) | Alejandro Carderera et al. | 2021-05-28 |
+| [Scalable Frank-Wolfe on Generalized Self-concordant Functions via Simple Steps](http://arxiv.org/abs/2105.13913v8) | Alejandro Carderera et al. | 2021-05-28 |
 | [Three Sentences Are All You Need: Local Path Enhanced Document Relation Extraction](http://arxiv.org/abs/2106.01793v1) | Quzhe Huang et al. | 2021-06-03 |
 | [Self-Supervision is All You Need for Solving Rubik's Cube](http://arxiv.org/abs/2106.03157v5) | Kyo Takano | 2021-06-06 |
 | [Tabular Data: Deep Learning is Not All You Need](http://arxiv.org/abs/2106.03253v2) | Ravid Shwartz-Ziv et al. | 2021-06-06 |
@@ -384,6 +384,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v1) | Yuelin Bai et al. | 2024-03-26 |
 | [SPMamba: State-space model is all you need in speech separation](http://arxiv.org/abs/2404.02063v1) | Kai Li et al. | 2024-04-02 |
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
+| [Fork is All You Needed in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v1) | Zixuan Wang et al. | 2024-04-07 |
 
 
 ## FAQ
