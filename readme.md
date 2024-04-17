@@ -218,7 +218,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Image Labels Are All You Need for Coarse Seagrass Segmentation](http://arxiv.org/abs/2303.00973v2) | Scarlett Raine et al. | 2023-03-02 |
 | [From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need](http://arxiv.org/abs/2303.05266v1) | Ziqing Yang et al. | 2023-03-09 |
 | [Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need](http://arxiv.org/abs/2303.07338v1) | Da-Wei Zhou et al. | 2023-03-13 |
-| [One scalar is all you need -- absolute depth estimation using monocular self-supervision](http://arxiv.org/abs/2303.07662v2) | Alexandra Dana et al. | 2023-03-14 |
 | [Good Neighbors Are All You Need for Chinese Grapheme-to-Phoneme Conversion](http://arxiv.org/abs/2303.07726v1) | Jungjun Kim et al. | 2023-03-14 |
 | [Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis](http://arxiv.org/abs/2303.08134v2) | Renrui Zhang et al. | 2023-03-14 |
 | [HE is all you need: Compressing FHE Ciphertexts using Additive HE](http://arxiv.org/abs/2303.09043v1) | Rasoul Akhavan Mahdavi et al. | 2023-03-16 |
@@ -259,7 +258,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Randomized Quantization is All You Need for Differential Privacy in Federated Learning](http://arxiv.org/abs/2306.11913v1) | Yeojoon Youn et al. | 2023-06-20 |
 | [Cross-Validation Is All You Need: A Statistical Approach To Label Noise Estimation](http://arxiv.org/abs/2306.13990v1) | Jianan Chen et al. | 2023-06-24 |
 | [ParameterNet: Parameters Are All You Need](http://arxiv.org/abs/2306.14525v2) | Kai Han et al. | 2023-06-26 |
-| [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v2) | Zhixiang Yuan et al. | 2023-06-28 |
+| [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v3) | Zhixiang Yuan et al. | 2023-06-28 |
 | [One Copy Is All You Need: Resource-Efficient Streaming of Medical Imaging Data at Scale](http://arxiv.org/abs/2307.00438v1) | Pranav Kulkarni et al. | 2023-07-01 |
 | [Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data](http://arxiv.org/abs/2307.01701v2) | Florent Guépin et al. | 2023-07-04 |
 | [Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification](http://arxiv.org/abs/2307.01759v2) | Lucas Mahler et al. | 2023-07-04 |
