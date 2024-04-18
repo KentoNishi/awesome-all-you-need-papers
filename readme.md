@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--04--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--04--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -382,8 +382,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v1) | Yuelin Bai et al. | 2024-03-26 |
 | [SPMamba: State-space model is all you need in speech separation](http://arxiv.org/abs/2404.02063v1) | Kai Li et al. | 2024-04-02 |
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
-| [Fork is All You Needed in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v1) | Zixuan Wang et al. | 2024-04-07 |
+| [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
 | [Self-supervised Dataset Distillation: A Good Compression Is All You Need](http://arxiv.org/abs/2404.07976v1) | Muxin Zhou et al. | 2024-04-11 |
+| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v1) | David M. Cerna et al. | 2024-04-16 |
 
 
 ## FAQ
