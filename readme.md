@@ -384,10 +384,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
 | [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
 | [Self-supervised Dataset Distillation: A Good Compression Is All You Need](http://arxiv.org/abs/2404.07976v1) | Muxin Zhou et al. | 2024-04-11 |
-| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v1) | David M. Cerna et al. | 2024-04-16 |
+| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v2) | David M. Cerna et al. | 2024-04-16 |
 | [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v1) | Junyu Xie et al. | 2024-04-18 |
 | [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images](http://arxiv.org/abs/2404.12922v1) | Jacopo Bonato et al. | 2024-04-19 |
-| [All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs](http://arxiv.org/abs/2404.15261v1) | Sawyer Robertson et al. | 2024-04-23 |
+| [All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs](http://arxiv.org/abs/2404.15261v2) | Sawyer Robertson et al. | 2024-04-23 |
 
 
 ## FAQ
