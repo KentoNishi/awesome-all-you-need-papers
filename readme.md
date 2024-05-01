@@ -335,7 +335,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses](http://arxiv.org/abs/2312.16233v1) | Seokhoon Jeong et al. | 2023-12-25 |
 | [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](http://arxiv.org/abs/2312.16171v2) | Sondos Mahmoud Bsharat et al. | 2023-12-26 |
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
-| [Exposure Bracketing is All You Need for Unifying Image Restoration and Enhancement Tasks](http://arxiv.org/abs/2401.00766v2) | Zhilu Zhang et al. | 2024-01-01 |
+| [Exposure Bracketing is All You Need for Unifying Image Restoration and Enhancement Tasks](http://arxiv.org/abs/2401.00766v3) | Zhilu Zhang et al. | 2024-01-01 |
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v3) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
@@ -369,7 +369,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data](http://arxiv.org/abs/2403.03304v1) | Joseph Gatto et al. | 2024-03-05 |
 | [DualBEV: CNN is All You Need in View Transformation](http://arxiv.org/abs/2403.05402v1) | Peidong Li et al. | 2024-03-08 |
 | [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
-| [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v1) | Doanh C. Bui et al. | 2024-03-10 |
+| [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v2) | Doanh C. Bui et al. | 2024-03-10 |
 | [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
 | [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v1) | Chaoqun Liu et al. | 2024-03-15 |
 | [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v1) | Kaiyan Chang et al. | 2024-03-17 |
@@ -384,7 +384,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
 | [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
 | [Self-supervised Dataset Distillation: A Good Compression Is All You Need](http://arxiv.org/abs/2404.07976v1) | Muxin Zhou et al. | 2024-04-11 |
-| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v2) | David M. Cerna et al. | 2024-04-16 |
+| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v3) | David M. Cerna et al. | 2024-04-16 |
 | [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v1) | Junyu Xie et al. | 2024-04-18 |
 | [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images](http://arxiv.org/abs/2404.12922v1) | Jacopo Bonato et al. | 2024-04-19 |
 | [All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs](http://arxiv.org/abs/2404.15261v2) | Sawyer Robertson et al. | 2024-04-23 |
