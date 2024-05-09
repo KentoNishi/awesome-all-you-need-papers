@@ -246,7 +246,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v1) | Maxwell Horton et al. | 2023-05-31 |
 | [RITA: Group Attention is All You Need for Timeseries Analytics](http://arxiv.org/abs/2306.01926v1) | Jiaming Liang et al. | 2023-06-02 |
-| [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](http://arxiv.org/abs/2306.01987v2) | Sidong Feng et al. | 2023-06-03 |
+| [Prompting Is All You Need: Automated Android Bug Replay with Large Language Models](http://arxiv.org/abs/2306.01987v3) | Sidong Feng et al. | 2023-06-03 |
 | [A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch](http://arxiv.org/abs/2306.03484v2) | Federico Ceola et al. | 2023-06-06 |
 | [Small Temperature is All You Need for Differentiable Architecture Search](http://arxiv.org/abs/2306.06855v1) | Jiuling Zhang et al. | 2023-06-12 |
 | [Require Process Control? LSTMc is all you need!](http://arxiv.org/abs/2306.07510v2) | Niranjan Sitapure et al. | 2023-06-13 |
@@ -388,6 +388,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v1) | Junyu Xie et al. | 2024-04-18 |
 | [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images](http://arxiv.org/abs/2404.12922v1) | Jacopo Bonato et al. | 2024-04-19 |
 | [All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs](http://arxiv.org/abs/2404.15261v2) | Sawyer Robertson et al. | 2024-04-23 |
+| [HCC Is All You Need: Alignment-The Sensible Kind Anyway-Is Just Human-Centered Computing](http://arxiv.org/abs/2405.03699v1) | Eric Gilbert | 2024-04-30 |
 | [Graph is all you need? Lightweight data-agnostic neural architecture search without training](http://arxiv.org/abs/2405.01306v1) | Zhenhan Huang et al. | 2024-05-02 |
 | [Key Patches Are All You Need: A Multiple Instance Learning Framework For Robust Medical Diagnosis](http://arxiv.org/abs/2405.01654v1) | Diogo J. Araújo et al. | 2024-05-02 |
 
