@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -322,6 +322,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v1) | Abhishek Sinha et al. | 2023-11-26 |
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
+| [Scaling Political Texts with Large Language Models: Asking a Chatbot Might Be All You Need](http://arxiv.org/abs/2311.16639v2) | Gaël Le Mens et al. | 2023-11-28 |
 | [Magicoder: Source Code Is All You Need](http://arxiv.org/abs/2312.02120v1) | Yuxiang Wei et al. | 2023-12-04 |
 | [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v2) | Camillo Quattrocchi et al. | 2023-12-05 |
 | [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v1) | Zhiqi Li et al. | 2023-12-05 |
@@ -345,7 +346,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities](http://arxiv.org/abs/2401.11143v3) | Georgios Ioannides et al. | 2024-01-20 |
 | [Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition](http://arxiv.org/abs/2401.15532v1) | Ahnaf Mozib Samin | 2024-01-28 |
 | [Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers](http://arxiv.org/abs/2401.17196v1) | Lei Xu et al. | 2024-01-30 |
-| [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v1) | Jacob Fein-Ashley et al. | 2024-02-01 |
+| [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v2) | Jacob Fein-Ashley et al. | 2024-02-01 |
 | [Compositional Generative Modeling: A Single Model is Not All You Need](http://arxiv.org/abs/2402.01103v2) | Yilun Du et al. | 2024-02-02 |
 | [A Single Simple Patch is All You Need for AI-generated Image Detection](http://arxiv.org/abs/2402.01123v2) | Jiaxuan Chen et al. | 2024-02-02 |
 | [Sets are all you need: Ultrafast jet classification on FPGAs for HL-LHC](http://arxiv.org/abs/2402.01876v1) | Patrick Odagiu et al. | 2024-02-02 |
@@ -353,7 +354,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Accelerating Look-ahead in Bayesian Optimization: Multilevel Monte Carlo is All you Need](http://arxiv.org/abs/2402.02111v1) | Shangda Yang et al. | 2024-02-03 |
 | [SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking](http://arxiv.org/abs/2402.02285v1) | Atharva Kulkarni et al. | 2024-02-03 |
 | [Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association](http://arxiv.org/abs/2402.02337v1) | Thien-Minh Nguyen et al. | 2024-02-04 |
-| [Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization](http://arxiv.org/abs/2402.02746v2) | Zhitong Xu et al. | 2024-02-05 |
+| [Standard Gaussian Process Can Be Excellent for High-Dimensional Bayesian Optimization](http://arxiv.org/abs/2402.02746v3) | Zhitong Xu et al. | 2024-02-05 |
 | [Tabular Data: Is Attention All You Need?](http://arxiv.org/abs/2402.03970v1) | Guri Zabërgja et al. | 2024-02-06 |
 | [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v2) | Jiajun Zeng et al. | 2024-02-07 |
 | [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](http://arxiv.org/abs/2402.06053v1) | Thomas Sandholm et al. | 2024-02-08 |
@@ -391,6 +392,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [HCC Is All You Need: Alignment-The Sensible Kind Anyway-Is Just Human-Centered Computing](http://arxiv.org/abs/2405.03699v1) | Eric Gilbert | 2024-04-30 |
 | [Graph is all you need? Lightweight data-agnostic neural architecture search without training](http://arxiv.org/abs/2405.01306v1) | Zhenhan Huang et al. | 2024-05-02 |
 | [Key Patches Are All You Need: A Multiple Instance Learning Framework For Robust Medical Diagnosis](http://arxiv.org/abs/2405.01654v1) | Diogo J. Araújo et al. | 2024-05-02 |
+| [Sparse Sampling is All You Need for Fast Wrong-way Cycling Detection in CCTV Videos](http://arxiv.org/abs/2405.07293v1) | Jing Xu et al. | 2024-05-12 |
 
 
 ## FAQ
