@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -354,7 +354,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Accelerating Look-ahead in Bayesian Optimization: Multilevel Monte Carlo is All you Need](http://arxiv.org/abs/2402.02111v1) | Shangda Yang et al. | 2024-02-03 |
 | [SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking](http://arxiv.org/abs/2402.02285v1) | Atharva Kulkarni et al. | 2024-02-03 |
 | [Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association](http://arxiv.org/abs/2402.02337v1) | Thien-Minh Nguyen et al. | 2024-02-04 |
-| [Standard Gaussian Process Can Be Excellent for High-Dimensional Bayesian Optimization](http://arxiv.org/abs/2402.02746v3) | Zhitong Xu et al. | 2024-02-05 |
 | [Tabular Data: Is Attention All You Need?](http://arxiv.org/abs/2402.03970v1) | Guri Zabërgja et al. | 2024-02-06 |
 | [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v2) | Jiajun Zeng et al. | 2024-02-07 |
 | [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](http://arxiv.org/abs/2402.06053v1) | Thomas Sandholm et al. | 2024-02-08 |
@@ -393,6 +392,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Graph is all you need? Lightweight data-agnostic neural architecture search without training](http://arxiv.org/abs/2405.01306v1) | Zhenhan Huang et al. | 2024-05-02 |
 | [Key Patches Are All You Need: A Multiple Instance Learning Framework For Robust Medical Diagnosis](http://arxiv.org/abs/2405.01654v1) | Diogo J. Araújo et al. | 2024-05-02 |
 | [Sparse Sampling is All You Need for Fast Wrong-way Cycling Detection in CCTV Videos](http://arxiv.org/abs/2405.07293v1) | Jing Xu et al. | 2024-05-12 |
+| [Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning](http://arxiv.org/abs/2405.09285v1) | Junfeng Chen et al. | 2024-05-15 |
 
 
 ## FAQ
