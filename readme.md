@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -393,6 +393,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Key Patches Are All You Need: A Multiple Instance Learning Framework For Robust Medical Diagnosis](http://arxiv.org/abs/2405.01654v1) | Diogo J. Araújo et al. | 2024-05-02 |
 | [Sparse Sampling is All You Need for Fast Wrong-way Cycling Detection in CCTV Videos](http://arxiv.org/abs/2405.07293v1) | Jing Xu et al. | 2024-05-12 |
 | [Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning](http://arxiv.org/abs/2405.09285v1) | Junfeng Chen et al. | 2024-05-15 |
+| [Comparisons Are All You Need for Optimizing Smooth Functions](http://arxiv.org/abs/2405.11454v1) | Chenyi Zhang et al. | 2024-05-19 |
 
 
 ## FAQ
