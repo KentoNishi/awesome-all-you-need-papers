@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--22-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--27-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -394,6 +394,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning](http://arxiv.org/abs/2405.09285v1) | Junfeng Chen et al. | 2024-05-15 |
 | [Comparisons Are All You Need for Optimizing Smooth Functions](http://arxiv.org/abs/2405.11454v1) | Chenyi Zhang et al. | 2024-05-19 |
 | [Requirements are All You Need: The Final Frontier for End-User Software Engineering](http://arxiv.org/abs/2405.13708v1) | Diana Robinson et al. | 2024-05-22 |
+| [Conditioning on Time is All You Need for Synthetic Survival Data Generation](http://arxiv.org/abs/2405.17333v1) | Mohd Ashhad et al. | 2024-05-27 |
 
 
 ## FAQ
