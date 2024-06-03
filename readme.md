@@ -335,7 +335,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Chatbot is Not All You Need: Information-rich Prompting for More Realistic Responses](http://arxiv.org/abs/2312.16233v1) | Seokhoon Jeong et al. | 2023-12-25 |
 | [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](http://arxiv.org/abs/2312.16171v2) | Sondos Mahmoud Bsharat et al. | 2023-12-26 |
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
-| [Exposure Bracketing is All You Need for Unifying Image Restoration and Enhancement Tasks](http://arxiv.org/abs/2401.00766v3) | Zhilu Zhang et al. | 2024-01-01 |
+| [Exposure Bracketing is All You Need for Unifying Image Restoration and Enhancement Tasks](http://arxiv.org/abs/2401.00766v4) | Zhilu Zhang et al. | 2024-01-01 |
 | [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v3) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
@@ -361,8 +361,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Answer is All You Need: Instruction-following Text Embedding via Answering the Question](http://arxiv.org/abs/2402.09642v1) | Letian Peng et al. | 2024-02-15 |
 | [Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks](http://arxiv.org/abs/2402.09874v1) | Álvaro Huertas-García et al. | 2024-02-15 |
 | [Masked Attention is All You Need for Graphs](http://arxiv.org/abs/2402.10793v1) | David Buterez et al. | 2024-02-16 |
-| [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v1) | Naixu Guo et al. | 2024-02-26 |
-| [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v1) | Omri Uzan et al. | 2024-03-02 |
+| [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v2) | Naixu Guo et al. | 2024-02-26 |
+| [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v2) | Omri Uzan et al. | 2024-03-02 |
 | [Cognition is All You Need -- The Next Layer of AI Above Large Language Models](http://arxiv.org/abs/2403.02164v2) | Nova Spivack et al. | 2024-03-04 |
 | [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v1) | Lingjiao Chen et al. | 2024-03-04 |
 | [Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data](http://arxiv.org/abs/2403.03304v1) | Joseph Gatto et al. | 2024-03-05 |
