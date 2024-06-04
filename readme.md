@@ -324,7 +324,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Scaling Political Texts with Large Language Models: Asking a Chatbot Might Be All You Need](http://arxiv.org/abs/2311.16639v2) | Gaël Le Mens et al. | 2023-11-28 |
 | [Magicoder: Source Code Is All You Need](http://arxiv.org/abs/2312.02120v1) | Yuxiang Wei et al. | 2023-12-04 |
 | [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v2) | Camillo Quattrocchi et al. | 2023-12-05 |
-| [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v1) | Zhiqi Li et al. | 2023-12-05 |
+| [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v2) | Zhiqi Li et al. | 2023-12-05 |
 | [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v3) | Tianchi Liu et al. | 2023-12-06 |
 | [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2312.04736v1) | Sabrina McCallum et al. | 2023-12-07 |
 | [The Counterattack of CNNs in Self-Supervised Learning: Larger Kernel Size might be All You Need](http://arxiv.org/abs/2312.05695v2) | Tianjin Huang et al. | 2023-12-09 |
