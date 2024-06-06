@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--05--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--04-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -364,7 +364,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v2) | Naixu Guo et al. | 2024-02-26 |
 | [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v2) | Omri Uzan et al. | 2024-03-02 |
 | [Cognition is All You Need -- The Next Layer of AI Above Large Language Models](http://arxiv.org/abs/2403.02164v2) | Nova Spivack et al. | 2024-03-04 |
-| [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v1) | Lingjiao Chen et al. | 2024-03-04 |
+| [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v2) | Lingjiao Chen et al. | 2024-03-04 |
 | [Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data](http://arxiv.org/abs/2403.03304v1) | Joseph Gatto et al. | 2024-03-05 |
 | [DualBEV: CNN is All You Need in View Transformation](http://arxiv.org/abs/2403.05402v1) | Peidong Li et al. | 2024-03-08 |
 | [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
@@ -396,6 +396,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Requirements are All You Need: The Final Frontier for End-User Software Engineering](http://arxiv.org/abs/2405.13708v1) | Diana Robinson et al. | 2024-05-22 |
 | [Conditioning on Time is All You Need for Synthetic Survival Data Generation](http://arxiv.org/abs/2405.17333v1) | Mohd Ashhad et al. | 2024-05-27 |
 | [Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts](http://arxiv.org/abs/2405.19893v1) | Chunjing Gan et al. | 2024-05-30 |
+| [Non-uniformity is All You Need: Efficient and Timely Encrypted Traffic Classification With ECHO](http://arxiv.org/abs/2406.01852v1) | Shilo Daum et al. | 2024-06-03 |
+| [MetaMixer Is All You Need](http://arxiv.org/abs/2406.02021v1) | Seokju Yun et al. | 2024-06-04 |
+| [GrootVL: Tree Topology is All You Need in State Space Model](http://arxiv.org/abs/2406.02395v1) | Yicheng Xiao et al. | 2024-06-04 |
 
 
 ## FAQ
