@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -395,10 +395,13 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Comparisons Are All You Need for Optimizing Smooth Functions](http://arxiv.org/abs/2405.11454v1) | Chenyi Zhang et al. | 2024-05-19 |
 | [Requirements are All You Need: The Final Frontier for End-User Software Engineering](http://arxiv.org/abs/2405.13708v1) | Diana Robinson et al. | 2024-05-22 |
 | [Conditioning on Time is All You Need for Synthetic Survival Data Generation](http://arxiv.org/abs/2405.17333v1) | Mohd Ashhad et al. | 2024-05-27 |
+| [Cross-Modal Safety Alignment: Is textual unlearning all you need?](http://arxiv.org/abs/2406.02575v1) | Trishna Chakraborty et al. | 2024-05-27 |
 | [Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts](http://arxiv.org/abs/2405.19893v1) | Chunjing Gan et al. | 2024-05-30 |
-| [Non-uniformity is All You Need: Efficient and Timely Encrypted Traffic Classification With ECHO](http://arxiv.org/abs/2406.01852v1) | Shilo Daum et al. | 2024-06-03 |
+| [Non-uniformity is All You Need: Efficient and Timely Encrypted Traffic Classification With ECHO](http://arxiv.org/abs/2406.01852v2) | Shilo Daum et al. | 2024-06-03 |
 | [MetaMixer Is All You Need](http://arxiv.org/abs/2406.02021v1) | Seokju Yun et al. | 2024-06-04 |
 | [GrootVL: Tree Topology is All You Need in State Space Model](http://arxiv.org/abs/2406.02395v1) | Yicheng Xiao et al. | 2024-06-04 |
+| [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](http://arxiv.org/abs/2406.03216v1) | Martin Wistuba et al. | 2024-06-05 |
+| [SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN](http://arxiv.org/abs/2406.03470v1) | Kang You et al. | 2024-06-05 |
 
 
 ## FAQ
