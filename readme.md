@@ -298,7 +298,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need](http://arxiv.org/abs/2309.15737v1) | Danil Provodin et al. | 2023-09-27 |
 | [Multilingual Natural Language Processing Model for Radiology Reports -- The Summary is all you need!](http://arxiv.org/abs/2310.00100v4) | Mariana Lindo et al. | 2023-09-29 |
 | [Linear attention is (maybe) all you need (to understand transformer optimization)](http://arxiv.org/abs/2310.01082v2) | Kwangjun Ahn et al. | 2023-10-02 |
-| [Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning](http://arxiv.org/abs/2310.10707v1) | Anirudh Som et al. | 2023-10-16 |
+| [Demonstrations Are All You Need: Advancing Offensive Content Paraphrasing using In-Context Learning](http://arxiv.org/abs/2310.10707v2) | Anirudh Som et al. | 2023-10-16 |
 | [Equivariant Transformer is all you need](http://arxiv.org/abs/2310.13222v1) | Akio Tomiya et al. | 2023-10-20 |
 | [Seq2seq is All You Need for Coreference Resolution](http://arxiv.org/abs/2310.13774v1) | Wenzheng Zhang et al. | 2023-10-20 |
 | [All you need is data: the added value of National Access Points as backbone European ITS data exchange infrastructures](http://arxiv.org/abs/2310.14054v1) | Chrysostomos Mylonas et al. | 2023-10-21 |
@@ -322,7 +322,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
 | [Scaling Political Texts with Large Language Models: Asking a Chatbot Might Be All You Need](http://arxiv.org/abs/2311.16639v2) | Gaël Le Mens et al. | 2023-11-28 |
-| [Magicoder: Empowering Code Generation with OSS-Instruct](http://arxiv.org/abs/2312.02120v2) | Yuxiang Wei et al. | 2023-12-04 |
 | [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v2) | Camillo Quattrocchi et al. | 2023-12-05 |
 | [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v2) | Zhiqi Li et al. | 2023-12-05 |
 | [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v3) | Tianchi Liu et al. | 2023-12-06 |
@@ -345,7 +344,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities](http://arxiv.org/abs/2401.11143v3) | Georgios Ioannides et al. | 2024-01-20 |
 | [Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition](http://arxiv.org/abs/2401.15532v1) | Ahnaf Mozib Samin | 2024-01-28 |
 | [Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers](http://arxiv.org/abs/2401.17196v1) | Lei Xu et al. | 2024-01-30 |
-| [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v2) | Jacob Fein-Ashley et al. | 2024-02-01 |
+| [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v3) | Jacob Fein-Ashley et al. | 2024-02-01 |
 | [Compositional Generative Modeling: A Single Model is Not All You Need](http://arxiv.org/abs/2402.01103v3) | Yilun Du et al. | 2024-02-02 |
 | [A Single Simple Patch is All You Need for AI-generated Image Detection](http://arxiv.org/abs/2402.01123v2) | Jiaxuan Chen et al. | 2024-02-02 |
 | [Sets are all you need: Ultrafast jet classification on FPGAs for HL-LHC](http://arxiv.org/abs/2402.01876v1) | Patrick Odagiu et al. | 2024-02-02 |
