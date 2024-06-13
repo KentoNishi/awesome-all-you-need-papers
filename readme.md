@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -402,6 +402,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](http://arxiv.org/abs/2406.03216v1) | Martin Wistuba et al. | 2024-06-05 |
 | [SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN](http://arxiv.org/abs/2406.03470v1) | Kang You et al. | 2024-06-05 |
 | [Procrastination Is All You Need: Exponent Indexed Accumulators for Floating Point, Posits and Logarithmic Numbers](http://arxiv.org/abs/2406.05866v1) | Vincenzo Liguori | 2024-06-09 |
+| [Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss](http://arxiv.org/abs/2406.06848v1) | Kiran Kokilepersaud et al. | 2024-06-10 |
 
 
 ## FAQ
