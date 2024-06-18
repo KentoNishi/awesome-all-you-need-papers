@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--14-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -404,6 +404,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss](http://arxiv.org/abs/2406.06848v1) | Kiran Kokilepersaud et al. | 2024-06-10 |
 | [Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](http://arxiv.org/abs/2406.08413v1) | Christopher Wolters et al. | 2024-06-12 |
 | [Zoom and Shift are All You Need](http://arxiv.org/abs/2406.08866v1) | Jiahao Qin | 2024-06-13 |
+| [Requirements are All You Need: From Requirements to Code with LLMs](http://arxiv.org/abs/2406.10101v1) | Bingyang Wei | 2024-06-14 |
 
 
 ## FAQ
