@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -406,6 +406,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Zoom and Shift are All You Need](http://arxiv.org/abs/2406.08866v1) | Jiahao Qin | 2024-06-13 |
 | [Requirements are All You Need: From Requirements to Code with LLMs](http://arxiv.org/abs/2406.10101v2) | Bingyang Wei | 2024-06-14 |
 | [Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?](http://arxiv.org/abs/2406.10974v1) | T. Y. S. S Santosh et al. | 2024-06-16 |
+| [MiSuRe is all you need to explain your image segmentation](http://arxiv.org/abs/2406.12173v1) | Syed Nouman Hasany et al. | 2024-06-18 |
+| [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](http://arxiv.org/abs/2406.12335v1) | Zhiyu Guo et al. | 2024-06-18 |
 
 
 ## FAQ
