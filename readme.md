@@ -318,7 +318,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification](http://arxiv.org/abs/2311.11772v4) | Georg Wölflein et al. | 2023-11-20 |
 | [Causality is all you need](http://arxiv.org/abs/2311.12307v1) | Ning Xu et al. | 2023-11-21 |
 | [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v2) | Dongshuo Yin et al. | 2023-11-25 |
-| [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v1) | Abhishek Sinha et al. | 2023-11-26 |
+| [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v2) | Abhishek Sinha et al. | 2023-11-26 |
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
 | [Scaling Political Texts with Large Language Models: Asking a Chatbot Might Be All You Need](http://arxiv.org/abs/2311.16639v2) | Gaël Le Mens et al. | 2023-11-28 |
@@ -406,7 +406,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Zoom and Shift are All You Need](http://arxiv.org/abs/2406.08866v1) | Jiahao Qin | 2024-06-13 |
 | [Requirements are All You Need: From Requirements to Code with LLMs](http://arxiv.org/abs/2406.10101v2) | Bingyang Wei | 2024-06-14 |
 | [Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?](http://arxiv.org/abs/2406.10974v1) | T. Y. S. S Santosh et al. | 2024-06-16 |
-| [MiSuRe is all you need to explain your image segmentation](http://arxiv.org/abs/2406.12173v1) | Syed Nouman Hasany et al. | 2024-06-18 |
+| [MiSuRe is all you need to explain your image segmentation](http://arxiv.org/abs/2406.12173v2) | Syed Nouman Hasany et al. | 2024-06-18 |
 | [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](http://arxiv.org/abs/2406.12335v1) | Zhiyu Guo et al. | 2024-06-18 |
 
 
