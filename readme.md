@@ -344,7 +344,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gaussian Adaptive Attention is All You Need: Robust Contextual Representations Across Multiple Modalities](http://arxiv.org/abs/2401.11143v3) | Georgios Ioannides et al. | 2024-01-20 |
 | [Byte Pair Encoding Is All You Need For Automatic Bengali Speech Recognition](http://arxiv.org/abs/2401.15532v1) | Ahnaf Mozib Samin | 2024-01-28 |
 | [Single Word Change is All You Need: Designing Attacks and Defenses for Text Classifiers](http://arxiv.org/abs/2401.17196v1) | Lei Xu et al. | 2024-01-30 |
-| [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v4) | Jacob Fein-Ashley et al. | 2024-02-01 |
+| [A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification](http://arxiv.org/abs/2402.00564v5) | Jacob Fein-Ashley et al. | 2024-02-01 |
 | [Compositional Generative Modeling: A Single Model is Not All You Need](http://arxiv.org/abs/2402.01103v3) | Yilun Du et al. | 2024-02-02 |
 | [A Single Simple Patch is All You Need for AI-generated Image Detection](http://arxiv.org/abs/2402.01123v2) | Jiaxuan Chen et al. | 2024-02-02 |
 | [Sets are all you need: Ultrafast jet classification on FPGAs for HL-LHC](http://arxiv.org/abs/2402.01876v1) | Patrick Odagiu et al. | 2024-02-02 |
@@ -368,7 +368,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v2) | Doanh C. Bui et al. | 2024-03-10 |
 | [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
-| [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v1) | Chaoqun Liu et al. | 2024-03-15 |
+| [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v2) | Chaoqun Liu et al. | 2024-03-15 |
 | [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v1) | Kaiyan Chang et al. | 2024-03-17 |
 | [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
 | [Multistep Inverse Is Not All You Need](http://arxiv.org/abs/2403.11940v1) | Alexander Levine et al. | 2024-03-18 |
