@@ -315,7 +315,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Lidar Annotation Is All You Need](http://arxiv.org/abs/2311.04777v1) | Dinar Sharafutdinov et al. | 2023-11-08 |
 | [Interaction is all You Need? A Study of Robots Ability to Understand and Execute](http://arxiv.org/abs/2311.07150v1) | Kushal Koshti et al. | 2023-11-13 |
 | [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v2) | Yang Trista Cao et al. | 2023-11-14 |
-| [A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification](http://arxiv.org/abs/2311.11772v4) | Georg Wölflein et al. | 2023-11-20 |
+| [Benchmarking Pathology Feature Extractors for Whole Slide Image Classification](http://arxiv.org/abs/2311.11772v5) | Georg Wölflein et al. | 2023-11-20 |
 | [Causality is all you need](http://arxiv.org/abs/2311.12307v1) | Ning Xu et al. | 2023-11-21 |
 | [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v2) | Dongshuo Yin et al. | 2023-11-25 |
 | [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v2) | Abhishek Sinha et al. | 2023-11-26 |
