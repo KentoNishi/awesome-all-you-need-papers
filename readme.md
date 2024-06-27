@@ -402,6 +402,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Procrastination Is All You Need: Exponent Indexed Accumulators for Floating Point, Posits and Logarithmic Numbers](http://arxiv.org/abs/2406.05866v1) | Vincenzo Liguori | 2024-06-09 |
 | [Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss](http://arxiv.org/abs/2406.06848v1) | Kiran Kokilepersaud et al. | 2024-06-10 |
 | [Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](http://arxiv.org/abs/2406.08413v1) | Christopher Wolters et al. | 2024-06-12 |
+| [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need](http://arxiv.org/abs/2406.16929v1) | Tingwei Chen et al. | 2024-06-13 |
 | [Zoom and Shift are All You Need](http://arxiv.org/abs/2406.08866v1) | Jiahao Qin | 2024-06-13 |
 | [Requirements are All You Need: From Requirements to Code with LLMs](http://arxiv.org/abs/2406.10101v2) | Bingyang Wei | 2024-06-14 |
 | [Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?](http://arxiv.org/abs/2406.10974v1) | T. Y. S. S Santosh et al. | 2024-06-16 |
