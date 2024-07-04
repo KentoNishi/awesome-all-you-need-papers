@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--06--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--01-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -399,6 +399,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [GrootVL: Tree Topology is All You Need in State Space Model](http://arxiv.org/abs/2406.02395v1) | Yicheng Xiao et al. | 2024-06-04 |
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](http://arxiv.org/abs/2406.03216v1) | Martin Wistuba et al. | 2024-06-05 |
 | [SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN](http://arxiv.org/abs/2406.03470v1) | Kang You et al. | 2024-06-05 |
+| [One Queue Is All You Need: Resolving Head-of-Line Blocking in Large Language Model Serving](http://arxiv.org/abs/2407.00047v1) | Archit Patke et al. | 2024-06-05 |
 | [Procrastination Is All You Need: Exponent Indexed Accumulators for Floating Point, Posits and Logarithmic Numbers](http://arxiv.org/abs/2406.05866v1) | Vincenzo Liguori | 2024-06-09 |
 | [Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss](http://arxiv.org/abs/2406.06848v1) | Kiran Kokilepersaud et al. | 2024-06-10 |
 | [Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](http://arxiv.org/abs/2406.08413v1) | Christopher Wolters et al. | 2024-06-12 |
@@ -412,6 +413,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v1) | Bowen Xu et al. | 2024-06-24 |
 | [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v1) | Yang Wang et al. | 2024-06-26 |
 | [Wavelets Are All You Need for Autoregressive Image Generation](http://arxiv.org/abs/2406.19997v1) | Wael Mattar et al. | 2024-06-28 |
+| [Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](http://arxiv.org/abs/2407.00402v1) | Omer Goldman et al. | 2024-06-29 |
+| [TransferAttn: Transferable-guided Attention Is All You Need for Video Domain Adaptation](http://arxiv.org/abs/2407.01375v1) | André Sacilotti et al. | 2024-07-01 |
 
 
 ## FAQ
