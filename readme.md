@@ -367,7 +367,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v2) | Doanh C. Bui et al. | 2024-03-10 |
 | [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
 | [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v2) | Chaoqun Liu et al. | 2024-03-15 |
-| [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v1) | Kaiyan Chang et al. | 2024-03-17 |
+| [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v2) | Kaiyan Chang et al. | 2024-03-17 |
 | [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
 | [Multistep Inverse Is Not All You Need](http://arxiv.org/abs/2403.11940v1) | Alexander Levine et al. | 2024-03-18 |
 | [Reflectivity Is All You Need!: Advancing LiDAR Semantic Segmentation](http://arxiv.org/abs/2403.13188v1) | Kasi Viswanath et al. | 2024-03-19 |
@@ -393,7 +393,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Conditioning on Time is All You Need for Synthetic Survival Data Generation](http://arxiv.org/abs/2405.17333v1) | Mohd Ashhad et al. | 2024-05-27 |
 | [Cross-Modal Safety Alignment: Is textual unlearning all you need?](http://arxiv.org/abs/2406.02575v1) | Trishna Chakraborty et al. | 2024-05-27 |
 | [Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts](http://arxiv.org/abs/2405.19893v1) | Chunjing Gan et al. | 2024-05-30 |
-| [Non-uniformity is All You Need: Efficient and Timely Encrypted Traffic Classification With ECHO](http://arxiv.org/abs/2406.01852v2) | Shilo Daum et al. | 2024-06-03 |
+| [Non-uniformity is All You Need: Efficient and Timely Encrypted Traffic Classification With ECHO](http://arxiv.org/abs/2406.01852v3) | Shilo Daum et al. | 2024-06-03 |
 | [MetaMixer Is All You Need](http://arxiv.org/abs/2406.02021v1) | Seokju Yun et al. | 2024-06-04 |
 | [GrootVL: Tree Topology is All You Need in State Space Model](http://arxiv.org/abs/2406.02395v1) | Yicheng Xiao et al. | 2024-06-04 |
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](http://arxiv.org/abs/2406.03216v1) | Martin Wistuba et al. | 2024-06-05 |
