@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--08-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -412,10 +412,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v1) | Bowen Xu et al. | 2024-06-24 |
 | [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v2) | Yang Wang et al. | 2024-06-26 |
 | [Wavelets Are All You Need for Autoregressive Image Generation](http://arxiv.org/abs/2406.19997v1) | Wael Mattar et al. | 2024-06-28 |
-| [Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](http://arxiv.org/abs/2407.00402v1) | Omer Goldman et al. | 2024-06-29 |
+| [Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](http://arxiv.org/abs/2407.00402v2) | Omer Goldman et al. | 2024-06-29 |
 | [TransferAttn: Transferable-guided Attention Is All You Need for Video Domain Adaptation](http://arxiv.org/abs/2407.01375v1) | André Sacilotti et al. | 2024-07-01 |
 | [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](http://arxiv.org/abs/2407.03040v1) | Xia Hou et al. | 2024-07-03 |
 | [An accurate detection is not all you need to combat label noise in web-noisy datasets](http://arxiv.org/abs/2407.05528v1) | Paul Albert et al. | 2024-07-08 |
+| [Bucket Pre-training is All You Need](http://arxiv.org/abs/2407.07495v1) | Hongtao Liu et al. | 2024-07-10 |
 
 
 ## FAQ
