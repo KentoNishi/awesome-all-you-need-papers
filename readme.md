@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -417,6 +417,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](http://arxiv.org/abs/2407.03040v1) | Xia Hou et al. | 2024-07-03 |
 | [An accurate detection is not all you need to combat label noise in web-noisy datasets](http://arxiv.org/abs/2407.05528v1) | Paul Albert et al. | 2024-07-08 |
 | [Bucket Pre-training is All You Need](http://arxiv.org/abs/2407.07495v1) | Hongtao Liu et al. | 2024-07-10 |
+| [Accuracy is Not All You Need](http://arxiv.org/abs/2407.09141v1) | Abhinav Dutta et al. | 2024-07-12 |
+| [Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text](http://arxiv.org/abs/2407.09364v1) | Lucio La Cava et al. | 2024-07-12 |
 
 
 ## FAQ
