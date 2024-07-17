@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -321,7 +321,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
 | [Scaling Political Texts with Large Language Models: Asking a Chatbot Might Be All You Need](http://arxiv.org/abs/2311.16639v2) | Gaël Le Mens et al. | 2023-11-28 |
-| [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v2) | Camillo Quattrocchi et al. | 2023-12-05 |
+| [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v3) | Camillo Quattrocchi et al. | 2023-12-05 |
 | [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v2) | Zhiqi Li et al. | 2023-12-05 |
 | [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v3) | Tianchi Liu et al. | 2023-12-06 |
 | [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2312.04736v1) | Sabrina McCallum et al. | 2023-12-07 |
@@ -419,6 +419,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Bucket Pre-training is All You Need](http://arxiv.org/abs/2407.07495v1) | Hongtao Liu et al. | 2024-07-10 |
 | [Accuracy is Not All You Need](http://arxiv.org/abs/2407.09141v1) | Abhinav Dutta et al. | 2024-07-12 |
 | [Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text](http://arxiv.org/abs/2407.09364v1) | Lucio La Cava et al. | 2024-07-12 |
+| [Explanation is All You Need in Distillation: Mitigating Bias and Shortcut Learning](http://arxiv.org/abs/2407.09788v1) | Pedro R. A. S. Bassi et al. | 2024-07-13 |
 
 
 ## FAQ
