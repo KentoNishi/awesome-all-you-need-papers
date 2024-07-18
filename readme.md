@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -366,6 +366,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v2) | Doanh C. Bui et al. | 2024-03-10 |
 | [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
+| [Pairwise Comparisons Are All You Need](http://arxiv.org/abs/2403.09746v2) | Nicolas Chahine et al. | 2024-03-13 |
 | [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v2) | Chaoqun Liu et al. | 2024-03-15 |
 | [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v2) | Kaiyan Chang et al. | 2024-03-17 |
 | [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
@@ -420,6 +421,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Accuracy is Not All You Need](http://arxiv.org/abs/2407.09141v1) | Abhinav Dutta et al. | 2024-07-12 |
 | [Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text](http://arxiv.org/abs/2407.09364v1) | Lucio La Cava et al. | 2024-07-12 |
 | [Explanation is All You Need in Distillation: Mitigating Bias and Shortcut Learning](http://arxiv.org/abs/2407.09788v1) | Pedro R. A. S. Bassi et al. | 2024-07-13 |
+| [Rethinking Learned Image Compression: Context is All You Need](http://arxiv.org/abs/2407.11590v1) | Jixiang Luo | 2024-07-16 |
 
 
 ## FAQ
