@@ -422,6 +422,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text](http://arxiv.org/abs/2407.09364v1) | Lucio La Cava et al. | 2024-07-12 |
 | [Explanation is All You Need in Distillation: Mitigating Bias and Shortcut Learning](http://arxiv.org/abs/2407.09788v1) | Pedro R. A. S. Bassi et al. | 2024-07-13 |
 | [Rethinking Learned Image Compression: Context is All You Need](http://arxiv.org/abs/2407.11590v1) | Jixiang Luo | 2024-07-16 |
+| [Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models using Stepwise Spectral Analysis](http://arxiv.org/abs/2407.12173v1) | Haeil Lee et al. | 2024-07-16 |
 
 
 ## FAQ
