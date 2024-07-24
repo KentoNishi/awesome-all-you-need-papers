@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--07--22-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -423,6 +423,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Explanation is All You Need in Distillation: Mitigating Bias and Shortcut Learning](http://arxiv.org/abs/2407.09788v1) | Pedro R. A. S. Bassi et al. | 2024-07-13 |
 | [Rethinking Learned Image Compression: Context is All You Need](http://arxiv.org/abs/2407.11590v1) | Jixiang Luo | 2024-07-16 |
 | [Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models using Stepwise Spectral Analysis](http://arxiv.org/abs/2407.12173v1) | Haeil Lee et al. | 2024-07-16 |
+| [Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning](http://arxiv.org/abs/2407.15007v1) | Dylan J. Foster et al. | 2024-07-20 |
+| [Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection](http://arxiv.org/abs/2407.15369v1) | Fei Zhou et al. | 2024-07-22 |
+| [Attention Is All You Need But You Don't Need All Of It For Inference of Large Language Models](http://arxiv.org/abs/2407.15516v1) | Georgy Tyukin et al. | 2024-07-22 |
 
 
 ## FAQ
