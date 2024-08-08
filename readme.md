@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--01-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--03-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -431,6 +431,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [DC is all you need: describing ReLU from a signal processing standpoint](http://arxiv.org/abs/2407.16556v1) | Christodoulos Kechris et al. | 2024-07-23 |
 | [HDL-GPT: High-Quality HDL is All You Need](http://arxiv.org/abs/2407.18423v1) | Bhuvnesh Kumar et al. | 2024-07-25 |
 | [Downstream bias mitigation is all you need](http://arxiv.org/abs/2408.00612v1) | Arkadeep Baksi et al. | 2024-08-01 |
+| [Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco](http://arxiv.org/abs/2408.02692v1) | Akram Elghouat et al. | 2024-08-03 |
 
 
 ## FAQ
