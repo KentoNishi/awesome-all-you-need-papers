@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--03-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--11-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -363,7 +363,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cognition is All You Need -- The Next Layer of AI Above Large Language Models](http://arxiv.org/abs/2403.02164v2) | Nova Spivack et al. | 2024-03-04 |
 | [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v2) | Lingjiao Chen et al. | 2024-03-04 |
 | [DualBEV: CNN is All You Need in View Transformation](http://arxiv.org/abs/2403.05402v1) | Peidong Li et al. | 2024-03-08 |
-| [RepoHyper: Better Context Retrieval Is All You Need for Repository-Level Code Completion](http://arxiv.org/abs/2403.06095v2) | Huy N. Phan et al. | 2024-03-10 |
+| [RepoHyper: Search-Expand-Refine on Semantic Graphs for Repository-Level Code Completionn](http://arxiv.org/abs/2403.06095v3) | Huy N. Phan et al. | 2024-03-10 |
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v2) | Doanh C. Bui et al. | 2024-03-10 |
 | [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
 | [Pairwise Comparisons Are All You Need](http://arxiv.org/abs/2403.09746v2) | Nicolas Chahine et al. | 2024-03-13 |
@@ -432,6 +432,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [HDL-GPT: High-Quality HDL is All You Need](http://arxiv.org/abs/2407.18423v1) | Bhuvnesh Kumar et al. | 2024-07-25 |
 | [Downstream bias mitigation is all you need](http://arxiv.org/abs/2408.00612v1) | Arkadeep Baksi et al. | 2024-08-01 |
 | [Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco](http://arxiv.org/abs/2408.02692v1) | Akram Elghouat et al. | 2024-08-03 |
+| [A Single Goal is All You Need: Skills and Exploration Emerge from Contrastive RL without Rewards, Demonstrations, or Subgoals](http://arxiv.org/abs/2408.05804v1) | Grace Liu et al. | 2024-08-11 |
 
 
 ## FAQ
