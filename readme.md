@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -435,6 +435,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Single Goal is All You Need: Skills and Exploration Emerge from Contrastive RL without Rewards, Demonstrations, or Subgoals](http://arxiv.org/abs/2408.05804v1) | Grace Liu et al. | 2024-08-11 |
 | [Zero-Shot Learning and Key Points Are All You Need for Automated Fact-Checking](http://arxiv.org/abs/2408.08400v1) | Mohammad Ghiasvand Mohammadkhani et al. | 2024-08-15 |
 | [Are CLIP features all you need for Universal Synthetic Image Origin Attribution?](http://arxiv.org/abs/2408.09153v1) | Dario Cioni et al. | 2024-08-17 |
+| [Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer](http://arxiv.org/abs/2408.10457v1) | Md Fahim Anjum | 2024-08-19 |
 
 
 ## FAQ
