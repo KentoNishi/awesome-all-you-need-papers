@@ -429,7 +429,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is All You Need But You Don't Need All Of It For Inference of Large Language Models](http://arxiv.org/abs/2407.15516v1) | Georgy Tyukin et al. | 2024-07-22 |
 | [DC is all you need: describing ReLU from a signal processing standpoint](http://arxiv.org/abs/2407.16556v1) | Christodoulos Kechris et al. | 2024-07-23 |
 | [HDL-GPT: High-Quality HDL is All You Need](http://arxiv.org/abs/2407.18423v1) | Bhuvnesh Kumar et al. | 2024-07-25 |
-| [Downstream bias mitigation is all you need](http://arxiv.org/abs/2408.00612v1) | Arkadeep Baksi et al. | 2024-08-01 |
+| [Downstream bias mitigation is all you need](http://arxiv.org/abs/2408.00612v2) | Arkadeep Baksi et al. | 2024-08-01 |
 | [Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco](http://arxiv.org/abs/2408.02692v1) | Akram Elghouat et al. | 2024-08-03 |
 | [ViC: Virtual Compiler Is All You Need For Assembly Code Search](http://arxiv.org/abs/2408.06385v1) | Zeyu Gao et al. | 2024-08-10 |
 | [A Single Goal is All You Need: Skills and Exploration Emerge from Contrastive RL without Rewards, Demonstrations, or Subgoals](http://arxiv.org/abs/2408.05804v1) | Grace Liu et al. | 2024-08-11 |
