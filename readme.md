@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--08--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -439,6 +439,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [GenFormer -- Generated Images are All You Need to Improve Robustness of Transformers on Small Datasets](http://arxiv.org/abs/2408.14131v2) | Sven Oehri et al. | 2024-08-26 |
 | [Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need](http://arxiv.org/abs/2408.15997v1) | Sijia Peng et al. | 2024-08-28 |
 | [Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation](http://arxiv.org/abs/2408.16506v1) | Xiaoyu Jin et al. | 2024-08-29 |
+| [All You Need is Group Actions: Advancing Robust Autonomous Planning](http://arxiv.org/abs/2408.17295v1) | Vincenzo Basco | 2024-08-30 |
 
 
 ## FAQ
