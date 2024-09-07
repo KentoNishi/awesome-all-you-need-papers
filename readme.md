@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--09--03-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--09--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -320,7 +320,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v2) | Abhishek Sinha et al. | 2023-11-26 |
 | [Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift](http://arxiv.org/abs/2311.15961v1) | Jiawei Ge et al. | 2023-11-27 |
 | [Cross Entropy in Deep Learning of Classifiers Is Unnecessary -- ISBE Error is All You Need](http://arxiv.org/abs/2311.16357v1) | Wladyslaw Skarbek | 2023-11-27 |
-| [Positioning Political Texts with Large Language Models by Asking and Averaging](http://arxiv.org/abs/2311.16639v3) | Gaël Le Mens et al. | 2023-11-28 |
 | [Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs](http://arxiv.org/abs/2312.02638v3) | Camillo Quattrocchi et al. | 2023-12-05 |
 | [Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](http://arxiv.org/abs/2312.03031v2) | Zhiqi Li et al. | 2023-12-05 |
 | [Golden Gemini is All You Need: Finding the Sweet Spots for Speaker Verification](http://arxiv.org/abs/2312.03620v3) | Tianchi Liu et al. | 2023-12-06 |
@@ -442,6 +441,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is Group Actions: Advancing Robust Autonomous Planning](http://arxiv.org/abs/2408.17295v1) | Vincenzo Basco | 2024-08-30 |
 | [Dreaming is All You Need](http://arxiv.org/abs/2409.01633v1) | Mingze Ni et al. | 2024-09-03 |
 | [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v1) | Shiwen Ni et al. | 2024-09-03 |
+| [100 instances is all you need: predicting the success of a new LLM on unseen data by testing on a few instances](http://arxiv.org/abs/2409.03563v1) | Lorenzo Pacchiardi et al. | 2024-09-05 |
 
 
 ## FAQ
