@@ -130,7 +130,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Universal Online Learning with Unbounded Losses: Memory Is All You Need](http://arxiv.org/abs/2201.08903v1) | Moise Blanchard et al. | 2022-01-21 |
 | [Patches Are All You Need?](http://arxiv.org/abs/2201.09792v1) | Asher Trockman et al. | 2022-01-24 |
 | [It\^oWave: It\^o Stochastic Differential Equation Is All You Need For Wave Generation](http://arxiv.org/abs/2201.12519v2) | Shoule Wu et al. | 2022-01-29 |
-| [Minimax Optimal Algorithms with Fixed-$k$-Nearest Neighbors](http://arxiv.org/abs/2202.02464v3) | J. Jon Ryu et al. | 2022-02-05 |
 | [Distillation with Contrast is All You Need for Self-Supervised Point Cloud Representation Learning](http://arxiv.org/abs/2202.04241v1) | Kexue Fu et al. | 2022-02-09 |
 | [1-WL Expressiveness Is (Almost) All You Need](http://arxiv.org/abs/2202.10156v1) | Markus Zopf | 2022-02-21 |
 | [All You Need Is Supervised Learning: From Imitation Learning to Meta-RL With Upside Down RL](http://arxiv.org/abs/2202.11960v1) | Kai Arulkumaran et al. | 2022-02-24 |
@@ -368,7 +367,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v2) | Chaoqun Liu et al. | 2024-03-15 |
 | [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v2) | Kaiyan Chang et al. | 2024-03-17 |
 | [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
-| [Multistep Inverse Is Not All You Need](http://arxiv.org/abs/2403.11940v1) | Alexander Levine et al. | 2024-03-18 |
+| [Multistep Inverse Is Not All You Need](http://arxiv.org/abs/2403.11940v2) | Alexander Levine et al. | 2024-03-18 |
 | [Reflectivity Is All You Need!: Advancing LiDAR Semantic Segmentation](http://arxiv.org/abs/2403.13188v1) | Kasi Viswanath et al. | 2024-03-19 |
 | [One Masked Model is All You Need for Sensor Fault Detection, Isolation and Accommodation](http://arxiv.org/abs/2403.16153v1) | Yiwei Fu et al. | 2024-03-24 |
 | [Proprioception Is All You Need: Terrain Classification for Boreal Forests](http://arxiv.org/abs/2403.16877v1) | Damien LaRocque et al. | 2024-03-25 |
