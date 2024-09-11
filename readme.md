@@ -373,11 +373,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Proprioception Is All You Need: Terrain Classification for Boreal Forests](http://arxiv.org/abs/2403.16877v1) | Damien LaRocque et al. | 2024-03-25 |
 | [Belief Samples Are All You Need For Social Learning](http://arxiv.org/abs/2403.17174v1) | Mahyar JafariNodeh et al. | 2024-03-25 |
 | [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v1) | Yuelin Bai et al. | 2024-03-26 |
-| [SPMamba: State-space model is all you need in speech separation](http://arxiv.org/abs/2404.02063v1) | Kai Li et al. | 2024-04-02 |
+| [SPMamba: State-space model is all you need in speech separation](http://arxiv.org/abs/2404.02063v2) | Kai Li et al. | 2024-04-02 |
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
 | [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
 | [Self-supervised Dataset Distillation: A Good Compression Is All You Need](http://arxiv.org/abs/2404.07976v1) | Muxin Zhou et al. | 2024-04-11 |
-| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v5) | David M. Cerna et al. | 2024-04-16 |
+| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v6) | David M. Cerna et al. | 2024-04-16 |
 | [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v1) | Junyu Xie et al. | 2024-04-18 |
 | [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images](http://arxiv.org/abs/2404.12922v1) | Jacopo Bonato et al. | 2024-04-19 |
 | [All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs](http://arxiv.org/abs/2404.15261v2) | Sawyer Robertson et al. | 2024-04-23 |
@@ -438,7 +438,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need](http://arxiv.org/abs/2408.15997v1) | Sijia Peng et al. | 2024-08-28 |
 | [Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation](http://arxiv.org/abs/2408.16506v1) | Xiaoyu Jin et al. | 2024-08-29 |
 | [All You Need is Group Actions: Advancing Robust Autonomous Planning](http://arxiv.org/abs/2408.17295v1) | Vincenzo Basco | 2024-08-30 |
-| [Dreaming is All You Need](http://arxiv.org/abs/2409.01633v1) | Mingze Ni et al. | 2024-09-03 |
+| [Dreaming is All You Need](http://arxiv.org/abs/2409.01633v2) | Mingze Ni et al. | 2024-09-03 |
 | [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v1) | Shiwen Ni et al. | 2024-09-03 |
 | [100 instances is all you need: predicting the success of a new LLM on unseen data by testing on a few instances](http://arxiv.org/abs/2409.03563v1) | Lorenzo Pacchiardi et al. | 2024-09-05 |
 
