@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--09--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--09--11-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -442,6 +442,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v1) | Shiwen Ni et al. | 2024-09-03 |
 | [100 instances is all you need: predicting the success of a new LLM on unseen data by testing on a few instances](http://arxiv.org/abs/2409.03563v1) | Lorenzo Pacchiardi et al. | 2024-09-05 |
 | [Inference is All You Need: Self Example Retriever for Cross-domain Dialogue State Tracking with ChatGPT](http://arxiv.org/abs/2409.06243v1) | Jihyun Lee et al. | 2024-09-10 |
+| [Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](http://arxiv.org/abs/2409.07433v1) | Daniele Malitesta et al. | 2024-09-11 |
 
 
 ## FAQ
