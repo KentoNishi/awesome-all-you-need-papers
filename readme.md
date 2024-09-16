@@ -360,7 +360,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v2) | Omri Uzan et al. | 2024-03-02 |
 | [Cognition is All You Need -- The Next Layer of AI Above Large Language Models](http://arxiv.org/abs/2403.02164v2) | Nova Spivack et al. | 2024-03-04 |
 | [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](http://arxiv.org/abs/2403.02419v2) | Lingjiao Chen et al. | 2024-03-04 |
-| [DualBEV: CNN is All You Need in View Transformation](http://arxiv.org/abs/2403.05402v1) | Peidong Li et al. | 2024-03-08 |
+| [DualBEV: Unifying Dual View Transformation with Probabilistic Correspondences](http://arxiv.org/abs/2403.05402v2) | Peidong Li et al. | 2024-03-08 |
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v2) | Doanh C. Bui et al. | 2024-03-10 |
 | [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
 | [Pairwise Comparisons Are All You Need](http://arxiv.org/abs/2403.09746v2) | Nicolas Chahine et al. | 2024-03-13 |
