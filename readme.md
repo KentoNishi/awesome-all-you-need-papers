@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--09-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -73,7 +73,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Node Proximity Is All You Need: Unified Structural and Positional Node and Graph Embedding](http://arxiv.org/abs/2102.13582v1) | Jing Zhu et al. | 2021-02-26 |
 | [Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth](http://arxiv.org/abs/2103.03404v2) | Yihe Dong et al. | 2021-03-05 |
 | [GAN Vocoder: Multi-Resolution Discriminator Is All You Need](http://arxiv.org/abs/2103.05236v2) | Jaeseong You et al. | 2021-03-09 |
-| [Partial Differential Equations is All You Need for Generating Neural Architectures -- A Theory for Physical Artificial Intelligence Systems](http://arxiv.org/abs/2103.08313v1) | Ping Guo et al. | 2021-03-10 |
+| [Partial Differential Equations is All You Need for Generating Neural Architectures -- A Theory for Physical Artificial Intelligence Systems](http://arxiv.org/abs/2103.08313v2) | Ping Guo et al. | 2021-03-10 |
 | [More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](http://arxiv.org/abs/2103.13990v1) | Ayan Kumar Bhunia et al. | 2021-03-25 |
 | [Categorical Representation Learning: Morphism is All You Need](http://arxiv.org/abs/2103.14770v2) | Artan Sheshmani et al. | 2021-03-26 |
 | [Not All Attention Is All You Need](http://arxiv.org/abs/2104.04692v3) | Hongqiu Wu et al. | 2021-04-10 |
@@ -457,6 +457,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Addition is All You Need for Energy-efficient Language Models](http://arxiv.org/abs/2410.00907v2) | Hongyin Luo et al. | 2024-10-01 |
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](http://arxiv.org/abs/2410.03040v1) | Mingxue Xu et al. | 2024-10-03 |
 | [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](http://arxiv.org/abs/2410.03644v1) | Xianlong Wang et al. | 2024-10-04 |
+| [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v1) | You Qin et al. | 2024-10-08 |
+| [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v1) | Kawisorn Kamtue et al. | 2024-10-08 |
+| [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
 
 
 ## FAQ
