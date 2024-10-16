@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -332,7 +332,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](http://arxiv.org/abs/2312.16171v2) | Sondos Mahmoud Bsharat et al. | 2023-12-26 |
 | [Evaluation is all you need. Prompting Generative Large Language Models for Annotation Tasks in the Social Sciences. A Primer using Open Models](http://arxiv.org/abs/2401.00284v1) | Maximilian Weber et al. | 2023-12-30 |
 | [Exposure Bracketing is All You Need for Unifying Image Restoration and Enhancement Tasks](http://arxiv.org/abs/2401.00766v4) | Zhilu Zhang et al. | 2024-01-01 |
-| [Distillation is All You Need for Practically Using Different Pre-trained Recommendation Models](http://arxiv.org/abs/2401.00797v1) | Wenqi Sun et al. | 2024-01-01 |
+| [Curriculum-scheduled Knowledge Distillation from Multiple Pre-trained Teachers for Multi-domain Sequential Recommendation](http://arxiv.org/abs/2401.00797v2) | Wenqi Sun et al. | 2024-01-01 |
 | [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](http://arxiv.org/abs/2401.02994v3) | Xiaoding Lu et al. | 2024-01-04 |
 | [Grimoire is All You Need for Enhancing Large Language Models](http://arxiv.org/abs/2401.03385v2) | Ding Chen et al. | 2024-01-07 |
 | [Metacognition is all you need? Using Introspection in Generative Agents to Improve Goal-directed Behavior](http://arxiv.org/abs/2401.10910v2) | Jason Toy et al. | 2024-01-09 |
@@ -402,7 +402,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need](http://arxiv.org/abs/2406.16929v1) | Tingwei Chen et al. | 2024-06-13 |
 | [Zoom and Shift are All You Need](http://arxiv.org/abs/2406.08866v1) | Jiahao Qin | 2024-06-13 |
 | [Requirements are All You Need: From Requirements to Code with LLMs](http://arxiv.org/abs/2406.10101v2) | Bingyang Wei | 2024-06-14 |
-| [Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?](http://arxiv.org/abs/2406.10974v1) | T. Y. S. S Santosh et al. | 2024-06-16 |
+| [Towards Supporting Legal Argumentation with NLP: Is More Data Really All You Need?](http://arxiv.org/abs/2406.10974v3) | T. Y. S. S Santosh et al. | 2024-06-16 |
 | [MiSuRe is all you need to explain your image segmentation](http://arxiv.org/abs/2406.12173v2) | Syed Nouman Hasany et al. | 2024-06-18 |
 | [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](http://arxiv.org/abs/2406.12335v2) | Zhiyu Guo et al. | 2024-06-18 |
 | [Not Everything is All You Need: Toward Low-Redundant Optimization for Large Language Model Alignment](http://arxiv.org/abs/2406.12606v2) | Zhipeng Chen et al. | 2024-06-18 |
@@ -460,6 +460,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v1) | You Qin et al. | 2024-10-08 |
 | [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v1) | Kawisorn Kamtue et al. | 2024-10-08 |
 | [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
+| [Rethinking Data Selection at Scale: Random Selection is Almost All You Need](http://arxiv.org/abs/2410.09335v1) | Tingyu Xia et al. | 2024-10-12 |
+| [Looped ReLU MLPs May Be All You Need as Practical Programmable Computers](http://arxiv.org/abs/2410.09375v1) | Yingyu Liang et al. | 2024-10-12 |
+| [Dying Clusters Is All You Need -- Deep Clustering With an Unknown Number of Clusters](http://arxiv.org/abs/2410.09491v1) | Collin Leiber et al. | 2024-10-12 |
+| [Reddit is all you need: Authorship profiling for Romanian](http://arxiv.org/abs/2410.09907v1) | Ecaterina Ştefănescu et al. | 2024-10-13 |
 
 
 ## FAQ
