@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -465,6 +465,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Dying Clusters Is All You Need -- Deep Clustering With an Unknown Number of Clusters](http://arxiv.org/abs/2410.09491v1) | Collin Leiber et al. | 2024-10-12 |
 | [Reddit is all you need: Authorship profiling for Romanian](http://arxiv.org/abs/2410.09907v1) | Ecaterina Ştefănescu et al. | 2024-10-13 |
 | [Position Specific Scoring Is All You Need? Revisiting Protein Sequence Classification Tasks](http://arxiv.org/abs/2410.12655v1) | Sarwan Ali et al. | 2024-10-16 |
+| [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v1) | Edward et al. | 2024-10-18 |
 
 
 ## FAQ
