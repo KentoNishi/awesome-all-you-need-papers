@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -313,7 +313,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Equivariance Is Not All You Need: Characterizing the Utility of Equivariant Graph Neural Networks for Particle Physics Tasks](http://arxiv.org/abs/2311.03094v1) | Savannah Thais et al. | 2023-11-06 |
 | [Lidar Annotation Is All You Need](http://arxiv.org/abs/2311.04777v1) | Dinar Sharafutdinov et al. | 2023-11-08 |
 | [Interaction is all You Need? A Study of Robots Ability to Understand and Execute](http://arxiv.org/abs/2311.07150v1) | Kushal Koshti et al. | 2023-11-13 |
-| [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v2) | Yang Trista Cao et al. | 2023-11-14 |
+| [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v3) | Yang Trista Cao et al. | 2023-11-14 |
 | [Causality is all you need](http://arxiv.org/abs/2311.12307v1) | Ning Xu et al. | 2023-11-21 |
 | [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v2) | Dongshuo Yin et al. | 2023-11-25 |
 | [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v2) | Abhishek Sinha et al. | 2023-11-26 |
@@ -465,7 +465,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Dying Clusters Is All You Need -- Deep Clustering With an Unknown Number of Clusters](http://arxiv.org/abs/2410.09491v1) | Collin Leiber et al. | 2024-10-12 |
 | [Reddit is all you need: Authorship profiling for Romanian](http://arxiv.org/abs/2410.09907v1) | Ecaterina Ştefănescu et al. | 2024-10-13 |
 | [Position Specific Scoring Is All You Need? Revisiting Protein Sequence Classification Tasks](http://arxiv.org/abs/2410.12655v1) | Sarwan Ali et al. | 2024-10-16 |
-| [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v1) | Edward et al. | 2024-10-18 |
+| [Efficient Deep Learning Board: Training Feedback Is Not All You Need](http://arxiv.org/abs/2410.14743v1) | Lina Gong et al. | 2024-10-17 |
+| [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v2) | Ted Kwartler et al. | 2024-10-18 |
+| [Attention Is All You Need for LLM-based Code Vulnerability Localization](http://arxiv.org/abs/2410.15288v1) | Yue Li et al. | 2024-10-20 |
+| [All You Need is an Improving Column: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](http://arxiv.org/abs/2410.15601v1) | Amira Hijazi et al. | 2024-10-21 |
 
 
 ## FAQ
