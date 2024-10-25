@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--10--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -469,6 +469,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v2) | Ted Kwartler et al. | 2024-10-18 |
 | [Attention Is All You Need for LLM-based Code Vulnerability Localization](http://arxiv.org/abs/2410.15288v1) | Yue Li et al. | 2024-10-20 |
 | [All You Need is an Improving Column: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](http://arxiv.org/abs/2410.15601v1) | Amira Hijazi et al. | 2024-10-21 |
+| [Towards Active Participant-Centric Vertical Federated Learning: Some Representations May Be All You Need](http://arxiv.org/abs/2410.17648v1) | Jon Irureta et al. | 2024-10-23 |
 
 
 ## FAQ
