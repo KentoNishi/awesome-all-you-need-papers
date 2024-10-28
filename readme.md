@@ -466,7 +466,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Reddit is all you need: Authorship profiling for Romanian](http://arxiv.org/abs/2410.09907v1) | Ecaterina Ştefănescu et al. | 2024-10-13 |
 | [Position Specific Scoring Is All You Need? Revisiting Protein Sequence Classification Tasks](http://arxiv.org/abs/2410.12655v1) | Sarwan Ali et al. | 2024-10-16 |
 | [Efficient Deep Learning Board: Training Feedback Is Not All You Need](http://arxiv.org/abs/2410.14743v1) | Lina Gong et al. | 2024-10-17 |
-| [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v2) | Ted Kwartler et al. | 2024-10-18 |
+| [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v3) | Ted Kwartler et al. | 2024-10-18 |
 | [Attention Is All You Need for LLM-based Code Vulnerability Localization](http://arxiv.org/abs/2410.15288v1) | Yue Li et al. | 2024-10-20 |
 | [All You Need is an Improving Column: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](http://arxiv.org/abs/2410.15601v1) | Amira Hijazi et al. | 2024-10-21 |
 | [Towards Active Participant-Centric Vertical Federated Learning: Some Representations May Be All You Need](http://arxiv.org/abs/2410.17648v1) | Jon Irureta et al. | 2024-10-23 |
