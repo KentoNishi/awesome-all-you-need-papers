@@ -370,7 +370,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Masked Model is All You Need for Sensor Fault Detection, Isolation and Accommodation](http://arxiv.org/abs/2403.16153v1) | Yiwei Fu et al. | 2024-03-24 |
 | [Proprioception Is All You Need: Terrain Classification for Boreal Forests](http://arxiv.org/abs/2403.16877v2) | Damien LaRocque et al. | 2024-03-25 |
 | [Belief Samples Are All You Need For Social Learning](http://arxiv.org/abs/2403.17174v1) | Mahyar JafariNodeh et al. | 2024-03-25 |
-| [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v1) | Yuelin Bai et al. | 2024-03-26 |
+| [COIG-CQIA: Quality is All You Need for Chinese Instruction Fine-tuning](http://arxiv.org/abs/2403.18058v2) | Yuelin Bai et al. | 2024-03-26 |
 | [SPMamba: State-space model is all you need in speech separation](http://arxiv.org/abs/2404.02063v2) | Kai Li et al. | 2024-04-02 |
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
 | [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
@@ -471,9 +471,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is an Improving Column: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](http://arxiv.org/abs/2410.15601v1) | Amira Hijazi et al. | 2024-10-21 |
 | [Towards Active Participant-Centric Vertical Federated Learning: Some Representations May Be All You Need](http://arxiv.org/abs/2410.17648v1) | Jon Irureta et al. | 2024-10-23 |
 | [Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need](http://arxiv.org/abs/2410.18368v1) | Runzhen Xue et al. | 2024-10-24 |
+| [Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](http://arxiv.org/abs/2410.18371v2) | Ruoxi Cheng et al. | 2024-10-24 |
 | [Intention Is All You Need](http://arxiv.org/abs/2410.18851v1) | Advait Sarkar | 2024-10-24 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
-| [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v1) | Patrik Reizinger et al. | 2024-10-29 |
+| [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v2) | Patrik Reizinger et al. | 2024-10-29 |
 | [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v2) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 
