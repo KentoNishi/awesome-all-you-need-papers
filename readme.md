@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -478,6 +478,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v2) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need](http://arxiv.org/abs/2411.03033v1) | Qishuai Wen et al. | 2024-11-05 |
+| [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
+| [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v1) | David Maria Schmidt et al. | 2024-11-06 |
 
 
 ## FAQ
