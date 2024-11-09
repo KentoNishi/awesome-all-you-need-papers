@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--07-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -407,7 +407,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Not Everything is All You Need: Toward Low-Redundant Optimization for Large Language Model Alignment](http://arxiv.org/abs/2406.12606v2) | Zhipeng Chen et al. | 2024-06-18 |
 | [Setting Targets is All You Need:Improved Order Competitive Ratio for Online Selection](http://arxiv.org/abs/2406.15192v1) | Liyan Chen et al. | 2024-06-21 |
 | [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v3) | Bowen Xu et al. | 2024-06-24 |
-| [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v2) | Yang Wang et al. | 2024-06-26 |
+| [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v3) | Yang Wang et al. | 2024-06-26 |
 | [Wavelets Are All You Need for Autoregressive Image Generation](http://arxiv.org/abs/2406.19997v1) | Wael Mattar et al. | 2024-06-28 |
 | [Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](http://arxiv.org/abs/2407.00402v3) | Omer Goldman et al. | 2024-06-29 |
 | [Transferable-guided Attention Is All You Need for Video Domain Adaptation](http://arxiv.org/abs/2407.01375v2) | André Sacilotti et al. | 2024-07-01 |
@@ -480,6 +480,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need](http://arxiv.org/abs/2411.03033v1) | Qishuai Wen et al. | 2024-11-05 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v1) | David Maria Schmidt et al. | 2024-11-06 |
+| [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](http://arxiv.org/abs/2411.05006v1) | Jun-Kun Chen et al. | 2024-11-07 |
 
 
 ## FAQ
