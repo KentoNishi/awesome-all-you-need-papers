@@ -457,7 +457,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](http://arxiv.org/abs/2410.03040v1) | Mingxue Xu et al. | 2024-10-03 |
 | [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](http://arxiv.org/abs/2410.03644v1) | Xianlong Wang et al. | 2024-10-04 |
 | [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v1) | You Qin et al. | 2024-10-08 |
-| [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v1) | Kawisorn Kamtue et al. | 2024-10-08 |
+| [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v2) | Kawisorn Kamtue et al. | 2024-10-08 |
 | [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
 | [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v1) | Kiyam Lin et al. | 2024-10-11 |
 | [Rethinking Data Selection at Scale: Random Selection is Almost All You Need](http://arxiv.org/abs/2410.09335v1) | Tingyu Xia et al. | 2024-10-12 |
