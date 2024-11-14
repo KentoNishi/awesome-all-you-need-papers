@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -482,6 +482,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v1) | David Maria Schmidt et al. | 2024-11-06 |
 | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](http://arxiv.org/abs/2411.05006v1) | Jun-Kun Chen et al. | 2024-11-07 |
 | [Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation](http://arxiv.org/abs/2411.07179v1) | Ismail Cosandal et al. | 2024-11-11 |
+| [SecEncoder: Logs are All You Need in Security](http://arxiv.org/abs/2411.07528v1) | Muhammed Fatih Bulut et al. | 2024-11-12 |
 
 
 ## FAQ
