@@ -313,7 +313,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Equivariance Is Not All You Need: Characterizing the Utility of Equivariant Graph Neural Networks for Particle Physics Tasks](http://arxiv.org/abs/2311.03094v1) | Savannah Thais et al. | 2023-11-06 |
 | [Lidar Annotation Is All You Need](http://arxiv.org/abs/2311.04777v1) | Dinar Sharafutdinov et al. | 2023-11-08 |
 | [Interaction is all You Need? A Study of Robots Ability to Understand and Execute](http://arxiv.org/abs/2311.07150v1) | Kushal Koshti et al. | 2023-11-13 |
-| [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v3) | Yang Trista Cao et al. | 2023-11-14 |
+| [Toxicity Detection is NOT all you Need: Measuring the Gaps to Supporting Volunteer Content Moderators](http://arxiv.org/abs/2311.07879v4) | Yang Trista Cao et al. | 2023-11-14 |
 | [Causality is all you need](http://arxiv.org/abs/2311.12307v1) | Ning Xu et al. | 2023-11-21 |
 | [Adapter is All You Need for Tuning Visual Tasks](http://arxiv.org/abs/2311.15010v2) | Dongshuo Yin et al. | 2023-11-25 |
 | [Confidence Is All You Need for MI Attacks](http://arxiv.org/abs/2311.15373v2) | Abhishek Sinha et al. | 2023-11-26 |
