@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--14-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -406,7 +406,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](http://arxiv.org/abs/2406.12335v2) | Zhiyu Guo et al. | 2024-06-18 |
 | [Not Everything is All You Need: Toward Low-Redundant Optimization for Large Language Model Alignment](http://arxiv.org/abs/2406.12606v2) | Zhipeng Chen et al. | 2024-06-18 |
 | [Setting Targets is All You Need:Improved Order Competitive Ratio for Online Selection](http://arxiv.org/abs/2406.15192v1) | Liyan Chen et al. | 2024-06-21 |
-| [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v3) | Bowen Xu et al. | 2024-06-24 |
+| [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v4) | Bowen Xu et al. | 2024-06-24 |
 | [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v3) | Yang Wang et al. | 2024-06-26 |
 | [Wavelets Are All You Need for Autoregressive Image Generation](http://arxiv.org/abs/2406.19997v1) | Wael Mattar et al. | 2024-06-28 |
 | [Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](http://arxiv.org/abs/2407.00402v3) | Omer Goldman et al. | 2024-06-29 |
@@ -439,6 +439,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is Group Actions: Advancing Robust Autonomous Planning](http://arxiv.org/abs/2408.17295v1) | Vincenzo Basco | 2024-08-30 |
 | [Dreaming is All You Need](http://arxiv.org/abs/2409.01633v3) | Mingze Ni et al. | 2024-09-03 |
 | [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v1) | Shiwen Ni et al. | 2024-09-03 |
+| [One Homography is All You Need: IMM-based Joint Homography and Multiple Object State Estimation](http://arxiv.org/abs/2409.02562v2) | Paul Johannes Claasen et al. | 2024-09-04 |
 | [100 instances is all you need: predicting the success of a new LLM on unseen data by testing on a few instances](http://arxiv.org/abs/2409.03563v1) | Lorenzo Pacchiardi et al. | 2024-09-05 |
 | [Inference is All You Need: Self Example Retriever for Cross-domain Dialogue State Tracking with ChatGPT](http://arxiv.org/abs/2409.06243v1) | Jihyun Lee et al. | 2024-09-10 |
 | [Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](http://arxiv.org/abs/2409.07433v1) | Daniele Malitesta et al. | 2024-09-11 |
@@ -456,7 +457,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Addition is All You Need for Energy-efficient Language Models](http://arxiv.org/abs/2410.00907v2) | Hongyin Luo et al. | 2024-10-01 |
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](http://arxiv.org/abs/2410.03040v1) | Mingxue Xu et al. | 2024-10-03 |
 | [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](http://arxiv.org/abs/2410.03644v1) | Xianlong Wang et al. | 2024-10-04 |
-| [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v1) | You Qin et al. | 2024-10-08 |
+| [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v2) | You Qin et al. | 2024-10-08 |
 | [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v2) | Kawisorn Kamtue et al. | 2024-10-08 |
 | [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
 | [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v1) | Kiyam Lin et al. | 2024-10-11 |
@@ -483,6 +484,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](http://arxiv.org/abs/2411.05006v1) | Jun-Kun Chen et al. | 2024-11-07 |
 | [Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation](http://arxiv.org/abs/2411.07179v1) | Ismail Cosandal et al. | 2024-11-11 |
 | [SecEncoder: Logs are All You Need in Security](http://arxiv.org/abs/2411.07528v1) | Muhammed Fatih Bulut et al. | 2024-11-12 |
+| [Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology](http://arxiv.org/abs/2411.09373v1) | Dhananjay Tomar et al. | 2024-11-14 |
 
 
 ## FAQ
