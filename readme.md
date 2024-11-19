@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -485,6 +485,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation](http://arxiv.org/abs/2411.07179v1) | Ismail Cosandal et al. | 2024-11-11 |
 | [SecEncoder: Logs are All You Need in Security](http://arxiv.org/abs/2411.07528v1) | Muhammed Fatih Bulut et al. | 2024-11-12 |
 | [Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology](http://arxiv.org/abs/2411.09373v1) | Dhananjay Tomar et al. | 2024-11-14 |
+| [ALPHA-$$\alpha$$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](http://arxiv.org/abs/2411.09942v1) | Masato Kobayashi et al. | 2024-11-15 |
 
 
 ## FAQ
