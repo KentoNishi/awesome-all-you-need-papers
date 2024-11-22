@@ -488,6 +488,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [ALPHA-$$\alpha$$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](http://arxiv.org/abs/2411.09942v1) | Masato Kobayashi et al. | 2024-11-15 |
 | [Is Locational Marginal Price All You Need for Locational Marginal Emission?](http://arxiv.org/abs/2411.12104v1) | Xuan He et al. | 2024-11-18 |
 | [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](http://arxiv.org/abs/2411.12448v1) | Kecheng Chen et al. | 2024-11-19 |
+| [Signformer is all you need: Towards Edge AI for Sign Language](http://arxiv.org/abs/2411.12901v1) | Eta Yang | 2024-11-19 |
 
 
 ## FAQ
