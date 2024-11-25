@@ -376,7 +376,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
 | [Self-supervised Dataset Distillation: A Good Compression Is All You Need](http://arxiv.org/abs/2404.07976v1) | Muxin Zhou et al. | 2024-04-11 |
 | [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v6) | David M. Cerna et al. | 2024-04-16 |
-| [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v1) | Junyu Xie et al. | 2024-04-18 |
+| [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v2) | Junyu Xie et al. | 2024-04-18 |
 | [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images](http://arxiv.org/abs/2404.12922v1) | Jacopo Bonato et al. | 2024-04-19 |
 | [All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs](http://arxiv.org/abs/2404.15261v2) | Sawyer Robertson et al. | 2024-04-23 |
 | [HCC Is All You Need: Alignment-The Sensible Kind Anyway-Is Just Human-Centered Computing](http://arxiv.org/abs/2405.03699v1) | Eric Gilbert | 2024-04-30 |
@@ -487,7 +487,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology](http://arxiv.org/abs/2411.09373v1) | Dhananjay Tomar et al. | 2024-11-14 |
 | [ALPHA-$$\alpha$$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](http://arxiv.org/abs/2411.09942v1) | Masato Kobayashi et al. | 2024-11-15 |
 | [Is Locational Marginal Price All You Need for Locational Marginal Emission?](http://arxiv.org/abs/2411.12104v1) | Xuan He et al. | 2024-11-18 |
-| [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](http://arxiv.org/abs/2411.12448v1) | Kecheng Chen et al. | 2024-11-19 |
+| [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](http://arxiv.org/abs/2411.12448v2) | Kecheng Chen et al. | 2024-11-19 |
 | [Signformer is all you need: Towards Edge AI for Sign Language](http://arxiv.org/abs/2411.12901v1) | Eta Yang | 2024-11-19 |
 
 
