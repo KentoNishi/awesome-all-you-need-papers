@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--22-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -453,7 +453,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis](http://arxiv.org/abs/2409.19111v2) | Salaheldin Mohamed et al. | 2024-09-27 |
 | [Evidence Is All You Need: Ordering Imaging Studies via Language Model Alignment with the ACR Appropriateness Criteria](http://arxiv.org/abs/2409.19177v2) | Michael S. Yao et al. | 2024-09-27 |
 | [Gradient is All You Need: Gradient-Based Attention Fusion for Infrared Small Target Detection](http://arxiv.org/abs/2409.19599v1) | Chen Hu et al. | 2024-09-29 |
-| [Melody Is All You Need For Music Generation](http://arxiv.org/abs/2409.20196v2) | Shaopeng Wei et al. | 2024-09-30 |
+| [Melody Is All You Need For Music Generation](http://arxiv.org/abs/2409.20196v3) | Shaopeng Wei et al. | 2024-09-30 |
 | [Addition is All You Need for Energy-efficient Language Models](http://arxiv.org/abs/2410.00907v2) | Hongyin Luo et al. | 2024-10-01 |
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](http://arxiv.org/abs/2410.03040v1) | Mingxue Xu et al. | 2024-10-03 |
 | [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](http://arxiv.org/abs/2410.03644v1) | Xianlong Wang et al. | 2024-10-04 |
@@ -487,8 +487,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology](http://arxiv.org/abs/2411.09373v1) | Dhananjay Tomar et al. | 2024-11-14 |
 | [ALPHA-$$\alpha$$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](http://arxiv.org/abs/2411.09942v1) | Masato Kobayashi et al. | 2024-11-15 |
 | [Is Locational Marginal Price All You Need for Locational Marginal Emission?](http://arxiv.org/abs/2411.12104v1) | Xuan He et al. | 2024-11-18 |
+| [Order Is All You Need for Categorical Data Clustering](http://arxiv.org/abs/2411.15189v1) | Yiqun Zhang et al. | 2024-11-19 |
 | [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](http://arxiv.org/abs/2411.12448v2) | Kecheng Chen et al. | 2024-11-19 |
 | [Signformer is all you need: Towards Edge AI for Sign Language](http://arxiv.org/abs/2411.12901v1) | Eta Yang | 2024-11-19 |
+| [Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps](http://arxiv.org/abs/2411.15236v1) | Jeeyung Kim et al. | 2024-11-21 |
+| [Is Attention All You Need For Actigraphy? Foundation Models of Wearable Accelerometer Data for Mental Health Research](http://arxiv.org/abs/2411.15240v1) | Franklin Y. Ruan et al. | 2024-11-22 |
 
 
 ## FAQ
