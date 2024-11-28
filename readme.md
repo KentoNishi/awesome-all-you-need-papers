@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--22-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--11--26-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -237,7 +237,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are LLMs All You Need for Task-Oriented Dialogue?](http://arxiv.org/abs/2304.06556v2) | Vojtěch Hudeček et al. | 2023-04-13 |
 | [Speed Is All You Need: On-Device Acceleration of Large Diffusion Models via GPU-Aware Optimizations](http://arxiv.org/abs/2304.11267v2) | Yu-Hui Chen et al. | 2023-04-21 |
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
-| [Stars Are All You Need: A Distantly Supervised Pyramid Network for Unified Sentiment Analysis](http://arxiv.org/abs/2305.01710v2) | Wenchang Li et al. | 2023-05-02 |
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
 | [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
@@ -491,7 +490,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](http://arxiv.org/abs/2411.12448v2) | Kecheng Chen et al. | 2024-11-19 |
 | [Signformer is all you need: Towards Edge AI for Sign Language](http://arxiv.org/abs/2411.12901v1) | Eta Yang | 2024-11-19 |
 | [Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps](http://arxiv.org/abs/2411.15236v1) | Jeeyung Kim et al. | 2024-11-21 |
-| [Is Attention All You Need For Actigraphy? Foundation Models of Wearable Accelerometer Data for Mental Health Research](http://arxiv.org/abs/2411.15240v1) | Franklin Y. Ruan et al. | 2024-11-22 |
+| [Is Attention All You Need For Actigraphy? Foundation Models of Wearable Accelerometer Data for Mental Health Research](http://arxiv.org/abs/2411.15240v2) | Franklin Y. Ruan et al. | 2024-11-22 |
+| [Fairness And Performance In Harmony: Data Debiasing Is All You Need](http://arxiv.org/abs/2411.17374v1) | Junhua Liu et al. | 2024-11-26 |
 
 
 ## FAQ
