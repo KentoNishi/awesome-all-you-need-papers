@@ -459,7 +459,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v2) | You Qin et al. | 2024-10-08 |
 | [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v2) | Kawisorn Kamtue et al. | 2024-10-08 |
 | [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
-| [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v1) | Kiyam Lin et al. | 2024-10-11 |
+| [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v2) | Kiyam Lin et al. | 2024-10-11 |
 | [Rethinking Data Selection at Scale: Random Selection is Almost All You Need](http://arxiv.org/abs/2410.09335v1) | Tingyu Xia et al. | 2024-10-12 |
 | [Looped ReLU MLPs May Be All You Need as Practical Programmable Computers](http://arxiv.org/abs/2410.09375v1) | Yingyu Liang et al. | 2024-10-12 |
 | [Dying Clusters Is All You Need -- Deep Clustering With an Unknown Number of Clusters](http://arxiv.org/abs/2410.09491v1) | Collin Leiber et al. | 2024-10-12 |
