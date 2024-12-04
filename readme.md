@@ -419,7 +419,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Explanation is All You Need in Distillation: Mitigating Bias and Shortcut Learning](http://arxiv.org/abs/2407.09788v1) | Pedro R. A. S. Bassi et al. | 2024-07-13 |
 | [Rethinking Learned Image Compression: Context is All You Need](http://arxiv.org/abs/2407.11590v3) | Jixiang Luo | 2024-07-16 |
 | [Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models using Stepwise Spectral Analysis](http://arxiv.org/abs/2407.12173v1) | Haeil Lee et al. | 2024-07-16 |
-| [Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning](http://arxiv.org/abs/2407.15007v1) | Dylan J. Foster et al. | 2024-07-20 |
+| [Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning](http://arxiv.org/abs/2407.15007v2) | Dylan J. Foster et al. | 2024-07-20 |
 | [CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models](http://arxiv.org/abs/2407.15886v1) | Zheng Chong et al. | 2024-07-21 |
 | [Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection](http://arxiv.org/abs/2407.15369v1) | Fei Zhou et al. | 2024-07-22 |
 | [Attention Is All You Need But You Don't Need All Of It For Inference of Large Language Models](http://arxiv.org/abs/2407.15516v1) | Georgy Tyukin et al. | 2024-07-22 |
@@ -459,7 +459,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v2) | You Qin et al. | 2024-10-08 |
 | [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v2) | Kawisorn Kamtue et al. | 2024-10-08 |
 | [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
-| [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v2) | Kiyam Lin et al. | 2024-10-11 |
+| [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v3) | Kiyam Lin et al. | 2024-10-11 |
 | [Rethinking Data Selection at Scale: Random Selection is Almost All You Need](http://arxiv.org/abs/2410.09335v1) | Tingyu Xia et al. | 2024-10-12 |
 | [Looped ReLU MLPs May Be All You Need as Practical Programmable Computers](http://arxiv.org/abs/2410.09375v1) | Yingyu Liang et al. | 2024-10-12 |
 | [Dying Clusters Is All You Need -- Deep Clustering With an Unknown Number of Clusters](http://arxiv.org/abs/2410.09491v1) | Collin Leiber et al. | 2024-10-12 |
