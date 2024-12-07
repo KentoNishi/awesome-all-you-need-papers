@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -479,7 +479,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need](http://arxiv.org/abs/2411.03033v1) | Qishuai Wen et al. | 2024-11-05 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
-| [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v1) | David Maria Schmidt et al. | 2024-11-06 |
+| [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
 | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](http://arxiv.org/abs/2411.05006v1) | Jun-Kun Chen et al. | 2024-11-07 |
 | [Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation](http://arxiv.org/abs/2411.07179v1) | Ismail Cosandal et al. | 2024-11-11 |
 | [SecEncoder: Logs are All You Need in Security](http://arxiv.org/abs/2411.07528v1) | Muhammed Fatih Bulut et al. | 2024-11-12 |
@@ -493,6 +493,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Attention All You Need For Actigraphy? Foundation Models of Wearable Accelerometer Data for Mental Health Research](http://arxiv.org/abs/2411.15240v2) | Franklin Y. Ruan et al. | 2024-11-22 |
 | [Fairness And Performance In Harmony: Data Debiasing Is All You Need](http://arxiv.org/abs/2411.17374v1) | Junhua Liu et al. | 2024-11-26 |
 | [[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster](http://arxiv.org/abs/2412.01818v1) | Qizhe Zhang et al. | 2024-12-02 |
+| [Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](http://arxiv.org/abs/2412.03959v1) | Jingzehua Xu et al. | 2024-12-05 |
 
 
 ## FAQ
