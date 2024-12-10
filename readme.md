@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -188,7 +188,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [10 hours data is all you need](http://arxiv.org/abs/2210.13067v1) | Zeping Min et al. | 2022-10-24 |
 | [Saliency Can Be All You Need In Contrastive Self-Supervised Learning](http://arxiv.org/abs/2210.16776v1) | Veysel Kocaman et al. | 2022-10-30 |
 | [Cross-Attention is all you need: Real-Time Streaming Transformers for Personalised Speech Enhancement](http://arxiv.org/abs/2211.04346v1) | Shucong Zhang et al. | 2022-11-08 |
-| [NoiSER: Noise is All You Need for Low-Light Image Enhancement](http://arxiv.org/abs/2211.04700v2) | Zhao Zhang et al. | 2022-11-09 |
 | [Secure Aggregation Is Not All You Need: Mitigating Privacy Attacks with Noise Tolerance in Federated Learning](http://arxiv.org/abs/2211.06324v1) | John Reuben Gilbert | 2022-11-10 |
 | [Imagination is All You Need! Curved Contrastive Learning for Abstract Sequence Modeling Utilized on Long Short-Term Dialogue Planning](http://arxiv.org/abs/2211.07591v2) | Justus-Jonas Erker et al. | 2022-11-14 |
 | [Is Style All You Need? Dependencies Between Emotion and GST-based Speaker Recognition](http://arxiv.org/abs/2211.08213v1) | Morgan Sandler et al. | 2022-11-15 |
@@ -353,7 +352,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Grace Period is All You Need: Individual Fairness without Revenue Loss in Revenue Management](http://arxiv.org/abs/2402.08533v2) | Patrick Jaillet et al. | 2024-02-13 |
 | [Answer is All You Need: Instruction-following Text Embedding via Answering the Question](http://arxiv.org/abs/2402.09642v1) | Letian Peng et al. | 2024-02-15 |
 | [Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks](http://arxiv.org/abs/2402.09874v1) | Álvaro Huertas-García et al. | 2024-02-15 |
-| [Masked Attention is All You Need for Graphs](http://arxiv.org/abs/2402.10793v1) | David Buterez et al. | 2024-02-16 |
 | [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v2) | Naixu Guo et al. | 2024-02-26 |
 | [Greed is All You Need: An Evaluation of Tokenizer Inference Methods](http://arxiv.org/abs/2403.01289v2) | Omri Uzan et al. | 2024-03-02 |
 | [Cognition is All You Need -- The Next Layer of AI Above Large Language Models](http://arxiv.org/abs/2403.02164v2) | Nova Spivack et al. | 2024-03-04 |
@@ -494,6 +492,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Fairness And Performance In Harmony: Data Debiasing Is All You Need](http://arxiv.org/abs/2411.17374v1) | Junhua Liu et al. | 2024-11-26 |
 | [[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster](http://arxiv.org/abs/2412.01818v1) | Qizhe Zhang et al. | 2024-12-02 |
 | [Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](http://arxiv.org/abs/2412.03959v1) | Jingzehua Xu et al. | 2024-12-05 |
+| [REL: Working out is all you need](http://arxiv.org/abs/2412.04645v1) | Toby Simonds et al. | 2024-12-05 |
+| [Modality Decoupling is All You Need: A Simple Solution for Unsupervised Hyperspectral Image Fusion](http://arxiv.org/abs/2412.04802v1) | Songcheng Du et al. | 2024-12-06 |
+| [Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices](http://arxiv.org/abs/2412.04844v1) | Alberto Marchisio et al. | 2024-12-06 |
+| [Steps are all you need: Rethinking STEM Education with Prompt Engineering](http://arxiv.org/abs/2412.05023v1) | Krishnasai Addala et al. | 2024-12-06 |
+| [Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework](http://arxiv.org/abs/2412.05254v1) | Qiaolin Qin et al. | 2024-12-06 |
 
 
 ## FAQ
