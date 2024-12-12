@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -482,7 +482,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation](http://arxiv.org/abs/2411.07179v1) | Ismail Cosandal et al. | 2024-11-11 |
 | [SecEncoder: Logs are All You Need in Security](http://arxiv.org/abs/2411.07528v1) | Muhammed Fatih Bulut et al. | 2024-11-12 |
 | [Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology](http://arxiv.org/abs/2411.09373v1) | Dhananjay Tomar et al. | 2024-11-14 |
-| [ALPHA-$$\alpha$$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](http://arxiv.org/abs/2411.09942v2) | Masato Kobayashi et al. | 2024-11-15 |
+| [ALPHA-$$\alpha$$ and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System](http://arxiv.org/abs/2411.09942v3) | Masato Kobayashi et al. | 2024-11-15 |
 | [Is Locational Marginal Price All You Need for Locational Marginal Emission?](http://arxiv.org/abs/2411.12104v1) | Xuan He et al. | 2024-11-18 |
 | [Order Is All You Need for Categorical Data Clustering](http://arxiv.org/abs/2411.15189v1) | Yiqun Zhang et al. | 2024-11-19 |
 | [Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](http://arxiv.org/abs/2411.12448v2) | Kecheng Chen et al. | 2024-11-19 |
@@ -493,6 +493,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Text Is Not All You Need: Multimodal Prompting Helps LLMs Understand Humor](http://arxiv.org/abs/2412.05315v1) | Ashwin Baluja | 2024-12-01 |
 | [[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster](http://arxiv.org/abs/2412.01818v1) | Qizhe Zhang et al. | 2024-12-02 |
 | [Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](http://arxiv.org/abs/2412.03959v1) | Jingzehua Xu et al. | 2024-12-05 |
+| [Guidance is All You Need: Temperature-Guided Reasoning in Large Language Models](http://arxiv.org/abs/2412.06822v1) | Eyad Gomaa et al. | 2024-12-05 |
 | [REL: Working out is all you need](http://arxiv.org/abs/2412.04645v1) | Toby Simonds et al. | 2024-12-05 |
 | [Modality Decoupling is All You Need: A Simple Solution for Unsupervised Hyperspectral Image Fusion](http://arxiv.org/abs/2412.04802v1) | Songcheng Du et al. | 2024-12-06 |
 | [Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices](http://arxiv.org/abs/2412.04844v1) | Alberto Marchisio et al. | 2024-12-06 |
@@ -500,7 +501,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework](http://arxiv.org/abs/2412.05254v1) | Qiaolin Qin et al. | 2024-12-06 |
 | [Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering](http://arxiv.org/abs/2412.05453v1) | Krishnasai Addala et al. | 2024-12-06 |
 | [Fearless unsafe. Safety Property is all you need](http://arxiv.org/abs/2412.06251v1) | Mohan Cui et al. | 2024-12-09 |
-| [[MASK] is All You Need](http://arxiv.org/abs/2412.06787v1) | Vincent Tao Hu et al. | 2024-12-09 |
+| [[MASK] is All You Need](http://arxiv.org/abs/2412.06787v2) | Vincent Tao Hu et al. | 2024-12-09 |
+| [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 
 
 ## FAQ
