@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -403,6 +403,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [MiSuRe is all you need to explain your image segmentation](http://arxiv.org/abs/2406.12173v2) | Syed Nouman Hasany et al. | 2024-06-18 |
 | [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](http://arxiv.org/abs/2406.12335v2) | Zhiyu Guo et al. | 2024-06-18 |
 | [Not Everything is All You Need: Toward Low-Redundant Optimization for Large Language Model Alignment](http://arxiv.org/abs/2406.12606v2) | Zhipeng Chen et al. | 2024-06-18 |
+| [Selected Languages are All You Need for Cross-lingual Truthfulness Transfer](http://arxiv.org/abs/2406.14434v2) | Weihao Liu et al. | 2024-06-20 |
 | [Setting Targets is All You Need:Improved Order Competitive Ratio for Online Selection](http://arxiv.org/abs/2406.15192v1) | Liyan Chen et al. | 2024-06-21 |
 | [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v4) | Bowen Xu et al. | 2024-06-24 |
 | [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v3) | Yang Wang et al. | 2024-06-26 |
@@ -506,6 +507,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v1) | Junjie Zhou et al. | 2024-12-12 |
 | [Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis](http://arxiv.org/abs/2412.09445v1) | Raj Hansini Khoiwal et al. | 2024-12-12 |
+| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v1) | Nianze Tao | 2024-12-16 |
+| [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
+| [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v1) | Minghao Xu et al. | 2024-12-16 |
 
 
 ## FAQ
