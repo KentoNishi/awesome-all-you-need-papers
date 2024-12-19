@@ -509,7 +509,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis](http://arxiv.org/abs/2412.09445v1) | Raj Hansini Khoiwal et al. | 2024-12-12 |
 | [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v1) | Nianze Tao | 2024-12-16 |
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
-| [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v1) | Minghao Xu et al. | 2024-12-16 |
+| [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v2) | Minghao Xu et al. | 2024-12-16 |
 
 
 ## FAQ
