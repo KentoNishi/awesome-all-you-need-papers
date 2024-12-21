@@ -502,7 +502,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Steps are all you need: Rethinking STEM Education with Prompt Engineering](http://arxiv.org/abs/2412.05023v1) | Krishnasai Addala et al. | 2024-12-06 |
 | [Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework](http://arxiv.org/abs/2412.05254v1) | Qiaolin Qin et al. | 2024-12-06 |
 | [Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering](http://arxiv.org/abs/2412.05453v1) | Krishnasai Addala et al. | 2024-12-06 |
-| [Fearless unsafe. Safety Property is all you need](http://arxiv.org/abs/2412.06251v1) | Mohan Cui et al. | 2024-12-09 |
 | [[MASK] is All You Need](http://arxiv.org/abs/2412.06787v2) | Vincent Tao Hu et al. | 2024-12-09 |
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v1) | Junjie Zhou et al. | 2024-12-12 |
