@@ -146,7 +146,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization](http://arxiv.org/abs/2204.00097v1) | Sijie Zhu et al. | 2022-03-31 |
 | [Overlapping Word Removal is All You Need: Revisiting Data Imbalance in Hope Speech Detection](http://arxiv.org/abs/2204.05488v1) | Hariharan RamakrishnaIyer LekshmiAmmal et al. | 2022-04-12 |
 | [A for-loop is all you need. For solving the inverse problem in the case of personalized tumor growth modeling](http://arxiv.org/abs/2205.04550v3) | Ivan Ezhov et al. | 2022-05-09 |
-| [Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift](http://arxiv.org/abs/2205.08645v1) | Kingson Man et al. | 2022-05-17 |
+| [Need is All You Need: Homeostatic Neural Networks Adapt to Concept Shift](http://arxiv.org/abs/2205.08645v2) | Kingson Man et al. | 2022-05-17 |
 | [Positional Information is All You Need: A Novel Pipeline for Self-Supervised SVDE from Videos](http://arxiv.org/abs/2205.08851v1) | Juan Luis Gonzalez Bello et al. | 2022-05-18 |
 | [Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction](http://arxiv.org/abs/2205.10249v2) | Yue Cao et al. | 2022-05-20 |
 | [All You Need Is Logs: Improving Code Completion by Learning from Anonymous IDE Usage Logs](http://arxiv.org/abs/2205.10692v2) | Vitaliy Bibaev et al. | 2022-05-21 |
@@ -499,9 +499,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [REL: Working out is all you need](http://arxiv.org/abs/2412.04645v1) | Toby Simonds et al. | 2024-12-05 |
 | [Modality Decoupling is All You Need: A Simple Solution for Unsupervised Hyperspectral Image Fusion](http://arxiv.org/abs/2412.04802v1) | Songcheng Du et al. | 2024-12-06 |
 | [Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices](http://arxiv.org/abs/2412.04844v1) | Alberto Marchisio et al. | 2024-12-06 |
-| [Steps are all you need: Rethinking STEM Education with Prompt Engineering](http://arxiv.org/abs/2412.05023v1) | Krishnasai Addala et al. | 2024-12-06 |
+| [Steps are all you need: Rethinking STEM Education with Prompt Engineering](http://arxiv.org/abs/2412.05023v2) | Krishnasai Addala et al. | 2024-12-06 |
 | [Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework](http://arxiv.org/abs/2412.05254v1) | Qiaolin Qin et al. | 2024-12-06 |
-| [Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering](http://arxiv.org/abs/2412.05453v1) | Krishnasai Addala et al. | 2024-12-06 |
+| [Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering](http://arxiv.org/abs/2412.05453v2) | Krishnasai Addala et al. | 2024-12-06 |
 | [[MASK] is All You Need](http://arxiv.org/abs/2412.06787v2) | Vincent Tao Hu et al. | 2024-12-09 |
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v1) | Junjie Zhou et al. | 2024-12-12 |
