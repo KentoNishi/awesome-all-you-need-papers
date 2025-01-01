@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -445,14 +445,13 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Alignment with Preference Optimization Is All You Need for LLM Safety](http://arxiv.org/abs/2409.07772v1) | Reda Alami et al. | 2024-09-12 |
 | [Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling](http://arxiv.org/abs/2409.08906v1) | Nebiyou Yismaw et al. | 2024-09-13 |
 | [Propaganda is all you need](http://arxiv.org/abs/2410.01810v1) | Paul Kronlund-Drouault | 2024-09-13 |
-| [Hedging Is Not All You Need: A Simple Baseline for Online Learning Under Haphazard Inputs](http://arxiv.org/abs/2409.10242v1) | Himanshu Buckchash et al. | 2024-09-16 |
+| [Hedging Is Not All You Need: A Simple Baseline for Online Learning Under Haphazard Inputs](http://arxiv.org/abs/2409.10242v2) | Himanshu Buckchash et al. | 2024-09-16 |
 | [One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks](http://arxiv.org/abs/2409.13920v1) | Sebastian Nehrdich et al. | 2024-09-20 |
 | [Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation](http://arxiv.org/abs/2409.17435v1) | Ian Chuang et al. | 2024-09-26 |
 | [Emu3: Next-Token Prediction is All You Need](http://arxiv.org/abs/2409.18869v1) | Xinlong Wang et al. | 2024-09-27 |
 | [Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis](http://arxiv.org/abs/2409.19111v2) | Salaheldin Mohamed et al. | 2024-09-27 |
 | [Evidence Is All You Need: Ordering Imaging Studies via Language Model Alignment with the ACR Appropriateness Criteria](http://arxiv.org/abs/2409.19177v2) | Michael S. Yao et al. | 2024-09-27 |
 | [Gradient is All You Need: Gradient-Based Attention Fusion for Infrared Small Target Detection](http://arxiv.org/abs/2409.19599v1) | Chen Hu et al. | 2024-09-29 |
-| [Melody Is All You Need For Music Generation](http://arxiv.org/abs/2409.20196v3) | Shaopeng Wei et al. | 2024-09-30 |
 | [Addition is All You Need for Energy-efficient Language Models](http://arxiv.org/abs/2410.00907v2) | Hongyin Luo et al. | 2024-10-01 |
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](http://arxiv.org/abs/2410.03040v1) | Mingxue Xu et al. | 2024-10-03 |
 | [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](http://arxiv.org/abs/2410.03644v1) | Xianlong Wang et al. | 2024-10-04 |
@@ -510,6 +509,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
 | [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v2) | Minghao Xu et al. | 2024-12-16 |
 | [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](http://arxiv.org/abs/2412.15605v1) | Brian J Chan et al. | 2024-12-20 |
+| [From Worms to Mice: Homeostasis Maybe All You Need](http://arxiv.org/abs/2412.20090v1) | Jesus Marco de Lucas | 2024-12-28 |
+| [Generalize Your Face Forgery Detectors: An Insertable Adaptation Module Is All You Need](http://arxiv.org/abs/2412.20801v1) | Xiaotian Si et al. | 2024-12-30 |
+| [Attention Is All You Need For Mixture-of-Depths Routing](http://arxiv.org/abs/2412.20875v1) | Advait Gadhikar et al. | 2024-12-30 |
 
 
 ## FAQ
