@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2024--12--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--01--01-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -512,6 +512,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [From Worms to Mice: Homeostasis Maybe All You Need](http://arxiv.org/abs/2412.20090v1) | Jesus Marco de Lucas | 2024-12-28 |
 | [Generalize Your Face Forgery Detectors: An Insertable Adaptation Module Is All You Need](http://arxiv.org/abs/2412.20801v1) | Xiaotian Si et al. | 2024-12-30 |
 | [Attention Is All You Need For Mixture-of-Depths Routing](http://arxiv.org/abs/2412.20875v1) | Advait Gadhikar et al. | 2024-12-30 |
+| [Is Segment Anything Model 2 All You Need for Surgery Video Segmentation? A Systematic Evaluation](http://arxiv.org/abs/2501.00525v1) | Cheng Yuan et al. | 2024-12-31 |
+| [Kolmogorov GAM Networks are all you need!](http://arxiv.org/abs/2501.00704v1) | Sarah Polson et al. | 2025-01-01 |
 
 
 ## FAQ
