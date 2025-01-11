@@ -451,7 +451,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Emu3: Next-Token Prediction is All You Need](http://arxiv.org/abs/2409.18869v1) | Xinlong Wang et al. | 2024-09-27 |
 | [Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis](http://arxiv.org/abs/2409.19111v2) | Salaheldin Mohamed et al. | 2024-09-27 |
 | [Evidence Is All You Need: Ordering Imaging Studies via Language Model Alignment with the ACR Appropriateness Criteria](http://arxiv.org/abs/2409.19177v2) | Michael S. Yao et al. | 2024-09-27 |
-| [Gradient is All You Need: Gradient-Based Attention Fusion for Infrared Small Target Detection](http://arxiv.org/abs/2409.19599v1) | Chen Hu et al. | 2024-09-29 |
 | [Addition is All You Need for Energy-efficient Language Models](http://arxiv.org/abs/2410.00907v2) | Hongyin Luo et al. | 2024-10-01 |
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](http://arxiv.org/abs/2410.03040v1) | Mingxue Xu et al. | 2024-10-03 |
 | [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](http://arxiv.org/abs/2410.03644v1) | Xianlong Wang et al. | 2024-10-04 |
