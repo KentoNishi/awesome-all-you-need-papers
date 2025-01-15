@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--01--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--01--11-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -475,7 +475,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v2) | Patrik Reizinger et al. | 2024-10-29 |
 | [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v2) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
-| [Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need](http://arxiv.org/abs/2411.03033v1) | Qishuai Wen et al. | 2024-11-05 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
 | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](http://arxiv.org/abs/2411.05006v1) | Jun-Kun Chen et al. | 2024-11-07 |
@@ -515,6 +514,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Kolmogorov GAM Networks are all you need!](http://arxiv.org/abs/2501.00704v1) | Sarah Polson et al. | 2025-01-01 |
 | [Google is all you need: Semi-Supervised Transfer Learning Strategy For Light Multimodal Multi-Task Classification Model](http://arxiv.org/abs/2501.01611v1) | Haixu Liu et al. | 2025-01-03 |
 | [Element-wise Attention Is All You Need](http://arxiv.org/abs/2501.05730v1) | Guoxin Feng | 2025-01-10 |
+| [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v1) | Yifan Zhang et al. | 2025-01-11 |
+| [Common Sense Is All You Need](http://arxiv.org/abs/2501.06642v1) | Hugo Latapie | 2025-01-11 |
 
 
 ## FAQ
