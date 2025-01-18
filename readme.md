@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--01--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--01--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -516,6 +516,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v1) | Yifan Zhang et al. | 2025-01-11 |
 | [Common Sense Is All You Need](http://arxiv.org/abs/2501.06642v1) | Hugo Latapie | 2025-01-11 |
 | [DisCoPatch: Batch Statistics Are All You Need For OOD Detection, But Only If You Can Trust Them](http://arxiv.org/abs/2501.08005v1) | Francisco Caetano et al. | 2025-01-14 |
+| [Attention is All You Need Until You Need Retention](http://arxiv.org/abs/2501.09166v1) | M. Murat Yaslioglu | 2025-01-15 |
 
 
 ## FAQ
