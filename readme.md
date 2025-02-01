@@ -473,7 +473,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Intention Is All You Need](http://arxiv.org/abs/2410.18851v1) | Advait Sarkar | 2024-10-24 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v2) | Patrik Reizinger et al. | 2024-10-29 |
-| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v2) | Dizhen Liang | 2024-10-31 |
+| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v3) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
@@ -502,7 +502,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v1) | Junjie Zhou et al. | 2024-12-12 |
 | [Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis](http://arxiv.org/abs/2412.09445v1) | Raj Hansini Khoiwal et al. | 2024-12-12 |
-| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v1) | Nianze Tao | 2024-12-16 |
+| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v2) | Nianze Tao | 2024-12-16 |
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
 | [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v2) | Minghao Xu et al. | 2024-12-16 |
 | [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](http://arxiv.org/abs/2412.15605v1) | Brian J Chan et al. | 2024-12-20 |
@@ -520,6 +520,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Mosaic-skeleton approximation is all you need for Smoluchowski equations](http://arxiv.org/abs/2501.10206v1) | Roman R. Dyachenko et al. | 2025-01-17 |
 | [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v1) | Yeounoh Chung et al. | 2025-01-21 |
 | [Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant](http://arxiv.org/abs/2501.17546v1) | Gaole He et al. | 2025-01-29 |
+| [Anatomy Might Be All You Need: Forecasting What to Do During Surgery](http://arxiv.org/abs/2501.18011v1) | Gary Sarwin et al. | 2025-01-29 |
 
 
 ## FAQ
