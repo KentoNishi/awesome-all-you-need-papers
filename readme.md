@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--01--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--01--31-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -520,7 +520,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Mosaic-skeleton approximation is all you need for Smoluchowski equations](http://arxiv.org/abs/2501.10206v1) | Roman R. Dyachenko et al. | 2025-01-17 |
 | [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v1) | Yeounoh Chung et al. | 2025-01-21 |
 | [Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant](http://arxiv.org/abs/2501.17546v1) | Gaole He et al. | 2025-01-29 |
-| [Anatomy Might Be All You Need: Forecasting What to Do During Surgery](http://arxiv.org/abs/2501.18011v1) | Gary Sarwin et al. | 2025-01-29 |
+| [Anatomy Might Be All You Need: Forecasting What to Do During Surgery](http://arxiv.org/abs/2501.18011v2) | Gary Sarwin et al. | 2025-01-29 |
+| [Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits](http://arxiv.org/abs/2501.19401v1) | Argyrios Gerogiannis et al. | 2025-01-31 |
 
 
 ## FAQ
