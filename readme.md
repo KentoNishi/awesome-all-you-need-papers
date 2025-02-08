@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--02-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -522,6 +522,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Anatomy Might Be All You Need: Forecasting What to Do During Surgery](http://arxiv.org/abs/2501.18011v2) | Gary Sarwin et al. | 2025-01-29 |
 | [Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits](http://arxiv.org/abs/2501.19401v1) | Argyrios Gerogiannis et al. | 2025-01-31 |
 | [Reformulation is All You Need: Addressing Malicious Text Features in DNNs](http://arxiv.org/abs/2502.00652v1) | Yi Jiang et al. | 2025-02-02 |
+| [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v1) | Yihua Cheng et al. | 2025-02-06 |
 
 
 ## FAQ
