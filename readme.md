@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -499,7 +499,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering](http://arxiv.org/abs/2412.05453v2) | Krishnasai Addala et al. | 2024-12-06 |
 | [[MASK] is All You Need](http://arxiv.org/abs/2412.06787v2) | Vincent Tao Hu et al. | 2024-12-09 |
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
-| [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v1) | Junjie Zhou et al. | 2024-12-12 |
+| [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v2) | Junjie Zhou et al. | 2024-12-12 |
 | [Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis](http://arxiv.org/abs/2412.09445v1) | Raj Hansini Khoiwal et al. | 2024-12-12 |
 | [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v3) | Nianze Tao | 2024-12-16 |
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
@@ -526,6 +526,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v1) | Yihua Cheng et al. | 2025-02-06 |
 | [Is attention all you need to solve the correlated electron problem?](http://arxiv.org/abs/2502.05383v1) | Max Geier et al. | 2025-02-07 |
 | [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v1) | Yufeng Gu et al. | 2025-02-11 |
+| [TransMLA: Multi-head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v1) | Fanxu Meng et al. | 2025-02-11 |
+| [Intention is All You Need: Refining Your Code from Your Intention](http://arxiv.org/abs/2502.08172v1) | Qi Guo et al. | 2025-02-12 |
 
 
 ## FAQ
