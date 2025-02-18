@@ -306,7 +306,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Label Poisoning is All You Need](http://arxiv.org/abs/2310.18933v1) | Rishi D. Jha et al. | 2023-10-29 |
 | [Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models](http://arxiv.org/abs/2310.19410v1) | Minxing Zhang et al. | 2023-10-30 |
 | [Objectives Are All You Need: Solving Deceptive Problems Without Explicit Diversity Maintenance](http://arxiv.org/abs/2311.02283v1) | Ryan Boldi et al. | 2023-11-04 |
-| [Ephemeral Rollups are All you Need](http://arxiv.org/abs/2311.02650v3) | Gabriele Picco et al. | 2023-11-05 |
+| [Ephemeral Rollups are All you Need](http://arxiv.org/abs/2311.02650v4) | Gabriele Picco et al. | 2023-11-05 |
 | [Equivariance Is Not All You Need: Characterizing the Utility of Equivariant Graph Neural Networks for Particle Physics Tasks](http://arxiv.org/abs/2311.03094v1) | Savannah Thais et al. | 2023-11-06 |
 | [Lidar Annotation Is All You Need](http://arxiv.org/abs/2311.04777v1) | Dinar Sharafutdinov et al. | 2023-11-08 |
 | [Interaction is all You Need? A Study of Robots Ability to Understand and Execute](http://arxiv.org/abs/2311.07150v1) | Kushal Koshti et al. | 2023-11-13 |
@@ -344,7 +344,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Accelerating Look-ahead in Bayesian Optimization: Multilevel Monte Carlo is All you Need](http://arxiv.org/abs/2402.02111v2) | Shangda Yang et al. | 2024-02-03 |
 | [SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking](http://arxiv.org/abs/2402.02285v1) | Atharva Kulkarni et al. | 2024-02-03 |
 | [Eigen Is All You Need: Efficient Lidar-Inertial Continuous-Time Odometry with Internal Association](http://arxiv.org/abs/2402.02337v3) | Thien-Minh Nguyen et al. | 2024-02-04 |
-| [Tabular Data: Is Attention All You Need?](http://arxiv.org/abs/2402.03970v1) | Guri Zabërgja et al. | 2024-02-06 |
 | [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v2) | Jiajun Zeng et al. | 2024-02-07 |
 | [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](http://arxiv.org/abs/2402.06053v1) | Thomas Sandholm et al. | 2024-02-08 |
 | [SMC Is All You Need: Parallel Strong Scaling](http://arxiv.org/abs/2402.06173v2) | Xinzhu Liang et al. | 2024-02-09 |
@@ -501,7 +500,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v2) | Junjie Zhou et al. | 2024-12-12 |
 | [Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis](http://arxiv.org/abs/2412.09445v1) | Raj Hansini Khoiwal et al. | 2024-12-12 |
-| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v3) | Nianze Tao | 2024-12-16 |
+| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v4) | Nianze Tao | 2024-12-16 |
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
 | [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v2) | Minghao Xu et al. | 2024-12-16 |
 | [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](http://arxiv.org/abs/2412.15605v1) | Brian J Chan et al. | 2024-12-20 |
