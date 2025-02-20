@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -528,7 +528,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Intention is All You Need: Refining Your Code from Your Intention](http://arxiv.org/abs/2502.08172v1) | Qi Guo et al. | 2025-02-12 |
 | [Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication](http://arxiv.org/abs/2502.08896v1) | Weicheng Ma et al. | 2025-02-13 |
 | [Distraction is All You Need for Multimodal Large Language Model Jailbreaking](http://arxiv.org/abs/2502.10794v1) | Zuopeng Yang et al. | 2025-02-15 |
-| [Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs](http://arxiv.org/abs/2502.10858v1) | Zongqian Wu et al. | 2025-02-15 |
+| [Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs](http://arxiv.org/abs/2502.10858v2) | Zongqian Wu et al. | 2025-02-15 |
+| [OCT Data is All You Need: How Vision Transformers with and without Pre-training Benefit Imaging](http://arxiv.org/abs/2502.12379v1) | Zihao Han et al. | 2025-02-17 |
+| [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v1) | Yu Tang et al. | 2025-02-18 |
 
 
 ## FAQ
