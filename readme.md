@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -465,7 +465,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v3) | Ted Kwartler et al. | 2024-10-18 |
 | [Attention Is All You Need for LLM-based Code Vulnerability Localization](http://arxiv.org/abs/2410.15288v1) | Yue Li et al. | 2024-10-20 |
 | [All You Need is an Improving Column: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](http://arxiv.org/abs/2410.15601v1) | Amira Hijazi et al. | 2024-10-21 |
-| [Towards Active Participant-Centric Vertical Federated Learning: Some Representations May Be All You Need](http://arxiv.org/abs/2410.17648v1) | Jon Irureta et al. | 2024-10-23 |
+| [Towards Active Participant Centric Vertical Federated Learning: Some Representations May Be All You Need](http://arxiv.org/abs/2410.17648v2) | Jon Irureta et al. | 2024-10-23 |
 | [Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need](http://arxiv.org/abs/2410.18368v1) | Runzhen Xue et al. | 2024-10-24 |
 | [Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](http://arxiv.org/abs/2410.18371v2) | Ruoxi Cheng et al. | 2024-10-24 |
 | [Intention Is All You Need](http://arxiv.org/abs/2410.18851v1) | Advait Sarkar | 2024-10-24 |
@@ -531,6 +531,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs](http://arxiv.org/abs/2502.10858v2) | Zongqian Wu et al. | 2025-02-15 |
 | [OCT Data is All You Need: How Vision Transformers with and without Pre-training Benefit Imaging](http://arxiv.org/abs/2502.12379v1) | Zihao Han et al. | 2025-02-17 |
 | [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v1) | Yu Tang et al. | 2025-02-18 |
+| [Image compositing is all you need for data augmentation](http://arxiv.org/abs/2502.13936v1) | Ang Jia Ning Shermaine et al. | 2025-02-19 |
 
 
 ## FAQ
