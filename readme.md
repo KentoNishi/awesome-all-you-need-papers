@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -457,7 +457,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
 | [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v3) | Kiyam Lin et al. | 2024-10-11 |
 | [Rethinking Data Selection at Scale: Random Selection is Almost All You Need](http://arxiv.org/abs/2410.09335v2) | Tingyu Xia et al. | 2024-10-12 |
-| [Looped ReLU MLPs May Be All You Need as Practical Programmable Computers](http://arxiv.org/abs/2410.09375v1) | Yingyu Liang et al. | 2024-10-12 |
+| [Looped ReLU MLPs May Be All You Need as Practical Programmable Computers](http://arxiv.org/abs/2410.09375v2) | Yingyu Liang et al. | 2024-10-12 |
 | [Dying Clusters Is All You Need -- Deep Clustering With an Unknown Number of Clusters](http://arxiv.org/abs/2410.09491v1) | Collin Leiber et al. | 2024-10-12 |
 | [Reddit is all you need: Authorship profiling for Romanian](http://arxiv.org/abs/2410.09907v1) | Ecaterina Ştefănescu et al. | 2024-10-13 |
 | [Position Specific Scoring Is All You Need? Revisiting Protein Sequence Classification Tasks](http://arxiv.org/abs/2410.12655v1) | Sarwan Ali et al. | 2024-10-16 |
@@ -532,6 +532,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [OCT Data is All You Need: How Vision Transformers with and without Pre-training Benefit Imaging](http://arxiv.org/abs/2502.12379v1) | Zihao Han et al. | 2025-02-17 |
 | [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v1) | Yu Tang et al. | 2025-02-18 |
 | [Image compositing is all you need for data augmentation](http://arxiv.org/abs/2502.13936v1) | Ang Jia Ning Shermaine et al. | 2025-02-19 |
+| [Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting](http://arxiv.org/abs/2502.14525v1) | Yannick Wölker et al. | 2025-02-20 |
 
 
 ## FAQ
