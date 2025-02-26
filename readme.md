@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--02--24-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -453,7 +453,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Geometry is All You Need: A Unified Taxonomy of Matrix and Tensor Factorization for Compression of Generative Language Models](http://arxiv.org/abs/2410.03040v1) | Mingxue Xu et al. | 2024-10-03 |
 | [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](http://arxiv.org/abs/2410.03644v1) | Xianlong Wang et al. | 2024-10-04 |
 | [Grounding is All You Need? Dual Temporal Grounding for Video Dialog](http://arxiv.org/abs/2410.05767v2) | You Qin et al. | 2024-10-08 |
-| [Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks](http://arxiv.org/abs/2410.06277v2) | Kawisorn Kamtue et al. | 2024-10-08 |
 | [Noise is All You Need: Private Second-Order Convergence of Noisy SGD](http://arxiv.org/abs/2410.06878v1) | Dmitrii Avdiukhin et al. | 2024-10-09 |
 | [Simulation-based inference with scattering representations: scattering is all you need](http://arxiv.org/abs/2410.11883v3) | Kiyam Lin et al. | 2024-10-11 |
 | [Rethinking Data Selection at Scale: Random Selection is Almost All You Need](http://arxiv.org/abs/2410.09335v2) | Tingyu Xia et al. | 2024-10-12 |
@@ -502,7 +501,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v4) | Nianze Tao | 2024-12-16 |
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
 | [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v2) | Minghao Xu et al. | 2024-12-16 |
-| [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](http://arxiv.org/abs/2412.15605v1) | Brian J Chan et al. | 2024-12-20 |
+| [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](http://arxiv.org/abs/2412.15605v2) | Brian J Chan et al. | 2024-12-20 |
 | [From Worms to Mice: Homeostasis Maybe All You Need](http://arxiv.org/abs/2412.20090v1) | Jesus Marco de Lucas | 2024-12-28 |
 | [Generalize Your Face Forgery Detectors: An Insertable Adaptation Module Is All You Need](http://arxiv.org/abs/2412.20801v1) | Xiaotian Si et al. | 2024-12-30 |
 | [Attention Is All You Need For Mixture-of-Depths Routing](http://arxiv.org/abs/2412.20875v1) | Advait Gadhikar et al. | 2024-12-30 |
@@ -533,6 +532,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v1) | Yu Tang et al. | 2025-02-18 |
 | [Image compositing is all you need for data augmentation](http://arxiv.org/abs/2502.13936v1) | Ang Jia Ning Shermaine et al. | 2025-02-19 |
 | [Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting](http://arxiv.org/abs/2502.14525v1) | Yannick Wölker et al. | 2025-02-20 |
+| [Sparsity May Be All You Need: Sparse Random Parameter Adaptation](http://arxiv.org/abs/2502.15975v1) | Jesus Rios et al. | 2025-02-21 |
+| [All You Need for Counterfactual Explainability Is Principled and Reliable Estimate of Aleatoric and Epistemic Uncertainty](http://arxiv.org/abs/2502.17007v1) | Kacper Sokol et al. | 2025-02-24 |
 
 
 ## FAQ
