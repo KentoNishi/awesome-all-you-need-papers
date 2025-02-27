@@ -390,7 +390,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [GrootVL: Tree Topology is All You Need in State Space Model](http://arxiv.org/abs/2406.02395v1) | Yicheng Xiao et al. | 2024-06-04 |
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](http://arxiv.org/abs/2406.03216v1) | Martin Wistuba et al. | 2024-06-05 |
 | [SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN](http://arxiv.org/abs/2406.03470v1) | Kang You et al. | 2024-06-05 |
-| [One Queue Is All You Need: Resolving Head-of-Line Blocking in Large Language Model Serving](http://arxiv.org/abs/2407.00047v1) | Archit Patke et al. | 2024-06-05 |
 | [Procrastination Is All You Need: Exponent Indexed Accumulators for Floating Point, Posits and Logarithmic Numbers](http://arxiv.org/abs/2406.05866v1) | Vincenzo Liguori | 2024-06-09 |
 | [Taxes Are All You Need: Integration of Taxonomical Hierarchy Relationships into the Contrastive Loss](http://arxiv.org/abs/2406.06848v1) | Kiran Kokilepersaud et al. | 2024-06-10 |
 | [Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](http://arxiv.org/abs/2406.08413v1) | Christopher Wolters et al. | 2024-06-12 |
@@ -469,7 +468,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](http://arxiv.org/abs/2410.18371v2) | Ruoxi Cheng et al. | 2024-10-24 |
 | [Intention Is All You Need](http://arxiv.org/abs/2410.18851v1) | Advait Sarkar | 2024-10-24 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
-| [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v2) | Patrik Reizinger et al. | 2024-10-29 |
+| [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
 | [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v3) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
