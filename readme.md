@@ -404,6 +404,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Setting Targets is All You Need:Improved Order Competitive Ratio for Online Selection](http://arxiv.org/abs/2406.15192v1) | Liyan Chen et al. | 2024-06-21 |
 | [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v4) | Bowen Xu et al. | 2024-06-24 |
 | [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v3) | Yang Wang et al. | 2024-06-26 |
+| [LightStereo: Channel Boost Is All You Need for Efficient 2D Cost Aggregation](http://arxiv.org/abs/2406.19833v3) | Xianda Guo et al. | 2024-06-28 |
 | [Wavelets Are All You Need for Autoregressive Image Generation](http://arxiv.org/abs/2406.19997v2) | Wael Mattar et al. | 2024-06-28 |
 | [Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP](http://arxiv.org/abs/2407.00402v3) | Omer Goldman et al. | 2024-06-29 |
 | [Transferable-guided Attention Is All You Need for Video Domain Adaptation](http://arxiv.org/abs/2407.01375v2) | André Sacilotti et al. | 2024-07-01 |
