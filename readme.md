@@ -435,7 +435,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation](http://arxiv.org/abs/2408.16506v1) | Xiaoyu Jin et al. | 2024-08-29 |
 | [All You Need is Group Actions: Advancing Robust Autonomous Planning](http://arxiv.org/abs/2408.17295v1) | Vincenzo Basco | 2024-08-30 |
 | [Dreaming is All You Need](http://arxiv.org/abs/2409.01633v3) | Mingze Ni et al. | 2024-09-03 |
-| [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v1) | Shiwen Ni et al. | 2024-09-03 |
+| [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v2) | Shiwen Ni et al. | 2024-09-03 |
 | [One Homography is All You Need: IMM-based Joint Homography and Multiple Object State Estimation](http://arxiv.org/abs/2409.02562v2) | Paul Johannes Claasen et al. | 2024-09-04 |
 | [100 instances is all you need: predicting the success of a new LLM on unseen data by testing on a few instances](http://arxiv.org/abs/2409.03563v1) | Lorenzo Pacchiardi et al. | 2024-09-05 |
 | [Inference is All You Need: Self Example Retriever for Cross-domain Dialogue State Tracking with ChatGPT](http://arxiv.org/abs/2409.06243v1) | Jihyun Lee et al. | 2024-09-10 |
@@ -520,7 +520,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits](http://arxiv.org/abs/2501.19401v1) | Argyrios Gerogiannis et al. | 2025-01-31 |
 | [Reformulation is All You Need: Addressing Malicious Text Features in DNNs](http://arxiv.org/abs/2502.00652v1) | Yi Jiang et al. | 2025-02-02 |
 | [NER4all or Context is All You Need: Using LLMs for low-effort, high-performance NER on historical texts. A humanities informed approach](http://arxiv.org/abs/2502.04351v1) | Torsten Hiltmann et al. | 2025-02-04 |
-| [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v1) | Yihua Cheng et al. | 2025-02-06 |
+| [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v2) | Yihua Cheng et al. | 2025-02-06 |
 | [Is attention all you need to solve the correlated electron problem?](http://arxiv.org/abs/2502.05383v1) | Max Geier et al. | 2025-02-07 |
 | [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v1) | Yufeng Gu et al. | 2025-02-11 |
 | [TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v2) | Fanxu Meng et al. | 2025-02-11 |
