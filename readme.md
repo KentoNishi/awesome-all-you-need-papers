@@ -400,7 +400,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [MiSuRe is all you need to explain your image segmentation](http://arxiv.org/abs/2406.12173v2) | Syed Nouman Hasany et al. | 2024-06-18 |
 | [Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters](http://arxiv.org/abs/2406.12335v2) | Zhiyu Guo et al. | 2024-06-18 |
 | [Not Everything is All You Need: Toward Low-Redundant Optimization for Large Language Model Alignment](http://arxiv.org/abs/2406.12606v2) | Zhipeng Chen et al. | 2024-06-18 |
-| [Selected Languages are All You Need for Cross-lingual Truthfulness Transfer](http://arxiv.org/abs/2406.14434v2) | Weihao Liu et al. | 2024-06-20 |
+| [Selected Languages are All You Need for Cross-lingual Truthfulness Transfer](http://arxiv.org/abs/2406.14434v3) | Weihao Liu et al. | 2024-06-20 |
 | [Setting Targets is All You Need:Improved Order Competitive Ratio for Online Selection](http://arxiv.org/abs/2406.15192v1) | Liyan Chen et al. | 2024-06-21 |
 | [ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v4) | Bowen Xu et al. | 2024-06-24 |
 | [Evaluating Quality of Answers for Retrieval-Augmented Generation: A Strong LLM Is All You Need](http://arxiv.org/abs/2406.18064v3) | Yang Wang et al. | 2024-06-26 |
