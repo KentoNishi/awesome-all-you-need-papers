@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -536,6 +536,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need for Counterfactual Explainability Is Principled and Reliable Estimate of Aleatoric and Epistemic Uncertainty](http://arxiv.org/abs/2502.17007v1) | Kacper Sokol et al. | 2025-02-24 |
 | [BEYONDWORDS is All You Need: Agentic Generative AI based Social Media Themes Extractor](http://arxiv.org/abs/2503.01880v1) | Mohammed-Khalil Ghali et al. | 2025-02-26 |
 | [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://arxiv.org/abs/2503.02875v1) | Ke Ji et al. | 2025-03-04 |
+| [SoK: Knowledge is All You Need: Last Mile Delivery for Automated Provenance-based Intrusion Detection with LLMs](http://arxiv.org/abs/2503.03108v1) | Wenrui Cheng et al. | 2025-03-05 |
+| [Video Super-Resolution: All You Need is a Video Diffusion Model](http://arxiv.org/abs/2503.03355v1) | Zhihao Zhan et al. | 2025-03-05 |
+| [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v1) | Karthik Barma et al. | 2025-03-05 |
+| [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
 
 
 ## FAQ
