@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -386,7 +386,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cross-Modal Safety Alignment: Is textual unlearning all you need?](http://arxiv.org/abs/2406.02575v1) | Trishna Chakraborty et al. | 2024-05-27 |
 | [Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts](http://arxiv.org/abs/2405.19893v1) | Chunjing Gan et al. | 2024-05-30 |
 | [Non-uniformity is All You Need: Efficient and Timely Encrypted Traffic Classification With ECHO](http://arxiv.org/abs/2406.01852v3) | Shilo Daum et al. | 2024-06-03 |
-| [MetaMixer Is All You Need](http://arxiv.org/abs/2406.02021v1) | Seokju Yun et al. | 2024-06-04 |
 | [GrootVL: Tree Topology is All You Need in State Space Model](http://arxiv.org/abs/2406.02395v1) | Yicheng Xiao et al. | 2024-06-04 |
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](http://arxiv.org/abs/2406.03216v1) | Martin Wistuba et al. | 2024-06-05 |
 | [SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN](http://arxiv.org/abs/2406.03470v1) | Kang You et al. | 2024-06-05 |
@@ -521,7 +520,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Reformulation is All You Need: Addressing Malicious Text Features in DNNs](http://arxiv.org/abs/2502.00652v1) | Yi Jiang et al. | 2025-02-02 |
 | [NER4all or Context is All You Need: Using LLMs for low-effort, high-performance NER on historical texts. A humanities informed approach](http://arxiv.org/abs/2502.04351v1) | Torsten Hiltmann et al. | 2025-02-04 |
 | [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v2) | Yihua Cheng et al. | 2025-02-06 |
-| [Is attention all you need to solve the correlated electron problem?](http://arxiv.org/abs/2502.05383v1) | Max Geier et al. | 2025-02-07 |
+| [Is attention all you need to solve the correlated electron problem?](http://arxiv.org/abs/2502.05383v2) | Max Geier et al. | 2025-02-07 |
 | [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v1) | Yufeng Gu et al. | 2025-02-11 |
 | [TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v2) | Fanxu Meng et al. | 2025-02-11 |
 | [Intention is All You Need: Refining Your Code from Your Intention](http://arxiv.org/abs/2502.08172v1) | Qi Guo et al. | 2025-02-12 |
@@ -541,6 +540,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v1) | Karthik Barma et al. | 2025-03-05 |
 | [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
 | [Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks](http://arxiv.org/abs/2503.04874v1) | Joan C. Timoneda et al. | 2025-03-06 |
+| [Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA](http://arxiv.org/abs/2503.05840v1) | Nils Graef et al. | 2025-03-07 |
+| [Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems](http://arxiv.org/abs/2503.06238v1) | Kibum Kim et al. | 2025-03-08 |
+| [Global Context Is All You Need for Parallel Efficient Tractography Parcellation](http://arxiv.org/abs/2503.07104v1) | Valentin von Bornhaupt et al. | 2025-03-10 |
 
 
 ## FAQ
