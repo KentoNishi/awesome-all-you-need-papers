@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -537,13 +537,15 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [BEYONDWORDS is All You Need: Agentic Generative AI based Social Media Themes Extractor](http://arxiv.org/abs/2503.01880v1) | Mohammed-Khalil Ghali et al. | 2025-02-26 |
 | [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://arxiv.org/abs/2503.02875v1) | Ke Ji et al. | 2025-03-04 |
 | [SoK: Knowledge is All You Need: Last Mile Delivery for Automated Provenance-based Intrusion Detection with LLMs](http://arxiv.org/abs/2503.03108v1) | Wenrui Cheng et al. | 2025-03-05 |
-| [Video Super-Resolution: All You Need is a Video Diffusion Model](http://arxiv.org/abs/2503.03355v1) | Zhihao Zhan et al. | 2025-03-05 |
+| [Video Super-Resolution: All You Need is a Video Diffusion Model](http://arxiv.org/abs/2503.03355v2) | Zhihao Zhan et al. | 2025-03-05 |
 | [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v1) | Karthik Barma et al. | 2025-03-05 |
 | [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
 | [Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks](http://arxiv.org/abs/2503.04874v1) | Joan C. Timoneda et al. | 2025-03-06 |
 | [Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA](http://arxiv.org/abs/2503.05840v1) | Nils Graef et al. | 2025-03-07 |
 | [Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems](http://arxiv.org/abs/2503.06238v1) | Kibum Kim et al. | 2025-03-08 |
 | [Global Context Is All You Need for Parallel Efficient Tractography Parcellation](http://arxiv.org/abs/2503.07104v1) | Valentin von Bornhaupt et al. | 2025-03-10 |
+| [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](http://arxiv.org/abs/2503.08741v2) | Letian Zhang et al. | 2025-03-11 |
+| [Reinforcement Learning is all You Need](http://arxiv.org/abs/2503.09512v1) | Yongsheng Lian | 2025-03-12 |
 
 
 ## FAQ
