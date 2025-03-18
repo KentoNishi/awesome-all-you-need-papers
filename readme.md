@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--14-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -545,8 +545,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems](http://arxiv.org/abs/2503.06238v1) | Kibum Kim et al. | 2025-03-08 |
 | [Global Context Is All You Need for Parallel Efficient Tractography Parcellation](http://arxiv.org/abs/2503.07104v1) | Valentin von Bornhaupt et al. | 2025-03-10 |
 | [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](http://arxiv.org/abs/2503.08741v2) | Letian Zhang et al. | 2025-03-11 |
+| [Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v1) | Qiji Zhou et al. | 2025-03-12 |
 | [Reinforcement Learning is all You Need](http://arxiv.org/abs/2503.09512v1) | Yongsheng Lian | 2025-03-12 |
 | [VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames](http://arxiv.org/abs/2503.10286v1) | Zhiqi Li et al. | 2025-03-13 |
+| [Collaboration is all you need: LLM Assisted Safe Code Translation](http://arxiv.org/abs/2503.11237v1) | Rabimba Karanjai et al. | 2025-03-14 |
 
 
 ## FAQ
