@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -457,7 +457,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Rethinking Data Selection at Scale: Random Selection is Almost All You Need](http://arxiv.org/abs/2410.09335v2) | Tingyu Xia et al. | 2024-10-12 |
 | [Looped ReLU MLPs May Be All You Need as Practical Programmable Computers](http://arxiv.org/abs/2410.09375v2) | Yingyu Liang et al. | 2024-10-12 |
 | [Dying Clusters Is All You Need -- Deep Clustering With an Unknown Number of Clusters](http://arxiv.org/abs/2410.09491v1) | Collin Leiber et al. | 2024-10-12 |
-| [Reddit is all you need: Authorship profiling for Romanian](http://arxiv.org/abs/2410.09907v1) | Ecaterina Ştefănescu et al. | 2024-10-13 |
+| [Reddit is all you need: Authorship profiling for Romanian](http://arxiv.org/abs/2410.09907v2) | Ecaterina Ştefănescu et al. | 2024-10-13 |
 | [Position Specific Scoring Is All You Need? Revisiting Protein Sequence Classification Tasks](http://arxiv.org/abs/2410.12655v1) | Sarwan Ali et al. | 2024-10-16 |
 | [Efficient Deep Learning Board: Training Feedback Is Not All You Need](http://arxiv.org/abs/2410.14743v1) | Lina Gong et al. | 2024-10-17 |
 | [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v3) | Ted Kwartler et al. | 2024-10-18 |
@@ -551,6 +551,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Collaboration is all you need: LLM Assisted Safe Code Translation](http://arxiv.org/abs/2503.11237v1) | Rabimba Karanjai et al. | 2025-03-14 |
 | [Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization](http://arxiv.org/abs/2503.12999v1) | Ruichuan An et al. | 2025-03-17 |
 | [All You Need to Know About Training Image Retrieval Models](http://arxiv.org/abs/2503.13045v1) | Gabriele Berton et al. | 2025-03-17 |
+| [Is Discretization Fusion All You Need for Collaborative Perception?](http://arxiv.org/abs/2503.13946v1) | Kang Yang et al. | 2025-03-18 |
 
 
 ## FAQ
