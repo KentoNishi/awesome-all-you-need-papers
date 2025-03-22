@@ -322,6 +322,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Feedback All You Need? Leveraging Natural Language Feedback in Goal-Conditioned Reinforcement Learning](http://arxiv.org/abs/2312.04736v1) | Sabrina McCallum et al. | 2023-12-07 |
 | [The Counterattack of CNNs in Self-Supervised Learning: Larger Kernel Size might be All You Need](http://arxiv.org/abs/2312.05695v2) | Tianjin Huang et al. | 2023-12-09 |
 | [CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models](http://arxiv.org/abs/2312.06059v1) | Tuna Han Salih Meral et al. | 2023-12-11 |
+| [Image is All You Need to Empower Large-scale Diffusion Models for In-Domain Generation](http://arxiv.org/abs/2312.08195v2) | Pu Cao et al. | 2023-12-13 |
 | [Multi-Modality is All You Need for Transferable Recommender Systems](http://arxiv.org/abs/2312.09602v2) | Youhua Li et al. | 2023-12-15 |
 | [Scaling Compute Is Not All You Need for Adversarial Robustness](http://arxiv.org/abs/2312.13131v1) | Edoardo Debenedetti et al. | 2023-12-20 |
 | [Scaling Is All You Need: Autonomous Driving with JAX-Accelerated Reinforcement Learning](http://arxiv.org/abs/2312.15122v4) | Moritz Harmel et al. | 2023-12-23 |
