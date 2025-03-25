@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -468,6 +468,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need](http://arxiv.org/abs/2410.18368v1) | Runzhen Xue et al. | 2024-10-24 |
 | [Gibberish is All You Need for Membership Inference Detection in Contrastive Language-Audio Pretraining](http://arxiv.org/abs/2410.18371v2) | Ruoxi Cheng et al. | 2024-10-24 |
 | [Intention Is All You Need](http://arxiv.org/abs/2410.18851v1) | Advait Sarkar | 2024-10-24 |
+| [Metaheuristics is All You Need](http://arxiv.org/abs/2411.05797v2) | Eliuvish Cuicizion et al. | 2024-10-26 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
 | [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v3) | Dizhen Liang | 2024-10-31 |
@@ -522,7 +523,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [NER4all or Context is All You Need: Using LLMs for low-effort, high-performance NER on historical texts. A humanities informed approach](http://arxiv.org/abs/2502.04351v1) | Torsten Hiltmann et al. | 2025-02-04 |
 | [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v2) | Yihua Cheng et al. | 2025-02-06 |
 | [Is attention all you need to solve the correlated electron problem?](http://arxiv.org/abs/2502.05383v2) | Max Geier et al. | 2025-02-07 |
-| [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v1) | Yufeng Gu et al. | 2025-02-11 |
+| [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v2) | Yufeng Gu et al. | 2025-02-11 |
 | [TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v2) | Fanxu Meng et al. | 2025-02-11 |
 | [Intention is All You Need: Refining Your Code from Your Intention](http://arxiv.org/abs/2502.08172v1) | Qi Guo et al. | 2025-02-12 |
 | [Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication](http://arxiv.org/abs/2502.08896v1) | Weicheng Ma et al. | 2025-02-13 |
@@ -550,9 +551,12 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Reinforcement Learning is all You Need](http://arxiv.org/abs/2503.09512v1) | Yongsheng Lian | 2025-03-12 |
 | [VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames](http://arxiv.org/abs/2503.10286v1) | Zhiqi Li et al. | 2025-03-13 |
 | [Collaboration is all you need: LLM Assisted Safe Code Translation](http://arxiv.org/abs/2503.11237v1) | Rabimba Karanjai et al. | 2025-03-14 |
-| [Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization](http://arxiv.org/abs/2503.12999v1) | Ruichuan An et al. | 2025-03-17 |
+| [Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization](http://arxiv.org/abs/2503.12999v2) | Ruichuan An et al. | 2025-03-17 |
 | [All You Need to Know About Training Image Retrieval Models](http://arxiv.org/abs/2503.13045v1) | Gabriele Berton et al. | 2025-03-17 |
 | [Is Discretization Fusion All You Need for Collaborative Perception?](http://arxiv.org/abs/2503.13946v1) | Kang Yang et al. | 2025-03-18 |
+| [Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need](http://arxiv.org/abs/2503.17272v1) | Adam Karvonen | 2025-03-21 |
+| [NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1) | Alex Reneau et al. | 2025-03-21 |
+| [Filtered Rayleigh-Ritz is all you need](http://arxiv.org/abs/2503.17357v1) | Ryan Abbott et al. | 2025-03-21 |
 
 
 ## FAQ
