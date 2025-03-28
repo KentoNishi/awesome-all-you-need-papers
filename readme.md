@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--26-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -471,7 +471,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Metaheuristics is All You Need](http://arxiv.org/abs/2411.05797v2) | Eliuvish Cuicizion et al. | 2024-10-26 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
-| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v3) | Dizhen Liang | 2024-10-31 |
+| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v4) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
@@ -557,6 +557,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need](http://arxiv.org/abs/2503.17272v1) | Adam Karvonen | 2025-03-21 |
 | [NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1) | Alex Reneau et al. | 2025-03-21 |
 | [Filtered Rayleigh-Ritz is all you need](http://arxiv.org/abs/2503.17357v1) | Ryan Abbott et al. | 2025-03-21 |
+| [Is Reuse All You Need? A Systematic Comparison of Regular Expression Composition Strategies](http://arxiv.org/abs/2503.20579v1) | Berk Çakar et al. | 2025-03-26 |
 
 
 ## FAQ
