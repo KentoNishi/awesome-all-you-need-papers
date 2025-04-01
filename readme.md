@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--28-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -554,13 +554,14 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization](http://arxiv.org/abs/2503.12999v2) | Ruichuan An et al. | 2025-03-17 |
 | [All You Need to Know About Training Image Retrieval Models](http://arxiv.org/abs/2503.13045v1) | Gabriele Berton et al. | 2025-03-17 |
 | [Is Discretization Fusion All You Need for Collaborative Perception?](http://arxiv.org/abs/2503.13946v1) | Kang Yang et al. | 2025-03-18 |
-| [Revisiting End To End Sparse Autoencoder Training -- A Short Finetune is All You Need](http://arxiv.org/abs/2503.17272v1) | Adam Karvonen | 2025-03-21 |
+| [Revisiting End-To-End Sparse Autoencoder Training: A Short Finetune Is All You Need](http://arxiv.org/abs/2503.17272v2) | Adam Karvonen | 2025-03-21 |
 | [NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1) | Alex Reneau et al. | 2025-03-21 |
 | [Filtered Rayleigh-Ritz is all you need](http://arxiv.org/abs/2503.17357v1) | Ryan Abbott et al. | 2025-03-21 |
 | [Is Reuse All You Need? A Systematic Comparison of Regular Expression Composition Strategies](http://arxiv.org/abs/2503.20579v1) | Berk Çakar et al. | 2025-03-26 |
 | [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](http://arxiv.org/abs/2503.21003v1) | Tai D. Nguyen et al. | 2025-03-26 |
 | [One Snapshot is All You Need: A Generalized Method for mmWave Signal Generation](http://arxiv.org/abs/2503.21122v1) | Teng Huang et al. | 2025-03-27 |
 | [Unsupervised Real-World Denoising: Sparsity is All You Need](http://arxiv.org/abs/2503.21377v1) | Hamadi Chihaoui et al. | 2025-03-27 |
+| [Unbiased Max-Min Embedding Classification for Transductive Few-Shot Learning: Clustering and Classification Are All You Need](http://arxiv.org/abs/2503.22193v1) | Yang Liu et al. | 2025-03-28 |
 
 
 ## FAQ
