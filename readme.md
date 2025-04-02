@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--03--31-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -471,7 +471,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Metaheuristics is All You Need](http://arxiv.org/abs/2411.05797v2) | Eliuvish Cuicizion et al. | 2024-10-26 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
-| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v4) | Dizhen Liang | 2024-10-31 |
+| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v5) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
@@ -539,6 +539,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CORDIC Is All You Need](http://arxiv.org/abs/2503.11685v1) | Omkar Kokane et al. | 2025-03-04 |
 | [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://arxiv.org/abs/2503.02875v1) | Ke Ji et al. | 2025-03-04 |
 | [SoK: Knowledge is All You Need: Last Mile Delivery for Automated Provenance-based Intrusion Detection with LLMs](http://arxiv.org/abs/2503.03108v1) | Wenrui Cheng et al. | 2025-03-05 |
+| [Qieemo: Speech Is All You Need in the Emotion Recognition in Conversations](http://arxiv.org/abs/2503.22687v1) | Jinming Chen et al. | 2025-03-05 |
 | [Video Super-Resolution: All You Need is a Video Diffusion Model](http://arxiv.org/abs/2503.03355v3) | Zhihao Zhan et al. | 2025-03-05 |
 | [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v1) | Karthik Barma et al. | 2025-03-05 |
 | [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
@@ -562,6 +563,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Snapshot is All You Need: A Generalized Method for mmWave Signal Generation](http://arxiv.org/abs/2503.21122v1) | Teng Huang et al. | 2025-03-27 |
 | [Unsupervised Real-World Denoising: Sparsity is All You Need](http://arxiv.org/abs/2503.21377v1) | Hamadi Chihaoui et al. | 2025-03-27 |
 | [Unbiased Max-Min Embedding Classification for Transductive Few-Shot Learning: Clustering and Classification Are All You Need](http://arxiv.org/abs/2503.22193v1) | Yang Liu et al. | 2025-03-28 |
+| [Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering](http://arxiv.org/abs/2503.23511v1) | Xingyu Lyu et al. | 2025-03-30 |
+| [Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting](http://arxiv.org/abs/2503.23621v1) | Fan-Keng Sun et al. | 2025-03-30 |
+| [Rubric Is All You Need: Enhancing LLM-based Code Evaluation With Question-Specific Rubrics](http://arxiv.org/abs/2503.23989v1) | Aditya Pathak et al. | 2025-03-31 |
+| [All You Need is Sally-Anne: ToM in AI Strongly Supported After Surpassing Tests for 3-Year-Olds](http://arxiv.org/abs/2503.24215v1) | Nitay Alon et al. | 2025-03-31 |
 
 
 ## FAQ
