@@ -442,7 +442,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](http://arxiv.org/abs/2409.07433v1) | Daniele Malitesta et al. | 2024-09-11 |
 | [Alignment with Preference Optimization Is All You Need for LLM Safety](http://arxiv.org/abs/2409.07772v1) | Reda Alami et al. | 2024-09-12 |
 | [Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling](http://arxiv.org/abs/2409.08906v1) | Nebiyou Yismaw et al. | 2024-09-13 |
-| [Propaganda is all you need](http://arxiv.org/abs/2410.01810v1) | Paul Kronlund-Drouault | 2024-09-13 |
+| [Propaganda is all you need](http://arxiv.org/abs/2410.01810v2) | Paul Kronlund-Drouault | 2024-09-13 |
 | [Hedging Is Not All You Need: A Simple Baseline for Online Learning Under Haphazard Inputs](http://arxiv.org/abs/2409.10242v2) | Himanshu Buckchash et al. | 2024-09-16 |
 | [One Model is All You Need: ByT5-Sanskrit, a Unified Model for Sanskrit NLP Tasks](http://arxiv.org/abs/2409.13920v1) | Sebastian Nehrdich et al. | 2024-09-20 |
 | [Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation](http://arxiv.org/abs/2409.17435v2) | Ian Chuang et al. | 2024-09-26 |
