@@ -238,7 +238,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
-| [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v1) | Ahsan Adeel et al. | 2023-05-16 |
+| [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v2) | Ahsan Adeel et al. | 2023-05-16 |
 | [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v3) | Minsik Cho et al. | 2023-05-18 |
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v2) | Maxwell Horton et al. | 2023-05-31 |
@@ -511,7 +511,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Kolmogorov GAM Networks are all you need!](http://arxiv.org/abs/2501.00704v1) | Sarah Polson et al. | 2025-01-01 |
 | [Google is all you need: Semi-Supervised Transfer Learning Strategy For Light Multimodal Multi-Task Classification Model](http://arxiv.org/abs/2501.01611v1) | Haixu Liu et al. | 2025-01-03 |
 | [Element-wise Attention Is All You Need](http://arxiv.org/abs/2501.05730v1) | Guoxin Feng | 2025-01-10 |
-| [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v2) | Yifan Zhang et al. | 2025-01-11 |
+| [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v3) | Yifan Zhang et al. | 2025-01-11 |
 | [Common Sense Is All You Need](http://arxiv.org/abs/2501.06642v1) | Hugo Latapie | 2025-01-11 |
 | [DisCoPatch: Batch Statistics Are All You Need For OOD Detection, But Only If You Can Trust Them](http://arxiv.org/abs/2501.08005v1) | Francisco Caetano et al. | 2025-01-14 |
 | [Attention is All You Need Until You Need Retention](http://arxiv.org/abs/2501.09166v1) | M. Murat Yaslioglu | 2025-01-15 |
@@ -565,7 +565,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Snapshot is All You Need: A Generalized Method for mmWave Signal Generation](http://arxiv.org/abs/2503.21122v1) | Teng Huang et al. | 2025-03-27 |
 | [Unsupervised Real-World Denoising: Sparsity is All You Need](http://arxiv.org/abs/2503.21377v1) | Hamadi Chihaoui et al. | 2025-03-27 |
 | [Unbiased Max-Min Embedding Classification for Transductive Few-Shot Learning: Clustering and Classification Are All You Need](http://arxiv.org/abs/2503.22193v1) | Yang Liu et al. | 2025-03-28 |
-| [Information Gain Is Not All You Need](http://arxiv.org/abs/2504.01980v1) | Ludvig Ericson et al. | 2025-03-28 |
+| [Information Gain Is Not All You Need](http://arxiv.org/abs/2504.01980v2) | Ludvig Ericson et al. | 2025-03-28 |
 | [Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering](http://arxiv.org/abs/2503.23511v1) | Xingyu Lyu et al. | 2025-03-30 |
 | [Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting](http://arxiv.org/abs/2503.23621v1) | Fan-Keng Sun et al. | 2025-03-30 |
 | [Rubric Is All You Need: Enhancing LLM-based Code Evaluation With Question-Specific Rubrics](http://arxiv.org/abs/2503.23989v1) | Aditya Pathak et al. | 2025-03-31 |
