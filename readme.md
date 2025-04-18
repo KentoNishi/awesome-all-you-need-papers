@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -472,7 +472,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Metaheuristics is All You Need](http://arxiv.org/abs/2411.05797v2) | Eliuvish Cuicizion et al. | 2024-10-26 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
-| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v5) | Dizhen Liang | 2024-10-31 |
+| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v6) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
@@ -573,6 +573,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Rubric Is All You Need: Enhancing LLM-based Code Evaluation With Question-Specific Rubrics](http://arxiv.org/abs/2503.23989v1) | Aditya Pathak et al. | 2025-03-31 |
 | [All You Need is Sally-Anne: ToM in AI Strongly Supported After Surpassing Tests for 3-Year-Olds](http://arxiv.org/abs/2503.24215v1) | Nitay Alon et al. | 2025-03-31 |
 | [Following Is All You Need: Robot Crowd Navigation Using People As Planners](http://arxiv.org/abs/2504.10828v1) | Yuwen Liao et al. | 2025-04-15 |
+| [Support is All You Need for Certified VAE Training](http://arxiv.org/abs/2504.11831v1) | Changming Xu et al. | 2025-04-16 |
+| [Search is All You Need for Few-shot Anomaly Detection](http://arxiv.org/abs/2504.11895v1) | Qishan Wang et al. | 2025-04-16 |
 
 
 ## FAQ
