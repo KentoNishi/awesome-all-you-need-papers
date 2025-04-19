@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--17-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -575,6 +575,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Following Is All You Need: Robot Crowd Navigation Using People As Planners](http://arxiv.org/abs/2504.10828v1) | Yuwen Liao et al. | 2025-04-15 |
 | [Support is All You Need for Certified VAE Training](http://arxiv.org/abs/2504.11831v1) | Changming Xu et al. | 2025-04-16 |
 | [Search is All You Need for Few-shot Anomaly Detection](http://arxiv.org/abs/2504.11895v1) | Qishan Wang et al. | 2025-04-16 |
+| [Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback](http://arxiv.org/abs/2504.12951v1) | Nearchos Potamitis et al. | 2025-04-17 |
 
 
 ## FAQ
