@@ -238,7 +238,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Appropriateness is all you need!](http://arxiv.org/abs/2304.14553v1) | Hendrik Kempt et al. | 2023-04-27 |
 | [Recursions Are All You Need: Towards Efficient Deep Unfolding Networks](http://arxiv.org/abs/2305.05505v1) | Rawwad Alhejaili et al. | 2023-05-09 |
 | [SuSana Distancia is all you need: Enforcing class separability in metric learning via two novel distance-based loss functions for few-shot image classification](http://arxiv.org/abs/2305.09062v3) | Mauricio Mendez-Ruiz et al. | 2023-05-15 |
-| [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v2) | Ahsan Adeel et al. | 2023-05-16 |
+| [Cooperation Is All You Need](http://arxiv.org/abs/2305.10449v3) | Ahsan Adeel et al. | 2023-05-16 |
 | [PDP: Parameter-free Differentiable Pruning is All You Need](http://arxiv.org/abs/2305.11203v3) | Minsik Cho et al. | 2023-05-18 |
 | [Text Is All You Need: Learning Language Representations for Sequential Recommendation](http://arxiv.org/abs/2305.13731v2) | Jiacheng Li et al. | 2023-05-23 |
 | [Bytes Are All You Need: Transformers Operating Directly On File Bytes](http://arxiv.org/abs/2306.00238v2) | Maxwell Horton et al. | 2023-05-31 |
@@ -463,7 +463,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Position Specific Scoring Is All You Need? Revisiting Protein Sequence Classification Tasks](http://arxiv.org/abs/2410.12655v1) | Sarwan Ali et al. | 2024-10-16 |
 | [Efficient Deep Learning Board: Training Feedback Is Not All You Need](http://arxiv.org/abs/2410.14743v1) | Lina Gong et al. | 2024-10-17 |
 | [Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation](http://arxiv.org/abs/2410.14262v3) | Ted Kwartler et al. | 2024-10-18 |
-| [Attention Is All You Need for LLM-based Code Vulnerability Localization](http://arxiv.org/abs/2410.15288v1) | Yue Li et al. | 2024-10-20 |
+| [If LLMs Would Just Look: Simple Line-by-line Checking Improves Vulnerability Localization](http://arxiv.org/abs/2410.15288v2) | Yue Li et al. | 2024-10-20 |
 | [All You Need is an Improving Column: Enhancing Column Generation for Parallel Machine Scheduling via Transformers](http://arxiv.org/abs/2410.15601v1) | Amira Hijazi et al. | 2024-10-21 |
 | [Towards Active Participant Centric Vertical Federated Learning: Some Representations May Be All You Need](http://arxiv.org/abs/2410.17648v2) | Jon Irureta et al. | 2024-10-23 |
 | [Multi-objective Optimization in CPU Design Space Exploration: Attention is All You Need](http://arxiv.org/abs/2410.18368v1) | Runzhen Xue et al. | 2024-10-24 |
@@ -531,7 +531,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Distraction is All You Need for Multimodal Large Language Model Jailbreaking](http://arxiv.org/abs/2502.10794v1) | Zuopeng Yang et al. | 2025-02-15 |
 | [Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs](http://arxiv.org/abs/2502.10858v2) | Zongqian Wu et al. | 2025-02-15 |
 | [OCT Data is All You Need: How Vision Transformers with and without Pre-training Benefit Imaging](http://arxiv.org/abs/2502.12379v1) | Zihao Han et al. | 2025-02-17 |
-| [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v1) | Yu Tang et al. | 2025-02-18 |
+| [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v2) | Yu Tang et al. | 2025-02-18 |
 | [Image compositing is all you need for data augmentation](http://arxiv.org/abs/2502.13936v1) | Ang Jia Ning Shermaine et al. | 2025-02-19 |
 | [Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting](http://arxiv.org/abs/2502.14525v1) | Yannick Wölker et al. | 2025-02-20 |
 | [Sparsity May Be All You Need: Sparse Random Parameter Adaptation](http://arxiv.org/abs/2502.15975v1) | Jesus Rios et al. | 2025-02-21 |
