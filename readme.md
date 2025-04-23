@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -360,7 +360,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CLEAR: Cross-Transformers with Pre-trained Language Model is All you need for Person Attribute Recognition and Retrieval](http://arxiv.org/abs/2403.06119v2) | Doanh C. Bui et al. | 2024-03-10 |
 | [Attention is all you need for boosting graph convolutional neural network](http://arxiv.org/abs/2403.15419v1) | Yinwei Wu | 2024-03-10 |
 | [Pairwise Comparisons Are All You Need](http://arxiv.org/abs/2403.09746v2) | Nicolas Chahine et al. | 2024-03-13 |
-| [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v2) | Chaoqun Liu et al. | 2024-03-15 |
+| [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](http://arxiv.org/abs/2403.10258v3) | Chaoqun Liu et al. | 2024-03-15 |
 | [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](http://arxiv.org/abs/2403.11202v2) | Kaiyan Chang et al. | 2024-03-17 |
 | [OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System](http://arxiv.org/abs/2403.11536v1) | Chih-Chung Hsu et al. | 2024-03-18 |
 | [Multistep Inverse Is Not All You Need](http://arxiv.org/abs/2403.11940v2) | Alexander Levine et al. | 2024-03-18 |
@@ -491,7 +491,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](http://arxiv.org/abs/2412.03959v1) | Jingzehua Xu et al. | 2024-12-05 |
 | [Guidance is All You Need: Temperature-Guided Reasoning in Large Language Models](http://arxiv.org/abs/2412.06822v1) | Eyad Gomaa et al. | 2024-12-05 |
 | [REL: Working out is all you need](http://arxiv.org/abs/2412.04645v1) | Toby Simonds et al. | 2024-12-05 |
-| [Hyperspectral image fusion, Unsupervised hyperspectral super-resolution, Modality decoupling, Self-supervised learning](http://arxiv.org/abs/2412.04802v2) | Songcheng Du et al. | 2024-12-06 |
 | [Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices](http://arxiv.org/abs/2412.04844v1) | Alberto Marchisio et al. | 2024-12-06 |
 | [Steps are all you need: Rethinking STEM Education with Prompt Engineering](http://arxiv.org/abs/2412.05023v2) | Krishnasai Addala et al. | 2024-12-06 |
 | [Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework](http://arxiv.org/abs/2412.05254v1) | Qiaolin Qin et al. | 2024-12-06 |
@@ -576,6 +575,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Support is All You Need for Certified VAE Training](http://arxiv.org/abs/2504.11831v1) | Changming Xu et al. | 2025-04-16 |
 | [Search is All You Need for Few-shot Anomaly Detection](http://arxiv.org/abs/2504.11895v1) | Qishan Wang et al. | 2025-04-16 |
 | [Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback](http://arxiv.org/abs/2504.12951v1) | Nearchos Potamitis et al. | 2025-04-17 |
+| [One Jump Is All You Need: Short-Cutting Transformers for Early Exit Prediction with One Jump to Fit All Exit Levels](http://arxiv.org/abs/2504.13984v1) | Amrit Diggavi Seshadri | 2025-04-18 |
 
 
 ## FAQ
