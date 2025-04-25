@@ -253,6 +253,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Gradient is All You Need?](http://arxiv.org/abs/2306.09778v1) | Konstantin Riedl et al. | 2023-06-16 |
 | [Textbooks Are All You Need](http://arxiv.org/abs/2306.11644v2) | Suriya Gunasekar et al. | 2023-06-20 |
 | [Randomized Quantization is All You Need for Differential Privacy in Federated Learning](http://arxiv.org/abs/2306.11913v1) | Yeojoon Youn et al. | 2023-06-20 |
+| [CEMSSL: Conditional Embodied Self-Supervised Learning is All You Need for High-precision Multi-solution Inverse Kinematics of Robot Arms](http://arxiv.org/abs/2306.12718v2) | Qu Weiming et al. | 2023-06-22 |
 | [Cross-Validation Is All You Need: A Statistical Approach To Label Noise Estimation](http://arxiv.org/abs/2306.13990v2) | Jianan Chen et al. | 2023-06-24 |
 | [ParameterNet: Parameters Are All You Need](http://arxiv.org/abs/2306.14525v2) | Kai Han et al. | 2023-06-26 |
 | [Positive Label Is All You Need for Multi-Label Classification](http://arxiv.org/abs/2306.16016v3) | Zhixiang Yuan et al. | 2023-06-28 |
@@ -471,7 +472,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Metaheuristics is All You Need](http://arxiv.org/abs/2411.05797v2) | Eliuvish Cuicizion et al. | 2024-10-26 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
-| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v6) | Dizhen Liang | 2024-10-31 |
+| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v7) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
