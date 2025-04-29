@@ -573,7 +573,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Rubric Is All You Need: Enhancing LLM-based Code Evaluation With Question-Specific Rubrics](http://arxiv.org/abs/2503.23989v1) | Aditya Pathak et al. | 2025-03-31 |
 | [All You Need is Sally-Anne: ToM in AI Strongly Supported After Surpassing Tests for 3-Year-Olds](http://arxiv.org/abs/2503.24215v1) | Nitay Alon et al. | 2025-03-31 |
 | [Following Is All You Need: Robot Crowd Navigation Using People As Planners](http://arxiv.org/abs/2504.10828v1) | Yuwen Liao et al. | 2025-04-15 |
-| [Support is All You Need for Certified VAE Training](http://arxiv.org/abs/2504.11831v1) | Changming Xu et al. | 2025-04-16 |
+| [Support is All You Need for Certified VAE Training](http://arxiv.org/abs/2504.11831v2) | Changming Xu et al. | 2025-04-16 |
 | [Search is All You Need for Few-shot Anomaly Detection](http://arxiv.org/abs/2504.11895v1) | Qishan Wang et al. | 2025-04-16 |
 | [Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback](http://arxiv.org/abs/2504.12951v1) | Nearchos Potamitis et al. | 2025-04-17 |
 | [One Jump Is All You Need: Short-Cutting Transformers for Early Exit Prediction with One Jump to Fit All Exit Levels](http://arxiv.org/abs/2504.13984v1) | Amrit Diggavi Seshadri | 2025-04-18 |
