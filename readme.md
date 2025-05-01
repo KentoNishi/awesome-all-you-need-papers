@@ -472,7 +472,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Metaheuristics is All You Need](http://arxiv.org/abs/2411.05797v2) | Eliuvish Cuicizion et al. | 2024-10-26 |
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
-| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v7) | Dizhen Liang | 2024-10-31 |
+| [LSEAttention is All You Need for Time Series Forecasting](http://arxiv.org/abs/2410.23749v8) | Dizhen Liang | 2024-10-31 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
