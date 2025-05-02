@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--04--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -578,6 +578,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback](http://arxiv.org/abs/2504.12951v1) | Nearchos Potamitis et al. | 2025-04-17 |
 | [One Jump Is All You Need: Short-Cutting Transformers for Early Exit Prediction with One Jump to Fit All Exit Levels](http://arxiv.org/abs/2504.13984v1) | Amrit Diggavi Seshadri | 2025-04-18 |
 | [Security Steerability is All You Need](http://arxiv.org/abs/2504.19521v2) | Itay Hazan et al. | 2025-04-28 |
+| [Is Intermediate Fusion All You Need for UAV-based Collaborative Perception?](http://arxiv.org/abs/2504.21774v1) | Jiuwu Hao et al. | 2025-04-30 |
 
 
 ## FAQ
