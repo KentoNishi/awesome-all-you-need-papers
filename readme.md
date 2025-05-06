@@ -524,7 +524,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [NER4all or Context is All You Need: Using LLMs for low-effort, high-performance NER on historical texts. A humanities informed approach](http://arxiv.org/abs/2502.04351v1) | Torsten Hiltmann et al. | 2025-02-04 |
 | [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v3) | Yihua Cheng et al. | 2025-02-06 |
 | [Is attention all you need to solve the correlated electron problem?](http://arxiv.org/abs/2502.05383v2) | Max Geier et al. | 2025-02-07 |
-| [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v2) | Yufeng Gu et al. | 2025-02-11 |
+| [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v3) | Yufeng Gu et al. | 2025-02-11 |
 | [TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v2) | Fanxu Meng et al. | 2025-02-11 |
 | [Intention is All You Need: Refining Your Code from Your Intention](http://arxiv.org/abs/2502.08172v1) | Qi Guo et al. | 2025-02-12 |
 | [Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication](http://arxiv.org/abs/2502.08896v1) | Weicheng Ma et al. | 2025-02-13 |
