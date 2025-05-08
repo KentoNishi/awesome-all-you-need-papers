@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -580,6 +580,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Security Steerability is All You Need](http://arxiv.org/abs/2504.19521v2) | Itay Hazan et al. | 2025-04-28 |
 | [Is Intermediate Fusion All You Need for UAV-based Collaborative Perception?](http://arxiv.org/abs/2504.21774v1) | Jiuwu Hao et al. | 2025-04-30 |
 | [Regression is all you need for medical image translation](http://arxiv.org/abs/2505.02048v2) | Sebastian Rassmann et al. | 2025-05-04 |
+| [Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents](http://arxiv.org/abs/2505.03434v1) | Schaun Wheeler et al. | 2025-05-06 |
 
 
 ## FAQ
