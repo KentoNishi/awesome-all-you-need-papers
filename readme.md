@@ -542,7 +542,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://arxiv.org/abs/2503.02875v1) | Ke Ji et al. | 2025-03-04 |
 | [SoK: Knowledge is All You Need: Accelerating Last Mile Delivery for Automated Provenance-based Intrusion Detection with LLMs](http://arxiv.org/abs/2503.03108v2) | Wenrui Cheng et al. | 2025-03-05 |
 | [Qieemo: Speech Is All You Need in the Emotion Recognition in Conversations](http://arxiv.org/abs/2503.22687v1) | Jinming Chen et al. | 2025-03-05 |
-| [Rethinking Video Super-Resolution: Towards Diffusion-Based Methods without Motion Alignment](http://arxiv.org/abs/2503.03355v4) | Zhihao Zhan et al. | 2025-03-05 |
 | [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v1) | Karthik Barma et al. | 2025-03-05 |
 | [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
 | [Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks](http://arxiv.org/abs/2503.04874v1) | Joan C. Timoneda et al. | 2025-03-06 |
