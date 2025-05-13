@@ -423,7 +423,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models](http://arxiv.org/abs/2407.15886v2) | Zheng Chong et al. | 2024-07-21 |
 | [Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection](http://arxiv.org/abs/2407.15369v1) | Fei Zhou et al. | 2024-07-22 |
 | [Attention Is All You Need But You Don't Need All Of It For Inference of Large Language Models](http://arxiv.org/abs/2407.15516v1) | Georgy Tyukin et al. | 2024-07-22 |
-| [DC is all you need: describing ReLU from a signal processing standpoint](http://arxiv.org/abs/2407.16556v1) | Christodoulos Kechris et al. | 2024-07-23 |
+| [DC is all you need: describing ReLU from a signal processing standpoint](http://arxiv.org/abs/2407.16556v2) | Christodoulos Kechris et al. | 2024-07-23 |
 | [HDL-GPT: High-Quality HDL is All You Need](http://arxiv.org/abs/2407.18423v1) | Bhuvnesh Kumar et al. | 2024-07-25 |
 | [Downstream bias mitigation is all you need](http://arxiv.org/abs/2408.00612v2) | Arkadeep Baksi et al. | 2024-08-01 |
 | [Attention is all you need for an improved CNN-based flash flood susceptibility modeling. The case of the ungauged Rheraya watershed, Morocco](http://arxiv.org/abs/2408.02692v1) | Akram Elghouat et al. | 2024-08-03 |
@@ -488,7 +488,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps](http://arxiv.org/abs/2411.15236v1) | Jeeyung Kim et al. | 2024-11-21 |
 | [Fairness And Performance In Harmony: Data Debiasing Is All You Need](http://arxiv.org/abs/2411.17374v1) | Junhua Liu et al. | 2024-11-26 |
 | [Text Is Not All You Need: Multimodal Prompting Helps LLMs Understand Humor](http://arxiv.org/abs/2412.05315v1) | Ashwin Baluja | 2024-12-01 |
-| [[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster](http://arxiv.org/abs/2412.01818v1) | Qizhe Zhang et al. | 2024-12-02 |
+| [Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs](http://arxiv.org/abs/2412.01818v2) | Qizhe Zhang et al. | 2024-12-02 |
 | [Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](http://arxiv.org/abs/2412.03959v1) | Jingzehua Xu et al. | 2024-12-05 |
 | [Guidance is All You Need: Temperature-Guided Reasoning in Large Language Models](http://arxiv.org/abs/2412.06822v1) | Eyad Gomaa et al. | 2024-12-05 |
 | [REL: Working out is all you need](http://arxiv.org/abs/2412.04645v1) | Toby Simonds et al. | 2024-12-05 |
@@ -576,7 +576,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Search is All You Need for Few-shot Anomaly Detection](http://arxiv.org/abs/2504.11895v2) | Qishan Wang et al. | 2025-04-16 |
 | [Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback](http://arxiv.org/abs/2504.12951v1) | Nearchos Potamitis et al. | 2025-04-17 |
 | [One Jump Is All You Need: Short-Cutting Transformers for Early Exit Prediction with One Jump to Fit All Exit Levels](http://arxiv.org/abs/2504.13984v1) | Amrit Diggavi Seshadri | 2025-04-18 |
-| [Security Steerability is All You Need](http://arxiv.org/abs/2504.19521v2) | Itay Hazan et al. | 2025-04-28 |
+| [Security Steerability is All You Need](http://arxiv.org/abs/2504.19521v3) | Itay Hazan et al. | 2025-04-28 |
 | [Is Intermediate Fusion All You Need for UAV-based Collaborative Perception?](http://arxiv.org/abs/2504.21774v1) | Jiuwu Hao et al. | 2025-04-30 |
 | [Regression is all you need for medical image translation](http://arxiv.org/abs/2505.02048v2) | Sebastian Rassmann et al. | 2025-05-04 |
 | [Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents](http://arxiv.org/abs/2505.03434v1) | Schaun Wheeler et al. | 2025-05-06 |
