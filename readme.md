@@ -438,7 +438,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is Group Actions: Advancing Robust Autonomous Planning](http://arxiv.org/abs/2408.17295v1) | Vincenzo Basco | 2024-08-30 |
 | [Dreaming is All You Need](http://arxiv.org/abs/2409.01633v3) | Mingze Ni et al. | 2024-09-03 |
 | [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v2) | Shiwen Ni et al. | 2024-09-03 |
-| [One Homography is All You Need: IMM-based Joint Homography and Multiple Object State Estimation](http://arxiv.org/abs/2409.02562v2) | Paul Johannes Claasen et al. | 2024-09-04 |
+| [One Homography is All You Need: IMM-based Joint Homography and Multiple Object State Estimation](http://arxiv.org/abs/2409.02562v3) | Paul Johannes Claasen et al. | 2024-09-04 |
 | [100 instances is all you need: predicting the success of a new LLM on unseen data by testing on a few instances](http://arxiv.org/abs/2409.03563v1) | Lorenzo Pacchiardi et al. | 2024-09-05 |
 | [Inference is All You Need: Self Example Retriever for Cross-domain Dialogue State Tracking with ChatGPT](http://arxiv.org/abs/2409.06243v1) | Jihyun Lee et al. | 2024-09-10 |
 | [Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](http://arxiv.org/abs/2409.07433v1) | Daniele Malitesta et al. | 2024-09-11 |
