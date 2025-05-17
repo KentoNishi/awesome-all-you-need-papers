@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--15-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -582,6 +582,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Sparsity is All You Need: Rethinking Biological Pathway-Informed Approaches in Deep Learning](http://arxiv.org/abs/2505.04300v1) | Isabella Caranzano et al. | 2025-05-07 |
 | [Attention Is Not All You Need: The Importance of Feedforward Networks in Transformer Models](http://arxiv.org/abs/2505.06633v1) | Isaac Gerber | 2025-05-10 |
 | [An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits](http://arxiv.org/abs/2505.08823v1) | Cody Steinmetz et al. | 2025-05-12 |
+| [All You Need Is Synthetic Task Augmentation](http://arxiv.org/abs/2505.10120v1) | Guillaume Godin | 2025-05-15 |
 
 
 ## FAQ
