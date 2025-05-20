@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -583,6 +583,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention Is Not All You Need: The Importance of Feedforward Networks in Transformer Models](http://arxiv.org/abs/2505.06633v1) | Isaac Gerber | 2025-05-10 |
 | [An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits](http://arxiv.org/abs/2505.08823v1) | Cody Steinmetz et al. | 2025-05-12 |
 | [All You Need Is Synthetic Task Augmentation](http://arxiv.org/abs/2505.10120v1) | Guillaume Godin | 2025-05-15 |
+| [FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks](http://arxiv.org/abs/2505.10949v1) | Chenhui Xu et al. | 2025-05-16 |
+| [Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v1) | Vladimír Boža et al. | 2025-05-16 |
 
 
 ## FAQ
