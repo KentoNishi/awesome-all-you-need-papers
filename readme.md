@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -512,7 +512,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Element-wise Attention Is All You Need](http://arxiv.org/abs/2501.05730v1) | Guoxin Feng | 2025-01-10 |
 | [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v3) | Yifan Zhang et al. | 2025-01-11 |
 | [Common Sense Is All You Need](http://arxiv.org/abs/2501.06642v1) | Hugo Latapie | 2025-01-11 |
-| [DisCoPatch: Batch Statistics Are All You Need For OOD Detection, But Only If You Can Trust Them](http://arxiv.org/abs/2501.08005v1) | Francisco Caetano et al. | 2025-01-14 |
+| [DisCoPatch: Batch Statistics Are All You Need For OOD Detection, But Only If You Can Trust Them](http://arxiv.org/abs/2501.08005v2) | Francisco Caetano et al. | 2025-01-14 |
 | [Attention is All You Need Until You Need Retention](http://arxiv.org/abs/2501.09166v1) | M. Murat Yaslioglu | 2025-01-15 |
 | [Mosaic-skeleton approximation is all you need for Smoluchowski equations](http://arxiv.org/abs/2501.10206v1) | Roman R. Dyachenko et al. | 2025-01-17 |
 | [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v5) | Yeounoh Chung et al. | 2025-01-21 |
@@ -533,7 +533,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v2) | Yu Tang et al. | 2025-02-18 |
 | [Image compositing is all you need for data augmentation](http://arxiv.org/abs/2502.13936v1) | Ang Jia Ning Shermaine et al. | 2025-02-19 |
 | [Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting](http://arxiv.org/abs/2502.14525v1) | Yannick Wölker et al. | 2025-02-20 |
-| [Sparsity May Be All You Need: Sparse Random Parameter Adaptation](http://arxiv.org/abs/2502.15975v1) | Jesus Rios et al. | 2025-02-21 |
+| [Sparsity May Be All You Need: Sparse Random Parameter Adaptation](http://arxiv.org/abs/2502.15975v2) | Jesus Rios et al. | 2025-02-21 |
 | [All You Need for Counterfactual Explainability Is Principled and Reliable Estimate of Aleatoric and Epistemic Uncertainty](http://arxiv.org/abs/2502.17007v1) | Kacper Sokol et al. | 2025-02-24 |
 | [BEYONDWORDS is All You Need: Agentic Generative AI based Social Media Themes Extractor](http://arxiv.org/abs/2503.01880v1) | Mohammed-Khalil Ghali et al. | 2025-02-26 |
 | [Memory and Bandwidth are All You Need for Fully Sharded Data Parallel](http://arxiv.org/abs/2504.03655v1) | Jiangtao Wang et al. | 2025-03-04 |
@@ -586,6 +586,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks](http://arxiv.org/abs/2505.10949v1) | Chenhui Xu et al. | 2025-05-16 |
 | [Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v1) | Vladimír Boža et al. | 2025-05-16 |
 | [Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1) | Krzysztof Lebioda et al. | 2025-05-19 |
+| [Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1) | Pavel Rumiantsev et al. | 2025-05-19 |
+| [Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis](http://arxiv.org/abs/2505.13768v1) | Ruiquan Huang et al. | 2025-05-19 |
+| [Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training](http://arxiv.org/abs/2505.14681v1) | Mengru Wang et al. | 2025-05-20 |
 
 
 ## FAQ
