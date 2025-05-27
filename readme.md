@@ -518,7 +518,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v5) | Yeounoh Chung et al. | 2025-01-21 |
 | [Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant](http://arxiv.org/abs/2501.17546v1) | Gaole He et al. | 2025-01-29 |
 | [Anatomy Might Be All You Need: Forecasting What to Do During Surgery](http://arxiv.org/abs/2501.18011v2) | Gary Sarwin et al. | 2025-01-29 |
-| [Detection Is All You Need: A Feasible Optimal Prior-Free Black-Box Approach For Piecewise Stationary Bandits](http://arxiv.org/abs/2501.19401v1) | Argyrios Gerogiannis et al. | 2025-01-31 |
+| [DAL: A Practical Prior-Free Black-Box Framework for Non-Stationary Bandit Environments](http://arxiv.org/abs/2501.19401v2) | Argyrios Gerogiannis et al. | 2025-01-31 |
 | [Reformulation is All You Need: Addressing Malicious Text Features in DNNs](http://arxiv.org/abs/2502.00652v1) | Yi Jiang et al. | 2025-02-02 |
 | [NER4all or Context is All You Need: Using LLMs for low-effort, high-performance NER on historical texts. A humanities informed approach](http://arxiv.org/abs/2502.04351v1) | Torsten Hiltmann et al. | 2025-02-04 |
 | [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v3) | Yihua Cheng et al. | 2025-02-06 |
@@ -585,15 +585,16 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Synthetic Task Augmentation](http://arxiv.org/abs/2505.10120v1) | Guillaume Godin | 2025-05-15 |
 | [FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks](http://arxiv.org/abs/2505.10949v1) | Chenhui Xu et al. | 2025-05-16 |
 | [Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v1) | Vladimír Boža et al. | 2025-05-16 |
+| [Synthetic Data RL: Task Definition Is All You Need](http://arxiv.org/abs/2505.17063v1) | Yiduo Guo et al. | 2025-05-18 |
 | [Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1) | Krzysztof Lebioda et al. | 2025-05-19 |
 | [Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1) | Pavel Rumiantsev et al. | 2025-05-19 |
-| [Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis](http://arxiv.org/abs/2505.13768v1) | Ruiquan Huang et al. | 2025-05-19 |
+| [Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis](http://arxiv.org/abs/2505.13768v2) | Ruiquan Huang et al. | 2025-05-19 |
 | [Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training](http://arxiv.org/abs/2505.14681v1) | Mengru Wang et al. | 2025-05-20 |
 | [Prolonged Reasoning Is Not All You Need: Certainty-Based Adaptive Routing for Efficient LLM/MLLM Reasoning](http://arxiv.org/abs/2505.15154v1) | Jinghui Lu et al. | 2025-05-21 |
 | [Is (Selective) Round-To-Nearest Quantization All You Need?](http://arxiv.org/abs/2505.15909v1) | Alex Kogan | 2025-05-21 |
 | [All You Need is "Leet": Evading Hate-speech Detection AI](http://arxiv.org/abs/2505.16263v1) | Sampanna Yashwant Kahu et al. | 2025-05-22 |
 | [TensorAR: Refinement is All You Need in Autoregressive Image Generation](http://arxiv.org/abs/2505.16324v1) | Cheng Cheng et al. | 2025-05-22 |
-| [Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation](http://arxiv.org/abs/2505.16752v1) | Hao Guo et al. | 2025-05-22 |
+| [Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation](http://arxiv.org/abs/2505.16752v2) | Hao Guo et al. | 2025-05-22 |
 
 
 ## FAQ
