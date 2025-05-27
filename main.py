@@ -51,12 +51,11 @@ table = sorted(table, key=lambda x: x["Date"])
 
 with open("template.md", "r", encoding="utf8") as file:
     data = file.read().replace("[PAPER LIST]", Tomark.table(table))
-with open("readme.md", "r", encoding="utf8") as file:
-    with open("readme.md", "w", encoding="utf8") as f:
-        f.writelines(
-            data.replace(
-                "DATEHERE",
-                table[-1]["Date"].replace("-", "--")
-                # str(datetime.today()).split(" ")[0].replace("-", "--")
-            )
+with open("readme.md", "w", encoding="utf8") as f:
+    f.writelines(
+        data.replace(
+            "DATEHERE",
+            table[-1]["Date"].replace("-", "--")
+            # str(datetime.today()).split(" ")[0].replace("-", "--")
         )
+    )
