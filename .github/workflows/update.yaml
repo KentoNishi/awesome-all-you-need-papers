@@ -25,4 +25,4 @@ jobs:
         with:
           message: 'Updated paper list'
           add: "readme.md"
-          default_author: github_actor
+          default_author: github_actions
