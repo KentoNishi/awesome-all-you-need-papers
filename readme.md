@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -597,6 +597,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes](http://arxiv.org/abs/2505.19087v1) | Itamar Harel et al. | 2025-05-25 |
 | [Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations](http://arxiv.org/abs/2505.20201v2) | Mohit Chandra et al. | 2025-05-26 |
 | [Is Hyperbolic Space All You Need for Medical Anomaly Detection?](http://arxiv.org/abs/2505.21228v1) | Alvaro Gonzalez-Jimenez et al. | 2025-05-27 |
+| [A Descriptor Is All You Need: Accurate Machine Learning of Nonadiabatic Coupling Vectors](http://arxiv.org/abs/2505.23344v1) | Jakub Martinka et al. | 2025-05-29 |
+| [Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need](http://arxiv.org/abs/2505.23744v1) | Qiang Wang et al. | 2025-05-29 |
 
 
 ## FAQ
