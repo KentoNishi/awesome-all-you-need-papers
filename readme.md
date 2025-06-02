@@ -374,7 +374,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
 | [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
 | [Self-supervised Dataset Distillation: A Good Compression Is All You Need](http://arxiv.org/abs/2404.07976v1) | Muxin Zhou et al. | 2024-04-11 |
-| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v6) | David M. Cerna et al. | 2024-04-16 |
+| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v7) | David M. Cerna et al. | 2024-04-16 |
 | [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v2) | Junyu Xie et al. | 2024-04-18 |
 | [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images](http://arxiv.org/abs/2404.12922v1) | Jacopo Bonato et al. | 2024-04-19 |
 | [All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs](http://arxiv.org/abs/2404.15261v3) | Sawyer Robertson et al. | 2024-04-23 |
@@ -555,7 +555,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need to Know About Training Image Retrieval Models](http://arxiv.org/abs/2503.13045v1) | Gabriele Berton et al. | 2025-03-17 |
 | [Is Discretization Fusion All You Need for Collaborative Perception?](http://arxiv.org/abs/2503.13946v1) | Kang Yang et al. | 2025-03-18 |
 | [Revisiting End-To-End Sparse Autoencoder Training: A Short Finetune Is All You Need](http://arxiv.org/abs/2503.17272v2) | Adam Karvonen | 2025-03-21 |
-| [NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1) | Alex Reneau et al. | 2025-03-21 |
+| [NdLinear: Don't Flatten! Building Superior Neural Architectures by Preserving N-D Structure](http://arxiv.org/abs/2503.17353v2) | Alex Reneau et al. | 2025-03-21 |
 | [Filtered Rayleigh-Ritz is all you need](http://arxiv.org/abs/2503.17357v1) | Ryan Abbott et al. | 2025-03-21 |
 | [Is Reuse All You Need? A Systematic Comparison of Regular Expression Composition Strategies](http://arxiv.org/abs/2503.20579v1) | Berk Çakar et al. | 2025-03-26 |
 | [Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data](http://arxiv.org/abs/2503.20749v5) | Yuxuan Lu et al. | 2025-03-26 |
