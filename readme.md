@@ -434,7 +434,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer](http://arxiv.org/abs/2408.10457v1) | Md Fahim Anjum | 2024-08-19 |
 | [GenFormer -- Generated Images are All You Need to Improve Robustness of Transformers on Small Datasets](http://arxiv.org/abs/2408.14131v2) | Sven Oehri et al. | 2024-08-26 |
 | [Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need](http://arxiv.org/abs/2408.15997v1) | Sijia Peng et al. | 2024-08-28 |
-| [Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation](http://arxiv.org/abs/2408.16506v1) | Xiaoyu Jin et al. | 2024-08-29 |
+| [Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation](http://arxiv.org/abs/2408.16506v2) | Xiaoyu Jin et al. | 2024-08-29 |
 | [All You Need is Group Actions: Advancing Robust Autonomous Planning](http://arxiv.org/abs/2408.17295v1) | Vincenzo Basco | 2024-08-30 |
 | [Dreaming is All You Need](http://arxiv.org/abs/2409.01633v3) | Mingze Ni et al. | 2024-09-03 |
 | [Training on the Benchmark Is Not All You Need](http://arxiv.org/abs/2409.01790v2) | Shiwen Ni et al. | 2024-09-03 |
@@ -555,7 +555,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need to Know About Training Image Retrieval Models](http://arxiv.org/abs/2503.13045v1) | Gabriele Berton et al. | 2025-03-17 |
 | [Is Discretization Fusion All You Need for Collaborative Perception?](http://arxiv.org/abs/2503.13946v1) | Kang Yang et al. | 2025-03-18 |
 | [Revisiting End-To-End Sparse Autoencoder Training: A Short Finetune Is All You Need](http://arxiv.org/abs/2503.17272v2) | Adam Karvonen | 2025-03-21 |
-| [NdLinear: Don't Flatten! Building Superior Neural Architectures by Preserving N-D Structure](http://arxiv.org/abs/2503.17353v2) | Alex Reneau et al. | 2025-03-21 |
 | [Filtered Rayleigh-Ritz is all you need](http://arxiv.org/abs/2503.17357v1) | Ryan Abbott et al. | 2025-03-21 |
 | [Is Reuse All You Need? A Systematic Comparison of Regular Expression Composition Strategies](http://arxiv.org/abs/2503.20579v1) | Berk Çakar et al. | 2025-03-26 |
 | [Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data](http://arxiv.org/abs/2503.20749v5) | Yuxuan Lu et al. | 2025-03-26 |
