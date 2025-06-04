@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--05--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--06--03-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -351,7 +351,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Two-shot All You Need? A Label-efficient Approach for Video Segmentation in Breast Ultrasound](http://arxiv.org/abs/2402.04921v2) | Jiajun Zeng et al. | 2024-02-07 |
 | [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](http://arxiv.org/abs/2402.06053v1) | Thomas Sandholm et al. | 2024-02-08 |
 | [SMC Is All You Need: Parallel Strong Scaling](http://arxiv.org/abs/2402.06173v2) | Xinzhu Liang et al. | 2024-02-09 |
-| [Grace Period is All You Need: Individual Fairness without Revenue Loss in Revenue Management](http://arxiv.org/abs/2402.08533v2) | Patrick Jaillet et al. | 2024-02-13 |
+| [Grace Period is All You Need: Individual Fairness without Revenue Loss in Revenue Management](http://arxiv.org/abs/2402.08533v3) | Patrick Jaillet et al. | 2024-02-13 |
 | [Answer is All You Need: Instruction-following Text Embedding via Answering the Question](http://arxiv.org/abs/2402.09642v1) | Letian Peng et al. | 2024-02-15 |
 | [Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks](http://arxiv.org/abs/2402.09874v1) | Álvaro Huertas-García et al. | 2024-02-15 |
 | [Quantum linear algebra is all you need for Transformer architectures](http://arxiv.org/abs/2402.16714v2) | Naixu Guo et al. | 2024-02-26 |
@@ -542,7 +542,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v1) | Karthik Barma et al. | 2025-03-05 |
 | [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
 | [Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks](http://arxiv.org/abs/2503.04874v1) | Joan C. Timoneda et al. | 2025-03-06 |
-| [Slim attention: cut your context memory in half without loss of accuracy -- K-cache is all you need for MHA](http://arxiv.org/abs/2503.05840v1) | Nils Graef et al. | 2025-03-07 |
+| [Slim attention: cut your context memory in half without loss -- K-cache is all you need for MHA](http://arxiv.org/abs/2503.05840v2) | Nils Graef et al. | 2025-03-07 |
 | [Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems](http://arxiv.org/abs/2503.06238v1) | Kibum Kim et al. | 2025-03-08 |
 | [Global Context Is All You Need for Parallel Efficient Tractography Parcellation](http://arxiv.org/abs/2503.07104v1) | Valentin von Bornhaupt et al. | 2025-03-10 |
 | [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](http://arxiv.org/abs/2503.08741v3) | Letian Zhang et al. | 2025-03-11 |
@@ -579,6 +579,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Procedural Memory Is Not All You Need: Bridging Cognitive Gaps in LLM-Based Agents](http://arxiv.org/abs/2505.03434v1) | Schaun Wheeler et al. | 2025-05-06 |
 | [Sparsity is All You Need: Rethinking Biological Pathway-Informed Approaches in Deep Learning](http://arxiv.org/abs/2505.04300v1) | Isabella Caranzano et al. | 2025-05-07 |
 | [Attention Is Not All You Need: The Importance of Feedforward Networks in Transformer Models](http://arxiv.org/abs/2505.06633v1) | Isaac Gerber | 2025-05-10 |
+| [Matrix Is All You Need](http://arxiv.org/abs/2506.01966v1) | Yuzhou Zhu | 2025-05-11 |
 | [An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits](http://arxiv.org/abs/2505.08823v1) | Cody Steinmetz et al. | 2025-05-12 |
 | [All You Need Is Synthetic Task Augmentation](http://arxiv.org/abs/2505.10120v1) | Guillaume Godin | 2025-05-15 |
 | [FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks](http://arxiv.org/abs/2505.10949v1) | Chenhui Xu et al. | 2025-05-16 |
@@ -598,6 +599,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Hyperbolic Space All You Need for Medical Anomaly Detection?](http://arxiv.org/abs/2505.21228v1) | Alvaro Gonzalez-Jimenez et al. | 2025-05-27 |
 | [A Descriptor Is All You Need: Accurate Machine Learning of Nonadiabatic Coupling Vectors](http://arxiv.org/abs/2505.23344v1) | Jakub Martinka et al. | 2025-05-29 |
 | [Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need](http://arxiv.org/abs/2505.23744v1) | Qiang Wang et al. | 2025-05-29 |
+| [Uni-LoRA: One Vector is All You Need](http://arxiv.org/abs/2506.00799v1) | Kaiyang Li et al. | 2025-06-01 |
+| [S\"oze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale](http://arxiv.org/abs/2506.00834v1) | Weitao Wang et al. | 2025-06-01 |
+| [All You Need Is Binary Search! A Practical View on Lightweight Database Indexing on GPUs](http://arxiv.org/abs/2506.01576v1) | Justus Henneberg et al. | 2025-06-02 |
+| [Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective](http://arxiv.org/abs/2506.02553v1) | Shenghua He et al. | 2025-06-03 |
 
 
 ## FAQ
