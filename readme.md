@@ -600,7 +600,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Descriptor Is All You Need: Accurate Machine Learning of Nonadiabatic Coupling Vectors](http://arxiv.org/abs/2505.23344v1) | Jakub Martinka et al. | 2025-05-29 |
 | [Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need](http://arxiv.org/abs/2505.23744v1) | Qiang Wang et al. | 2025-05-29 |
 | [Uni-LoRA: One Vector is All You Need](http://arxiv.org/abs/2506.00799v1) | Kaiyang Li et al. | 2025-06-01 |
-| [S\"oze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale](http://arxiv.org/abs/2506.00834v1) | Weitao Wang et al. | 2025-06-01 |
+| [S\"oze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale](http://arxiv.org/abs/2506.00834v2) | Weitao Wang et al. | 2025-06-01 |
 | [All You Need Is Binary Search! A Practical View on Lightweight Database Indexing on GPUs](http://arxiv.org/abs/2506.01576v1) | Justus Henneberg et al. | 2025-06-02 |
 | [Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective](http://arxiv.org/abs/2506.02553v1) | Shenghua He et al. | 2025-06-03 |
 
