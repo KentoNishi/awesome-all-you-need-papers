@@ -557,7 +557,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Revisiting End-To-End Sparse Autoencoder Training: A Short Finetune Is All You Need](http://arxiv.org/abs/2503.17272v2) | Adam Karvonen | 2025-03-21 |
 | [Filtered Rayleigh-Ritz is all you need](http://arxiv.org/abs/2503.17357v1) | Ryan Abbott et al. | 2025-03-21 |
 | [Is Reuse All You Need? A Systematic Comparison of Regular Expression Composition Strategies](http://arxiv.org/abs/2503.20579v1) | Berk Çakar et al. | 2025-03-26 |
-| [Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data](http://arxiv.org/abs/2503.20749v5) | Yuxuan Lu et al. | 2025-03-26 |
+| [Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data](http://arxiv.org/abs/2503.20749v6) | Yuxuan Lu et al. | 2025-03-26 |
 | [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](http://arxiv.org/abs/2503.21003v1) | Tai D. Nguyen et al. | 2025-03-26 |
 | [One Snapshot is All You Need: A Generalized Method for mmWave Signal Generation](http://arxiv.org/abs/2503.21122v1) | Teng Huang et al. | 2025-03-27 |
 | [Unsupervised Real-World Denoising: Sparsity is All You Need](http://arxiv.org/abs/2503.21377v1) | Hamadi Chihaoui et al. | 2025-03-27 |
