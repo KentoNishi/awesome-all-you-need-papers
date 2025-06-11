@@ -603,7 +603,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [S\"oze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale](http://arxiv.org/abs/2506.00834v2) | Weitao Wang et al. | 2025-06-01 |
 | [All You Need Is Binary Search! A Practical View on Lightweight Database Indexing on GPUs](http://arxiv.org/abs/2506.01576v1) | Justus Henneberg et al. | 2025-06-02 |
 | [Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective](http://arxiv.org/abs/2506.02553v1) | Shenghua He et al. | 2025-06-03 |
-| [Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design](http://arxiv.org/abs/2506.04734v1) | Lin Sun et al. | 2025-06-05 |
+| [Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design](http://arxiv.org/abs/2506.04734v2) | Lin Sun et al. | 2025-06-05 |
+| [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](http://arxiv.org/abs/2506.06395v2) | Pengyi Li et al. | 2025-06-05 |
 | [Few Labels are all you need: A Weakly Supervised Framework for Appliance Localization in Smart-Meter Series](http://arxiv.org/abs/2506.05895v1) | Adrien Petralia et al. | 2025-06-06 |
 
 
