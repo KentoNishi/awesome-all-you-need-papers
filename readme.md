@@ -492,9 +492,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Guidance is All You Need: Temperature-Guided Reasoning in Large Language Models](http://arxiv.org/abs/2412.06822v1) | Eyad Gomaa et al. | 2024-12-05 |
 | [REL: Working out is all you need](http://arxiv.org/abs/2412.04645v1) | Toby Simonds et al. | 2024-12-05 |
 | [Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices](http://arxiv.org/abs/2412.04844v1) | Alberto Marchisio et al. | 2024-12-06 |
-| [Steps are all you need: Rethinking STEM Education with Prompt Engineering](http://arxiv.org/abs/2412.05023v2) | Krishnasai Addala et al. | 2024-12-06 |
+| [Steps are all you need: Rethinking STEM Education with Prompt Engineering](http://arxiv.org/abs/2412.05023v3) | Krishnasai Addala et al. | 2024-12-06 |
 | [Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework](http://arxiv.org/abs/2412.05254v1) | Qiaolin Qin et al. | 2024-12-06 |
-| [Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering](http://arxiv.org/abs/2412.05453v2) | Krishnasai Addala et al. | 2024-12-06 |
+| [Knowledge Graphs are all you need: Leveraging KGs in Physics Question Answering](http://arxiv.org/abs/2412.05453v3) | Krishnasai Addala et al. | 2024-12-06 |
 | [[MASK] is All You Need](http://arxiv.org/abs/2412.06787v2) | Vincent Tao Hu et al. | 2024-12-09 |
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v2) | Junjie Zhou et al. | 2024-12-12 |
@@ -515,7 +515,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [DisCoPatch: Batch Statistics Are All You Need For OOD Detection, But Only If You Can Trust Them](http://arxiv.org/abs/2501.08005v2) | Francisco Caetano et al. | 2025-01-14 |
 | [Attention is All You Need Until You Need Retention](http://arxiv.org/abs/2501.09166v1) | M. Murat Yaslioglu | 2025-01-15 |
 | [Mosaic-skeleton approximation is all you need for Smoluchowski equations](http://arxiv.org/abs/2501.10206v1) | Roman R. Dyachenko et al. | 2025-01-17 |
-| [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v5) | Yeounoh Chung et al. | 2025-01-21 |
+| [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v6) | Yeounoh Chung et al. | 2025-01-21 |
 | [Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant](http://arxiv.org/abs/2501.17546v1) | Gaole He et al. | 2025-01-29 |
 | [Anatomy Might Be All You Need: Forecasting What to Do During Surgery](http://arxiv.org/abs/2501.18011v2) | Gary Sarwin et al. | 2025-01-29 |
 | [Reformulation is All You Need: Addressing Malicious Text Features in DNNs](http://arxiv.org/abs/2502.00652v1) | Yi Jiang et al. | 2025-02-02 |
@@ -604,7 +604,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Binary Search! A Practical View on Lightweight Database Indexing on GPUs](http://arxiv.org/abs/2506.01576v1) | Justus Henneberg et al. | 2025-06-02 |
 | [Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective](http://arxiv.org/abs/2506.02553v1) | Shenghua He et al. | 2025-06-03 |
 | [Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design](http://arxiv.org/abs/2506.04734v2) | Lin Sun et al. | 2025-06-05 |
-| [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](http://arxiv.org/abs/2506.06395v2) | Pengyi Li et al. | 2025-06-05 |
+| [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](http://arxiv.org/abs/2506.06395v3) | Pengyi Li et al. | 2025-06-05 |
 | [Few Labels are all you need: A Weakly Supervised Framework for Appliance Localization in Smart-Meter Series](http://arxiv.org/abs/2506.05895v1) | Adrien Petralia et al. | 2025-06-06 |
 
 
