@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--06--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--06--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -487,6 +487,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Signformer is all you need: Towards Edge AI for Sign Language](http://arxiv.org/abs/2411.12901v1) | Eta Yang | 2024-11-19 |
 | [Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps](http://arxiv.org/abs/2411.15236v1) | Jeeyung Kim et al. | 2024-11-21 |
 | [Fairness And Performance In Harmony: Data Debiasing Is All You Need](http://arxiv.org/abs/2411.17374v1) | Junhua Liu et al. | 2024-11-26 |
+| [Is Integer Linear Programming All You Need for Deletion Propagation? A Unified and Practical Approach for Generalized Deletion Propagation](http://arxiv.org/abs/2411.17603v2) | Neha Makhija et al. | 2024-11-26 |
 | [Text Is Not All You Need: Multimodal Prompting Helps LLMs Understand Humor](http://arxiv.org/abs/2412.05315v1) | Ashwin Baluja | 2024-12-01 |
 | [Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?](http://arxiv.org/abs/2412.03959v1) | Jingzehua Xu et al. | 2024-12-05 |
 | [Guidance is All You Need: Temperature-Guided Reasoning in Large Language Models](http://arxiv.org/abs/2412.06822v1) | Eyad Gomaa et al. | 2024-12-05 |
@@ -526,7 +527,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v5) | Fanxu Meng et al. | 2025-02-11 |
 | [Intention is All You Need: Refining Your Code from Your Intention](http://arxiv.org/abs/2502.08172v1) | Qi Guo et al. | 2025-02-12 |
 | [Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication](http://arxiv.org/abs/2502.08896v1) | Weicheng Ma et al. | 2025-02-13 |
-| [Distraction is All You Need for Multimodal Large Language Model Jailbreaking](http://arxiv.org/abs/2502.10794v1) | Zuopeng Yang et al. | 2025-02-15 |
+| [Distraction is All You Need for Multimodal Large Language Model Jailbreaking](http://arxiv.org/abs/2502.10794v2) | Zuopeng Yang et al. | 2025-02-15 |
 | [Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs](http://arxiv.org/abs/2502.10858v2) | Zongqian Wu et al. | 2025-02-15 |
 | [OCT Data is All You Need: How Vision Transformers with and without Pre-training Benefit Imaging](http://arxiv.org/abs/2502.12379v1) | Zihao Han et al. | 2025-02-17 |
 | [Pricing is All You Need to Improve Traffic Routing](http://arxiv.org/abs/2502.13077v2) | Yu Tang et al. | 2025-02-18 |
@@ -584,7 +585,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits](http://arxiv.org/abs/2505.08823v1) | Cody Steinmetz et al. | 2025-05-12 |
 | [All You Need Is Synthetic Task Augmentation](http://arxiv.org/abs/2505.10120v1) | Guillaume Godin | 2025-05-15 |
 | [FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks](http://arxiv.org/abs/2505.10949v1) | Chenhui Xu et al. | 2025-05-16 |
-| [Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v1) | Vladimír Boža et al. | 2025-05-16 |
+| [Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v2) | Vladimír Boža et al. | 2025-05-16 |
 | [Synthetic Data RL: Task Definition Is All You Need](http://arxiv.org/abs/2505.17063v1) | Yiduo Guo et al. | 2025-05-18 |
 | [Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1) | Krzysztof Lebioda et al. | 2025-05-19 |
 | [Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1) | Pavel Rumiantsev et al. | 2025-05-19 |
@@ -607,6 +608,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design](http://arxiv.org/abs/2506.04734v2) | Lin Sun et al. | 2025-06-05 |
 | [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](http://arxiv.org/abs/2506.06395v3) | Pengyi Li et al. | 2025-06-05 |
 | [Few Labels are all you need: A Weakly Supervised Framework for Appliance Localization in Smart-Meter Series](http://arxiv.org/abs/2506.05895v1) | Adrien Petralia et al. | 2025-06-06 |
+| [SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction](http://arxiv.org/abs/2506.12793v1) | Wenhao Shen et al. | 2025-06-15 |
+| [No-Regret Learning Under Adversarial Resource Constraints: A Spending Plan Is All You Need!](http://arxiv.org/abs/2506.13244v2) | Francesco Emanuele Stradi et al. | 2025-06-16 |
 
 
 ## FAQ
