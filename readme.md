@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--06--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--06--17-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -609,7 +609,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](http://arxiv.org/abs/2506.06395v3) | Pengyi Li et al. | 2025-06-05 |
 | [Few Labels are all you need: A Weakly Supervised Framework for Appliance Localization in Smart-Meter Series](http://arxiv.org/abs/2506.05895v1) | Adrien Petralia et al. | 2025-06-06 |
 | [SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction](http://arxiv.org/abs/2506.12793v1) | Wenhao Shen et al. | 2025-06-15 |
-| [No-Regret Learning Under Adversarial Resource Constraints: A Spending Plan Is All You Need!](http://arxiv.org/abs/2506.13244v2) | Francesco Emanuele Stradi et al. | 2025-06-16 |
+| [No-Regret Learning Under Adversarial Resource Constraints: A Spending Plan Is All You Need!](http://arxiv.org/abs/2506.13244v3) | Francesco Emanuele Stradi et al. | 2025-06-16 |
+| [Is Selection All You Need in Differential Evolution?](http://arxiv.org/abs/2506.14425v1) | Tomofumi Kitamura et al. | 2025-06-17 |
 
 
 ## FAQ
