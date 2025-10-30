@@ -25,7 +25,7 @@ search = arxiv.Search(
 
 table = []
 
-for result in search.get():
+for result in arxiv.Client().results(search):
     etal = " et al." if len(result.authors) > 1 else ""
     if any([s.startswith("cs") for s in result.categories]):
         table.append(
