@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--10--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--11--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -673,6 +673,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
 | [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Decoder-Only Transformers](http://arxiv.org/abs/2510.23912v2) | Marko Karbevski et al. | 2025-10-27 |
 | [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v1) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
+| [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v1) | Rick van der Heijden | 2025-11-04 |
+| [Block Rotation is All You Need for MXFP4 Quantization](http://arxiv.org/abs/2511.04214v1) | Yuantian Shao et al. | 2025-11-06 |
 
 
 ## FAQ
