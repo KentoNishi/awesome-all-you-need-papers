@@ -524,7 +524,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation](http://arxiv.org/abs/2502.04074v3) | Yihua Cheng et al. | 2025-02-06 |
 | [Is attention all you need to solve the correlated electron problem?](http://arxiv.org/abs/2502.05383v3) | Max Geier et al. | 2025-02-07 |
 | [TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v5) | Fanxu Meng et al. | 2025-02-11 |
-| [TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v5) | Fanxu Meng et al. | 2025-02-11 |
 | [PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference](http://arxiv.org/abs/2502.07578v3) | Yufeng Gu et al. | 2025-02-11 |
 | [Intention is All You Need: Refining Your Code from Your Intention](http://arxiv.org/abs/2502.08172v1) | Qi Guo et al. | 2025-02-12 |
 | [Communication is All You Need: Persuasion Dataset Construction via Multi-LLM Communication](http://arxiv.org/abs/2502.08896v1) | Weicheng Ma et al. | 2025-02-13 |
@@ -639,6 +638,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Embedding Is (Almost) All You Need: Retrieval-Augmented Inference for Generalizable Genomic Prediction Tasks](http://arxiv.org/abs/2508.04757v1) | Nirjhor Datta et al. | 2025-08-06 |
 | [SurfaceLogicKV: Surface and Logic Attention Behaviors are All You Need for Robust KV Cache Compression](http://arxiv.org/abs/2508.15806v1) | Mengjie Li et al. | 2025-08-14 |
 | [Hard Examples Are All You Need: Maximizing GRPO Post-Training Under Annotation Budgets](http://arxiv.org/abs/2508.14094v4) | Benjamin Pikus et al. | 2025-08-15 |
+| [Persistence is All You Need -- A Topological Lens on Microstructural Characterization](http://arxiv.org/abs/2508.11967v1) | Maksym Szemer et al. | 2025-08-16 |
 | [Invitation Is All You Need! Promptware Attacks Against LLM-Powered Assistants in Production Are Practical and Dangerous](http://arxiv.org/abs/2508.12175v1) | Ben Nassi et al. | 2025-08-16 |
 | [Transduction is All You Need for Structured Data Workflows](http://arxiv.org/abs/2508.15610v2) | Alfio Gliozzo et al. | 2025-08-21 |
 | [CXLAimPod: CXL Memory is all you need in AI era](http://arxiv.org/abs/2508.15980v1) | Yiwei Yang et al. | 2025-08-21 |
