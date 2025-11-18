@@ -551,7 +551,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames](http://arxiv.org/abs/2503.10286v1) | Zhiqi Li et al. | 2025-03-13 |
 | [Relevance Isn't All You Need: Scaling RAG Systems With Inference-Time Compute Via Multi-Criteria Reranking](http://arxiv.org/abs/2504.07104v1) | Will LeVine et al. | 2025-03-14 |
 | [Collaboration is all you need: LLM Assisted Safe Code Translation](http://arxiv.org/abs/2503.11237v1) | Rabimba Karanjai et al. | 2025-03-14 |
-| [Concept-as-Tree: Synthetic Data is All You Need for VLM Personalization](http://arxiv.org/abs/2503.12999v2) | Ruichuan An et al. | 2025-03-17 |
 | [All You Need to Know About Training Image Retrieval Models](http://arxiv.org/abs/2503.13045v1) | Gabriele Berton et al. | 2025-03-17 |
 | [Is Discretization Fusion All You Need for Collaborative Perception?](http://arxiv.org/abs/2503.13946v1) | Kang Yang et al. | 2025-03-18 |
 | [Revisiting End-To-End Sparse Autoencoder Training: A Short Finetune Is All You Need](http://arxiv.org/abs/2503.17272v2) | Adam Karvonen | 2025-03-21 |
@@ -627,7 +626,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Not All Preferences are What You Need for Post-Training: Selective Alignment Strategy for Preference Optimization](http://arxiv.org/abs/2507.07725v1) | Zhijin Dong | 2025-07-10 |
 | [Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine](http://arxiv.org/abs/2507.08716v3) | Kongwu Huang et al. | 2025-07-11 |
 | [Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1) | Daniel Nichols et al. | 2025-07-15 |
-| [Efficient LLM Inference: Bandwidth, Compute, Synchronization, and Capacity are all you need](http://arxiv.org/abs/2507.14397v1) | Michael Davies et al. | 2025-07-18 |
 | [Is memory all you need? Data-driven Mori-Zwanzig modeling of Lagrangian particle dynamics in turbulent flows](http://arxiv.org/abs/2507.16058v1) | Xander de Wit et al. | 2025-07-21 |
 | [Are Foundation Models All You Need for Zero-shot Face Presentation Attack Detection?](http://arxiv.org/abs/2507.16393v1) | Lazaro Janier Gonzalez-Sole et al. | 2025-07-22 |
 | [LoRA is All You Need for Safety Alignment of Reasoning LLMs](http://arxiv.org/abs/2507.17075v3) | Yihao Xue et al. | 2025-07-22 |
