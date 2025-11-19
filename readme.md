@@ -616,7 +616,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Inpainting is All You Need: A Diffusion-based Augmentation Method for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2506.23038v1) | Xinrong Hu et al. | 2025-06-28 |
 | [Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search](http://arxiv.org/abs/2506.23100v1) | Jiayi Zhang et al. | 2025-06-29 |
 | [State and Memory is All You Need for Robust and Reliable AI Agents](http://arxiv.org/abs/2507.00081v1) | Matthew Muhoberac et al. | 2025-06-30 |
-| [Not All Attention Heads Are What You Need: Refining CLIP's Image Representation with Attention Ablation](http://arxiv.org/abs/2507.00537v1) | Feng Lin et al. | 2025-07-01 |
+| [Not All Attention Heads Are What You Need: Refining CLIP's Image Representation with Attention Ablation](http://arxiv.org/abs/2507.00537v2) | Feng Lin et al. | 2025-07-01 |
 | [Similarity Memory Prior is All You Need for Medical Image Segmentation](http://arxiv.org/abs/2507.00585v3) | Hao Tang et al. | 2025-07-01 |
 | [Intrinsic Fingerprint of LLMs: Continue Training is NOT All You Need to Steal A Model!](http://arxiv.org/abs/2507.03014v1) | Do-hyeon Yoon et al. | 2025-07-02 |
 | [Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1) | Riccardo Cantini et al. | 2025-07-03 |
