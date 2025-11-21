@@ -508,7 +508,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [From Worms to Mice: Homeostasis Maybe All You Need](http://arxiv.org/abs/2412.20090v1) | Jesus Marco de Lucas | 2024-12-28 |
 | [Generalize Your Face Forgery Detectors: An Insertable Adaptation Module Is All You Need](http://arxiv.org/abs/2412.20801v1) | Xiaotian Si et al. | 2024-12-30 |
 | [Attention Is All You Need For Mixture-of-Depths Routing](http://arxiv.org/abs/2412.20875v1) | Advait Gadhikar et al. | 2024-12-30 |
-| [Is Segment Anything Model 2 All You Need for Surgery Video Segmentation? A Systematic Evaluation](http://arxiv.org/abs/2501.00525v1) | Cheng Yuan et al. | 2024-12-31 |
 | [Kolmogorov GAM Networks are all you need!](http://arxiv.org/abs/2501.00704v1) | Sarah Polson et al. | 2025-01-01 |
 | [Google is all you need: Semi-Supervised Transfer Learning Strategy For Light Multimodal Multi-Task Classification Model](http://arxiv.org/abs/2501.01611v1) | Haixu Liu et al. | 2025-01-03 |
 | [Element-wise Attention Is All You Need](http://arxiv.org/abs/2501.05730v1) | Guoxin Feng | 2025-01-10 |
