@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--11--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--11--25-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -688,6 +688,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CLIP is All You Need for Human-like Semantic Representations in Stable Diffusion](http://arxiv.org/abs/2511.08075v1) | Cameron Braunstein et al. | 2025-11-11 |
 | [Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer](http://arxiv.org/abs/2511.14691v1) | Kallol Mondal et al. | 2025-11-18 |
 | [One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements](http://arxiv.org/abs/2511.16966v1) | Yiheng Bian et al. | 2025-11-21 |
+| [CAMformer: Associative Memory is All You Need](http://arxiv.org/abs/2511.19740v1) | Tergel Molom-Ochir et al. | 2025-11-24 |
+| [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v1) | Junsung Lee et al. | 2025-11-25 |
 
 
 ## FAQ
