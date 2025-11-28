@@ -690,6 +690,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements](http://arxiv.org/abs/2511.16966v1) | Yiheng Bian et al. | 2025-11-21 |
 | [CAMformer: Associative Memory is All You Need](http://arxiv.org/abs/2511.19740v1) | Tergel Molom-Ochir et al. | 2025-11-24 |
 | [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v1) | Junsung Lee et al. | 2025-11-25 |
+| [One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues](http://arxiv.org/abs/2511.20784v1) | Sindhuja Penchala et al. | 2025-11-25 |
 
 
 ## FAQ
