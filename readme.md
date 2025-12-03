@@ -658,7 +658,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [SVAC: Scaling Is All You Need For Referring Video Object Segmentation](http://arxiv.org/abs/2509.24109v1) | Li Zhang et al. | 2025-09-28 |
 | [CURA: Size Isnt All You Need -- A Compact Universal Architecture for On-Device Intelligence](http://arxiv.org/abs/2509.24601v1) | Jae-Bum Seo et al. | 2025-09-29 |
 | [Is Sequence Information All You Need for Bayesian Optimization of Antibodies?](http://arxiv.org/abs/2509.24933v1) | Sebastian W. Ober et al. | 2025-09-29 |
-| [Hyperparameters are all you need: Using five-step inference for an original diffusion model to generate images comparable to the latest distillation model](http://arxiv.org/abs/2510.02390v1) | Zilai Li | 2025-09-30 |
+| [Hyperparameters are all you need: Using five-step inference for an original diffusion model to generate images comparable to the latest distillation model](http://arxiv.org/abs/2510.02390v2) | Zilai Li | 2025-09-30 |
 | [Indirect Prompt Injections: Are Firewalls All You Need, or Stronger Benchmarks?](http://arxiv.org/abs/2510.05244v1) | Rishika Bhagwatkar et al. | 2025-10-06 |
 | [Diversity Is All You Need for Contrastive Learning: Spectral Bounds on Gradient Magnitudes](http://arxiv.org/abs/2510.05767v1) | Peter Ochieng | 2025-10-07 |
 | [A Small Collusion is All You Need](http://arxiv.org/abs/2510.05986v1) | Yotam Gafni | 2025-10-07 |
