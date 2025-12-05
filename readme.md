@@ -538,7 +538,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CORDIC Is All You Need](http://arxiv.org/abs/2503.11685v1) | Omkar Kokane et al. | 2025-03-04 |
 | [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://arxiv.org/abs/2503.02875v1) | Ke Ji et al. | 2025-03-04 |
 | [Qieemo: Speech Is All You Need in the Emotion Recognition in Conversations](http://arxiv.org/abs/2503.22687v1) | Jinming Chen et al. | 2025-03-05 |
-| [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v1) | Karthik Barma et al. | 2025-03-05 |
+| [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v2) | Karthik Barma | 2025-03-05 |
 | [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
 | [Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks](http://arxiv.org/abs/2503.04874v1) | Joan C. Timoneda et al. | 2025-03-06 |
 | [Slim attention: cut your context memory in half without loss -- K-cache is all you need for MHA](http://arxiv.org/abs/2503.05840v2) | Nils Graef et al. | 2025-03-07 |
@@ -679,7 +679,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
 | [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Decoder-Only Transformers](http://arxiv.org/abs/2510.23912v2) | Marko Karbevski et al. | 2025-10-27 |
 | [Token Is All You Need: Cognitive Planning through Belief-Intent Co-Evolution](http://arxiv.org/abs/2511.05540v2) | Shiyao Sang | 2025-10-30 |
-| [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v1) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
+| [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v2) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
 | [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v1) | Rick van der Heijden | 2025-11-04 |
 | [Block Rotation is All You Need for MXFP4 Quantization](http://arxiv.org/abs/2511.04214v1) | Yuantian Shao et al. | 2025-11-06 |
 | [Attention and Compression is all you need for Controllably Efficient Language Models](http://arxiv.org/abs/2511.05313v1) | Jatin Prakash et al. | 2025-11-07 |
