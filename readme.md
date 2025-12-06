@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--11--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--12--04-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -672,7 +672,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is One: Capsule Prompt Tuning with a Single Vector](http://arxiv.org/abs/2510.16670v1) | Yiyang Liu et al. | 2025-10-19 |
 | [FineVision: Open Data Is All You Need](http://arxiv.org/abs/2510.17269v1) | Luis Wiedmann et al. | 2025-10-20 |
 | [SITS-DECO: A Generative Decoder Is All You Need For Multitask Satellite Image Time Series Modelling](http://arxiv.org/abs/2510.21813v1) | Samuel J. Barrett et al. | 2025-10-21 |
-| [Triangle Multiplication Is All You Need For Biomolecular Structure Representations](http://arxiv.org/abs/2510.18870v1) | Jeffrey Ouyang-Zhang et al. | 2025-10-21 |
+| [Triangle Multiplication Is All You Need For Biomolecular Structure Representations](http://arxiv.org/abs/2510.18870v2) | Jeffrey Ouyang-Zhang et al. | 2025-10-21 |
 | [Some Attention is All You Need for Retrieval](http://arxiv.org/abs/2510.19861v1) | Felix Michalak et al. | 2025-10-21 |
 | [Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models](http://arxiv.org/abs/2510.23633v1) | Xun Su et al. | 2025-10-24 |
 | [Revisiting Social Welfare in Bandits: UCB is (Nearly) All You Need](http://arxiv.org/abs/2510.21312v1) | Dhruv Sarkar et al. | 2025-10-24 |
@@ -695,6 +695,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Architecture Decoupling Is Not All You Need For Unified Multimodal Model](http://arxiv.org/abs/2511.22663v1) | Dian Zheng et al. | 2025-11-27 |
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
+| [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v1) | Manh Nguyen et al. | 2025-12-04 |
 
 
 ## FAQ
