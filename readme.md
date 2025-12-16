@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--12--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--12--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -685,6 +685,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](http://arxiv.org/abs/2512.08417v2) | Yinan Zhong et al. | 2025-12-09 |
 | [DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](http://arxiv.org/abs/2512.10051v1) | Moulik Gupta et al. | 2025-12-10 |
 | [Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing](http://arxiv.org/abs/2512.10121v1) | Zhongjie Jiang | 2025-12-10 |
+| [FAIR: Focused Attention Is All You Need for Generative Recommendation](http://arxiv.org/abs/2512.11254v1) | Longtao Xiao et al. | 2025-12-12 |
 
 
 ## FAQ
