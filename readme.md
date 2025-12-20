@@ -628,13 +628,12 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Performance is not All You Need: Sustainability Considerations for Algorithms](http://arxiv.org/abs/2509.00045v2) | Xiang Li et al. | 2025-08-24 |
 | [A Little Clairvoyance Is All You Need](http://arxiv.org/abs/2508.17759v1) | Anupam Gupta et al. | 2025-08-25 |
 | [Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1) | Phuoc-Nguyen Bui et al. | 2025-09-04 |
-| [Zero-Freeness is All You Need: A Weitz-Type FPTAS for the Entire Lee-Yang Zero-Free Region](http://arxiv.org/abs/2509.06623v1) | Shuai Shao et al. | 2025-09-08 |
+| [Zero-Freeness is All You Need: A Weitz-Type FPTAS for the Entire Lee-Yang Zero-Free Region](http://arxiv.org/abs/2509.06623v2) | Shuai Shao et al. | 2025-09-08 |
 | [All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching](http://arxiv.org/abs/2509.07225v1) | Ze Sheng et al. | 2025-09-08 |
 | [Spectral Bottleneck in Deep Neural Networks: Noise is All You Need](http://arxiv.org/abs/2509.09719v1) | Hemanth Chandravamsi et al. | 2025-09-09 |
 | [Functional Groups are All you Need for Chemically Interpretable Molecular Property Prediction](http://arxiv.org/abs/2509.09619v1) | Roshan Balaji et al. | 2025-09-11 |
 | [Cycle is All You Need: More Is Different](http://arxiv.org/abs/2509.21340v1) | Xin Li | 2025-09-15 |
 | [Are Prompts All You Need? Evaluating Prompt-Based Large Language Models (LLM)s for Software Requirements Classification](http://arxiv.org/abs/2509.13868v1) | Manal Binkhonain et al. | 2025-09-17 |
-| [Towards universal property prediction in Cartesian space: TACE is all you need](http://arxiv.org/abs/2509.14961v1) | Zemin Xu et al. | 2025-09-18 |
 | [Pipeline Parallelism is All You Need for Optimized Early-Exit Based Self-Speculative Decoding](http://arxiv.org/abs/2509.19368v1) | Ruanjun Li et al. | 2025-09-19 |
 | [Ideal Registration? Segmentation is All You Need](http://arxiv.org/abs/2509.15784v1) | Xiang Chen et al. | 2025-09-19 |
 | [A Single Image Is All You Need: Zero-Shot Anomaly Localization Without Training Data](http://arxiv.org/abs/2509.18354v1) | Mehrdad Moradi et al. | 2025-09-22 |
