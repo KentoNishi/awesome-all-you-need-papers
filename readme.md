@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--12--15-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2025--12--22-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -568,7 +568,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits](http://arxiv.org/abs/2505.08823v1) | Cody Steinmetz et al. | 2025-05-12 |
 | [All You Need Is Synthetic Task Augmentation](http://arxiv.org/abs/2505.10120v1) | Guillaume Godin | 2025-05-15 |
 | [FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks](http://arxiv.org/abs/2505.10949v2) | Chenhui Xu et al. | 2025-05-16 |
-| [Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v2) | Vladimír Boža et al. | 2025-05-16 |
+| [Addition is almost all you need: Compressing neural networks with double binary factorization](http://arxiv.org/abs/2505.11076v3) | Vladimír Boža et al. | 2025-05-16 |
 | [Synthetic Data RL: Task Definition Is All You Need](http://arxiv.org/abs/2505.17063v1) | Yiduo Guo et al. | 2025-05-18 |
 | [Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1) | Krzysztof Lebioda et al. | 2025-05-19 |
 | [Half Search Space is All You Need](http://arxiv.org/abs/2505.13586v1) | Pavel Rumiantsev et al. | 2025-05-19 |
@@ -687,6 +687,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing](http://arxiv.org/abs/2512.10121v1) | Zhongjie Jiang | 2025-12-10 |
 | [FAIR: Focused Attention Is All You Need for Generative Recommendation](http://arxiv.org/abs/2512.11254v2) | Longtao Xiao et al. | 2025-12-12 |
 | [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v1) | Albert Dorador | 2025-12-15 |
+| [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
 
 
 ## FAQ
