@@ -630,7 +630,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1) | Phuoc-Nguyen Bui et al. | 2025-09-04 |
 | [Zero-Freeness is All You Need: A Weitz-Type FPTAS for the Entire Lee-Yang Zero-Free Region](http://arxiv.org/abs/2509.06623v2) | Shuai Shao et al. | 2025-09-08 |
 | [All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching](http://arxiv.org/abs/2509.07225v1) | Ze Sheng et al. | 2025-09-08 |
-| [Spectral Bottleneck in Deep Neural Networks: Noise is All You Need](http://arxiv.org/abs/2509.09719v1) | Hemanth Chandravamsi et al. | 2025-09-09 |
+| [Spectral Bottleneck in Sinusoidal Representation Networks: Noise is All You Need](http://arxiv.org/abs/2509.09719v2) | Hemanth Chandravamsi et al. | 2025-09-09 |
 | [Functional Groups are All you Need for Chemically Interpretable Molecular Property Prediction](http://arxiv.org/abs/2509.09619v1) | Roshan Balaji et al. | 2025-09-11 |
 | [Cycle is All You Need: More Is Different](http://arxiv.org/abs/2509.21340v1) | Xin Li | 2025-09-15 |
 | [Are Prompts All You Need? Evaluating Prompt-Based Large Language Models (LLM)s for Software Requirements Classification](http://arxiv.org/abs/2509.13868v1) | Manal Binkhonain et al. | 2025-09-17 |
@@ -678,6 +678,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Architecture Decoupling Is Not All You Need For Unified Multimodal Model](http://arxiv.org/abs/2511.22663v2) | Dian Zheng et al. | 2025-11-27 |
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
+| ["All You Need" is Not All You Need for a Paper Title: On the Origins of a Scientific Meme](http://arxiv.org/abs/2512.19700v1) | Anton Alyakin | 2025-12-03 |
 | [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v1) | Manh Nguyen et al. | 2025-12-04 |
 | [Pseudo Anomalies Are All You Need: Diffusion-Based Generation for Weakly-Supervised Video Anomaly Detection](http://arxiv.org/abs/2512.06845v1) | Satoshi Hashimoto et al. | 2025-12-07 |
 | [All You Need Are Random Visual Tokens? Demystifying Token Pruning in VLLMs](http://arxiv.org/abs/2512.07580v1) | Yahong Wang et al. | 2025-12-08 |
@@ -686,7 +687,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](http://arxiv.org/abs/2512.10051v1) | Moulik Gupta et al. | 2025-12-10 |
 | [Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing](http://arxiv.org/abs/2512.10121v1) | Zhongjie Jiang | 2025-12-10 |
 | [FAIR: Focused Attention Is All You Need for Generative Recommendation](http://arxiv.org/abs/2512.11254v2) | Longtao Xiao et al. | 2025-12-12 |
-| [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v1) | Albert Dorador | 2025-12-15 |
+| [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v2) | Albert Dorador | 2025-12-15 |
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
 
 
