@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2025--12--28-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--01--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -690,6 +690,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v2) | Albert Dorador | 2025-12-15 |
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
 | [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v1) | Tillmann Rheude et al. | 2025-12-28 |
+| [Self-Verification is All You Need To Pass The Japanese Bar Examination](http://arxiv.org/abs/2601.03144v1) | Andrew Shin | 2026-01-06 |
 
 
 ## FAQ
