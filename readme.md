@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--01--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--01--12-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -501,7 +501,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Kolmogorov GAM Networks are all you need!](http://arxiv.org/abs/2501.00704v1) | Sarah Polson et al. | 2025-01-01 |
 | [Google is all you need: Semi-Supervised Transfer Learning Strategy For Light Multimodal Multi-Task Classification Model](http://arxiv.org/abs/2501.01611v1) | Haixu Liu et al. | 2025-01-03 |
 | [Element-wise Attention Is All You Need](http://arxiv.org/abs/2501.05730v1) | Guoxin Feng | 2025-01-10 |
-| [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v6) | Yifan Zhang et al. | 2025-01-11 |
+| [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v7) | Yifan Zhang et al. | 2025-01-11 |
 | [Common Sense Is All You Need](http://arxiv.org/abs/2501.06642v1) | Hugo Latapie | 2025-01-11 |
 | [Attention is All You Need Until You Need Retention](http://arxiv.org/abs/2501.09166v1) | M. Murat Yaslioglu | 2025-01-15 |
 | [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v6) | Yeounoh Chung et al. | 2025-01-21 |
@@ -649,7 +649,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Scaling Law in LLM Simulated Personality: More Detailed and Realistic Persona Profile Is All You Need](http://arxiv.org/abs/2510.11734v1) | Yuqi Bai et al. | 2025-10-10 |
 | [LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1) | Linghan Huang et al. | 2025-10-11 |
 | [Context-Selective State Space Models: Feedback is All You Need](http://arxiv.org/abs/2510.14027v1) | Riccardo Zattra et al. | 2025-10-15 |
-| [Instructions are all you need: Self-supervised Reinforcement Learning for Instruction Following](http://arxiv.org/abs/2510.14420v1) | Qingyu Ren et al. | 2025-10-16 |
+| [Instructions are all you need: Self-supervised Reinforcement Learning for Instruction Following](http://arxiv.org/abs/2510.14420v2) | Qingyu Ren et al. | 2025-10-16 |
 | [Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion](http://arxiv.org/abs/2510.14947v2) | Blake Werner et al. | 2025-10-16 |
 | [Attention Is All You Need for KV Cache in Diffusion LLMs](http://arxiv.org/abs/2510.14973v2) | Quan Nguyen-Tri et al. | 2025-10-16 |
 | [All You Need is One: Capsule Prompt Tuning with a Single Vector](http://arxiv.org/abs/2510.16670v1) | Yiyang Liu et al. | 2025-10-19 |
@@ -685,13 +685,15 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is GPT-OSS All You Need? Benchmarking Large Language Models for Financial Intelligence and the Surprising Efficiency Paradox](http://arxiv.org/abs/2512.14717v1) | Ziqian Bi et al. | 2025-12-09 |
 | [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](http://arxiv.org/abs/2512.08417v2) | Yinan Zhong et al. | 2025-12-09 |
 | [DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](http://arxiv.org/abs/2512.10051v1) | Moulik Gupta et al. | 2025-12-10 |
-| [Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](http://arxiv.org/abs/2512.10105v2) | Soorya Ram Shimgekar et al. | 2025-12-10 |
+| [Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](http://arxiv.org/abs/2512.10105v3) | Soorya Ram Shimgekar et al. | 2025-12-10 |
 | [Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing](http://arxiv.org/abs/2512.10121v1) | Zhongjie Jiang | 2025-12-10 |
 | [FAIR: Focused Attention Is All You Need for Generative Recommendation](http://arxiv.org/abs/2512.11254v2) | Longtao Xiao et al. | 2025-12-12 |
 | [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v2) | Albert Dorador | 2025-12-15 |
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
 | [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v1) | Tillmann Rheude et al. | 2025-12-28 |
 | [Self-Verification is All You Need To Pass The Japanese Bar Examination](http://arxiv.org/abs/2601.03144v1) | Andrew Shin | 2026-01-06 |
+| [CliffordNet: All You Need is Geometric Algebra](http://arxiv.org/abs/2601.06793v1) | Zhongping Ji | 2026-01-11 |
+| [Exchange Is All You Need for Remote Sensing Change Detection](http://arxiv.org/abs/2601.07805v1) | Sijun Dong et al. | 2026-01-12 |
 
 
 ## FAQ
