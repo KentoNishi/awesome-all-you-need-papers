@@ -697,7 +697,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [From Everything-is-a-File to Files-Are-All-You-Need: How Unix Philosophy Informs the Design of Agentic AI Systems](http://arxiv.org/abs/2601.11672v1) | Deepak Babu Piskala | 2026-01-16 |
 | [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](http://arxiv.org/abs/2601.16294v1) | Evangelos Georganas et al. | 2026-01-22 |
 | [LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification](http://arxiv.org/abs/2601.16549v1) | Meet Raval et al. | 2026-01-23 |
-| [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v1) | Chenyu Mu et al. | 2026-01-25 |
+| [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v2) | Chenyu Mu et al. | 2026-01-25 |
 | [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v1) | Yuhang Zhou et al. | 2026-01-26 |
 
 
