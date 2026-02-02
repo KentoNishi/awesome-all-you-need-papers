@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--01--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--01--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -659,7 +659,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models](http://arxiv.org/abs/2510.23633v1) | Xun Su et al. | 2025-10-24 |
 | [Revisiting Social Welfare in Bandits: UCB is (Nearly) All You Need](http://arxiv.org/abs/2510.21312v1) | Dhruv Sarkar et al. | 2025-10-24 |
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
-| [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Decoder-Only Transformers](http://arxiv.org/abs/2510.23912v3) | Marko Karbevski et al. | 2025-10-27 |
+| [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Encoder-Only and Decoder-Only Transformers](http://arxiv.org/abs/2510.23912v4) | Marko Karbevski et al. | 2025-10-27 |
 | [Token Is All You Need: Cognitive Planning through Belief-Intent Co-Evolution](http://arxiv.org/abs/2511.05540v2) | Shiyao Sang | 2025-10-30 |
 | [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v2) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
 | [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v1) | Rick van der Heijden | 2025-11-04 |
@@ -691,6 +691,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
 | [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v2) | Tillmann Rheude et al. | 2025-12-28 |
 | [Self-Verification is All You Need To Pass The Japanese Bar Examination](http://arxiv.org/abs/2601.03144v1) | Andrew Shin | 2026-01-06 |
+| [Attention Isn't All You Need for Emotion Recognition:Domain Features Outperform Transformers on the EAV Dataset](http://arxiv.org/abs/2601.22161v1) | Anmol Guragain | 2026-01-07 |
 | [CliffordNet: All You Need is Geometric Algebra](http://arxiv.org/abs/2601.06793v1) | Zhongping Ji | 2026-01-11 |
 | [Exchange Is All You Need for Remote Sensing Change Detection](http://arxiv.org/abs/2601.07805v1) | Sijun Dong et al. | 2026-01-12 |
 | [From Everything-is-a-File to Files-Are-All-You-Need: How Unix Philosophy Informs the Design of Agentic AI Systems](http://arxiv.org/abs/2601.11672v1) | Deepak Babu Piskala | 2026-01-16 |
@@ -699,6 +700,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v2) | Chenyu Mu et al. | 2026-01-25 |
 | [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v1) | Yuhang Zhou et al. | 2026-01-26 |
 | [Parametric Knowledge is Not All You Need: Toward Honest Large Language Models via Retrieval of Pretraining Data](http://arxiv.org/abs/2601.21218v1) | Christopher Adrian Kusuma et al. | 2026-01-29 |
+| [Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss](http://arxiv.org/abs/2601.22745v1) | Yuanhao Pu et al. | 2026-01-30 |
 
 
 ## FAQ
