@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--01--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--01--31-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -610,7 +610,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1) | Daniel Nichols et al. | 2025-07-15 |
 | [Is memory all you need? Data-driven Mori-Zwanzig modeling of Lagrangian particle dynamics in turbulent flows](http://arxiv.org/abs/2507.16058v1) | Xander de Wit et al. | 2025-07-21 |
 | [Are Foundation Models All You Need for Zero-shot Face Presentation Attack Detection?](http://arxiv.org/abs/2507.16393v1) | Lazaro Janier Gonzalez-Sole et al. | 2025-07-22 |
-| [LoRA is All You Need for Safety Alignment of Reasoning LLMs](http://arxiv.org/abs/2507.17075v3) | Yihao Xue et al. | 2025-07-22 |
+| [LoRA is All You Need for Safety Alignment of Reasoning LLMs](http://arxiv.org/abs/2507.17075v4) | Yihao Xue et al. | 2025-07-22 |
 | [Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks](http://arxiv.org/abs/2507.17747v2) | Linbo Cao et al. | 2025-07-23 |
 | [A Functional Data Model and Query Language is All You Need](http://arxiv.org/abs/2507.20671v1) | Jens Dittrich | 2025-07-28 |
 | [Importance Sampling is All You Need: Predict LLM's performance on new benchmark by reusing existing benchmark](http://arxiv.org/abs/2508.01203v1) | Junjie Shi et al. | 2025-08-02 |
@@ -640,14 +640,13 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [SVAC: Scaling Is All You Need For Referring Video Object Segmentation](http://arxiv.org/abs/2509.24109v1) | Li Zhang et al. | 2025-09-28 |
 | [CURA: Size Isnt All You Need -- A Compact Universal Architecture for On-Device Intelligence](http://arxiv.org/abs/2509.24601v1) | Jae-Bum Seo et al. | 2025-09-29 |
 | [Is Sequence Information All You Need for Bayesian Optimization of Antibodies?](http://arxiv.org/abs/2509.24933v1) | Sebastian W. Ober et al. | 2025-09-29 |
-| [Hyperparameters are all you need: Using five-step inference for an original diffusion model to generate images comparable to the latest distillation model](http://arxiv.org/abs/2510.02390v2) | Zilai Li | 2025-09-30 |
 | [Indirect Prompt Injections: Are Firewalls All You Need, or Stronger Benchmarks?](http://arxiv.org/abs/2510.05244v1) | Rishika Bhagwatkar et al. | 2025-10-06 |
 | [Diversity Is All You Need for Contrastive Learning: Spectral Bounds on Gradient Magnitudes](http://arxiv.org/abs/2510.05767v1) | Peter Ochieng | 2025-10-07 |
 | [A Small Collusion is All You Need](http://arxiv.org/abs/2510.05986v2) | Yotam Gafni | 2025-10-07 |
 | [Slicing Is All You Need: Towards A Universal One-Sided Algorithm for Distributed Matrix Multiplication](http://arxiv.org/abs/2510.08874v1) | Benjamin Brock et al. | 2025-10-10 |
 | [Scaling Law in LLM Simulated Personality: More Detailed and Realistic Persona Profile Is All You Need](http://arxiv.org/abs/2510.11734v1) | Yuqi Bai et al. | 2025-10-10 |
 | [LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1) | Linghan Huang et al. | 2025-10-11 |
-| [Context-Selective State Space Models: Feedback is All You Need](http://arxiv.org/abs/2510.14027v1) | Riccardo Zattra et al. | 2025-10-15 |
+| [Context-Selective State Space Models: Feedback is All You Need](http://arxiv.org/abs/2510.14027v2) | Riccardo Zattra et al. | 2025-10-15 |
 | [Instructions are all you need: Self-supervised Reinforcement Learning for Instruction Following](http://arxiv.org/abs/2510.14420v3) | Qingyu Ren et al. | 2025-10-16 |
 | [Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion](http://arxiv.org/abs/2510.14947v2) | Blake Werner et al. | 2025-10-16 |
 | [Attention Is All You Need for KV Cache in Diffusion LLMs](http://arxiv.org/abs/2510.14973v2) | Quan Nguyen-Tri et al. | 2025-10-16 |
@@ -701,6 +700,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v1) | Yuhang Zhou et al. | 2026-01-26 |
 | [Parametric Knowledge is Not All You Need: Toward Honest Large Language Models via Retrieval of Pretraining Data](http://arxiv.org/abs/2601.21218v1) | Christopher Adrian Kusuma et al. | 2026-01-29 |
 | [Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss](http://arxiv.org/abs/2601.22745v1) | Yuanhao Pu et al. | 2026-01-30 |
+| [Text is All You Need for Vision-Language Model Jailbreaking](http://arxiv.org/abs/2602.00420v1) | Yihang Chen et al. | 2026-01-31 |
 
 
 ## FAQ
