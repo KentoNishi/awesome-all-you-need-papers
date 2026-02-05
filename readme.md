@@ -620,7 +620,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hard Examples Are All You Need: Maximizing GRPO Post-Training Under Annotation Budgets](http://arxiv.org/abs/2508.14094v4) | Benjamin Pikus et al. | 2025-08-15 |
 | [Persistence is All You Need -- A Topological Lens on Microstructural Characterization](http://arxiv.org/abs/2508.11967v1) | Maksym Szemer et al. | 2025-08-16 |
 | [Invitation Is All You Need! Promptware Attacks Against LLM-Powered Assistants in Production Are Practical and Dangerous](http://arxiv.org/abs/2508.12175v1) | Ben Nassi et al. | 2025-08-16 |
-| [Transduction is All You Need for Structured Data Workflows](http://arxiv.org/abs/2508.15610v2) | Alfio Gliozzo et al. | 2025-08-21 |
+| [Transduction is All You Need for Structured Data Workflows](http://arxiv.org/abs/2508.15610v3) | Alfio Gliozzo et al. | 2025-08-21 |
 | [AI Chaperones Are (Really) All You Need to Prevent Parasocial Relationships with Chatbots](http://arxiv.org/abs/2508.15748v5) | Emma Rath et al. | 2025-08-21 |
 | [CXLAimPod: CXL Memory is all you need in AI era](http://arxiv.org/abs/2508.15980v1) | Yiwei Yang et al. | 2025-08-21 |
 | [Consensus Is All You Need: Gossip-Based Reasoning Among Large Language Models](http://arxiv.org/abs/2508.18292v1) | Saksham Arora | 2025-08-22 |
