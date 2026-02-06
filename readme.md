@@ -660,7 +660,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
 | [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Encoder-Only and Decoder-Only Transformers](http://arxiv.org/abs/2510.23912v4) | Marko Karbevski et al. | 2025-10-27 |
 | [Token Is All You Need: Cognitive Planning through Belief-Intent Co-Evolution](http://arxiv.org/abs/2511.05540v2) | Shiyao Sang | 2025-10-30 |
-| [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v2) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
+| [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v3) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
 | [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v1) | Rick van der Heijden | 2025-11-04 |
 | [Block Rotation is All You Need for MXFP4 Quantization](http://arxiv.org/abs/2511.04214v1) | Yuantian Shao et al. | 2025-11-06 |
 | [Attention and Compression is all you need for Controllably Efficient Language Models](http://arxiv.org/abs/2511.05313v1) | Jatin Prakash et al. | 2025-11-07 |
