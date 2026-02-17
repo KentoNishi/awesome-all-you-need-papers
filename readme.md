@@ -690,7 +690,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v2) | Tillmann Rheude et al. | 2025-12-28 |
 | [Self-Verification is All You Need To Pass The Japanese Bar Examination](http://arxiv.org/abs/2601.03144v1) | Andrew Shin | 2026-01-06 |
 | [Attention Isn't All You Need for Emotion Recognition:Domain Features Outperform Transformers on the EAV Dataset](http://arxiv.org/abs/2601.22161v2) | Anmol Guragain | 2026-01-07 |
-| [CliffordNet: All You Need is Geometric Algebra](http://arxiv.org/abs/2601.06793v1) | Zhongping Ji | 2026-01-11 |
+| [CliffordNet: All You Need is Geometric Algebra](http://arxiv.org/abs/2601.06793v2) | Zhongping Ji | 2026-01-11 |
 | [Exchange Is All You Need for Remote Sensing Change Detection](http://arxiv.org/abs/2601.07805v1) | Sijun Dong et al. | 2026-01-12 |
 | [From Everything-is-a-File to Files-Are-All-You-Need: How Unix Philosophy Informs the Design of Agentic AI Systems](http://arxiv.org/abs/2601.11672v1) | Deepak Babu Piskala | 2026-01-16 |
 | [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](http://arxiv.org/abs/2601.16294v1) | Evangelos Georganas et al. | 2026-01-22 |
