@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--02--12-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--02--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -491,7 +491,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v2) | Junjie Zhou et al. | 2024-12-12 |
 | [Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis](http://arxiv.org/abs/2412.09445v1) | Raj Hansini Khoiwal et al. | 2024-12-12 |
-| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v4) | Nianze Tao | 2024-12-16 |
+| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v5) | Nianze Tao et al. | 2024-12-16 |
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
 | [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v2) | Minghao Xu et al. | 2024-12-16 |
 | [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](http://arxiv.org/abs/2412.15605v2) | Brian J Chan et al. | 2024-12-20 |
@@ -537,6 +537,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](http://arxiv.org/abs/2503.08741v3) | Letian Zhang et al. | 2025-03-11 |
 | [Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2) | Qiji Zhou et al. | 2025-03-12 |
 | [Reinforcement Learning is all You Need](http://arxiv.org/abs/2503.09512v1) | Yongsheng Lian | 2025-03-12 |
+| [Availability is all you need: achieving optimal regret with minimal information for dynamic matching](http://arxiv.org/abs/2503.09762v3) | Süleyman Kerimov et al. | 2025-03-12 |
 | [VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames](http://arxiv.org/abs/2503.10286v1) | Zhiqi Li et al. | 2025-03-13 |
 | [Relevance Isn't All You Need: Scaling RAG Systems With Inference-Time Compute Via Multi-Criteria Reranking](http://arxiv.org/abs/2504.07104v1) | Will LeVine et al. | 2025-03-14 |
 | [Collaboration is all you need: LLM Assisted Safe Code Translation](http://arxiv.org/abs/2503.11237v1) | Rabimba Karanjai et al. | 2025-03-14 |
@@ -671,7 +672,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CAMformer: Associative Memory is All You Need](http://arxiv.org/abs/2511.19740v1) | Tergel Molom-Ochir et al. | 2025-11-24 |
 | [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v1) | Junsung Lee et al. | 2025-11-25 |
 | [One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues](http://arxiv.org/abs/2511.20784v1) | Sindhuja Penchala et al. | 2025-11-25 |
-| [Entropy is all you need for Inter-Seed Cross-Play in Hanabi](http://arxiv.org/abs/2511.22581v1) | Johannes Forkel et al. | 2025-11-27 |
 | [Architecture Decoupling Is Not All You Need For Unified Multimodal Model](http://arxiv.org/abs/2511.22663v2) | Dian Zheng et al. | 2025-11-27 |
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
@@ -701,6 +701,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss](http://arxiv.org/abs/2601.22745v1) | Yuanhao Pu et al. | 2026-01-30 |
 | [Text is All You Need for Vision-Language Model Jailbreaking](http://arxiv.org/abs/2602.00420v1) | Yihang Chen et al. | 2026-01-31 |
 | [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v1) | Yashas Shende et al. | 2026-02-12 |
+| [One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](http://arxiv.org/abs/2602.14474v1) | Aadirupa Saha et al. | 2026-02-16 |
 
 
 ## FAQ
