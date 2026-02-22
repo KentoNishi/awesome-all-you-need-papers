@@ -381,7 +381,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Key Patches Are All You Need: A Multiple Instance Learning Framework For Robust Medical Diagnosis](http://arxiv.org/abs/2405.01654v1) | Diogo J. Araújo et al. | 2024-05-02 |
 | [Fast Wrong-way Cycling Detection in CCTV Videos: Sparse Sampling is All You Need](http://arxiv.org/abs/2405.07293v2) | Jing Xu et al. | 2024-05-12 |
 | [Positional Knowledge is All You Need: Position-induced Transformer (PiT) for Operator Learning](http://arxiv.org/abs/2405.09285v1) | Junfeng Chen et al. | 2024-05-15 |
-| [Comparisons Are All You Need for Optimizing Smooth Functions](http://arxiv.org/abs/2405.11454v1) | Chenyi Zhang et al. | 2024-05-19 |
 | [Requirements are All You Need: The Final Frontier for End-User Software Engineering](http://arxiv.org/abs/2405.13708v1) | Diana Robinson et al. | 2024-05-22 |
 | [Cross-Modal Safety Alignment: Is textual unlearning all you need?](http://arxiv.org/abs/2406.02575v2) | Trishna Chakraborty et al. | 2024-05-27 |
 | [Similarity is Not All You Need: Endowing Retrieval Augmented Generation with Multi Layered Thoughts](http://arxiv.org/abs/2405.19893v1) | Chunjing Gan et al. | 2024-05-30 |
