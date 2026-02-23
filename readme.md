@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--02--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--02--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -701,6 +701,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Text is All You Need for Vision-Language Model Jailbreaking](http://arxiv.org/abs/2602.00420v1) | Yihang Chen et al. | 2026-01-31 |
 | [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v1) | Yashas Shende et al. | 2026-02-12 |
 | [One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](http://arxiv.org/abs/2602.14474v1) | Aadirupa Saha et al. | 2026-02-16 |
+| [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v1) | Amirhosein Javadi et al. | 2026-02-20 |
+| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v1) | Daniel Romero-Alvarado et al. | 2026-02-20 |
 
 
 ## FAQ
