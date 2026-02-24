@@ -585,7 +585,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need](http://arxiv.org/abs/2505.23744v1) | Qiang Wang et al. | 2025-05-29 |
 | [Uni-LoRA: One Vector is All You Need](http://arxiv.org/abs/2506.00799v3) | Kaiyang Li et al. | 2025-06-01 |
 | [S\"oze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale](http://arxiv.org/abs/2506.00834v2) | Weitao Wang et al. | 2025-06-01 |
-| [Is Binary Search Really All You Need? Supercharging Lightweight Database Indexing on GPUs](http://arxiv.org/abs/2506.01576v2) | Justus Henneberg et al. | 2025-06-02 |
 | [Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective](http://arxiv.org/abs/2506.02553v1) | Shenghua He et al. | 2025-06-03 |
 | [Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design](http://arxiv.org/abs/2506.04734v2) | Lin Sun et al. | 2025-06-05 |
 | [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](http://arxiv.org/abs/2506.06395v3) | Pengyi Li et al. | 2025-06-05 |
@@ -695,7 +694,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](http://arxiv.org/abs/2601.16294v1) | Evangelos Georganas et al. | 2026-01-22 |
 | [LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification](http://arxiv.org/abs/2601.16549v1) | Meet Raval et al. | 2026-01-23 |
 | [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v2) | Chenyu Mu et al. | 2026-01-25 |
-| [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v1) | Yuhang Zhou et al. | 2026-01-26 |
+| [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v2) | Yuhang Zhou et al. | 2026-01-26 |
 | [Parametric Knowledge is Not All You Need: Toward Honest Large Language Models via Retrieval of Pretraining Data](http://arxiv.org/abs/2601.21218v1) | Christopher Adrian Kusuma et al. | 2026-01-29 |
 | [Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss](http://arxiv.org/abs/2601.22745v1) | Yuanhao Pu et al. | 2026-01-30 |
 | [Text is All You Need for Vision-Language Model Jailbreaking](http://arxiv.org/abs/2602.00420v1) | Yihang Chen et al. | 2026-01-31 |
