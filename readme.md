@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--02--23-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--02--25-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -703,6 +703,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v1) | Amirhosein Javadi et al. | 2026-02-20 |
 | [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v1) | Daniel Romero-Alvarado et al. | 2026-02-20 |
 | [Discernment is all you need](http://arxiv.org/abs/2602.20038v1) | David Fuenmayor | 2026-02-23 |
+| [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](http://arxiv.org/abs/2602.21550v1) | Zhao Yang et al. | 2026-02-25 |
 
 
 ## FAQ
