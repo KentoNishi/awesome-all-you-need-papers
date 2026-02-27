@@ -701,9 +701,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v1) | Yashas Shende et al. | 2026-02-12 |
 | [One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](http://arxiv.org/abs/2602.14474v1) | Aadirupa Saha et al. | 2026-02-16 |
 | [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v1) | Amirhosein Javadi et al. | 2026-02-20 |
-| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v1) | Daniel Romero-Alvarado et al. | 2026-02-20 |
+| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v2) | Daniel Romero-Alvarado et al. | 2026-02-20 |
 | [Discernment is all you need](http://arxiv.org/abs/2602.20038v1) | David Fuenmayor | 2026-02-23 |
 | [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](http://arxiv.org/abs/2602.21550v1) | Zhao Yang et al. | 2026-02-25 |
+| [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](http://arxiv.org/abs/2602.22197v1) | Xavier Pleimling et al. | 2026-02-25 |
 
 
 ## FAQ
