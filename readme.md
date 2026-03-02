@@ -248,7 +248,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Area is all you need: repeatable elements make stronger adversarial attacks](http://arxiv.org/abs/2306.07768v1) | Dillon Niederhut | 2023-06-13 |
 | [Contrastive Loss is All You Need to Recover Analogies as Parallel Lines](http://arxiv.org/abs/2306.08221v1) | Narutatsu Ri et al. | 2023-06-14 |
 | [A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception](http://arxiv.org/abs/2306.09266v1) | Walter Zimmer et al. | 2023-06-15 |
-| [Gradient is All You Need?](http://arxiv.org/abs/2306.09778v1) | Konstantin Riedl et al. | 2023-06-16 |
+| [Gradient is All You Need? How Consensus-Based Optimization can be Interpreted as a Stochastic Relaxation of Gradient Descent](http://arxiv.org/abs/2306.09778v2) | Konstantin Riedl et al. | 2023-06-16 |
 | [Textbooks Are All You Need](http://arxiv.org/abs/2306.11644v2) | Suriya Gunasekar et al. | 2023-06-20 |
 | [Randomized Quantization is All You Need for Differential Privacy in Federated Learning](http://arxiv.org/abs/2306.11913v1) | Yeojoon Youn et al. | 2023-06-20 |
 | [CEMSSL: Conditional Embodied Self-Supervised Learning is All You Need for High-precision Multi-solution Inverse Kinematics of Robot Arms](http://arxiv.org/abs/2306.12718v2) | Qu Weiming et al. | 2023-06-22 |
@@ -684,6 +684,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing](http://arxiv.org/abs/2512.10121v1) | Zhongjie Jiang | 2025-12-10 |
 | [FAIR: Focused Attention Is All You Need for Generative Recommendation](http://arxiv.org/abs/2512.11254v2) | Longtao Xiao et al. | 2025-12-12 |
 | [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v2) | Albert Dorador | 2025-12-15 |
+| [Keyword search is all you need: Achieving RAG-Level Performance without vector databases using agentic tool use](http://arxiv.org/abs/2602.23368v1) | Shreyas Subramanian et al. | 2025-12-19 |
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
 | [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v2) | Tillmann Rheude et al. | 2025-12-28 |
 | [Self-Verification is All You Need To Pass The Japanese Bar Examination](http://arxiv.org/abs/2601.03144v1) | Andrew Shin | 2026-01-06 |
@@ -701,7 +702,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v1) | Yashas Shende et al. | 2026-02-12 |
 | [One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](http://arxiv.org/abs/2602.14474v1) | Aadirupa Saha et al. | 2026-02-16 |
 | [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v1) | Amirhosein Javadi et al. | 2026-02-20 |
-| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v2) | Daniel Romero-Alvarado et al. | 2026-02-20 |
+| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v3) | Daniel Romero-Alvarado et al. | 2026-02-20 |
 | [Discernment is all you need](http://arxiv.org/abs/2602.20038v1) | David Fuenmayor | 2026-02-23 |
 | [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](http://arxiv.org/abs/2602.21550v1) | Zhao Yang et al. | 2026-02-25 |
 | [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](http://arxiv.org/abs/2602.22197v1) | Xavier Pleimling et al. | 2026-02-25 |
