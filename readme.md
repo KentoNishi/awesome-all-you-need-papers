@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--02--25-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--03-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -466,7 +466,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models](http://arxiv.org/abs/2410.21802v2) | Lu Yu et al. | 2024-10-29 |
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
-| [One protein is all you need](http://arxiv.org/abs/2411.02109v2) | Anton Bushuiev et al. | 2024-11-04 |
+| [One protein is all you need](http://arxiv.org/abs/2411.02109v3) | Anton Bushuiev et al. | 2024-11-04 |
 | [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
 | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](http://arxiv.org/abs/2411.05006v1) | Jun-Kun Chen et al. | 2024-11-07 |
@@ -601,7 +601,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Similarity Memory Prior is All You Need for Medical Image Segmentation](http://arxiv.org/abs/2507.00585v3) | Hao Tang et al. | 2025-07-01 |
 | [Intrinsic Fingerprint of LLMs: Continue Training is NOT All You Need to Steal A Model!](http://arxiv.org/abs/2507.03014v1) | Do-hyeon Yoon et al. | 2025-07-02 |
 | [Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1) | Riccardo Cantini et al. | 2025-07-03 |
-| [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](http://arxiv.org/abs/2507.03905v4) | Rang Meng et al. | 2025-07-05 |
+| [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](http://arxiv.org/abs/2507.03905v5) | Rang Meng et al. | 2025-07-05 |
 | [When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need](http://arxiv.org/abs/2507.04119v1) | Ziming Hong et al. | 2025-07-05 |
 | [Is Diversity All You Need for Scalable Robotic Manipulation?](http://arxiv.org/abs/2507.06219v1) | Modi Shi et al. | 2025-07-08 |
 | [Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine](http://arxiv.org/abs/2507.08716v3) | Kongwu Huang et al. | 2025-07-11 |
@@ -701,10 +701,12 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v1) | Yashas Shende et al. | 2026-02-12 |
 | [One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](http://arxiv.org/abs/2602.14474v1) | Aadirupa Saha et al. | 2026-02-16 |
 | [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v1) | Amirhosein Javadi et al. | 2026-02-20 |
-| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v3) | Daniel Romero-Alvarado et al. | 2026-02-20 |
+| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v4) | Daniel Romero-Alvarado et al. | 2026-02-20 |
 | [Discernment is all you need](http://arxiv.org/abs/2602.20038v1) | David Fuenmayor | 2026-02-23 |
 | [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](http://arxiv.org/abs/2602.21550v1) | Zhao Yang et al. | 2026-02-25 |
 | [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](http://arxiv.org/abs/2602.22197v1) | Xavier Pleimling et al. | 2026-02-25 |
+| [Attention Smoothing Is All You Need For Unlearning](http://arxiv.org/abs/2603.01285v1) | Saleh Zare Zade et al. | 2026-03-01 |
+| [Convex and Non-convex Federated Learning with Stale Stochastic Gradients: Diminishing Step Size is All You Need](http://arxiv.org/abs/2603.02639v1) | Xinran Zheng et al. | 2026-03-03 |
 
 
 ## FAQ
