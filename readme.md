@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--03-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -707,6 +707,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](http://arxiv.org/abs/2602.22197v1) | Xavier Pleimling et al. | 2026-02-25 |
 | [Attention Smoothing Is All You Need For Unlearning](http://arxiv.org/abs/2603.01285v1) | Saleh Zare Zade et al. | 2026-03-01 |
 | [Convex and Non-convex Federated Learning with Stale Stochastic Gradients: Diminishing Step Size is All You Need](http://arxiv.org/abs/2603.02639v1) | Xinran Zheng et al. | 2026-03-03 |
+| [Edges Are All You Need: Robust Gait Recognition via Label-Free Structure](http://arxiv.org/abs/2603.05537v1) | Chao Zhang et al. | 2026-03-04 |
+| [MoE Lens -- An Expert Is All You Need](http://arxiv.org/abs/2603.05806v1) | Marmik Chaudhari et al. | 2026-03-06 |
 
 
 ## FAQ
