@@ -675,7 +675,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | ["All You Need" is Not All You Need for a Paper Title: On the Origins of a Scientific Meme](http://arxiv.org/abs/2512.19700v1) | Anton Alyakin | 2025-12-03 |
 | [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v2) | Manh Nguyen et al. | 2025-12-04 |
 | [Pseudo Anomalies Are All You Need: Diffusion-Based Generation for Weakly-Supervised Video Anomaly Detection](http://arxiv.org/abs/2512.06845v1) | Satoshi Hashimoto et al. | 2025-12-07 |
-| [All You Need Are Random Visual Tokens? Demystifying Token Pruning in VLLMs](http://arxiv.org/abs/2512.07580v1) | Yahong Wang et al. | 2025-12-08 |
 | [Is GPT-OSS All You Need? Benchmarking Large Language Models for Financial Intelligence and the Surprising Efficiency Paradox](http://arxiv.org/abs/2512.14717v1) | Ziqian Bi et al. | 2025-12-09 |
 | [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](http://arxiv.org/abs/2512.08417v2) | Yinan Zhong et al. | 2025-12-09 |
 | [DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](http://arxiv.org/abs/2512.10051v1) | Moulik Gupta et al. | 2025-12-10 |
