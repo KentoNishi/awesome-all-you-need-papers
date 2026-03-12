@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--11-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -371,7 +371,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Exploration All You Need? Effective Exploration Characteristics for Transfer in Reinforcement Learning](http://arxiv.org/abs/2404.02235v1) | Jonathan C. Balloch et al. | 2024-04-02 |
 | [Fork is All You Need in Heterogeneous Systems](http://arxiv.org/abs/2404.05085v2) | Zixuan Wang et al. | 2024-04-07 |
 | [Self-supervised Dataset Distillation: A Good Compression Is All You Need](http://arxiv.org/abs/2404.07976v1) | Muxin Zhou et al. | 2024-04-11 |
-| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v8) | David M. Cerna et al. | 2024-04-16 |
+| [One is all you need: Second-order Unification without First-order Variables](http://arxiv.org/abs/2404.10616v9) | David M. Cerna et al. | 2024-04-16 |
 | [KV-weights are all you need for skipless transformers](http://arxiv.org/abs/2404.12362v2) | Nils Graef | 2024-04-18 |
 | [Moving Object Segmentation: All You Need Is SAM (and Flow)](http://arxiv.org/abs/2404.12389v2) | Junyu Xie et al. | 2024-04-18 |
 | [Is Retain Set All You Need in Machine Unlearning? Restoring Performance of Unlearned Models with Out-Of-Distribution Images](http://arxiv.org/abs/2404.12922v1) | Jacopo Bonato et al. | 2024-04-19 |
@@ -708,6 +708,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Convex and Non-convex Federated Learning with Stale Stochastic Gradients: Diminishing Step Size is All You Need](http://arxiv.org/abs/2603.02639v1) | Xinran Zheng et al. | 2026-03-03 |
 | [Edges Are All You Need: Robust Gait Recognition via Label-Free Structure](http://arxiv.org/abs/2603.05537v1) | Chao Zhang et al. | 2026-03-04 |
 | [MoE Lens -- An Expert Is All You Need](http://arxiv.org/abs/2603.05806v1) | Marmik Chaudhari et al. | 2026-03-06 |
+| [GSVD for Geometry-Grounded Dataset Comparison: An Alignment Angle Is All You Need](http://arxiv.org/abs/2603.10283v1) | Eduarda de Souza Marques et al. | 2026-03-10 |
+| [Utility Function is All You Need: LLM-based Congestion Control](http://arxiv.org/abs/2603.10357v1) | Neta Rozen-Schiff et al. | 2026-03-11 |
+| [Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration](http://arxiv.org/abs/2603.10664v1) | Alexandre De Masi | 2026-03-11 |
 
 
 ## FAQ
