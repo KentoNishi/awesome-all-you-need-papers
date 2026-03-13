@@ -702,7 +702,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v1) | Amirhosein Javadi et al. | 2026-02-20 |
 | [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v4) | Daniel Romero-Alvarado et al. | 2026-02-20 |
 | [Discernment is all you need](http://arxiv.org/abs/2602.20038v1) | David Fuenmayor | 2026-02-23 |
-| [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](http://arxiv.org/abs/2602.21550v1) | Zhao Yang et al. | 2026-02-25 |
+| [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](http://arxiv.org/abs/2602.21550v2) | Zhao Yang et al. | 2026-02-25 |
 | [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](http://arxiv.org/abs/2602.22197v1) | Xavier Pleimling et al. | 2026-02-25 |
 | [Attention Smoothing Is All You Need For Unlearning](http://arxiv.org/abs/2603.01285v1) | Saleh Zare Zade et al. | 2026-03-01 |
 | [Convex and Non-convex Federated Learning with Stale Stochastic Gradients: Diminishing Step Size is All You Need](http://arxiv.org/abs/2603.02639v1) | Xinran Zheng et al. | 2026-03-03 |
