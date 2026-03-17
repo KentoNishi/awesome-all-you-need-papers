@@ -669,7 +669,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CAMformer: Associative Memory is All You Need](http://arxiv.org/abs/2511.19740v1) | Tergel Molom-Ochir et al. | 2025-11-24 |
 | [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v1) | Junsung Lee et al. | 2025-11-25 |
 | [One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues](http://arxiv.org/abs/2511.20784v1) | Sindhuja Penchala et al. | 2025-11-25 |
-| [Architecture Decoupling Is Not All You Need For Unified Multimodal Model](http://arxiv.org/abs/2511.22663v2) | Dian Zheng et al. | 2025-11-27 |
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
 | ["All You Need" is Not All You Need for a Paper Title: On the Origins of a Scientific Meme](http://arxiv.org/abs/2512.19700v1) | Anton Alyakin | 2025-12-03 |
