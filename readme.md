@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--16-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -711,6 +711,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Utility Function is All You Need: LLM-based Congestion Control](http://arxiv.org/abs/2603.10357v1) | Neta Rozen-Schiff et al. | 2026-03-11 |
 | [Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration](http://arxiv.org/abs/2603.10664v1) | Alexandre De Masi | 2026-03-11 |
 | [Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations](http://arxiv.org/abs/2603.12813v1) | Pascal Schäfer et al. | 2026-03-13 |
+| [LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v1) | Dingyan Zhang et al. | 2026-03-16 |
 
 
 ## FAQ
