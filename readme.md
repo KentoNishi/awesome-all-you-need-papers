@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -638,7 +638,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [SVAC: Scaling Is All You Need For Referring Video Object Segmentation](http://arxiv.org/abs/2509.24109v1) | Li Zhang et al. | 2025-09-28 |
 | [CURA: Size Isnt All You Need -- A Compact Universal Architecture for On-Device Intelligence](http://arxiv.org/abs/2509.24601v1) | Jae-Bum Seo et al. | 2025-09-29 |
 | [Is Sequence Information All You Need for Bayesian Optimization of Antibodies?](http://arxiv.org/abs/2509.24933v1) | Sebastian W. Ober et al. | 2025-09-29 |
-| [Indirect Prompt Injections: Are Firewalls All You Need, or Stronger Benchmarks?](http://arxiv.org/abs/2510.05244v1) | Rishika Bhagwatkar et al. | 2025-10-06 |
+| [Indirect Prompt Injections: Are Firewalls All You Need, or Stronger Benchmarks?](http://arxiv.org/abs/2510.05244v2) | Rishika Bhagwatkar et al. | 2025-10-06 |
 | [Diversity Is All You Need for Contrastive Learning: Spectral Bounds on Gradient Magnitudes](http://arxiv.org/abs/2510.05767v1) | Peter Ochieng | 2025-10-07 |
 | [A Small Collusion is All You Need](http://arxiv.org/abs/2510.05986v2) | Yotam Gafni | 2025-10-07 |
 | [Slicing Is All You Need: Towards A Universal One-Sided Algorithm for Distributed Matrix Multiplication](http://arxiv.org/abs/2510.08874v1) | Benjamin Brock et al. | 2025-10-10 |
@@ -713,6 +713,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations](http://arxiv.org/abs/2603.12813v1) | Pascal Schäfer et al. | 2026-03-13 |
 | [LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v1) | Dingyan Zhang et al. | 2026-03-16 |
 | [The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference](http://arxiv.org/abs/2603.19664v1) | Kaleem Ullah Qasim et al. | 2026-03-20 |
+| [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
+| [LLM Router: Prefill is All You Need](http://arxiv.org/abs/2603.20895v1) | Tanay Varshney et al. | 2026-03-21 |
 
 
 ## FAQ
