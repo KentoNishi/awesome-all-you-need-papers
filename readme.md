@@ -711,7 +711,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Utility Function is All You Need: LLM-based Congestion Control](http://arxiv.org/abs/2603.10357v1) | Neta Rozen-Schiff et al. | 2026-03-11 |
 | [Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration](http://arxiv.org/abs/2603.10664v1) | Alexandre De Masi | 2026-03-11 |
 | [Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations](http://arxiv.org/abs/2603.12813v1) | Pascal Schäfer et al. | 2026-03-13 |
-| [LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v1) | Dingyan Zhang et al. | 2026-03-16 |
+| [LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v2) | Dingyan Zhang et al. | 2026-03-16 |
 | [The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference](http://arxiv.org/abs/2603.19664v1) | Kaleem Ullah Qasim et al. | 2026-03-20 |
 | [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
 | [LLM Router: Prefill is All You Need](http://arxiv.org/abs/2603.20895v1) | Tanay Varshney et al. | 2026-03-21 |
