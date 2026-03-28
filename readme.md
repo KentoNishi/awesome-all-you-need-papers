@@ -606,7 +606,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Diversity All You Need for Scalable Robotic Manipulation?](http://arxiv.org/abs/2507.06219v1) | Modi Shi et al. | 2025-07-08 |
 | [Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine](http://arxiv.org/abs/2507.08716v3) | Kongwu Huang et al. | 2025-07-11 |
 | [Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1) | Daniel Nichols et al. | 2025-07-15 |
-| [Is memory all you need? Data-driven Mori-Zwanzig modeling of Lagrangian particle dynamics in turbulent flows](http://arxiv.org/abs/2507.16058v1) | Xander de Wit et al. | 2025-07-21 |
 | [Are Foundation Models All You Need for Zero-shot Face Presentation Attack Detection?](http://arxiv.org/abs/2507.16393v1) | Lazaro Janier Gonzalez-Sole et al. | 2025-07-22 |
 | [LoRA is All You Need for Safety Alignment of Reasoning LLMs](http://arxiv.org/abs/2507.17075v4) | Yihao Xue et al. | 2025-07-22 |
 | [Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks](http://arxiv.org/abs/2507.17747v2) | Linbo Cao et al. | 2025-07-23 |
