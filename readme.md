@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -714,6 +714,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference](http://arxiv.org/abs/2603.19664v1) | Kaleem Ullah Qasim et al. | 2026-03-20 |
 | [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
 | [LLM Router: Prefill is All You Need](http://arxiv.org/abs/2603.20895v1) | Tanay Varshney et al. | 2026-03-21 |
+| [Data is All You Need: Markov Chain Car-Following (MC-CF) Model](http://arxiv.org/abs/2603.27909v1) | Sungyong Chung et al. | 2026-03-29 |
 
 
 ## FAQ
