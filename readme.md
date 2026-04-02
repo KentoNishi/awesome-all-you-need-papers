@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--03--31-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--01-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -666,7 +666,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer](http://arxiv.org/abs/2511.14691v1) | Kallol Mondal et al. | 2025-11-18 |
 | [One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements](http://arxiv.org/abs/2511.16966v1) | Yiheng Bian et al. | 2025-11-21 |
 | [CAMformer: Associative Memory is All You Need](http://arxiv.org/abs/2511.19740v1) | Tergel Molom-Ochir et al. | 2025-11-24 |
-| [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v1) | Junsung Lee et al. | 2025-11-25 |
+| [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v2) | Junsung Lee et al. | 2025-11-25 |
 | [One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues](http://arxiv.org/abs/2511.20784v1) | Sindhuja Penchala et al. | 2025-11-25 |
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
@@ -704,7 +704,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](http://arxiv.org/abs/2602.22197v1) | Xavier Pleimling et al. | 2026-02-25 |
 | [Attention Smoothing Is All You Need For Unlearning](http://arxiv.org/abs/2603.01285v1) | Saleh Zare Zade et al. | 2026-03-01 |
 | [Convex and Non-convex Federated Learning with Stale Stochastic Gradients: Diminishing Step Size is All You Need](http://arxiv.org/abs/2603.02639v1) | Xinran Zheng et al. | 2026-03-03 |
-| [Edges Are All You Need: Robust Gait Recognition via Label-Free Structure](http://arxiv.org/abs/2603.05537v1) | Chao Zhang et al. | 2026-03-04 |
 | [MoE Lens -- An Expert Is All You Need](http://arxiv.org/abs/2603.05806v1) | Marmik Chaudhari et al. | 2026-03-06 |
 | [GSVD for Geometry-Grounded Dataset Comparison: An Alignment Angle Is All You Need](http://arxiv.org/abs/2603.10283v1) | Eduarda de Souza Marques et al. | 2026-03-10 |
 | [Utility Function is All You Need: LLM-based Congestion Control](http://arxiv.org/abs/2603.10357v1) | Neta Rozen-Schiff et al. | 2026-03-11 |
@@ -713,9 +712,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v2) | Dingyan Zhang et al. | 2026-03-16 |
 | [The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference](http://arxiv.org/abs/2603.19664v1) | Kaleem Ullah Qasim et al. | 2026-03-20 |
 | [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
-| [LLM Router: Prefill is All You Need](http://arxiv.org/abs/2603.20895v1) | Tanay Varshney et al. | 2026-03-21 |
 | [Data is All You Need: Markov Chain Car-Following (MC-CF) Model](http://arxiv.org/abs/2603.27909v1) | Sungyong Chung et al. | 2026-03-29 |
 | [SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving](http://arxiv.org/abs/2603.29163v1) | Wenchao Sun et al. | 2026-03-31 |
+| [Internal APIs Are All You Need: Shadow APIs, Shared Discovery, and the Case Against Browser-First Agent Architectures](http://arxiv.org/abs/2604.00694v1) | Lewis Tham et al. | 2026-04-01 |
 
 
 ## FAQ
