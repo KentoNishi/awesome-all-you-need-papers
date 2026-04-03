@@ -715,6 +715,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Data is All You Need: Markov Chain Car-Following (MC-CF) Model](http://arxiv.org/abs/2603.27909v1) | Sungyong Chung et al. | 2026-03-29 |
 | [SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving](http://arxiv.org/abs/2603.29163v1) | Wenchao Sun et al. | 2026-03-31 |
 | [Internal APIs Are All You Need: Shadow APIs, Shared Discovery, and the Case Against Browser-First Agent Architectures](http://arxiv.org/abs/2604.00694v1) | Lewis Tham et al. | 2026-04-01 |
+| [Fuzzing with Agents? Generators Are All You Need](http://arxiv.org/abs/2604.01442v1) | Vasudev Vikram et al. | 2026-04-01 |
 
 
 ## FAQ
