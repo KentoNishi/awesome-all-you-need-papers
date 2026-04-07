@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--01-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -716,6 +716,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving](http://arxiv.org/abs/2603.29163v1) | Wenchao Sun et al. | 2026-03-31 |
 | [Internal APIs Are All You Need: Shadow APIs, Shared Discovery, and the Case Against Browser-First Agent Architectures](http://arxiv.org/abs/2604.00694v1) | Lewis Tham et al. | 2026-04-01 |
 | [Fuzzing with Agents? Generators Are All You Need](http://arxiv.org/abs/2604.01442v1) | Vasudev Vikram et al. | 2026-04-01 |
+| [Context is All You Need](http://arxiv.org/abs/2604.04364v1) | Jean Erik Delanois et al. | 2026-04-06 |
+| [Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection](http://arxiv.org/abs/2604.04658v1) | Yihan Sun et al. | 2026-04-06 |
 
 
 ## FAQ
