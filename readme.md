@@ -671,7 +671,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
 | ["All You Need" is Not All You Need for a Paper Title: On the Origins of a Scientific Meme](http://arxiv.org/abs/2512.19700v1) | Anton Alyakin | 2025-12-03 |
-| [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v2) | Manh Nguyen et al. | 2025-12-04 |
+| [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v3) | Manh Nguyen et al. | 2025-12-04 |
 | [Pseudo Anomalies Are All You Need: Diffusion-Based Generation for Weakly-Supervised Video Anomaly Detection](http://arxiv.org/abs/2512.06845v1) | Satoshi Hashimoto et al. | 2025-12-07 |
 | [Is GPT-OSS All You Need? Benchmarking Large Language Models for Financial Intelligence and the Surprising Efficiency Paradox](http://arxiv.org/abs/2512.14717v1) | Ziqian Bi et al. | 2025-12-09 |
 | [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](http://arxiv.org/abs/2512.08417v2) | Yinan Zhong et al. | 2025-12-09 |
