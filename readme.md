@@ -716,7 +716,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Fuzzing with Agents? Generators Are All You Need](http://arxiv.org/abs/2604.01442v1) | Vasudev Vikram et al. | 2026-04-01 |
 | [Context is All You Need](http://arxiv.org/abs/2604.04364v1) | Jean Erik Delanois et al. | 2026-04-06 |
 | [Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection](http://arxiv.org/abs/2604.04658v1) | Yihan Sun et al. | 2026-04-06 |
-| [Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data](http://arxiv.org/abs/2604.07092v1) | Mojgan Madadikhaljan et al. | 2026-04-08 |
+| [Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data](http://arxiv.org/abs/2604.07092v2) | Mojgan Madadikhaljan et al. | 2026-04-08 |
 
 
 ## FAQ
