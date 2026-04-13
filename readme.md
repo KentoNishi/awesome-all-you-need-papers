@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--08-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--09-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -654,7 +654,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Revisiting Social Welfare in Bandits: UCB is (Nearly) All You Need](http://arxiv.org/abs/2510.21312v1) | Dhruv Sarkar et al. | 2025-10-24 |
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
 | [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Self-Attention Transformers](http://arxiv.org/abs/2510.23912v6) | Marko Karbevski et al. | 2025-10-27 |
-| [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v3) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
+| [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v4) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
 | [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v1) | Rick van der Heijden | 2025-11-04 |
 | [Block Rotation is All You Need for MXFP4 Quantization](http://arxiv.org/abs/2511.04214v1) | Yuantian Shao et al. | 2025-11-06 |
 | [Attention and Compression is all you need for Controllably Efficient Language Models](http://arxiv.org/abs/2511.05313v1) | Jatin Prakash et al. | 2025-11-07 |
@@ -708,6 +708,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration](http://arxiv.org/abs/2603.10664v1) | Alexandre De Masi | 2026-03-11 |
 | [Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations](http://arxiv.org/abs/2603.12813v1) | Pascal Schäfer et al. | 2026-03-13 |
 | [LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v2) | Dingyan Zhang et al. | 2026-03-16 |
+| [EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context](http://arxiv.org/abs/2604.08556v1) | Arth Singh | 2026-03-17 |
 | [The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference](http://arxiv.org/abs/2603.19664v1) | Kaleem Ullah Qasim et al. | 2026-03-20 |
 | [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
 | [Data is All You Need: Markov Chain Car-Following (MC-CF) Model](http://arxiv.org/abs/2603.27909v1) | Sungyong Chung et al. | 2026-03-29 |
@@ -717,6 +718,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Context is All You Need](http://arxiv.org/abs/2604.04364v1) | Jean Erik Delanois et al. | 2026-04-06 |
 | [Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection](http://arxiv.org/abs/2604.04658v1) | Yihan Sun et al. | 2026-04-06 |
 | [Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data](http://arxiv.org/abs/2604.07092v2) | Mojgan Madadikhaljan et al. | 2026-04-08 |
+| [A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need](http://arxiv.org/abs/2604.08749v1) | Hananel Hazan et al. | 2026-04-09 |
 
 
 ## FAQ
