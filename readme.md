@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--09-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -718,7 +718,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Context is All You Need](http://arxiv.org/abs/2604.04364v1) | Jean Erik Delanois et al. | 2026-04-06 |
 | [Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection](http://arxiv.org/abs/2604.04658v1) | Yihan Sun et al. | 2026-04-06 |
 | [Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data](http://arxiv.org/abs/2604.07092v2) | Mojgan Madadikhaljan et al. | 2026-04-08 |
-| [A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need](http://arxiv.org/abs/2604.08749v1) | Hananel Hazan et al. | 2026-04-09 |
+| [A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need](http://arxiv.org/abs/2604.08749v2) | Hananel Hazan et al. | 2026-04-09 |
+| [Perception Is All You Need: A Neuroscience Framework for Low Cost Sensorless Gaze in HRI](http://arxiv.org/abs/2604.09829v1) | Mason Kadem | 2026-04-10 |
 
 
 ## FAQ
