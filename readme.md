@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--14-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -642,7 +642,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Scaling Law in LLM Simulated Personality: More Detailed and Realistic Persona Profile Is All You Need](http://arxiv.org/abs/2510.11734v1) | Yuqi Bai et al. | 2025-10-10 |
 | [LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1) | Linghan Huang et al. | 2025-10-11 |
 | [Context-Selective State Space Models: Feedback is All You Need](http://arxiv.org/abs/2510.14027v2) | Riccardo Zattra et al. | 2025-10-15 |
-| [Instructions are all you need: Self-supervised Reinforcement Learning for Instruction Following](http://arxiv.org/abs/2510.14420v3) | Qingyu Ren et al. | 2025-10-16 |
+| [Instructions are all you need: Self-supervised Reinforcement Learning for Instruction Following](http://arxiv.org/abs/2510.14420v4) | Qingyu Ren et al. | 2025-10-16 |
 | [Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion](http://arxiv.org/abs/2510.14947v2) | Blake Werner et al. | 2025-10-16 |
 | [Attention Is All You Need for KV Cache in Diffusion LLMs](http://arxiv.org/abs/2510.14973v2) | Quan Nguyen-Tri et al. | 2025-10-16 |
 | [All You Need is One: Capsule Prompt Tuning with a Single Vector](http://arxiv.org/abs/2510.16670v1) | Yiyang Liu et al. | 2025-10-19 |
@@ -720,6 +720,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data](http://arxiv.org/abs/2604.07092v2) | Mojgan Madadikhaljan et al. | 2026-04-08 |
 | [A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need](http://arxiv.org/abs/2604.08749v2) | Hananel Hazan et al. | 2026-04-09 |
 | [Perception Is All You Need: A Neuroscience Framework for Low Cost Sensorless Gaze in HRI](http://arxiv.org/abs/2604.09829v1) | Mason Kadem | 2026-04-10 |
+| [Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation](http://arxiv.org/abs/2604.12372v1) | Sayak Chakrabarty et al. | 2026-04-14 |
 
 
 ## FAQ
