@@ -721,6 +721,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need](http://arxiv.org/abs/2604.08749v2) | Hananel Hazan et al. | 2026-04-09 |
 | [Perception Is All You Need: A Neuroscience Framework for Low Cost Sensorless Gaze in HRI](http://arxiv.org/abs/2604.09829v1) | Mason Kadem | 2026-04-10 |
 | [Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation](http://arxiv.org/abs/2604.12372v1) | Sayak Chakrabarty et al. | 2026-04-14 |
+| [Magnitude Is All You Need? Rethinking Phase in Quantum Encoding of Complex SAR Data](http://arxiv.org/abs/2604.14229v1) | Sakthi Prabhu Gunasekar et al. | 2026-04-14 |
+| [English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training](http://arxiv.org/abs/2604.13286v1) | Mehak Dhaliwal et al. | 2026-04-14 |
 
 
 ## FAQ
