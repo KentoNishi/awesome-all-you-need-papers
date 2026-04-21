@@ -201,7 +201,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Hoyer regularizer is all you need for ultra low-latency spiking neural networks](http://arxiv.org/abs/2212.10170v1) | Gourav Datta et al. | 2022-12-20 |
 | [In-Sensor \& Neuromorphic Computing are all you need for Energy Efficient Computer Vision](http://arxiv.org/abs/2212.10881v1) | Gourav Datta et al. | 2022-12-21 |
 | [ChatGPT is not all you need. A State of the Art Review of large Generative AI models](http://arxiv.org/abs/2301.04655v1) | Roberto Gozalo-Brizuela et al. | 2023-01-11 |
-| [Neural Operator: Is data all you need to model the world? An insight into the impact of Physics Informed Machine Learning](http://arxiv.org/abs/2301.13331v2) | Hrishikesh Viswanath et al. | 2023-01-30 |
+| [Neural Operator: Is data all you need to model the world? An insight into the paradigm of data-driven scientific ML](http://arxiv.org/abs/2301.13331v3) | Hrishikesh Viswanath et al. | 2023-01-30 |
 | [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](http://arxiv.org/abs/2302.02615v2) | Jingyao Li et al. | 2023-02-06 |
 | [A Random Dictator Is All You Need](http://arxiv.org/abs/2302.03667v2) | Itai Arieli et al. | 2023-02-07 |
 | [Conformers are All You Need for Visual Speech Recognition](http://arxiv.org/abs/2302.10915v2) | Oscar Chang et al. | 2023-02-17 |
