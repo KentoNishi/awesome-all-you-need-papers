@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -653,7 +653,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models](http://arxiv.org/abs/2510.23633v1) | Xun Su et al. | 2025-10-24 |
 | [Revisiting Social Welfare in Bandits: UCB is (Nearly) All You Need](http://arxiv.org/abs/2510.21312v1) | Dhruv Sarkar et al. | 2025-10-24 |
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
-| [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Self-Attention Transformers](http://arxiv.org/abs/2510.23912v6) | Marko Karbevski et al. | 2025-10-27 |
+| [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Self-Attention Transformers](http://arxiv.org/abs/2510.23912v7) | Marko Karbevski et al. | 2025-10-27 |
 | [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v4) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
 | [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v1) | Rick van der Heijden | 2025-11-04 |
 | [Block Rotation is All You Need for MXFP4 Quantization](http://arxiv.org/abs/2511.04214v1) | Yuantian Shao et al. | 2025-11-06 |
@@ -724,6 +724,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Magnitude Is All You Need? Rethinking Phase in Quantum Encoding of Complex SAR Data](http://arxiv.org/abs/2604.14229v1) | Sakthi Prabhu Gunasekar et al. | 2026-04-14 |
 | [English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training](http://arxiv.org/abs/2604.13286v1) | Mehak Dhaliwal et al. | 2026-04-14 |
 | [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](http://arxiv.org/abs/2604.18639v1) | Zhiyin Yu et al. | 2026-04-19 |
+| [Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](http://arxiv.org/abs/2604.21816v1) | Anuj Sadani et al. | 2026-04-23 |
 
 
 ## FAQ
