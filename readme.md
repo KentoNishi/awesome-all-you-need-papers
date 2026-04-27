@@ -597,7 +597,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search](http://arxiv.org/abs/2506.23100v1) | Jiayi Zhang et al. | 2025-06-29 |
 | [State and Memory is All You Need for Robust and Reliable AI Agents](http://arxiv.org/abs/2507.00081v1) | Matthew Muhoberac et al. | 2025-06-30 |
 | [Similarity Memory Prior is All You Need for Medical Image Segmentation](http://arxiv.org/abs/2507.00585v3) | Hao Tang et al. | 2025-07-01 |
-| [Intrinsic Fingerprint of LLMs: Continue Training is NOT All You Need to Steal A Model!](http://arxiv.org/abs/2507.03014v1) | Do-hyeon Yoon et al. | 2025-07-02 |
+| [Intrinsic Fingerprint of LLMs: Continue Training is NOT All You Need to Steal A Model!](http://arxiv.org/abs/2507.03014v2) | Do-hyeon Yoon et al. | 2025-07-02 |
 | [Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1) | Riccardo Cantini et al. | 2025-07-03 |
 | [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](http://arxiv.org/abs/2507.03905v5) | Rang Meng et al. | 2025-07-05 |
 | [When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need](http://arxiv.org/abs/2507.04119v1) | Ziming Hong et al. | 2025-07-05 |
