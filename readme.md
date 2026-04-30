@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--23-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--04--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -725,6 +725,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training](http://arxiv.org/abs/2604.13286v1) | Mehak Dhaliwal et al. | 2026-04-14 |
 | [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](http://arxiv.org/abs/2604.18639v1) | Zhiyin Yu et al. | 2026-04-19 |
 | [Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](http://arxiv.org/abs/2604.21816v1) | Anuj Sadani et al. | 2026-04-23 |
+| [Multimodal LLMs are not all you need for Pediatric Speech Language Pathology](http://arxiv.org/abs/2604.26568v1) | Darren Fürst et al. | 2026-04-29 |
 
 
 ## FAQ
