@@ -650,7 +650,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [SITS-DECO: A Generative Decoder Is All You Need For Multitask Satellite Image Time Series Modelling](http://arxiv.org/abs/2510.21813v1) | Samuel J. Barrett et al. | 2025-10-21 |
 | [Triangle Multiplication Is All You Need For Biomolecular Structure Representations](http://arxiv.org/abs/2510.18870v2) | Jeffrey Ouyang-Zhang et al. | 2025-10-21 |
 | [Some Attention is All You Need for Retrieval](http://arxiv.org/abs/2510.19861v1) | Felix Michalak et al. | 2025-10-21 |
-| [Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models](http://arxiv.org/abs/2510.23633v1) | Xun Su et al. | 2025-10-24 |
+| [Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models](http://arxiv.org/abs/2510.23633v2) | Xun Su et al. | 2025-10-24 |
 | [Revisiting Social Welfare in Bandits: UCB is (Nearly) All You Need](http://arxiv.org/abs/2510.21312v1) | Dhruv Sarkar et al. | 2025-10-24 |
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
 | [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Self-Attention Transformers](http://arxiv.org/abs/2510.23912v7) | Marko Karbevski et al. | 2025-10-27 |
@@ -721,7 +721,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need](http://arxiv.org/abs/2604.08749v2) | Hananel Hazan et al. | 2026-04-09 |
 | [Perception Is All You Need: A Neuroscience Framework for Low Cost Sensorless Gaze in HRI](http://arxiv.org/abs/2604.09829v1) | Mason Kadem | 2026-04-10 |
 | [Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation](http://arxiv.org/abs/2604.12372v1) | Sayak Chakrabarty et al. | 2026-04-14 |
-| [Magnitude Is All You Need? Rethinking Phase in Quantum Encoding of Complex SAR Data](http://arxiv.org/abs/2604.14229v1) | Sakthi Prabhu Gunasekar et al. | 2026-04-14 |
+| [Magnitude Is All You Need? Rethinking Phase in Quantum Encoding of Complex SAR Data](http://arxiv.org/abs/2604.14229v2) | Sakthi Prabhu Gunasekar et al. | 2026-04-14 |
 | [English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training](http://arxiv.org/abs/2604.13286v1) | Mehak Dhaliwal et al. | 2026-04-14 |
 | [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](http://arxiv.org/abs/2604.18639v1) | Zhiyin Yu et al. | 2026-04-19 |
 | [Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](http://arxiv.org/abs/2604.21816v1) | Anuj Sadani et al. | 2026-04-23 |
