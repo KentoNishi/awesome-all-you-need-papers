@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -680,7 +680,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v2) | Albert Dorador | 2025-12-15 |
 | [Keyword search is all you need: Achieving RAG-Level Performance without vector databases using agentic tool use](http://arxiv.org/abs/2602.23368v1) | Shreyas Subramanian et al. | 2025-12-19 |
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
-| [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v2) | Tillmann Rheude et al. | 2025-12-28 |
+| [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v3) | Tillmann Rheude et al. | 2025-12-28 |
 | [Self-Verification is All You Need To Pass The Japanese Bar Examination](http://arxiv.org/abs/2601.03144v1) | Andrew Shin | 2026-01-06 |
 | [Attention Isn't All You Need for Emotion Recognition:Domain Features Outperform Transformers on the EAV Dataset](http://arxiv.org/abs/2601.22161v2) | Anmol Guragain | 2026-01-07 |
 | [CliffordNet: All You Need is Geometric Algebra](http://arxiv.org/abs/2601.06793v2) | Zhongping Ji | 2026-01-11 |
@@ -727,6 +727,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](http://arxiv.org/abs/2604.21816v1) | Anuj Sadani et al. | 2026-04-23 |
 | [Multimodal LLMs are not all you need for Pediatric Speech Language Pathology](http://arxiv.org/abs/2604.26568v1) | Darren Fürst et al. | 2026-04-29 |
 | [Perturbation is All You Need for Extrapolating Language Models](http://arxiv.org/abs/2605.04344v1) | Zetai Cen et al. | 2026-05-05 |
+| [Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models](http://arxiv.org/abs/2605.05372v1) | Pranav A et al. | 2026-05-06 |
 
 
 ## FAQ
