@@ -411,7 +411,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Accuracy is Not All You Need](http://arxiv.org/abs/2407.09141v1) | Abhinav Dutta et al. | 2024-07-12 |
 | [Is Contrasting All You Need? Contrastive Learning for the Detection and Attribution of AI-generated Text](http://arxiv.org/abs/2407.09364v2) | Lucio La Cava et al. | 2024-07-12 |
 | [Rethinking Learned Image Compression: Context is All You Need](http://arxiv.org/abs/2407.11590v3) | Jixiang Luo | 2024-07-16 |
-| [Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models using Stepwise Spectral Analysis](http://arxiv.org/abs/2407.12173v1) | Haeil Lee et al. | 2024-07-16 |
+| [Beta Sampling is All You Need: Efficient Image Generation Strategy for Diffusion Models using Stepwise Spectral Analysis](http://arxiv.org/abs/2407.12173v2) | Haeil Lee et al. | 2024-07-16 |
 | [Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning](http://arxiv.org/abs/2407.15007v2) | Dylan J. Foster et al. | 2024-07-20 |
 | [CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models](http://arxiv.org/abs/2407.15886v2) | Zheng Chong et al. | 2024-07-21 |
 | [Sparse Prior Is Not All You Need: When Differential Directionality Meets Saliency Coherence for Infrared Small Target Detection](http://arxiv.org/abs/2407.15369v1) | Fei Zhou et al. | 2024-07-22 |
@@ -624,6 +624,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1) | Phuoc-Nguyen Bui et al. | 2025-09-04 |
 | [Zero-Freeness is All You Need: A Weitz-Type FPTAS for the Entire Lee-Yang Zero-Free Region](http://arxiv.org/abs/2509.06623v2) | Shuai Shao et al. | 2025-09-08 |
 | [All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching](http://arxiv.org/abs/2509.07225v1) | Ze Sheng et al. | 2025-09-08 |
+| [Verbalized Algorithms: Classical Algorithms are All You Need (Mostly)](http://arxiv.org/abs/2509.08150v5) | Supriya Lall et al. | 2025-09-09 |
 | [Spectral Bottleneck in Sinusoidal Representation Networks: Noise is All You Need](http://arxiv.org/abs/2509.09719v2) | Hemanth Chandravamsi et al. | 2025-09-09 |
 | [Functional Groups are All you Need for Chemically Interpretable Molecular Property Prediction](http://arxiv.org/abs/2509.09619v1) | Roshan Balaji et al. | 2025-09-11 |
 | [Cycle is All You Need: More Is Different](http://arxiv.org/abs/2509.21340v1) | Xin Li | 2025-09-15 |
@@ -693,7 +694,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Parametric Knowledge is Not All You Need: Toward Honest Large Language Models via Retrieval of Pretraining Data](http://arxiv.org/abs/2601.21218v1) | Christopher Adrian Kusuma et al. | 2026-01-29 |
 | [Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss](http://arxiv.org/abs/2601.22745v1) | Yuanhao Pu et al. | 2026-01-30 |
 | [Text is All You Need for Vision-Language Model Jailbreaking](http://arxiv.org/abs/2602.00420v1) | Yihang Chen et al. | 2026-01-31 |
-| [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v1) | Yashas Shende et al. | 2026-02-12 |
+| [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v2) | Yashas Shende et al. | 2026-02-12 |
 | [One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](http://arxiv.org/abs/2602.14474v2) | Amith Bhat et al. | 2026-02-16 |
 | [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v2) | Amirhosein Javadi et al. | 2026-02-20 |
 | [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v4) | Daniel Romero-Alvarado et al. | 2026-02-20 |
