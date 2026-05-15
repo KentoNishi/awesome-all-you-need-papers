@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--14-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -731,6 +731,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models](http://arxiv.org/abs/2605.05372v1) | Pranav A et al. | 2026-05-06 |
 | [Backbone is All You Need: Assessing Vulnerabilities of Frozen Foundation Models in Synthetic Image Forensics](http://arxiv.org/abs/2605.13381v1) | Chiara Musso et al. | 2026-05-13 |
 | [Attention Once Is All You Need: Efficient Streaming Inference with Stateful Transformers](http://arxiv.org/abs/2605.13784v1) | Victor Norgren | 2026-05-13 |
+| [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](http://arxiv.org/abs/2605.15184v1) | Sahil Sen et al. | 2026-05-14 |
 
 
 ## FAQ
