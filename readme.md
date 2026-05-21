@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -465,7 +465,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Cross-Entropy Is All You Need To Invert the Data Generating Process](http://arxiv.org/abs/2410.21869v3) | Patrik Reizinger et al. | 2024-10-29 |
 | [Attention is All You Need to Optimize Wind Farm Operations and Maintenance](http://arxiv.org/abs/2410.24052v1) | Iman Kazemian et al. | 2024-10-31 |
 | [One protein is all you need](http://arxiv.org/abs/2411.02109v3) | Anton Bushuiev et al. | 2024-11-04 |
-| [Redundancy Is All You Need](http://arxiv.org/abs/2411.03451v1) | Joshua Brakensiek et al. | 2024-11-05 |
+| [Redundancy Is All You Need (for CSP Sparsification)](http://arxiv.org/abs/2411.03451v2) | Joshua Brakensiek et al. | 2024-11-05 |
 | [Lexicalization Is All You Need: Examining the Impact of Lexical Knowledge in a Compositional QALD System](http://arxiv.org/abs/2411.03906v2) | David Maria Schmidt et al. | 2024-11-06 |
 | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](http://arxiv.org/abs/2411.05006v1) | Jun-Kun Chen et al. | 2024-11-07 |
 | [Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation](http://arxiv.org/abs/2411.07179v1) | Ismail Cosandal et al. | 2024-11-11 |
@@ -519,7 +519,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Image compositing is all you need for data augmentation](http://arxiv.org/abs/2502.13936v1) | Ang Jia Ning Shermaine et al. | 2025-02-19 |
 | [Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting](http://arxiv.org/abs/2502.14525v1) | Yannick Wölker et al. | 2025-02-20 |
 | [Sparsity May Be All You Need: Sparse Random Parameter Adaptation](http://arxiv.org/abs/2502.15975v3) | Jesus Rios et al. | 2025-02-21 |
-| [All You Need for Counterfactual Explainability Is Principled and Reliable Estimate of Aleatoric and Epistemic Uncertainty](http://arxiv.org/abs/2502.17007v1) | Kacper Sokol et al. | 2025-02-24 |
 | [BEYONDWORDS is All You Need: Agentic Generative AI based Social Media Themes Extractor](http://arxiv.org/abs/2503.01880v1) | Mohammed-Khalil Ghali et al. | 2025-02-26 |
 | [Memory and Bandwidth are All You Need for Fully Sharded Data Parallel](http://arxiv.org/abs/2504.03655v1) | Jiangtao Wang et al. | 2025-03-04 |
 | [CORDIC Is All You Need](http://arxiv.org/abs/2503.11685v1) | Omkar Kokane et al. | 2025-03-04 |
@@ -647,7 +646,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion](http://arxiv.org/abs/2510.14947v2) | Blake Werner et al. | 2025-10-16 |
 | [Attention Is All You Need for KV Cache in Diffusion LLMs](http://arxiv.org/abs/2510.14973v2) | Quan Nguyen-Tri et al. | 2025-10-16 |
 | [All You Need is One: Capsule Prompt Tuning with a Single Vector](http://arxiv.org/abs/2510.16670v1) | Yiyang Liu et al. | 2025-10-19 |
-| [FineVision: Open Data Is All You Need](http://arxiv.org/abs/2510.17269v1) | Luis Wiedmann et al. | 2025-10-20 |
+| [FineVision: Open Data Is All You Need](http://arxiv.org/abs/2510.17269v2) | Luis Wiedmann et al. | 2025-10-20 |
 | [SITS-DECO: A Generative Decoder Is All You Need For Multitask Satellite Image Time Series Modelling](http://arxiv.org/abs/2510.21813v1) | Samuel J. Barrett et al. | 2025-10-21 |
 | [Triangle Multiplication Is All You Need For Biomolecular Structure Representations](http://arxiv.org/abs/2510.18870v2) | Jeffrey Ouyang-Zhang et al. | 2025-10-21 |
 | [Some Attention is All You Need for Retrieval](http://arxiv.org/abs/2510.19861v1) | Felix Michalak et al. | 2025-10-21 |
@@ -732,6 +731,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Backbone is All You Need: Assessing Vulnerabilities of Frozen Foundation Models in Synthetic Image Forensics](http://arxiv.org/abs/2605.13381v1) | Chiara Musso et al. | 2026-05-13 |
 | [Attention Once Is All You Need: Efficient Streaming Inference with Stateful Transformers](http://arxiv.org/abs/2605.13784v1) | Victor Norgren | 2026-05-13 |
 | [Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](http://arxiv.org/abs/2605.15184v1) | Sahil Sen et al. | 2026-05-14 |
+| [MaTe: Images Are All You Need for Material Transfer via Diffusion Transformer](http://arxiv.org/abs/2605.15660v1) | Nisha Huang et al. | 2026-05-15 |
+| [A Single Atlas is All You Need: Decoder-Side Gaussian Splatting for Immersive Video](http://arxiv.org/abs/2605.17002v1) | Dawid Mieloch et al. | 2026-05-16 |
+| [Protection Is (Nearly) All You Need: Structural Protection Dominates Scoring in Globally Capped KV Eviction](http://arxiv.org/abs/2605.18053v1) | Gabriel Garcia | 2026-05-18 |
+| [One Developer Is All You Need: A Case Study of an AI-Augmented One-Person Squad in a Brownfield Enterprise](http://arxiv.org/abs/2605.18461v2) | Marcelo Vilas Boas et al. | 2026-05-18 |
 
 
 ## FAQ
