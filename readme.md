@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -735,6 +735,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Single Atlas is All You Need: Decoder-Side Gaussian Splatting for Immersive Video](http://arxiv.org/abs/2605.17002v1) | Dawid Mieloch et al. | 2026-05-16 |
 | [Protection Is (Nearly) All You Need: Structural Protection Dominates Scoring in Globally Capped KV Eviction](http://arxiv.org/abs/2605.18053v1) | Gabriel Garcia | 2026-05-18 |
 | [One Developer Is All You Need: A Case Study of an AI-Augmented One-Person Squad in a Brownfield Enterprise](http://arxiv.org/abs/2605.18461v2) | Marcelo Vilas Boas et al. | 2026-05-18 |
+| [Therm-FM: Foundation Model is ALL YOU NEED for 3D-ICs Thermal Simulation](http://arxiv.org/abs/2605.22663v1) | Zhen Huang et al. | 2026-05-21 |
 
 
 ## FAQ
