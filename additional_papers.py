@@ -17,4 +17,5 @@ additional_papers = [
         "DOI: 10.13140/RG.2.2.23841.77923",
         "Ahri Steele",
         "2026-05-22",
+    )
 ]
