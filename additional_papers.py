@@ -11,4 +11,10 @@ additional_papers = [
         "Oliver J. Bear Don't Walk IV et al.",
         "2021-06-21",
     ),
+    (
+        "Identity is All You Need.",
+        "https://www.researchgate.net/publication/405170504_Identity_is_All_You_Need",
+        "DOI: 10.13140/RG.2.2.23841.77923",
+        "Ahri Steele",
+        "2026-05-22",
 ]
