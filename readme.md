@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--27-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -623,7 +623,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attn-Adapter: Attention Is All You Need for Online Few-shot Learner of Vision-Language Model](http://arxiv.org/abs/2509.03895v1) | Phuoc-Nguyen Bui et al. | 2025-09-04 |
 | [Zero-Freeness is All You Need: A Weitz-Type FPTAS for the Entire Lee-Yang Zero-Free Region](http://arxiv.org/abs/2509.06623v2) | Shuai Shao et al. | 2025-09-08 |
 | [All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching](http://arxiv.org/abs/2509.07225v1) | Ze Sheng et al. | 2025-09-08 |
-| [Verbalized Algorithms: Classical Algorithms are All You Need (Mostly)](http://arxiv.org/abs/2509.08150v5) | Supriya Lall et al. | 2025-09-09 |
+| [Verbalized Algorithms: Classical Algorithms are All You Need (Mostly)](http://arxiv.org/abs/2509.08150v6) | Supriya Lall et al. | 2025-09-09 |
 | [Spectral Bottleneck in Sinusoidal Representation Networks: Noise is All You Need](http://arxiv.org/abs/2509.09719v2) | Hemanth Chandravamsi et al. | 2025-09-09 |
 | [Functional Groups are All you Need for Chemically Interpretable Molecular Property Prediction](http://arxiv.org/abs/2509.09619v1) | Roshan Balaji et al. | 2025-09-11 |
 | [Cycle is All You Need: More Is Different](http://arxiv.org/abs/2509.21340v1) | Xin Li | 2025-09-15 |
@@ -688,7 +688,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [From Everything-is-a-File to Files-Are-All-You-Need: How Unix Philosophy Informs the Design of Agentic AI Systems](http://arxiv.org/abs/2601.11672v1) | Deepak Babu Piskala | 2026-01-16 |
 | [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](http://arxiv.org/abs/2601.16294v2) | Evangelos Georganas et al. | 2026-01-22 |
 | [LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification](http://arxiv.org/abs/2601.16549v1) | Meet Raval et al. | 2026-01-23 |
-| [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v2) | Chenyu Mu et al. | 2026-01-25 |
+| [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v3) | Chenyu Mu et al. | 2026-01-25 |
 | [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v2) | Yuhang Zhou et al. | 2026-01-26 |
 | [Parametric Knowledge is Not All You Need: Toward Honest Large Language Models via Retrieval of Pretraining Data](http://arxiv.org/abs/2601.21218v1) | Christopher Adrian Kusuma et al. | 2026-01-29 |
 | [Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss](http://arxiv.org/abs/2601.22745v1) | Yuanhao Pu et al. | 2026-01-30 |
@@ -735,7 +735,11 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Single Atlas is All You Need: Decoder-Side Gaussian Splatting for Immersive Video](http://arxiv.org/abs/2605.17002v1) | Dawid Mieloch et al. | 2026-05-16 |
 | [Protection Is (Nearly) All You Need: Structural Protection Dominates Scoring in Globally Capped KV Eviction](http://arxiv.org/abs/2605.18053v1) | Gabriel Garcia | 2026-05-18 |
 | [One Developer Is All You Need: A Case Study of an AI-Augmented One-Person Squad in a Brownfield Enterprise](http://arxiv.org/abs/2605.18461v2) | Marcelo Vilas Boas et al. | 2026-05-18 |
-| [Therm-FM: Foundation Model is ALL YOU NEED for 3D-ICs Thermal Simulation](http://arxiv.org/abs/2605.22663v1) | Zhen Huang et al. | 2026-05-21 |
+| [Therm-FM: Foundation Model is ALL YOU NEED for 3D-ICs Thermal Simulation](http://arxiv.org/abs/2605.22663v2) | Zhen Huang et al. | 2026-05-21 |
+| [Identity is All You Need.](https://www.researchgate.net/publication/405170504_Identity_is_All_You_Need) | Ahri Steele | 2026-05-22 |
+| [Names Are All You Need: Effective and Safe Regression Test Selection for Python](http://arxiv.org/abs/2605.25356v1) | You Wang et al. | 2026-05-25 |
+| [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v1) | Koyo Fujii et al. | 2026-05-25 |
+| [Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2605.28058v1) | Nils Constantin Hellwig et al. | 2026-05-27 |
 
 
 ## FAQ
