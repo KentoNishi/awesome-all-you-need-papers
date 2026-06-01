@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -740,6 +740,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Names Are All You Need: Effective and Safe Regression Test Selection for Python](http://arxiv.org/abs/2605.25356v1) | You Wang et al. | 2026-05-25 |
 | [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v1) | Koyo Fujii et al. | 2026-05-25 |
 | [Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2605.28058v1) | Nils Constantin Hellwig et al. | 2026-05-27 |
+| [IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation](http://arxiv.org/abs/2605.30230v1) | Hao Wu et al. | 2026-05-28 |
+| [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1) | Nhat-Minh Nguyen | 2026-05-28 |
+| [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
 
 
 ## FAQ
