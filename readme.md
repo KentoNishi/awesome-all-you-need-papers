@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--05--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -664,7 +664,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Attention via Synaptic Plasticity is All You Need: A Biologically Inspired Spiking Neuromorphic Transformer](http://arxiv.org/abs/2511.14691v1) | Kallol Mondal et al. | 2025-11-18 |
 | [One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements](http://arxiv.org/abs/2511.16966v1) | Yiheng Bian et al. | 2025-11-21 |
 | [CAMformer: Associative Memory is All You Need](http://arxiv.org/abs/2511.19740v1) | Tergel Molom-Ochir et al. | 2025-11-24 |
-| [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v2) | Junsung Lee et al. | 2025-11-25 |
+| [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v3) | Junsung Lee et al. | 2025-11-25 |
 | [One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues](http://arxiv.org/abs/2511.20784v1) | Sindhuja Penchala et al. | 2025-11-25 |
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
@@ -743,6 +743,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation](http://arxiv.org/abs/2605.30230v1) | Hao Wu et al. | 2026-05-28 |
 | [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1) | Nhat-Minh Nguyen | 2026-05-28 |
 | [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
+| [The Right Inference Strategy Is All You Need: Nearly Training-Free Domain-Wise Inference for EgoCross Challenge](http://arxiv.org/abs/2606.00829v1) | Leyi Wu et al. | 2026-05-30 |
+| [Forget Attention: Importance-Aware Attention Is All You Need](http://arxiv.org/abs/2606.02332v2) | Suhyeong Shin et al. | 2026-06-01 |
+| [One Transit Is All You Need: Detecting Exoplanets Through Learned Stellar Behaviour with EXOVEIL](http://arxiv.org/abs/2606.02778v1) | Pratik Priyanshu | 2026-06-01 |
+| [Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs](http://arxiv.org/abs/2606.03647v1) | Vincent Limbach et al. | 2026-06-02 |
 
 
 ## FAQ

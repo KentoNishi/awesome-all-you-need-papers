@@ -2,7 +2,7 @@ name: Update Paper List
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 0 * * *
+    - cron: 37 11 * * *
   push:
     branches:
       - master
@@ -11,7 +11,7 @@ jobs:
   update_list:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           submodules: 'recursive'
       - name: Install
