@@ -707,7 +707,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Utility Function is All You Need: LLM-based Congestion Control](http://arxiv.org/abs/2603.10357v1) | Neta Rozen-Schiff et al. | 2026-03-11 |
 | [Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration](http://arxiv.org/abs/2603.10664v1) | Alexandre De Masi | 2026-03-11 |
 | [Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations](http://arxiv.org/abs/2603.12813v1) | Pascal Schäfer et al. | 2026-03-13 |
-| [LMetric: Simple is Better - Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v2) | Dingyan Zhang et al. | 2026-03-16 |
+| [Simple is Better: Multiplication May Be All You Need for LLM Request Scheduling](http://arxiv.org/abs/2603.15202v3) | Dingyan Zhang et al. | 2026-03-16 |
 | [EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context](http://arxiv.org/abs/2604.08556v1) | Arth Singh | 2026-03-17 |
 | [The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference](http://arxiv.org/abs/2603.19664v1) | Kaleem Ullah Qasim et al. | 2026-03-20 |
 | [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
@@ -741,6 +741,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Names Are All You Need: Effective and Safe Regression Test Selection for Python](http://arxiv.org/abs/2605.25356v1) | You Wang et al. | 2026-05-25 |
 | [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v1) | Koyo Fujii et al. | 2026-05-25 |
 | [Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2605.28058v1) | Nils Constantin Hellwig et al. | 2026-05-27 |
+| [FP8 is All You Need (Part 1): Debunking Hardware FP64 as the HPC Holy Grail](http://arxiv.org/abs/2606.06510v1) | Satoshi Matsuoka | 2026-05-28 |
 | [IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation](http://arxiv.org/abs/2605.30230v1) | Hao Wu et al. | 2026-05-28 |
 | [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1) | Nhat-Minh Nguyen | 2026-05-28 |
 | [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
