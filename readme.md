@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--03-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--08-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -488,7 +488,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Predictable Emergent Abilities of LLMs: Proxy Tasks Are All You Need](http://arxiv.org/abs/2412.07111v1) | Bo-Wen Zhang et al. | 2024-12-10 |
 | [All You Need in Knowledge Distillation Is a Tailored Coordinate System](http://arxiv.org/abs/2412.09388v2) | Junjie Zhou et al. | 2024-12-12 |
 | [Embeddings are all you need! Achieving High Performance Medical Image Classification through Training-Free Embedding Analysis](http://arxiv.org/abs/2412.09445v1) | Raj Hansini Khoiwal et al. | 2024-12-12 |
-| [Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](http://arxiv.org/abs/2412.11439v5) | Nianze Tao et al. | 2024-12-16 |
 | [AUEB-Archimedes at RIRAG-2025: Is obligation concatenation really all you need?](http://arxiv.org/abs/2412.11567v1) | Ioannis Chasandras et al. | 2024-12-16 |
 | [No More Adam: Learning Rate Scaling at Initialization is All You Need](http://arxiv.org/abs/2412.11768v2) | Minghao Xu et al. | 2024-12-16 |
 | [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](http://arxiv.org/abs/2412.15605v2) | Brian J Chan et al. | 2024-12-20 |
@@ -667,7 +666,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Low-Resolution Editing is All You Need for High-Resolution Editing](http://arxiv.org/abs/2511.19945v3) | Junsung Lee et al. | 2025-11-25 |
 | [One Patch is All You Need: Joint Surface Material Reconstruction and Classification from Minimal Visual Cues](http://arxiv.org/abs/2511.20784v1) | Sindhuja Penchala et al. | 2025-11-25 |
 | [Experts are all you need: A Composable Framework for Large Language Model Inference](http://arxiv.org/abs/2511.22955v1) | Shrihari Sridharan et al. | 2025-11-28 |
-| [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v1) | Jonas Heinzmann et al. | 2025-11-28 |
+| [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v2) | Jonas Heinzmann et al. | 2025-11-28 |
 | ["All You Need" is Not All You Need for a Paper Title: On the Origins of a Scientific Meme](http://arxiv.org/abs/2512.19700v1) | Anton Alyakin | 2025-12-03 |
 | [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v3) | Manh Nguyen et al. | 2025-12-04 |
 | [Pseudo Anomalies Are All You Need: Diffusion-Based Generation for Weakly-Supervised Video Anomaly Detection](http://arxiv.org/abs/2512.06845v1) | Satoshi Hashimoto et al. | 2025-12-07 |
@@ -747,9 +746,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
 | [The Right Inference Strategy Is All You Need: Nearly Training-Free Domain-Wise Inference for EgoCross Challenge](http://arxiv.org/abs/2606.00829v1) | Leyi Wu et al. | 2026-05-30 |
 | [Forget Attention: Importance-Aware Attention Is All You Need](http://arxiv.org/abs/2606.02332v2) | Suhyeong Shin et al. | 2026-06-01 |
-| [One Transit Is All You Need: Detecting Exoplanets Through Learned Stellar Behaviour with EXOVEIL](http://arxiv.org/abs/2606.02778v1) | Pratik Priyanshu | 2026-06-01 |
+| [One Transit Is All You Need: Detecting Exoplanets Through Learned Stellar Behaviour with EXOVEIL](http://arxiv.org/abs/2606.02778v2) | Pratik Priyanshu | 2026-06-01 |
 | [Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs](http://arxiv.org/abs/2606.03647v1) | Vincent Limbach et al. | 2026-06-02 |
 | [Dual-Stream MLP is All You Need for CTR Prediction](http://arxiv.org/abs/2606.04944v1) | Kesha Ou et al. | 2026-06-03 |
+| [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](http://arxiv.org/abs/2606.09366v1) | Ming-Hao Hsu et al. | 2026-06-08 |
 
 
 ## FAQ
