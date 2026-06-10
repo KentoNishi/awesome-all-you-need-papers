@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--08-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--09-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -689,7 +689,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification](http://arxiv.org/abs/2601.16549v1) | Meet Raval et al. | 2026-01-23 |
 | [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v3) | Chenyu Mu et al. | 2026-01-25 |
 | [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v2) | Yuhang Zhou et al. | 2026-01-26 |
-| [Parametric Knowledge is Not All You Need: Toward Honest Large Language Models via Retrieval of Pretraining Data](http://arxiv.org/abs/2601.21218v1) | Christopher Adrian Kusuma et al. | 2026-01-29 |
+| [Parametric Knowledge is Not All You Need: Toward Honest Large Language Models via Retrieval of Pretraining Data](http://arxiv.org/abs/2601.21218v2) | Christopher Adrian Kusuma et al. | 2026-01-29 |
 | [Is Softmax Loss All You Need? A Principled Analysis of Softmax-family Loss](http://arxiv.org/abs/2601.22745v1) | Yuanhao Pu et al. | 2026-01-30 |
 | [Text is All You Need for Vision-Language Model Jailbreaking](http://arxiv.org/abs/2602.00420v1) | Yihang Chen et al. | 2026-01-31 |
 | [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v2) | Yashas Shende et al. | 2026-02-12 |
@@ -750,6 +750,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs](http://arxiv.org/abs/2606.03647v1) | Vincent Limbach et al. | 2026-06-02 |
 | [Dual-Stream MLP is All You Need for CTR Prediction](http://arxiv.org/abs/2606.04944v1) | Kesha Ou et al. | 2026-06-03 |
 | [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](http://arxiv.org/abs/2606.09366v1) | Ming-Hao Hsu et al. | 2026-06-08 |
+| [A Source Domain is All You Need: Source-Only Cross-OS Transfer Learning for APT Anomaly Detection via Semantic Alignment and Optimal Transport](http://arxiv.org/abs/2606.10216v1) | Sidahmed Benabderrahmanea et al. | 2026-06-08 |
+| [5\% > 100\%: Flatness Preference is All You Need for Multimodal Parameter-Efficient Fine-Tuning](http://arxiv.org/abs/2606.10488v1) | Yifan Zhu et al. | 2026-06-09 |
 
 
 ## FAQ
