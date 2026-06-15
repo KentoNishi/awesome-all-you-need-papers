@@ -754,7 +754,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [5\% > 100\%: Flatness Preference is All You Need for Multimodal Parameter-Efficient Fine-Tuning](http://arxiv.org/abs/2606.10488v1) | Yifan Zhu et al. | 2026-06-09 |
 | [A Stationary (and Therefore Compatible) Representation is All You Need](http://arxiv.org/abs/2606.12488v1) | Niccolò Biondi et al. | 2026-06-10 |
 | [(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](http://arxiv.org/abs/2606.12848v1) | Chen Zhu et al. | 2026-06-11 |
-| [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | Amy Xin et al. | 2026-06-11 |
+| [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v2) | Amy Xin et al. | 2026-06-11 |
 
 
 ## FAQ
