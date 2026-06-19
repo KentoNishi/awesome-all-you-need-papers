@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -755,6 +755,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Stationary (and Therefore Compatible) Representation is All You Need](http://arxiv.org/abs/2606.12488v1) | Niccolò Biondi et al. | 2026-06-10 |
 | [(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](http://arxiv.org/abs/2606.12848v1) | Chen Zhu et al. | 2026-06-11 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v2) | Amy Xin et al. | 2026-06-11 |
+| [Clusters are All You Need: Pre-Training the Tsetlin Machine with Semantic Clusters from Language Models for Interpretability](http://arxiv.org/abs/2606.19815v1) | Jiechao Gao et al. | 2026-06-18 |
 
 
 ## FAQ
