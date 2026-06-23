@@ -756,6 +756,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](http://arxiv.org/abs/2606.12848v1) | Chen Zhu et al. | 2026-06-11 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v2) | Amy Xin et al. | 2026-06-11 |
 | [Clusters are All You Need: Pre-Training the Tsetlin Machine with Semantic Clusters from Language Models for Interpretability](http://arxiv.org/abs/2606.19815v1) | Jiechao Gao et al. | 2026-06-18 |
+| [One Image is All You Need: Agentic One-Shot Image Generation via Text-Based World Models for Long-Tail Spatial Perception](http://arxiv.org/abs/2606.20764v1) | Keqin Zeng et al. | 2026-06-18 |
 
 
 ## FAQ
