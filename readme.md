@@ -741,6 +741,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v1) | Koyo Fujii et al. | 2026-05-25 |
 | [Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2605.28058v1) | Nils Constantin Hellwig et al. | 2026-05-27 |
 | [FP8 is All You Need (Part 1): Debunking Hardware FP64 as the HPC Holy Grail (June 13th version)](http://arxiv.org/abs/2606.06510v2) | Satoshi Matsuoka | 2026-05-28 |
+| [FP8 is All You Need (Part 2): Efficient Ozaki-Bailey Style FFT Through Tensor-core Garner Reformulation and Kulisch Escape Route](http://arxiv.org/abs/2606.23698v1) | Satoshi Matsuoka | 2026-05-28 |
 | [IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation](http://arxiv.org/abs/2605.30230v1) | Hao Wu et al. | 2026-05-28 |
 | [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1) | Nhat-Minh Nguyen | 2026-05-28 |
 | [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
