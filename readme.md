@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--24-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--25-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -759,6 +759,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Clusters are All You Need: Pre-Training the Tsetlin Machine with Semantic Clusters from Language Models for Interpretability](http://arxiv.org/abs/2606.19815v1) | Jiechao Gao et al. | 2026-06-18 |
 | [One Image is All You Need: Agentic One-Shot Image Generation via Text-Based World Models for Long-Tail Spatial Perception](http://arxiv.org/abs/2606.20764v1) | Keqin Zeng et al. | 2026-06-18 |
 | [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](http://arxiv.org/abs/2606.25956v1) | Nathan Painchaud et al. | 2026-06-24 |
+| [GeMoE: Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models](http://arxiv.org/abs/2606.26287v1) | Chaoxiang Cai et al. | 2026-06-24 |
+| [All you need is log](http://arxiv.org/abs/2606.27349v1) | Akshay Balsubramani | 2026-06-25 |
 
 
 ## FAQ
