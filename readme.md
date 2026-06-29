@@ -741,7 +741,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v1) | Koyo Fujii et al. | 2026-05-25 |
 | [Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2605.28058v1) | Nils Constantin Hellwig et al. | 2026-05-27 |
 | [FP8 is All You Need (Part 1): Debunking Hardware FP64 as the HPC Holy Grail (June 13th version)](http://arxiv.org/abs/2606.06510v2) | Satoshi Matsuoka | 2026-05-28 |
-| [FP8 is All You Need (Part 2): Efficient Ozaki-Bailey Style FFT Through Tensor-core Garner Reformulation and Kulisch Escape Route](http://arxiv.org/abs/2606.23698v1) | Satoshi Matsuoka | 2026-05-28 |
+| [FP8 is All You Need (Part 2): Efficient Ozaki-Bailey Style FFT Through Tensor-core Garner Reformulation and Kulisch Escape Route](http://arxiv.org/abs/2606.23698v2) | Satoshi Matsuoka | 2026-05-28 |
 | [IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation](http://arxiv.org/abs/2605.30230v1) | Hao Wu et al. | 2026-05-28 |
 | [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1) | Nhat-Minh Nguyen | 2026-05-28 |
 | [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
@@ -758,7 +758,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v2) | Amy Xin et al. | 2026-06-11 |
 | [Clusters are All You Need: Pre-Training the Tsetlin Machine with Semantic Clusters from Language Models for Interpretability](http://arxiv.org/abs/2606.19815v1) | Jiechao Gao et al. | 2026-06-18 |
 | [One Image is All You Need: Agentic One-Shot Image Generation via Text-Based World Models for Long-Tail Spatial Perception](http://arxiv.org/abs/2606.20764v1) | Keqin Zeng et al. | 2026-06-18 |
-| [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](http://arxiv.org/abs/2606.25956v1) | Nathan Painchaud et al. | 2026-06-24 |
+| [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](http://arxiv.org/abs/2606.25956v2) | Nathan Painchaud et al. | 2026-06-24 |
 | [GeMoE: Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models](http://arxiv.org/abs/2606.26287v1) | Chaoxiang Cai et al. | 2026-06-24 |
 | [All you need is log](http://arxiv.org/abs/2606.27349v1) | Akshay Balsubramani | 2026-06-25 |
 
