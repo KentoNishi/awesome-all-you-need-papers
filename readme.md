@@ -669,7 +669,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Iterative convergence in phase-field brittle fracture computations: exact line search is all you need](http://arxiv.org/abs/2511.23064v2) | Jonas Heinzmann et al. | 2025-11-28 |
 | ["All You Need" is Not All You Need for a Paper Title: On the Origins of a Scientific Meme](http://arxiv.org/abs/2512.19700v1) | Anton Alyakin | 2025-12-03 |
 | [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v3) | Manh Nguyen et al. | 2025-12-04 |
-| [Pseudo Anomalies Are All You Need: Diffusion-Based Generation for Weakly-Supervised Video Anomaly Detection](http://arxiv.org/abs/2512.06845v1) | Satoshi Hashimoto et al. | 2025-12-07 |
 | [Is GPT-OSS All You Need? Benchmarking Large Language Models for Financial Intelligence and the Surprising Efficiency Paradox](http://arxiv.org/abs/2512.14717v1) | Ziqian Bi et al. | 2025-12-09 |
 | [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](http://arxiv.org/abs/2512.08417v2) | Yinan Zhong et al. | 2025-12-09 |
 | [DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](http://arxiv.org/abs/2512.10051v1) | Moulik Gupta et al. | 2025-12-10 |
@@ -762,6 +761,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [GeMoE: Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models](http://arxiv.org/abs/2606.26287v1) | Chaoxiang Cai et al. | 2026-06-24 |
 | [All you need is log](http://arxiv.org/abs/2606.27349v2) | Akshay Balsubramani | 2026-06-25 |
 | [HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](http://arxiv.org/abs/2606.29986v1) | Zhixiang Wei et al. | 2026-06-29 |
+| [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](http://arxiv.org/abs/2606.30923v1) | Ved Sriraman et al. | 2026-06-29 |
 
 
 ## FAQ
