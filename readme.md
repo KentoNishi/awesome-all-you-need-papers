@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--06--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--02-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -737,7 +737,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Therm-FM: Foundation Model is ALL YOU NEED for 3D-ICs Thermal Simulation](http://arxiv.org/abs/2605.22663v2) | Zhen Huang et al. | 2026-05-21 |
 | [Identity is All You Need.](https://www.researchgate.net/publication/405170504_Identity_is_All_You_Need) | Ahri Steele | 2026-05-22 |
 | [Names Are All You Need: Effective and Safe Regression Test Selection for Python](http://arxiv.org/abs/2605.25356v1) | You Wang et al. | 2026-05-25 |
-| [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v1) | Koyo Fujii et al. | 2026-05-25 |
+| [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v2) | Koyo Fujii et al. | 2026-05-25 |
 | [Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2605.28058v1) | Nils Constantin Hellwig et al. | 2026-05-27 |
 | [FP8 is All You Need (Part 1): Debunking Hardware FP64 as the HPC Holy Grail (June 13th version)](http://arxiv.org/abs/2606.06510v2) | Satoshi Matsuoka | 2026-05-28 |
 | [FP8 is All You Need (Part 2): Efficient Ozaki-Bailey Style FFT Through Tensor-core Garner Reformulation and Kulisch Escape Route](http://arxiv.org/abs/2606.23698v2) | Satoshi Matsuoka | 2026-05-28 |
@@ -762,6 +762,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All you need is log](http://arxiv.org/abs/2606.27349v2) | Akshay Balsubramani | 2026-06-25 |
 | [HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](http://arxiv.org/abs/2606.29986v1) | Zhixiang Wei et al. | 2026-06-29 |
 | [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](http://arxiv.org/abs/2606.30923v1) | Ved Sriraman et al. | 2026-06-29 |
+| [Alignment Is All You Need For X-to-4D Generation](http://arxiv.org/abs/2607.02516v1) | Qiaowei Miao et al. | 2026-07-02 |
 
 
 ## FAQ
