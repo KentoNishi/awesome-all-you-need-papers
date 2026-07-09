@@ -764,6 +764,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](http://arxiv.org/abs/2606.30923v1) | Ved Sriraman et al. | 2026-06-29 |
 | [Alignment Is All You Need For X-to-4D Generation](http://arxiv.org/abs/2607.02516v1) | Qiaowei Miao et al. | 2026-07-02 |
 | [Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems](http://arxiv.org/abs/2607.06094v1) | Alexander Apartsin et al. | 2026-07-07 |
+| [A Good Initialization is All You Need for Faithful Visual Attribution](http://arxiv.org/abs/2607.06726v1) | Zihan Gu et al. | 2026-07-07 |
 
 
 ## FAQ
