@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--07-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -609,7 +609,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Importance Sampling is All You Need: Predict LLM's performance on new benchmark by reusing existing benchmark](http://arxiv.org/abs/2508.01203v1) | Junjie Shi et al. | 2025-08-02 |
 | [Exploitation Is All You Need... for Exploration](http://arxiv.org/abs/2508.01287v1) | Micah Rentschler et al. | 2025-08-02 |
 | [Embedding Is (Almost) All You Need: Retrieval-Augmented Inference for Generalizable Genomic Prediction Tasks](http://arxiv.org/abs/2508.04757v1) | Nirjhor Datta et al. | 2025-08-06 |
-| [SurfaceLogicKV: Surface and Logic Attention Behaviors are All You Need for Robust KV Cache Compression](http://arxiv.org/abs/2508.15806v1) | Mengjie Li et al. | 2025-08-14 |
 | [Hard Examples Are All You Need: Maximizing GRPO Post-Training Under Annotation Budgets](http://arxiv.org/abs/2508.14094v4) | Benjamin Pikus et al. | 2025-08-15 |
 | [Persistence is All You Need -- A Topological Lens on Microstructural Characterization](http://arxiv.org/abs/2508.11967v1) | Maksym Szemer et al. | 2025-08-16 |
 | [Invitation Is All You Need! Promptware Attacks Against LLM-Powered Assistants in Production Are Practical and Dangerous](http://arxiv.org/abs/2508.12175v1) | Ben Nassi et al. | 2025-08-16 |
@@ -765,6 +764,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Alignment Is All You Need For X-to-4D Generation](http://arxiv.org/abs/2607.02516v1) | Qiaowei Miao et al. | 2026-07-02 |
 | [Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems](http://arxiv.org/abs/2607.06094v1) | Alexander Apartsin et al. | 2026-07-07 |
 | [A Good Initialization is All You Need for Faithful Visual Attribution](http://arxiv.org/abs/2607.06726v1) | Zihan Gu et al. | 2026-07-07 |
+| [All you need is SAMPAT](http://arxiv.org/abs/2607.09235v1) | Jayadeva et al. | 2026-07-10 |
 
 
 ## FAQ
