@@ -765,7 +765,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Good Initialization is All You Need for Faithful Visual Attribution](http://arxiv.org/abs/2607.06726v1) | Zihan Gu et al. | 2026-07-07 |
 | [All you need is SAMPAT](http://arxiv.org/abs/2607.09235v1) | Jayadeva et al. | 2026-07-10 |
 | [Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models](http://arxiv.org/abs/2607.10781v1) | Xiyan Su et al. | 2026-07-12 |
-| [Optimization Is Not All You Need](http://arxiv.org/abs/2607.11977v1) | Minh Hua et al. | 2026-07-13 |
+| [Optimization Is Not All You Need](http://arxiv.org/abs/2607.11977v2) | Minh Hua et al. | 2026-07-13 |
 | [Boolean queries are all you need?](http://arxiv.org/abs/2607.11362v1) | Charles L. A. Clarke et al. | 2026-07-13 |
 | [Accepted Prefixes Are Not All You Need: A Negative Result on PEFT-Based Block-Diffusion Drafting](http://arxiv.org/abs/2607.12422v1) | Abdurrahman Javat et al. | 2026-07-14 |
 
