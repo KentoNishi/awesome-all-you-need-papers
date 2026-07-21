@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--14-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -723,7 +723,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](http://arxiv.org/abs/2604.18639v1) | Zhiyin Yu et al. | 2026-04-19 |
 | [Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](http://arxiv.org/abs/2604.21816v1) | Anuj Sadani et al. | 2026-04-23 |
 | [Multimodal LLMs are not all you need for Pediatric Speech Language Pathology](http://arxiv.org/abs/2604.26568v1) | Darren Fürst et al. | 2026-04-29 |
-| [Perturbation is All You Need for Extrapolating Language Models](http://arxiv.org/abs/2605.04344v1) | Zetai Cen et al. | 2026-05-05 |
+| [Perturbation is All You Need for Extrapolating Language Models](http://arxiv.org/abs/2605.04344v2) | Zetai Cen et al. | 2026-05-05 |
 | [Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models](http://arxiv.org/abs/2605.05372v1) | Pranav A et al. | 2026-05-06 |
 | [Backbone is All You Need: Assessing Vulnerabilities of Frozen Foundation Models in Synthetic Image Forensics](http://arxiv.org/abs/2605.13381v1) | Chiara Musso et al. | 2026-05-13 |
 | [Attention Once Is All You Need: Efficient Streaming Inference with Stateful Transformers](http://arxiv.org/abs/2605.13784v1) | Victor Norgren | 2026-05-13 |
@@ -768,6 +768,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Optimization Is Not All You Need](http://arxiv.org/abs/2607.11977v2) | Minh Hua et al. | 2026-07-13 |
 | [Boolean queries are all you need?](http://arxiv.org/abs/2607.11362v1) | Charles L. A. Clarke et al. | 2026-07-13 |
 | [Accepted Prefixes Are Not All You Need: A Negative Result on PEFT-Based Block-Diffusion Drafting](http://arxiv.org/abs/2607.12422v1) | Abdurrahman Javat et al. | 2026-07-14 |
+| [Is Progressive Disclosure All You Need for Long-Context Agents?](http://arxiv.org/abs/2607.17598v1) | Yifeng He et al. | 2026-07-20 |
 
 
 ## FAQ
