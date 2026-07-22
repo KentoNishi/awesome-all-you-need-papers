@@ -600,7 +600,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation](http://arxiv.org/abs/2507.03905v5) | Rang Meng et al. | 2025-07-05 |
 | [When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need](http://arxiv.org/abs/2507.04119v1) | Ziming Hong et al. | 2025-07-05 |
 | [Is Diversity All You Need for Scalable Robotic Manipulation?](http://arxiv.org/abs/2507.06219v2) | Modi Shi et al. | 2025-07-08 |
-| [Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine](http://arxiv.org/abs/2507.08716v3) | Kongwu Huang et al. | 2025-07-11 |
 | [Modeling Code: Is Text All You Need?](http://arxiv.org/abs/2507.11467v1) | Daniel Nichols et al. | 2025-07-15 |
 | [Are Foundation Models All You Need for Zero-shot Face Presentation Attack Detection?](http://arxiv.org/abs/2507.16393v1) | Lazaro Janier Gonzalez-Sole et al. | 2025-07-22 |
 | [LoRA is All You Need for Safety Alignment of Reasoning LLMs](http://arxiv.org/abs/2507.17075v4) | Yihao Xue et al. | 2025-07-22 |
@@ -720,6 +719,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Magnitude Is All You Need? Rethinking Phase in Quantum Encoding of Complex SAR Data](http://arxiv.org/abs/2604.14229v2) | Sakthi Prabhu Gunasekar et al. | 2026-04-14 |
 | [English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training](http://arxiv.org/abs/2604.13286v1) | Mehak Dhaliwal et al. | 2026-04-14 |
 | [AppAgent-Claw: CLI Is All You Need for GUI Automation](http://arxiv.org/abs/2606.05171v1) | Zhixue Song et al. | 2026-04-15 |
+| [AI Tool Discovery at Scale: All You Need is DNS](http://arxiv.org/abs/2607.18242v1) | Enhao Chen et al. | 2026-04-19 |
 | [Easy Samples Are All You Need: Self-Evolving LLMs via Data-Efficient Reinforcement Learning](http://arxiv.org/abs/2604.18639v1) | Zhiyin Yu et al. | 2026-04-19 |
 | [Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](http://arxiv.org/abs/2604.21816v1) | Anuj Sadani et al. | 2026-04-23 |
 | [Multimodal LLMs are not all you need for Pediatric Speech Language Pathology](http://arxiv.org/abs/2604.26568v1) | Darren Fürst et al. | 2026-04-29 |
