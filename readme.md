@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -769,6 +769,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Boolean queries are all you need?](http://arxiv.org/abs/2607.11362v1) | Charles L. A. Clarke et al. | 2026-07-13 |
 | [Accepted Prefixes Are Not All You Need: A Negative Result on PEFT-Based Block-Diffusion Drafting](http://arxiv.org/abs/2607.12422v1) | Abdurrahman Javat et al. | 2026-07-14 |
 | [Is Progressive Disclosure All You Need for Long-Context Agents?](http://arxiv.org/abs/2607.17598v1) | Yifeng He et al. | 2026-07-20 |
+| [One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification](http://arxiv.org/abs/2607.20641v1) | Afsaneh Mahanipour et al. | 2026-07-22 |
+| [Information is all you need: Requirements Engineering Quality Reframed](http://arxiv.org/abs/2607.21319v1) | Henning Femmer et al. | 2026-07-23 |
 
 
 ## FAQ
