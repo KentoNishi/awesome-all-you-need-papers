@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--23-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--26-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -771,6 +771,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Progressive Disclosure All You Need for Long-Context Agents?](http://arxiv.org/abs/2607.17598v1) | Yifeng He et al. | 2026-07-20 |
 | [One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification](http://arxiv.org/abs/2607.20641v1) | Afsaneh Mahanipour et al. | 2026-07-22 |
 | [Information is all you need: Requirements Engineering Quality Reframed](http://arxiv.org/abs/2607.21319v1) | Henning Femmer et al. | 2026-07-23 |
+| [Focus Is All You Need: Adaptive Goal-aware Attention Orchestration for Multi-Agent Graph Systems](http://arxiv.org/abs/2607.23678v1) | Mingzhou Fan et al. | 2026-07-26 |
 
 
 ## FAQ
