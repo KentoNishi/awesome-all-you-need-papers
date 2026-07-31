@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--26-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--07--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -773,6 +773,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Information is all you need: Requirements Engineering Quality Reframed](http://arxiv.org/abs/2607.21319v1) | Henning Femmer et al. | 2026-07-23 |
 | [Focus Is All You Need: Adaptive Goal-aware Attention Orchestration for Multi-Agent Graph Systems](http://arxiv.org/abs/2607.23678v1) | Mingzhou Fan et al. | 2026-07-26 |
 | [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](http://arxiv.org/abs/2607.24865v1) | Baolei Li et al. | 2026-07-26 |
+| [MeshFM: 2D Features Are All You Need for 3D Shape Understanding](http://arxiv.org/abs/2607.27592v1) | Jinfan Zhou et al. | 2026-07-30 |
 
 
 ## FAQ
