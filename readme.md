@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--05-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--06-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -776,6 +776,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [MeshFM: 2D Features Are All You Need for 3D Shape Understanding](http://arxiv.org/abs/2607.27592v1) | Jinfan Zhou et al. | 2026-07-30 |
 | [Freemium Is All You Need](http://arxiv.org/abs/2608.00823v2) | Maxim Bichuch et al. | 2026-08-01 |
 | [Checked-In Secret Detection: Strings Are All You Need](http://arxiv.org/abs/2608.04523v1) | Zhengdong Huang et al. | 2026-08-05 |
+| [Align-RAG: Alignment Is All You Need for TSFM In-Context Learning](http://arxiv.org/abs/2608.05571v1) | Mohammad Asadi et al. | 2026-08-06 |
 
 
 ## FAQ
