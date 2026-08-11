@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--06-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--08-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -761,7 +761,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](http://arxiv.org/abs/2606.29986v1) | Zhixiang Wei et al. | 2026-06-29 |
 | [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](http://arxiv.org/abs/2606.30923v1) | Ved Sriraman et al. | 2026-06-29 |
 | [Alignment Is All You Need For X-to-4D Generation](http://arxiv.org/abs/2607.02516v1) | Qiaowei Miao et al. | 2026-07-02 |
-| [Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems](http://arxiv.org/abs/2607.06094v1) | Alexander Apartsin et al. | 2026-07-07 |
+| [Modeling Normal Is All You Need: Joint Latent Clustering for Anomaly Detection in Multimodal Cyber-Physical Systems](http://arxiv.org/abs/2607.06094v2) | Alexander Apartsin et al. | 2026-07-07 |
 | [A Good Initialization is All You Need for Faithful Visual Attribution](http://arxiv.org/abs/2607.06726v1) | Zihan Gu et al. | 2026-07-07 |
 | [All you need is SAMPAT](http://arxiv.org/abs/2607.09235v1) | Jayadeva et al. | 2026-07-10 |
 | [Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models](http://arxiv.org/abs/2607.10781v1) | Xiyan Su et al. | 2026-07-12 |
@@ -777,6 +777,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Freemium Is All You Need](http://arxiv.org/abs/2608.00823v2) | Maxim Bichuch et al. | 2026-08-01 |
 | [Checked-In Secret Detection: Strings Are All You Need](http://arxiv.org/abs/2608.04523v1) | Zhengdong Huang et al. | 2026-08-05 |
 | [Align-RAG: Alignment Is All You Need for TSFM In-Context Learning](http://arxiv.org/abs/2608.05571v1) | Mohammad Asadi et al. | 2026-08-06 |
+| [VDGR-RAG: Vectors, Directories, Graphs, and Reflection Are All You Need for Unified Reasoning over Hierarchical Enterprise Knowledge](http://arxiv.org/abs/2608.07994v1) | Wenqi Chen et al. | 2026-08-08 |
 
 
 ## FAQ
