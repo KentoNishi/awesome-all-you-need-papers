@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--08-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--11-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -667,7 +667,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | ["All You Need" is Not All You Need for a Paper Title: On the Origins of a Scientific Meme](http://arxiv.org/abs/2512.19700v1) | Anton Alyakin | 2025-12-03 |
 | [Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2512.04351v3) | Manh Nguyen et al. | 2025-12-04 |
 | [Is GPT-OSS All You Need? Benchmarking Large Language Models for Financial Intelligence and the Surprising Efficiency Paradox](http://arxiv.org/abs/2512.14717v1) | Ziqian Bi et al. | 2025-12-09 |
-| [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](http://arxiv.org/abs/2512.08417v2) | Yinan Zhong et al. | 2025-12-09 |
+| [Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](http://arxiv.org/abs/2512.08417v3) | Yinan Zhong et al. | 2025-12-09 |
 | [DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting](http://arxiv.org/abs/2512.10051v1) | Moulik Gupta et al. | 2025-12-10 |
 | [Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](http://arxiv.org/abs/2512.10105v3) | Soorya Ram Shimgekar et al. | 2025-12-10 |
 | [Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing](http://arxiv.org/abs/2512.10121v1) | Zhongjie Jiang | 2025-12-10 |
@@ -778,6 +778,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Checked-In Secret Detection: Strings Are All You Need](http://arxiv.org/abs/2608.04523v1) | Zhengdong Huang et al. | 2026-08-05 |
 | [Align-RAG: Alignment Is All You Need for TSFM In-Context Learning](http://arxiv.org/abs/2608.05571v1) | Mohammad Asadi et al. | 2026-08-06 |
 | [VDGR-RAG: Vectors, Directories, Graphs, and Reflection Are All You Need for Unified Reasoning over Hierarchical Enterprise Knowledge](http://arxiv.org/abs/2608.07994v1) | Wenqi Chen et al. | 2026-08-08 |
+| [XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating Systems](http://arxiv.org/abs/2608.11446v1) | Milan Zdravković | 2026-08-11 |
 
 
 ## FAQ
