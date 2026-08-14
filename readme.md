@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--13-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -779,6 +779,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Align-RAG: Alignment Is All You Need for TSFM In-Context Learning](http://arxiv.org/abs/2608.05571v1) | Mohammad Asadi et al. | 2026-08-06 |
 | [VDGR-RAG: Vectors, Directories, Graphs, and Reflection Are All You Need for Unified Reasoning over Hierarchical Enterprise Knowledge](http://arxiv.org/abs/2608.07994v1) | Wenqi Chen et al. | 2026-08-08 |
 | [XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating Systems](http://arxiv.org/abs/2608.11446v1) | Milan Zdravković | 2026-08-11 |
+| [UniCon-Former: Unified Convolution Transformer is All You Need for Hand Gesture Recognition](http://arxiv.org/abs/2608.13217v1) | Mallika Garg et al. | 2026-08-13 |
 
 
 ## FAQ
