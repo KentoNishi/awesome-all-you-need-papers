@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--13-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--19-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -773,6 +773,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Information is all you need: Requirements Engineering Quality Reframed](http://arxiv.org/abs/2607.21319v1) | Henning Femmer et al. | 2026-07-23 |
 | [Focus Is All You Need: Adaptive Goal-aware Attention Orchestration for Multi-Agent Graph Systems](http://arxiv.org/abs/2607.23678v1) | Mingzhou Fan et al. | 2026-07-26 |
 | [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](http://arxiv.org/abs/2607.24865v1) | Baolei Li et al. | 2026-07-26 |
+| [Alignment Is All You Need: Instruction-Free Training for General Audio-Language Models](http://arxiv.org/abs/2608.18132v1) | Xuanru Zhou et al. | 2026-07-28 |
 | [MeshFM: 2D Features Are All You Need for 3D Shape Understanding](http://arxiv.org/abs/2607.27592v1) | Jinfan Zhou et al. | 2026-07-30 |
 | [Freemium Is All You Need](http://arxiv.org/abs/2608.00823v2) | Maxim Bichuch et al. | 2026-08-01 |
 | [Checked-In Secret Detection: Strings Are All You Need](http://arxiv.org/abs/2608.04523v1) | Zhengdong Huang et al. | 2026-08-05 |
@@ -780,6 +781,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [VDGR-RAG: Vectors, Directories, Graphs, and Reflection Are All You Need for Unified Reasoning over Hierarchical Enterprise Knowledge](http://arxiv.org/abs/2608.07994v2) | Wenqi Chen et al. | 2026-08-08 |
 | [XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating Systems](http://arxiv.org/abs/2608.11446v1) | Milan Zdravković | 2026-08-11 |
 | [UniCon-Former: Unified Convolution Transformer is All You Need for Hand Gesture Recognition](http://arxiv.org/abs/2608.13217v1) | Mallika Garg et al. | 2026-08-13 |
+| [A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3](http://arxiv.org/abs/2608.18731v1) | Sachin Dudda Nagaraju et al. | 2026-08-19 |
 
 
 ## FAQ
