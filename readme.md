@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--19-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -782,6 +782,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating Systems](http://arxiv.org/abs/2608.11446v1) | Milan Zdravković | 2026-08-11 |
 | [UniCon-Former: Unified Convolution Transformer is All You Need for Hand Gesture Recognition](http://arxiv.org/abs/2608.13217v1) | Mallika Garg et al. | 2026-08-13 |
 | [A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3](http://arxiv.org/abs/2608.18731v1) | Sachin Dudda Nagaraju et al. | 2026-08-19 |
+| [Ask Self, Ask Others: Relation Is All You Need](http://arxiv.org/abs/2608.20172v1) | Yuting Ge et al. | 2026-08-20 |
 
 
 ## FAQ
