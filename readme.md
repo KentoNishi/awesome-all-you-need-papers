@@ -783,7 +783,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [UniCon-Former: Unified Convolution Transformer is All You Need for Hand Gesture Recognition](http://arxiv.org/abs/2608.13217v1) | Mallika Garg et al. | 2026-08-13 |
 | [A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3](http://arxiv.org/abs/2608.18731v1) | Sachin Dudda Nagaraju et al. | 2026-08-19 |
 | [Ask Self, Ask Others: Relation Is All You Need](http://arxiv.org/abs/2608.20172v1) | Yuting Ge et al. | 2026-08-20 |
-| [Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](http://arxiv.org/abs/2608.21170v1) | Lars Benedikt Kaesberg et al. | 2026-08-21 |
+| [Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](http://arxiv.org/abs/2608.21170v2) | Lars Benedikt Kaesberg et al. | 2026-08-21 |
 | [BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications](http://arxiv.org/abs/2608.21864v1) | Md Asaduzzaman Jabin et al. | 2026-08-22 |
 
 
