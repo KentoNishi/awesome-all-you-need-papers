@@ -758,6 +758,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](http://arxiv.org/abs/2606.25956v2) | Nathan Painchaud et al. | 2026-06-24 |
 | [GeMoE: Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models](http://arxiv.org/abs/2606.26287v1) | Chaoxiang Cai et al. | 2026-06-24 |
 | [All you need is log](http://arxiv.org/abs/2606.27349v2) | Akshay Balsubramani | 2026-06-25 |
+| [Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation](http://arxiv.org/abs/2608.26142v1) | Yuhan Liu et al. | 2026-06-26 |
 | [HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](http://arxiv.org/abs/2606.29986v1) | Zhixiang Wei et al. | 2026-06-29 |
 | [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](http://arxiv.org/abs/2606.30923v1) | Ved Sriraman et al. | 2026-06-29 |
 | [Alignment Is All You Need For X-to-4D Generation](http://arxiv.org/abs/2607.02516v1) | Qiaowei Miao et al. | 2026-07-02 |
