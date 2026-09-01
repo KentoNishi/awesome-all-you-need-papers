@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--22-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--08--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -786,6 +786,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Ask Self, Ask Others: Relation Is All You Need](http://arxiv.org/abs/2608.20172v1) | Yuting Ge et al. | 2026-08-20 |
 | [Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](http://arxiv.org/abs/2608.21170v2) | Lars Benedikt Kaesberg et al. | 2026-08-21 |
 | [BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications](http://arxiv.org/abs/2608.21864v1) | Md Asaduzzaman Jabin et al. | 2026-08-22 |
+| [All You Need Is Non-Commutative Words](http://arxiv.org/abs/2608.29314v1) | Carla M. Quispe Flores et al. | 2026-08-29 |
 
 
 ## FAQ
