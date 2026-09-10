@@ -737,8 +737,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Names Are All You Need: Effective and Safe Regression Test Selection for Python](http://arxiv.org/abs/2605.25356v1) | You Wang et al. | 2026-05-25 |
 | [PhyPush: One Push is All You Need for Sensorless Physical Property Estimation with Physics-Guided Transformers](http://arxiv.org/abs/2605.26284v2) | Koyo Fujii et al. | 2026-05-25 |
 | [Prompting Is All You Need: Multi-view Prompting Large Language Models for Aspect-Based Sentiment Analysis](http://arxiv.org/abs/2605.28058v1) | Nils Constantin Hellwig et al. | 2026-05-27 |
-| [FP8 is All You Need (Part 1): Debunking Hardware FP64 as the HPC Holy Grail (June 13th version)](http://arxiv.org/abs/2606.06510v3) | Satoshi Matsuoka | 2026-05-28 |
-| [FP8 is All You Need (Part 2): Efficient Ozaki-Bailey Style FFT Through Tensor-core Garner Reformulation and Kulisch Escape Route](http://arxiv.org/abs/2606.23698v2) | Satoshi Matsuoka | 2026-05-28 |
+| [FP8 is All You Need (Part 1): Debunking Hardware FP64 as the HPC Holy Grail (Sep 3rd version)](http://arxiv.org/abs/2606.06510v4) | Satoshi Matsuoka | 2026-05-28 |
+| [FP8 is All You Need (Part 2): Full-FP64 3-D FFT on FP8-Generation Tensor CoresThe Integer-Epilogue Wall and the Minimal Hardware That Would Remove It](http://arxiv.org/abs/2606.23698v3) | Satoshi Matsuoka | 2026-05-28 |
 | [IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation](http://arxiv.org/abs/2605.30230v1) | Hao Wu et al. | 2026-05-28 |
 | [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1) | Nhat-Minh Nguyen | 2026-05-28 |
 | [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
@@ -783,7 +783,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [XGBoost "is all you need": the case of forecasting transmitted heat energy in District Heating Systems](http://arxiv.org/abs/2608.11446v1) | Milan Zdravković | 2026-08-11 |
 | [UniCon-Former: Unified Convolution Transformer is All You Need for Hand Gesture Recognition](http://arxiv.org/abs/2608.13217v1) | Mallika Garg et al. | 2026-08-13 |
 | [A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3](http://arxiv.org/abs/2608.18731v1) | Sachin Dudda Nagaraju et al. | 2026-08-19 |
-| [Ask Self, Ask Others: Relation Is All You Need](http://arxiv.org/abs/2608.20172v1) | Yuting Ge et al. | 2026-08-20 |
+| [Ask Self, Ask Others: Relation Is All You Need](http://arxiv.org/abs/2608.20172v2) | Yuting Ge et al. | 2026-08-20 |
 | [Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](http://arxiv.org/abs/2608.21170v2) | Lars Benedikt Kaesberg et al. | 2026-08-21 |
 | [BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications](http://arxiv.org/abs/2608.21864v1) | Md Asaduzzaman Jabin et al. | 2026-08-22 |
 | [All You Need Is Non-Commutative Words](http://arxiv.org/abs/2608.29314v1) | Carla M. Quispe Flores et al. | 2026-08-29 |
