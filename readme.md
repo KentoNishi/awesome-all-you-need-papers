@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--10-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -789,6 +789,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Non-Commutative Words](http://arxiv.org/abs/2608.29314v1) | Carla M. Quispe Flores et al. | 2026-08-29 |
 | [A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss](http://arxiv.org/abs/2609.00591v1) | Suryaansh Jain et al. | 2026-09-01 |
 | [Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool](http://arxiv.org/abs/2609.05364v1) | Samuel Kushnir et al. | 2026-09-04 |
+| [Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need](http://arxiv.org/abs/2609.11722v1) | Margaret Kostyrko et al. | 2026-09-10 |
 
 
 ## FAQ
