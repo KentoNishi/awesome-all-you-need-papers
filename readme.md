@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--10-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--11-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -499,7 +499,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Element-wise Attention Is All You Need](http://arxiv.org/abs/2501.05730v1) | Guoxin Feng | 2025-01-10 |
 | [Tensor Product Attention Is All You Need](http://arxiv.org/abs/2501.06425v7) | Yifan Zhang et al. | 2025-01-11 |
 | [Common Sense Is All You Need](http://arxiv.org/abs/2501.06642v1) | Hugo Latapie | 2025-01-11 |
-| [Attention is All You Need Until You Need Retention](http://arxiv.org/abs/2501.09166v1) | M. Murat Yaslioglu | 2025-01-15 |
+| [Attention is All You Need Until You Need Retention](http://arxiv.org/abs/2501.09166v2) | M. Murat Yaslioglu | 2025-01-15 |
 | [Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v6) | Yeounoh Chung et al. | 2025-01-21 |
 | [Is Conversational XAI All You Need? Human-AI Decision Making With a Conversational XAI Assistant](http://arxiv.org/abs/2501.17546v1) | Gaole He et al. | 2025-01-29 |
 | [Anatomy Might Be All You Need: Forecasting What to Do During Surgery](http://arxiv.org/abs/2501.18011v2) | Gary Sarwin et al. | 2025-01-29 |
@@ -706,7 +706,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context](http://arxiv.org/abs/2604.08556v1) | Arth Singh | 2026-03-17 |
 | [The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference](http://arxiv.org/abs/2603.19664v1) | Kaleem Ullah Qasim et al. | 2026-03-20 |
 | [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
-| [Data is All You Need: Markov Chain Car-Following (MC-CF) Model](http://arxiv.org/abs/2603.27909v1) | Sungyong Chung et al. | 2026-03-29 |
 | [SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving](http://arxiv.org/abs/2603.29163v1) | Wenchao Sun et al. | 2026-03-31 |
 | [Internal APIs Are All You Need: Shadow APIs, Shared Discovery, and the Case Against Browser-First Agent Architectures](http://arxiv.org/abs/2604.00694v1) | Lewis Tham et al. | 2026-04-01 |
 | [Fuzzing with Agents? Generators Are All You Need](http://arxiv.org/abs/2604.01442v1) | Vasudev Vikram et al. | 2026-04-01 |
@@ -789,7 +788,10 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Non-Commutative Words](http://arxiv.org/abs/2608.29314v1) | Carla M. Quispe Flores et al. | 2026-08-29 |
 | [A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss](http://arxiv.org/abs/2609.00591v1) | Suryaansh Jain et al. | 2026-09-01 |
 | [Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool](http://arxiv.org/abs/2609.05364v1) | Samuel Kushnir et al. | 2026-09-04 |
+| [Is Bash All You Need? An Empirical Study of Tool Interfaces for Enterprise Digital Worker Agents](http://arxiv.org/abs/2609.11999v1) | Hazel Mak et al. | 2026-09-10 |
 | [Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need](http://arxiv.org/abs/2609.11722v1) | Margaret Kostyrko et al. | 2026-09-10 |
+| [Function Name Is All You Need to Detect Blockchain Application Attacks](http://arxiv.org/abs/2609.12315v1) | Rui Xi et al. | 2026-09-11 |
+| [Attention Is All You Need (to Avoid Spurious Oscillations)](http://arxiv.org/abs/2609.13531v1) | Jinyoung Jeong et al. | 2026-09-11 |
 
 
 ## FAQ
