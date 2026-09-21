@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--11-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--17-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -792,6 +792,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need](http://arxiv.org/abs/2609.11722v1) | Margaret Kostyrko et al. | 2026-09-10 |
 | [Function Name Is All You Need to Detect Blockchain Application Attacks](http://arxiv.org/abs/2609.12315v1) | Rui Xi et al. | 2026-09-11 |
 | [Attention Is All You Need (to Avoid Spurious Oscillations)](http://arxiv.org/abs/2609.13531v1) | Jinyoung Jeong et al. | 2026-09-11 |
+| [Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation](http://arxiv.org/abs/2609.21088v1) | Yuxuan Zhang et al. | 2026-09-17 |
 
 
 ## FAQ
