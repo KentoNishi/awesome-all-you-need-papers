@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--27-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -581,7 +581,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Uni-LoRA: One Vector is All You Need](http://arxiv.org/abs/2506.00799v3) | Kaiyang Li et al. | 2025-06-01 |
 | [S\"oze: One Network Telemetry Is All You Need for Per-flow Weighted Bandwidth Allocation at Scale](http://arxiv.org/abs/2506.00834v2) | Weitao Wang et al. | 2025-06-01 |
 | [Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective](http://arxiv.org/abs/2506.02553v1) | Shenghua He et al. | 2025-06-03 |
-| [Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design](http://arxiv.org/abs/2506.04734v2) | Lin Sun et al. | 2025-06-05 |
+| [Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design](http://arxiv.org/abs/2506.04734v3) | Yongfu Zhu et al. | 2025-06-05 |
 | [Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models](http://arxiv.org/abs/2506.06395v3) | Pengyi Li et al. | 2025-06-05 |
 | [Few Labels are all you need: A Weakly Supervised Framework for Appliance Localization in Smart-Meter Series](http://arxiv.org/abs/2506.05895v1) | Adrien Petralia et al. | 2025-06-06 |
 | [SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction](http://arxiv.org/abs/2506.12793v1) | Wenhao Shen et al. | 2025-06-15 |
@@ -708,6 +708,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Compression is all you need: Modeling Mathematics](http://arxiv.org/abs/2603.20396v1) | Vitaly Aksenov et al. | 2026-03-20 |
 | [SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving](http://arxiv.org/abs/2603.29163v1) | Wenchao Sun et al. | 2026-03-31 |
 | [Internal APIs Are All You Need: Shadow APIs, Shared Discovery, and the Case Against Browser-First Agent Architectures](http://arxiv.org/abs/2604.00694v1) | Lewis Tham et al. | 2026-04-01 |
+| [Sequential Sampling for Binary Classification: Two LLMs are (Almost) All You Need](http://arxiv.org/abs/2604.01086v3) | Guokai Li et al. | 2026-04-01 |
 | [Fuzzing with Agents? Generators Are All You Need](http://arxiv.org/abs/2604.01442v1) | Vasudev Vikram et al. | 2026-04-01 |
 | [Context is All You Need](http://arxiv.org/abs/2604.04364v1) | Jean Erik Delanois et al. | 2026-04-06 |
 | [Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection](http://arxiv.org/abs/2604.04658v1) | Yihan Sun et al. | 2026-04-06 |
@@ -756,7 +757,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Image is All You Need: Agentic One-Shot Image Generation via Text-Based World Models for Long-Tail Spatial Perception](http://arxiv.org/abs/2606.20764v1) | Keqin Zeng et al. | 2026-06-18 |
 | [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](http://arxiv.org/abs/2606.25956v2) | Nathan Painchaud et al. | 2026-06-24 |
 | [GeMoE: Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models](http://arxiv.org/abs/2606.26287v1) | Chaoxiang Cai et al. | 2026-06-24 |
-| [All you need is log](http://arxiv.org/abs/2606.27349v2) | Akshay Balsubramani | 2026-06-25 |
+| [All you need is log](http://arxiv.org/abs/2606.27349v3) | Akshay Balsubramani | 2026-06-25 |
 | [Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation](http://arxiv.org/abs/2608.26142v1) | Yuhan Liu et al. | 2026-06-26 |
 | [HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators](http://arxiv.org/abs/2606.29986v1) | Zhixiang Wei et al. | 2026-06-29 |
 | [Behavior Cloning is Not All You Need: The Optimality of On-Policy Distillation for Noisy Expert Feedback](http://arxiv.org/abs/2606.30923v1) | Ved Sriraman et al. | 2026-06-29 |
@@ -793,6 +794,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Function Name Is All You Need to Detect Blockchain Application Attacks](http://arxiv.org/abs/2609.12315v1) | Rui Xi et al. | 2026-09-11 |
 | [Attention Is All You Need (to Avoid Spurious Oscillations)](http://arxiv.org/abs/2609.13531v1) | Jinyoung Jeong et al. | 2026-09-11 |
 | [Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation](http://arxiv.org/abs/2609.21088v1) | Yuxuan Zhang et al. | 2026-09-17 |
+| [Evaluation Is All You Need for Multi-Modal Autonomous Driving](http://arxiv.org/abs/2609.30818v1) | Zeyu He et al. | 2026-09-25 |
+| [Is invariance all you need for algorithmic fairness? Removing demographic information can create new bias](http://arxiv.org/abs/2609.32004v1) | Aditya Parikh et al. | 2026-09-25 |
+| [Medical Knowledge Is Not All You Need: When Medical Q\&A Becomes Situated Patient Assistance](http://arxiv.org/abs/2609.33040v1) | Shreya Bali et al. | 2026-09-27 |
 
 
 ## FAQ
