@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--27-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--29-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -797,6 +797,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Evaluation Is All You Need for Multi-Modal Autonomous Driving](http://arxiv.org/abs/2609.30818v1) | Zeyu He et al. | 2026-09-25 |
 | [Is invariance all you need for algorithmic fairness? Removing demographic information can create new bias](http://arxiv.org/abs/2609.32004v1) | Aditya Parikh et al. | 2026-09-25 |
 | [Medical Knowledge Is Not All You Need: When Medical Q\&A Becomes Situated Patient Assistance](http://arxiv.org/abs/2609.33040v1) | Shreya Bali et al. | 2026-09-27 |
+| [Learned Queries and Keys Are All You Need: Replacing the Value Projection with Structured Transforms](http://arxiv.org/abs/2609.36698v1) | Ene Meco et al. | 2026-09-29 |
+| [All You Need Is Low Fidelity: Zero-Shot Sim-to-Real of Learned Robotic Fish Control](http://arxiv.org/abs/2609.36993v1) | Liam Maloney et al. | 2026-09-29 |
+| [FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have](http://arxiv.org/abs/2609.37693v1) | Pratyai Mazumder et al. | 2026-09-29 |
 
 
 ## FAQ
