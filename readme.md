@@ -681,7 +681,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [CliffordNet: All You Need is Geometric Algebra](http://arxiv.org/abs/2601.06793v2) | Zhongping Ji | 2026-01-11 |
 | [Exchange Is All You Need for Remote Sensing Change Detection](http://arxiv.org/abs/2601.07805v1) | Sijun Dong et al. | 2026-01-12 |
 | [From Everything-is-a-File to Files-Are-All-You-Need: How Unix Philosophy Informs the Design of Agentic AI Systems](http://arxiv.org/abs/2601.11672v1) | Deepak Babu Piskala | 2026-01-16 |
-| [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](http://arxiv.org/abs/2601.16294v2) | Evangelos Georganas et al. | 2026-01-22 |
+| [Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple](http://arxiv.org/abs/2601.16294v3) | Evangelos Georganas et al. | 2026-01-22 |
 | [LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification](http://arxiv.org/abs/2601.16549v1) | Meet Raval et al. | 2026-01-23 |
 | [The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation](http://arxiv.org/abs/2601.17737v3) | Chenyu Mu et al. | 2026-01-25 |
 | [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](http://arxiv.org/abs/2601.18467v2) | Yuhang Zhou et al. | 2026-01-26 |
@@ -787,12 +787,12 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](http://arxiv.org/abs/2608.21170v2) | Lars Benedikt Kaesberg et al. | 2026-08-21 |
 | [BioMed-Agent-RL: A Meta Learning, All You Need for Biomedical Applications](http://arxiv.org/abs/2608.21864v1) | Md Asaduzzaman Jabin et al. | 2026-08-22 |
 | [All You Need Is Non-Commutative Words](http://arxiv.org/abs/2608.29314v1) | Carla M. Quispe Flores et al. | 2026-08-29 |
-| [A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss](http://arxiv.org/abs/2609.00591v1) | Suryaansh Jain et al. | 2026-09-01 |
+| [A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss](http://arxiv.org/abs/2609.00591v2) | Suryaansh Jain et al. | 2026-09-01 |
 | [Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool](http://arxiv.org/abs/2609.05364v1) | Samuel Kushnir et al. | 2026-09-04 |
 | [Is Bash All You Need? An Empirical Study of Tool Interfaces for Enterprise Digital Worker Agents](http://arxiv.org/abs/2609.11999v1) | Hazel Mak et al. | 2026-09-10 |
 | [Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need](http://arxiv.org/abs/2609.11722v1) | Margaret Kostyrko et al. | 2026-09-10 |
 | [Function Name Is All You Need to Detect Blockchain Application Attacks](http://arxiv.org/abs/2609.12315v1) | Rui Xi et al. | 2026-09-11 |
-| [Attention Is All You Need (to Avoid Spurious Oscillations)](http://arxiv.org/abs/2609.13531v1) | Jinyoung Jeong et al. | 2026-09-11 |
+| [Attention Is All You Need (to Avoid Spurious Oscillations)](http://arxiv.org/abs/2609.13531v2) | Jinyoung Jeong et al. | 2026-09-11 |
 | [Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation](http://arxiv.org/abs/2609.21088v1) | Yuxuan Zhang et al. | 2026-09-17 |
 | [Evaluation Is All You Need for Multi-Modal Autonomous Driving](http://arxiv.org/abs/2609.30818v1) | Zeyu He et al. | 2026-09-25 |
 | [Is invariance all you need for algorithmic fairness? Removing demographic information can create new bias](http://arxiv.org/abs/2609.32004v1) | Aditya Parikh et al. | 2026-09-25 |
