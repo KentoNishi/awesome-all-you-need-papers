@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--09--29-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--01-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -691,7 +691,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Oscillators Are All You Need: Irregular Time Series Modelling via Damped Harmonic Oscillators with Closed-Form Solutions](http://arxiv.org/abs/2602.12139v2) | Yashas Shende et al. | 2026-02-12 |
 | [One Good Source is All You Need: Near-Optimal Regret for Bandits under Heterogeneous Noise](http://arxiv.org/abs/2602.14474v2) | Amith Bhat et al. | 2026-02-16 |
 | [A Single Image and Multimodality Is All You Need for Novel View Synthesis](http://arxiv.org/abs/2602.17909v2) | Amirhosein Javadi et al. | 2026-02-20 |
-| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v4) | Daniel Romero-Alvarado et al. | 2026-02-20 |
+| [Capabilities Ain't All You Need: Measuring Propensities in AI](http://arxiv.org/abs/2602.18182v5) | Daniel Romero-Alvarado et al. | 2026-02-20 |
 | [Discernment is all you need](http://arxiv.org/abs/2602.20038v1) | David Fuenmayor | 2026-02-23 |
 | [Extending Sequence Length is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction](http://arxiv.org/abs/2602.21550v2) | Zhao Yang et al. | 2026-02-25 |
 | [Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](http://arxiv.org/abs/2602.22197v1) | Xavier Pleimling et al. | 2026-02-25 |
@@ -800,6 +800,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Learned Queries and Keys Are All You Need: Replacing the Value Projection with Structured Transforms](http://arxiv.org/abs/2609.36698v1) | Ene Meco et al. | 2026-09-29 |
 | [All You Need Is Low Fidelity: Zero-Shot Sim-to-Real of Learned Robotic Fish Control](http://arxiv.org/abs/2609.36993v1) | Liam Maloney et al. | 2026-09-29 |
 | [FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have](http://arxiv.org/abs/2609.37693v1) | Pratyai Mazumder et al. | 2026-09-29 |
+| [Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks](http://arxiv.org/abs/2610.01351v1) | Sophie Higham et al. | 2026-10-01 |
 
 
 ## FAQ
