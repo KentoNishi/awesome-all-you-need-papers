@@ -745,7 +745,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [The Right Inference Strategy Is All You Need: Nearly Training-Free Domain-Wise Inference for EgoCross Challenge](http://arxiv.org/abs/2606.00829v1) | Leyi Wu et al. | 2026-05-30 |
 | [Forget Attention: Importance-Aware Attention Is All You Need](http://arxiv.org/abs/2606.02332v2) | Suhyeong Shin et al. | 2026-06-01 |
 | [One Transit Is All You Need: Detecting Exoplanets Through Learned Stellar Behaviour with EXOVEIL](http://arxiv.org/abs/2606.02778v3) | Pratik Priyanshu | 2026-06-01 |
-| [Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs](http://arxiv.org/abs/2606.03647v1) | Vincent Limbach et al. | 2026-06-02 |
+| [All you need to break LLMs are Black-Box, Adapting, Efficient, Transferable, Harmful, Applicable ... Attacks](http://arxiv.org/abs/2606.03647v2) | Vincent Limbach et al. | 2026-06-02 |
 | [Dual-Stream MLP is All You Need for CTR Prediction](http://arxiv.org/abs/2606.04944v1) | Kesha Ou et al. | 2026-06-03 |
 | [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](http://arxiv.org/abs/2606.09366v1) | Ming-Hao Hsu et al. | 2026-06-08 |
 | [A Source Domain is All You Need: Source-Only Cross-OS Transfer Learning for APT Anomaly Detection via Semantic Alignment and Optimal Transport](http://arxiv.org/abs/2606.10216v1) | Sidahmed Benabderrahmanea et al. | 2026-06-08 |
