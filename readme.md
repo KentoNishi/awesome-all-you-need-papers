@@ -672,7 +672,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Belief Is All You Need: Modeling Narrative Archetypes in Conspiratorial Discourse](http://arxiv.org/abs/2512.10105v3) | Soorya Ram Shimgekar et al. | 2025-12-10 |
 | [Workflow is All You Need: Escaping the "Statistical Smoothing Trap" via High-Entropy Information Foraging and Adversarial Pacing](http://arxiv.org/abs/2512.10121v1) | Zhongjie Jiang | 2025-12-10 |
 | [FAIR: Focused Attention Is All You Need for Generative Recommendation](http://arxiv.org/abs/2512.11254v2) | Longtao Xiao et al. | 2025-12-12 |
-| [One Permutation Is All You Need: Fast, Reliable Variable Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v2) | Albert Dorador | 2025-12-15 |
+| [One Permutation Is All You Need: Fast, Deterministic Feature Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v3) | Albert Dorador | 2025-12-15 |
 | [Keyword search is all you need: Achieving RAG-Level Performance without vector databases using agentic tool use](http://arxiv.org/abs/2602.23368v1) | Shreyas Subramanian et al. | 2025-12-19 |
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
 | [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v3) | Tillmann Rheude et al. | 2025-12-28 |
