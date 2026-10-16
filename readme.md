@@ -747,7 +747,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Transit Is All You Need: Detecting Exoplanets Through Learned Stellar Behaviour with EXOVEIL](http://arxiv.org/abs/2606.02778v3) | Pratik Priyanshu | 2026-06-01 |
 | [All you need to break LLMs are Black-Box, Adapting, Efficient, Transferable, Harmful, Applicable ... Attacks](http://arxiv.org/abs/2606.03647v2) | Vincent Limbach et al. | 2026-06-02 |
 | [Dual-Stream MLP is All You Need for CTR Prediction](http://arxiv.org/abs/2606.04944v1) | Kesha Ou et al. | 2026-06-03 |
-| [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](http://arxiv.org/abs/2606.09366v1) | Ming-Hao Hsu et al. | 2026-06-08 |
+| [Is Text All You Need? Text as a Universal Information Bottleneck for Speech LLMs](http://arxiv.org/abs/2606.09366v2) | Ming-Hao Hsu et al. | 2026-06-08 |
 | [A Source Domain is All You Need: Source-Only Cross-OS Transfer Learning for APT Anomaly Detection via Semantic Alignment and Optimal Transport](http://arxiv.org/abs/2606.10216v1) | Sidahmed Benabderrahmanea et al. | 2026-06-08 |
 | [5\% > 100\%: Flatness Preference is All You Need for Multimodal Parameter-Efficient Fine-Tuning](http://arxiv.org/abs/2606.10488v1) | Yifan Zhu et al. | 2026-06-09 |
 | [A Stationary (and Therefore Compatible) Representation is All You Need](http://arxiv.org/abs/2606.12488v1) | Niccolò Biondi et al. | 2026-06-10 |
