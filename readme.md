@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--16-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -802,6 +802,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have](http://arxiv.org/abs/2609.37693v1) | Pratyai Mazumder et al. | 2026-09-29 |
 | [Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks](http://arxiv.org/abs/2610.01351v1) | Sophie Higham et al. | 2026-10-01 |
 | [A Smaller Subspace is All You Need: Efficient ISAC Beamforming via Dimensionality Reduction](http://arxiv.org/abs/2610.23462v1) | Ruiqi Liu et al. | 2026-10-16 |
+| [Stable Signer V3: 4D Deformable Primitive Splatting Is All You Need for Sign Language Production](http://arxiv.org/abs/2610.24926v1) | Sen Fang et al. | 2026-10-18 |
 
 
 ## FAQ
