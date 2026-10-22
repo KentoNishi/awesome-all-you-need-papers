@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--21-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -805,6 +805,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Stable Signer V3: 4D Deformable Primitive Splatting Is All You Need for Sign Language Production](http://arxiv.org/abs/2610.24926v2) | Sen Fang et al. | 2026-10-18 |
 | [A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera](http://arxiv.org/abs/2610.27622v1) | Yosub Shin et al. | 2026-10-20 |
 | [Two $\operatorname{ReLU}$ Layers is All You Need](http://arxiv.org/abs/2610.28587v1) | Florestan Brunck et al. | 2026-10-20 |
+| [A Strong MoE Is All You Need for Process Supervision](http://arxiv.org/abs/2610.29498v1) | Guanzhi Deng et al. | 2026-10-21 |
+| [Broadcasting in Centimeter-Wave Gigantic MIMO Systems: Beam Shaping is All You Need](http://arxiv.org/abs/2610.29542v1) | Boyu Ning et al. | 2026-10-21 |
 
 
 ## FAQ
