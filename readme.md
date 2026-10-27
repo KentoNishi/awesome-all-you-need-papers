@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--21-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--25-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -531,7 +531,6 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](http://arxiv.org/abs/2503.08741v3) | Letian Zhang et al. | 2025-03-11 |
 | [Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2) | Qiji Zhou et al. | 2025-03-12 |
 | [Reinforcement Learning is all You Need](http://arxiv.org/abs/2503.09512v1) | Yongsheng Lian | 2025-03-12 |
-| [Availability is all you need: achieving optimal regret with minimal information for dynamic matching](http://arxiv.org/abs/2503.09762v3) | Süleyman Kerimov et al. | 2025-03-12 |
 | [VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames](http://arxiv.org/abs/2503.10286v1) | Zhiqi Li et al. | 2025-03-13 |
 | [Relevance Isn't All You Need: Scaling RAG Systems With Inference-Time Compute Via Multi-Criteria Reranking](http://arxiv.org/abs/2504.07104v1) | Will LeVine et al. | 2025-03-14 |
 | [Collaboration is all you need: LLM Assisted Safe Code Translation](http://arxiv.org/abs/2503.11237v1) | Rabimba Karanjai et al. | 2025-03-14 |
@@ -801,12 +800,14 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need Is Low Fidelity: Zero-Shot Sim-to-Real of Learned Robotic Fish Control](http://arxiv.org/abs/2609.36993v1) | Liam Maloney et al. | 2026-09-29 |
 | [FP64 Is All You Want, INT8 Is All You Need, FP4/6/8 Is All You Have](http://arxiv.org/abs/2609.37693v1) | Pratyai Mazumder et al. | 2026-09-29 |
 | [Is Success All You Need? Investigating the Impact of Input Perturbations on VLA Behaviour in Tabletop Manipulation Tasks](http://arxiv.org/abs/2610.01351v1) | Sophie Higham et al. | 2026-10-01 |
+| [Conceptizer: Next-Token Prediction Is Not All You Need](http://arxiv.org/abs/2610.33027v1) | Haoran Zheng et al. | 2026-10-11 |
 | [A Smaller Subspace is All You Need: Efficient ISAC Beamforming via Dimensionality Reduction](http://arxiv.org/abs/2610.23462v1) | Ruiqi Liu et al. | 2026-10-16 |
 | [Stable Signer V3: 4D Deformable Primitive Splatting Is All You Need for Sign Language Production](http://arxiv.org/abs/2610.24926v2) | Sen Fang et al. | 2026-10-18 |
 | [A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera](http://arxiv.org/abs/2610.27622v1) | Yosub Shin et al. | 2026-10-20 |
 | [Two $\operatorname{ReLU}$ Layers is All You Need](http://arxiv.org/abs/2610.28587v1) | Florestan Brunck et al. | 2026-10-20 |
 | [A Strong MoE Is All You Need for Process Supervision](http://arxiv.org/abs/2610.29498v1) | Guanzhi Deng et al. | 2026-10-21 |
 | [Broadcasting in Centimeter-Wave Gigantic MIMO Systems: Beam Shaping is All You Need](http://arxiv.org/abs/2610.29542v1) | Boyu Ning et al. | 2026-10-21 |
+| [Wave Is All You Need: A Quantum Language Model Based on Fully Connected Quantum Boltzmann Machine](http://arxiv.org/abs/2610.34492v1) | Jun Liu | 2026-10-25 |
 
 
 ## FAQ
