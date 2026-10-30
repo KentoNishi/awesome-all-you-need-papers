@@ -742,7 +742,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1) | Nhat-Minh Nguyen | 2026-05-28 |
 | [Annotations Are Not All You Need: A Cross-modal Knowledge Transfer Network for Unsupervised Temporal Sentence Grounding](http://arxiv.org/abs/2605.30742v1) | Xiang Fang et al. | 2026-05-29 |
 | [The Right Inference Strategy Is All You Need: Nearly Training-Free Domain-Wise Inference for EgoCross Challenge](http://arxiv.org/abs/2606.00829v1) | Leyi Wu et al. | 2026-05-30 |
-| [Forget Attention: Importance-Aware Attention Is All You Need](http://arxiv.org/abs/2606.02332v2) | Suhyeong Shin et al. | 2026-06-01 |
+| [Forget Attention: Importance-Aware Attention Is All You Need](http://arxiv.org/abs/2606.02332v3) | Suhyeong Shin et al. | 2026-06-01 |
 | [One Transit Is All You Need: Detecting Exoplanets Through Learned Stellar Behaviour with EXOVEIL](http://arxiv.org/abs/2606.02778v3) | Pratik Priyanshu | 2026-06-01 |
 | [All you need to break LLMs are Black-Box, Adapting, Efficient, Transferable, Harmful, Applicable ... Attacks](http://arxiv.org/abs/2606.03647v2) | Vincent Limbach et al. | 2026-06-02 |
 | [Dual-Stream MLP is All You Need for CTR Prediction](http://arxiv.org/abs/2606.04944v1) | Kesha Ou et al. | 2026-06-03 |
