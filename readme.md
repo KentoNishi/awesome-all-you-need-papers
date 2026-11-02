@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--25-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--30-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -526,7 +526,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Privacy is All You Need: Revolutionizing Wearable Health Data with Advanced PETs](http://arxiv.org/abs/2503.03428v2) | Karthik Barma | 2025-03-05 |
 | [Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need](http://arxiv.org/abs/2503.03733v1) | Amal Shaheena et al. | 2025-03-05 |
 | [Memory Is All You Need: Testing How Model Memory Affects LLM Performance in Annotation Tasks](http://arxiv.org/abs/2503.04874v1) | Joan C. Timoneda et al. | 2025-03-06 |
-| [Slim attention: cut your context memory in half without loss -- K-cache is all you need for MHA](http://arxiv.org/abs/2503.05840v2) | Nils Graef et al. | 2025-03-07 |
+| [Slim attention: cut your context memory in half without loss -- K-cache is all you need for MHA](http://arxiv.org/abs/2503.05840v3) | Nils Graef et al. | 2025-03-07 |
 | [Global Context Is All You Need for Parallel Efficient Tractography Parcellation](http://arxiv.org/abs/2503.07104v1) | Valentin von Bornhaupt et al. | 2025-03-10 |
 | [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](http://arxiv.org/abs/2503.08741v3) | Letian Zhang et al. | 2025-03-11 |
 | [Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2) | Qiji Zhou et al. | 2025-03-12 |
@@ -674,7 +674,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Permutation Is All You Need: Fast, Deterministic Feature Importance and Model Stress-Testing](http://arxiv.org/abs/2512.13892v3) | Albert Dorador | 2025-12-15 |
 | [Keyword search is all you need: Achieving RAG-Level Performance without vector databases using agentic tool use](http://arxiv.org/abs/2602.23368v1) | Shreyas Subramanian et al. | 2025-12-19 |
 | [Increasing the Thinking Budget is Not All You Need](http://arxiv.org/abs/2512.19585v1) | Ignacio Iacobacci et al. | 2025-12-22 |
-| [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v3) | Tillmann Rheude et al. | 2025-12-28 |
+| [Fusion or Confusion? Multimodal Complexity Is Not All You Need](http://arxiv.org/abs/2512.22991v4) | Tillmann Rheude et al. | 2025-12-28 |
 | [Self-Verification is All You Need To Pass The Japanese Bar Examination](http://arxiv.org/abs/2601.03144v1) | Andrew Shin | 2026-01-06 |
 | [Attention Isn't All You Need for Emotion Recognition:Domain Features Outperform Transformers on the EAV Dataset](http://arxiv.org/abs/2601.22161v2) | Anmol Guragain | 2026-01-07 |
 | [CliffordNet: All You Need is Geometric Algebra](http://arxiv.org/abs/2601.06793v2) | Zhongping Ji | 2026-01-11 |
@@ -808,6 +808,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Strong MoE Is All You Need for Process Supervision](http://arxiv.org/abs/2610.29498v1) | Guanzhi Deng et al. | 2026-10-21 |
 | [Broadcasting in Centimeter-Wave Gigantic MIMO Systems: Beam Shaping is All You Need](http://arxiv.org/abs/2610.29542v1) | Boyu Ning et al. | 2026-10-21 |
 | [Wave Is All You Need: A Quantum Language Model Based on Fully Connected Quantum Boltzmann Machine](http://arxiv.org/abs/2610.34492v1) | Jun Liu | 2026-10-25 |
+| [BDNet: Fast-slow thinking is all you need](http://arxiv.org/abs/2610.41485v1) | Chenzhi Zheng et al. | 2026-10-30 |
 
 
 ## FAQ
