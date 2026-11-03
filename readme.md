@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--10--30-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--01-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -809,6 +809,9 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Broadcasting in Centimeter-Wave Gigantic MIMO Systems: Beam Shaping is All You Need](http://arxiv.org/abs/2610.29542v1) | Boyu Ning et al. | 2026-10-21 |
 | [Wave Is All You Need: A Quantum Language Model Based on Fully Connected Quantum Boltzmann Machine](http://arxiv.org/abs/2610.34492v1) | Jun Liu | 2026-10-25 |
 | [BDNet: Fast-slow thinking is all you need](http://arxiv.org/abs/2610.41485v1) | Chenzhi Zheng et al. | 2026-10-30 |
+| [Neurons Are All You Need](http://arxiv.org/abs/2611.00186v1) | Joseph B. Alzagatiti et al. | 2026-10-30 |
+| [TVP: TV is Almost All You Need for Speculative Decoding](http://arxiv.org/abs/2611.00588v1) | Aaryam Sharma | 2026-10-31 |
+| ["PRISM" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval](http://arxiv.org/abs/2611.01362v1) | Jingjie Ning et al. | 2026-11-01 |
 
 
 ## FAQ
