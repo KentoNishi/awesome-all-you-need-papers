@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--01-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--03-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -812,6 +812,8 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Neurons Are All You Need](http://arxiv.org/abs/2611.00186v1) | Joseph B. Alzagatiti et al. | 2026-10-30 |
 | [TVP: TV is Almost All You Need for Speculative Decoding](http://arxiv.org/abs/2611.00588v1) | Aaryam Sharma | 2026-10-31 |
 | ["PRISM" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval](http://arxiv.org/abs/2611.01362v1) | Jingjie Ning et al. | 2026-11-01 |
+| [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](http://arxiv.org/abs/2611.05041v1) | Hagay Michaeli et al. | 2026-11-03 |
+| [Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices](http://arxiv.org/abs/2611.05136v1) | Chen Qian | 2026-11-03 |
 
 
 ## FAQ
