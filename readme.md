@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--03-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--04-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -573,6 +573,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [All You Need is "Leet": Evading Hate-speech Detection AI](http://arxiv.org/abs/2505.16263v1) | Sampanna Yashwant Kahu et al. | 2025-05-22 |
 | [Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation](http://arxiv.org/abs/2505.16752v3) | Hao Guo et al. | 2025-05-22 |
 | [Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes](http://arxiv.org/abs/2505.19087v2) | Itamar Harel et al. | 2025-05-25 |
+| [Hindsight Relabeling is All You Need for Reach-Avoid Learning](http://arxiv.org/abs/2505.19337v3) | Kevin Li et al. | 2025-05-25 |
 | [Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations](http://arxiv.org/abs/2505.20201v2) | Mohit Chandra et al. | 2025-05-26 |
 | [Is Hyperbolic Space All You Need for Medical Anomaly Detection?](http://arxiv.org/abs/2505.21228v1) | Alvaro Gonzalez-Jimenez et al. | 2025-05-27 |
 | [A Descriptor Is All You Need: Accurate Machine Learning of Nonadiabatic Coupling Vectors](http://arxiv.org/abs/2505.23344v1) | Jakub Martinka et al. | 2025-05-29 |
@@ -814,6 +815,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | ["PRISM" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval](http://arxiv.org/abs/2611.01362v1) | Jingjie Ning et al. | 2026-11-01 |
 | [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](http://arxiv.org/abs/2611.05041v1) | Hagay Michaeli et al. | 2026-11-03 |
 | [Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices](http://arxiv.org/abs/2611.05136v1) | Chen Qian | 2026-11-03 |
+| [Noncrossing is All You Need: Beyond Identical Delay Functions in Online Matching with Delays on General Metrics](http://arxiv.org/abs/2611.05769v1) | Yossi Azar et al. | 2026-11-04 |
 
 
 ## FAQ
