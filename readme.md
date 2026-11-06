@@ -814,7 +814,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [TVP: TV is Almost All You Need for Speculative Decoding](http://arxiv.org/abs/2611.00588v1) | Aaryam Sharma | 2026-10-31 |
 | ["PRISM" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval](http://arxiv.org/abs/2611.01362v1) | Jingjie Ning et al. | 2026-11-01 |
 | [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](http://arxiv.org/abs/2611.05041v1) | Hagay Michaeli et al. | 2026-11-03 |
-| [Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices](http://arxiv.org/abs/2611.05136v1) | Chen Qian | 2026-11-03 |
+| [Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices](http://arxiv.org/abs/2611.05136v2) | Chen Qian | 2026-11-03 |
 | [Noncrossing is All You Need: Beyond Identical Delay Functions in Online Matching with Delays on General Metrics](http://arxiv.org/abs/2611.05769v1) | Yossi Azar et al. | 2026-11-04 |
 
 
