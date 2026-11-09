@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--04-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--05-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -816,6 +816,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Positional Encoding is All You Need for Scalable Equivariance Constraint Relaxation](http://arxiv.org/abs/2611.05041v1) | Hagay Michaeli et al. | 2026-11-03 |
 | [Information Loss Is All You Need: $TC^0$ Pseudorandomness from Worst-Case Lattices](http://arxiv.org/abs/2611.05136v2) | Chen Qian | 2026-11-03 |
 | [Noncrossing is All You Need: Beyond Identical Delay Functions in Online Matching with Delays on General Metrics](http://arxiv.org/abs/2611.05769v1) | Yossi Azar et al. | 2026-11-04 |
+| [On the Few-Shot Adaptation of Vision-Language Models: A Few Gradient Signs Are All You Need](http://arxiv.org/abs/2611.08800v1) | Nairouz Mrabah et al. | 2026-11-05 |
 
 
 ## FAQ
