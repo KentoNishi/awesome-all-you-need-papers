@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--17-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--18-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -820,6 +820,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [An LLM Is All You Need: Data-Efficient Adaptation to Full-Duplex, Word-Level Spoken Dialogue](http://arxiv.org/abs/2611.14774v1) | Tairan Chen et al. | 2026-11-10 |
 | [Memory Safety Isn't All You Need: Code Reuse Attacks in Memory Safe Languages](http://arxiv.org/abs/2611.18910v1) | Eric Cornelissen et al. | 2026-11-13 |
 | [Pixel is All You Need](http://arxiv.org/abs/2611.22820v1) | Jie Chu et al. | 2026-11-17 |
+| [Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need](http://arxiv.org/abs/2611.23676v1) | Artur Kuramshin et al. | 2026-11-18 |
 
 
 ## FAQ
