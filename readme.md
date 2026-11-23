@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--18-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--20-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -773,7 +773,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification](http://arxiv.org/abs/2607.20641v1) | Afsaneh Mahanipour et al. | 2026-07-22 |
 | [Information is all you need: Requirements Engineering Quality Reframed](http://arxiv.org/abs/2607.21319v1) | Henning Femmer et al. | 2026-07-23 |
 | [Focus Is All You Need: Adaptive Goal-aware Attention Orchestration for Multi-Agent Graph Systems](http://arxiv.org/abs/2607.23678v1) | Mingzhou Fan et al. | 2026-07-26 |
-| [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](http://arxiv.org/abs/2607.24865v1) | Baolei Li et al. | 2026-07-26 |
+| [Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](http://arxiv.org/abs/2607.24865v2) | Baolei Li et al. | 2026-07-26 |
 | [Alignment Is All You Need: Instruction-Free Training for General Audio-Language Models](http://arxiv.org/abs/2608.18132v1) | Xuanru Zhou et al. | 2026-07-28 |
 | [MeshFM: 2D Features Are All You Need for 3D Shape Understanding](http://arxiv.org/abs/2607.27592v1) | Jinfan Zhou et al. | 2026-07-30 |
 | [Freemium Is All You Need](http://arxiv.org/abs/2608.00823v2) | Maxim Bichuch et al. | 2026-08-01 |
@@ -805,7 +805,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [A Smaller Subspace is All You Need: Efficient ISAC Beamforming via Dimensionality Reduction](http://arxiv.org/abs/2610.23462v1) | Ruiqi Liu et al. | 2026-10-16 |
 | [Stable Signer V3: 4D Deformable Primitive Splatting Is All You Need for Sign Language Production](http://arxiv.org/abs/2610.24926v2) | Sen Fang et al. | 2026-10-18 |
 | [A Head Camera Is (Almost) All You Need: An Electronics-Free UMI Glove Labelled and Observed by One Moving Camera](http://arxiv.org/abs/2610.27622v1) | Yosub Shin et al. | 2026-10-20 |
-| [Two $\operatorname{ReLU}$ Layers is All You Need](http://arxiv.org/abs/2610.28587v1) | Florestan Brunck et al. | 2026-10-20 |
+| [Two $\operatorname{ReLU}$ Layers is All You Need](http://arxiv.org/abs/2610.28587v2) | Florestan Brunck et al. | 2026-10-20 |
 | [A Strong MoE Is All You Need for Process Supervision](http://arxiv.org/abs/2610.29498v1) | Guanzhi Deng et al. | 2026-10-21 |
 | [Broadcasting in Centimeter-Wave Gigantic MIMO Systems: Beam Shaping is All You Need](http://arxiv.org/abs/2610.29542v1) | Boyu Ning et al. | 2026-10-21 |
 | [Wave Is All You Need: A Quantum Language Model Based on Fully Connected Quantum Boltzmann Machine](http://arxiv.org/abs/2610.34492v1) | Jun Liu | 2026-10-25 |
@@ -821,6 +821,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Memory Safety Isn't All You Need: Code Reuse Attacks in Memory Safe Languages](http://arxiv.org/abs/2611.18910v1) | Eric Cornelissen et al. | 2026-11-13 |
 | [Pixel is All You Need](http://arxiv.org/abs/2611.22820v1) | Jie Chu et al. | 2026-11-17 |
 | [Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need](http://arxiv.org/abs/2611.23676v1) | Artur Kuramshin et al. | 2026-11-18 |
+| [Solving the pre-image problem in kernel PCA: The reproducing property is all you need](http://arxiv.org/abs/2611.27718v1) | Joel-Pascal Ntwali N'konzi et al. | 2026-11-20 |
 
 
 ## FAQ
