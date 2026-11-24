@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--20-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--23-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -652,7 +652,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need](http://arxiv.org/abs/2510.22217v1) | Yongchuan Cui et al. | 2025-10-25 |
 | [Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Self-Attention Transformers](http://arxiv.org/abs/2510.23912v7) | Marko Karbevski et al. | 2025-10-27 |
 | [All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](http://arxiv.org/abs/2510.26641v4) | Sayed Pedram Haeri Boroujeni et al. | 2025-10-30 |
-| [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v1) | Rick van der Heijden | 2025-11-04 |
+| [Attractors Is All You Need: Parity Games In Polynomial Time](http://arxiv.org/abs/2511.03752v2) | Rick van der Heijden | 2025-11-04 |
 | [Block Rotation is All You Need for MXFP4 Quantization](http://arxiv.org/abs/2511.04214v1) | Yuantian Shao et al. | 2025-11-06 |
 | [Reasoning Is All You Need for Urban Planning AI](http://arxiv.org/abs/2511.05375v1) | Sijie Yang et al. | 2025-11-07 |
 | [Probabilities Are All You Need: A Probability-Only Approach to Uncertainty Estimation in Large Language Models](http://arxiv.org/abs/2511.07694v1) | Manh Nguyen et al. | 2025-11-10 |
@@ -822,6 +822,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Pixel is All You Need](http://arxiv.org/abs/2611.22820v1) | Jie Chu et al. | 2026-11-17 |
 | [Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need](http://arxiv.org/abs/2611.23676v1) | Artur Kuramshin et al. | 2026-11-18 |
 | [Solving the pre-image problem in kernel PCA: The reproducing property is all you need](http://arxiv.org/abs/2611.27718v1) | Joel-Pascal Ntwali N'konzi et al. | 2026-11-20 |
+| [Face Is Not All You Need: MIME Benchmark for Incomplete Multimodal Emotion Recognition](http://arxiv.org/abs/2611.30288v1) | Yuxin Jia et al. | 2026-11-23 |
 
 
 ## FAQ
