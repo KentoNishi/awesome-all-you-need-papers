@@ -1,6 +1,6 @@
 # <a href="https://github.com/KentoNishi/awesome-all-you-need-papers">Awesome <u><strong><i>"all you need"</i></strong></u> papers</a>
 
-![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--23-informational)
+![Last Added](https://img.shields.io/badge/Last%20Added-2026--11--24-informational)
 [![Update Paper List](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml/badge.svg)](https://github.com/KentoNishi/awesome-all-you-need-papers/actions/workflows/update.yaml)
 
 ## About
@@ -823,6 +823,7 @@ This repository is a list of all "all you need" papers. The list is updated dail
 | [Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need](http://arxiv.org/abs/2611.23676v1) | Artur Kuramshin et al. | 2026-11-18 |
 | [Solving the pre-image problem in kernel PCA: The reproducing property is all you need](http://arxiv.org/abs/2611.27718v1) | Joel-Pascal Ntwali N'konzi et al. | 2026-11-20 |
 | [Face Is Not All You Need: MIME Benchmark for Incomplete Multimodal Emotion Recognition](http://arxiv.org/abs/2611.30288v1) | Yuxin Jia et al. | 2026-11-23 |
+| [Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents](http://arxiv.org/abs/2611.32958v1) | Jie Li et al. | 2026-11-24 |
 
 
 ## FAQ
